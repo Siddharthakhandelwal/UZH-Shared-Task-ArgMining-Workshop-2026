@@ -1,0 +1,496 @@
+[
+    {
+        "type": "paragraph",
+        "text_fr": "<!-- image -->",
+        "text_en": "<!-- image -->"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Assemblée générale",
+        "text_en": "General Assembly"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Distr. générale 5 mars 2009",
+        "text_en": "Distr.: General 5 March 2009"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Soixante-troisième session",
+        "text_en": "Sixty-third session"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Point 118 de l'ordre du jour",
+        "text_en": "Agenda item 118"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Résolution adoptée par l'Assemblée générale le 24 décembre 2008",
+        "text_en": "Resolution adopted by the General Assembly on 24 December 2008"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "[ sur la base du rapport de la Cinquième Commission (A/63/648/Add.3) ]",
+        "text_en": "[on the report of the Fifth Committee (A/63/648/Add.3) ]"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "63/262.  Technologies de l'information et des communications ; progiciel de gestion intégré ; sécurité, reprise après sinistre et continuité des opérations",
+        "text_en": "63/262. Information and communications technology; enterprise resource planning; security, disaster recovery and business continuity"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "L'Assemblée générale ,",
+        "text_en": "The General Assembly,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Rappelant ses résolutions 57/304 du 15 avril 2003 et 59/275 du 23 décembre 2004, la section II de sa résolution 60/283 du  7 juillet 2006 et sa résolution 62/250 du 20 juin 2008,",
+        "text_en": "Recalling its resolutions 57/304 of 15 April 2003 and 59/275 of 23 December 2004, section II of its resolution 60/283 of 7 July 2006 and its resolution 62/250 of 20 June 2008,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Ayant  examiné le  rapport  du  Secrétaire  général  intitulé  « Investir  dans l'informatique  et  la  télématique :  stratégie  informatique  et  télématique  du Secrétariat de l'Organisation des Nations Unies » 1 et son additif 2 , le rapport du Secrétaire général intitulé « Technologies de l'information et des communications : mise en place au Secrétariat de systèmes informatiques et télématiques intégrés à l'échelle mondiale » 3 , le rapport du Secrétaire général sur la sécurité et la continuité des opérations informatiques et télématiques et la reprise après sinistre 4 et le rapport correspondant du Comité consultatif pour les questions administratives et budgétaires 5 , le premier rapport du Secrétaire général sur l'adoption par l'Organisation des Nations Unies des Normes comptables internationales pour le secteur public 6 et le rapport correspondant du Comité consultatif pour les questions administratives et budgétaires 7 , le rapport du Secrétaire général intitulé « Investir dans l'informatique et  la  télématique :  rapport  intérimaire » 8 et  le  rapport  correspondant  du  Comité consultatif pour les questions administratives et budgétaires 9 , la note du Secrétaire général sur la sécurité et la continuité des opérations informatiques et les activités",
+        "text_en": "Having considered the report of the Secretary-General entitled \"Investing in information and communications technology: information and communications technology strategy of the United Nations Secretariat\" 1 and addendum 2 thereto, the report of the Secretary-General entitled \"Information and communications technology: global integrated information and communications technology systems in the Secretariat\" 3 , the report of the Secretary-General on information and communications technology security and business continuity and disaster recovery 4 and the related report of the Advisory Committee on Administrative and Budgetary Questions 5 , the first report of the Secretary-General on the adoption by the United Nations of the International Public Sector Accounting Standards 6 and the related report of the Advisory Committee on Administrative and Budgetary Questions 7 , the report of the Secretary-General entitled \"Investing in information and communications technology: progress report\" 8 and the related report of the Advisory Committee on Administrative and Budgetary Questions 9 , the note by the Secretary-General on security and continuity of information and communications technology operations and activities"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+        "text_en": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\__"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "2 A/62/793/Add.1.",
+            "3 A/62/510/Rev.1.",
+            "4 A/62/477.",
+            "5 A/63/487 et Corr.1 et 2.",
+            "6 A/62/806.",
+            "7 A/63/496.",
+            "8 A/62/502."
+        ],
+        "items_en": [
+            "2 A/62/793/Add.1.",
+            "3 A/62/510/Rev.1.",
+            "4 A/62/477.",
+            "5 A/63/487 and Corr.1 and 2.",
+            "6 A/62/806.",
+            "7 A/63/496.",
+            "8 A/62/502."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "<!-- image -->",
+        "text_en": "<!-- image -->"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "de reprise après sinistre 10 et le rapport correspondant du Comité consultatif pour les questions administratives et budgétaires 11 , le rapport du Secrétaire général intitulé « Investir dans l'Organisation des Nations Unies pour lui donner les moyens de sa vocation mondiale : rapport intérimaire » et sous-titré « Investir dans l'informatique et la télématique : une Organisation, une stratégie » 12 et le rapport correspondant du Comité consultatif pour les questions administratives et budgétaires 13 , la note du Secrétaire général transmettant le rapport du Corps commun d'inspection sur les politiques  des  organismes  du  système  des  Nations  Unies  pour  l'utilisation  des logiciels libres dans les secrétariats 14 et la note du Secrétaire général transmettant ses observations et celles du Conseil des chefs de secrétariat des organismes des Nations Unies pour la coordination sur ce rapport 15 , la note du Secrétaire général transmettant le rapport du Corps commun d'inspection sur la gestion des savoirs et connaissances dans le système des Nations Unies 16 et la note du Secrétaire général transmettant ses observations et celles du Conseil des chefs de secrétariat sur ce rapport 17 ,  et  le  rapport  du  Secrétaire  général  sur  la  possibilité  d'appliquer  les principes de la comptabilité analytique au Secrétariat de l'Organisation des Nations Unies 18 et  le  rapport  correspondant  du  Comité  consultatif  pour  les  questions administratives et budgétaires 19 ,",
+        "text_en": "and the related report of the Advisory Committee on Administrative and Budgetary Questions, 11 the report of the Secretary-General entitled \"Investing in the United Nations for a stronger Organization worldwide: progress report\" and entitled \"Investing in information and communications technology: an Organization, a strategy\" 12 and the related report of the Advisory Committee on Administrative and Budgetary Questions, 13 the note by the Secretary-General transmitting the report of the Joint Inspection Unit on the policies of the organizations of the United Nations system for the use of open source software in the secretariats 14 and the note by the Secretary-General transmitting his comments and those of the United Nations System Chief Executives Board for Coordination thereon, 15 the note by the Secretary-General transmitting the report of the Joint Inspection Unit on knowledge and knowledge management in the United Nations system and the note by the Secretary-General transmitting his comments and those of the Chief Executives Board on that report, 17 and the report of the Secretary-General on the feasibility of applying the principles of analytical accounting in the United Nations Secretariat 18 and the related report of the Advisory Committee on Administrative and Budgetary Questions, 19"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Soulignant l'importance  qu'ont  les  technologies  de  l'information  et  des communications pour la satisfaction des besoins croissants d'une Organisation de plus en plus tributaire de son infostructure,",
+        "text_en": "Underlining the importance of information and communications technology in meeting the growing needs of an Organization increasingly dependent on its information and communications technology infrastructure,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Soulignant également l'importance de ces technologies pour le renforcement du contrôle et du respect du principe de responsabilité et pour l'accroissement du volume d'informations exactes disponibles en temps utile pour la prise de décisions,",
+        "text_en": "Stressing also the importance of such technologies for strengthening oversight and accountability and for increasing the availability of accurate and timely information for decision-making,"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Réaffirme que  la  Cinquième  Commission  est  celle  de  ses  grandes commissions qui est chargée des questions administratives et budgétaires ;",
+            "2. Rappelle le rôle  qui  revient  au  Secrétaire  général,  le  plus  haut fonctionnaire de l'Organisation, selon l'Article 97 de la Charte des Nations Unies ;",
+            "3. Est  consciente qu'il  faut  une  autorité  centrale  pour  fixer  des  normes communes, donner une perspective globale à l'échelle de l'Organisation, optimiser l'utilisation des ressources et améliorer les services informatiques et télématiques ;",
+            "4. Est  consciente  également de  la  nécessité  de  disposer  d'un  système informatique  mondial  intégré  qui  permette  de  gérer  efficacement  les  ressources humaines, financières et matérielles, reposant sur des modalités de fonctionnement rationalisées et sur les meilleures pratiques ;",
+            "5. Est  consciente  en  outre de  la  nécessité  de  disposer  d'un  schéma opérationnel mondial qui permette à l'Organisation de faire face avec efficacité à"
+        ],
+        "items_en": [
+            "1. Reaffirms that the Fifth Committee is the appropriate Main Committee of the General Assembly entrusted with responsibilities for administrative and budgetary matters;",
+            "2. Recalls the role of the Secretary-General, the chief administrative officer of the Organization, in accordance with Article 97 of the Charter of the United Nations;",
+            "3. Recognizes the need for a central authority to establish common standards, provide a comprehensive Organization-wide perspective, optimize the use of resources and improve information and communications technology services;",
+            "4. Also recognizes the need for an integrated global information technology system for the effective management of human, financial and material resources, based on streamlined business processes and best practices;",
+            "5. Further recognizes the need for a global operational framework to enable the Organization to respond effectively to the challenges posed by the"
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+        "text_en": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\__"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "16 A/63/140."
+        ],
+        "items_en": [
+            "16 A/63/140."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "des  situations  d'urgence  qui  risquent  d'entraver  le  fonctionnement  d'éléments essentiels de son infostructure ;",
+        "text_en": "emergency situations which may impede the functioning of essential elements of its infostructure;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "6. Fait siennes les conclusions et recommandations que le Comité consultatif pour les questions administratives et budgétaires a formulées dans ses rapports 5,9 , sous réserve des dispositions de la présente résolution ;"
+        ],
+        "items_en": [
+            "6. Endorses the conclusions and recommendations contained in the reports of the Advisory Committee on Administrative and Budgetary Questions,5.9 subject to the provisions of the present resolution;"
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "I",
+        "text_en": "I"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Stratégie et gouvernance dans le domaine de l'informatique et de la télématique",
+        "text_en": "Information and communication technology strategy and governance"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Sachant l'importance  des  propositions  du  Secrétaire  général  relatives  à  la gestion des connaissances, qui permettraient notamment de mieux fonder la prise de décisions et d'accroître l'efficacité de l'Organisation,",
+        "text_en": "Recognizing the importance of the Secretary-General's proposals on knowledge management, which would, inter alia, provide a better basis for decision-making and enhance the effectiveness of the Organization,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Soulignant qu'il importe de disposer d'une direction centrale forte aux fins de l'élaboration et de la mise en œuvre, dans l'ensemble de l'Organisation, de normes et activités informatiques et télématiques de nature à garantir la bonne utilisation des ressources, la modernisation des systèmes informatiques et l'amélioration des services informatiques et télématiques offerts à l'Organisation,",
+        "text_en": "Emphasizing the importance of strong central leadership in the development and implementation of information and communications technology standards and activities throughout the Organization to ensure the effective use of resources, the modernization of information and communications technology systems and the improvement of information and communications technology services for the Organization,"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Considère qu'une  bonne  intégration  des  fonctions  informatiques  et télématiques  centrales  dans  l'ensemble  du  Secrétariat  est  indispensable  à  la cohérence et à la coordination des travaux de l'Organisation et de ceux menés par le Secrétariat avec les fonds, programmes et institutions spécialisées ;",
+            "2. Note que  le  Secrétaire  général  a  l'intention  de  créer  le  Bureau  des technologies de l'information et des communications sans que cela ait d'incidence sur le budget ou les effectifs ;",
+            "3. Souligne le besoin d'une structure de gouvernance simple, efficace sur le plan  opérationnel  et  dont  les  chaînes  hiérarchiques  et  de  responsabilité  soient claires ;",
+            "4. Décide de  créer  le  Bureau  des  technologies  de  l'information  et  des communications, qui constituera une unité indépendante, fera l'objet d'un chapitre distinct  dans  le  budget  et  sera  placé  sous  la  direction  du  Directeur  général  de l'informatique, lequel a rang de sous-secrétaire général ;",
+            "5. Souligne qu'il n'y a pas de modèle unique de gouvernance informatique et télématique dont on puisse considérer qu'il est le seul à correspondre aux besoins de l'Organisation ;",
+            "6. Prend note des compétences considérables réunies au Centre international de calcul, et prie le Secrétaire général de continuer à recourir aux services du Centre à l'appui des activités informatiques et télématiques de l'Organisation ;",
+            "7. Prie le  Secrétaire  général  de  veiller  à  ce  que  la  centralisation  et l'intégration des fonctions informatiques et télématiques résultant de la création du Bureau des technologies de l'information et des communications ne compromettent pas l'appui aux opérations sur le terrain de par le monde ;",
+            "8. Incite le Secrétaire général, agissant en sa qualité de Président du Conseil des chefs de secrétariat des organismes des Nations Unies pour la coordination, à susciter  une  intensification  de  la  coordination  et  de  la  collaboration  entre  les organismes des Nations Unies sur toutes les questions relatives à l'informatique et à la télématique ;",
+            "9. Prie le Secrétaire général de soumettre au Comité du programme et de la coordination, à sa quarante-neuvième session, conformément à sa résolution 58/269 du 23 décembre 2003, un cadre stratégique révisé, à la lumière des changements qui découlent, sur le plan des programmes, de la création du Bureau des technologies de l'information et des communications ;",
+            "10. Prie également le Secrétaire général de lui soumettre, au cours de la partie  principale  de  sa  soixante-cinquième  session,  un  rapport  sur  sa  stratégie informatique et télématique dans lequel il présentera :",
+            "a ) Les  modifications  qui  s'imposent  pour  simplifier  la  structure  de gouvernance et en faire un instrument d'orientation des politiques et de gestion efficace sur le plan opérationnel ;",
+            "b ) Les faits nouveaux concernant les mécanismes de gestion et la structure hiérarchique ;",
+            "c ) Une  évaluation  approfondie  de  la  structure  organisationnelle,  portant notamment sur la possibilité de changer la place du Bureau dans l'organigramme de l'Organisation ;",
+            "d ) Un inventaire complet des capacités informatiques et télématiques de tout le Secrétariat, dont le personnel employé aussi bien à plein temps qu'à temps partiel à des tâches informatiques et télématiques ;",
+            "e ) Un  recensement  plus  précis  et  chiffré  des  gains  d'efficacité  ou  des avantages attendus de la mise en œuvre de la stratégie ;",
+            "f ) La méthode et les points de référence utilisés pour recenser et mesurer ces avantages ;",
+            "g ) Le  rôle  et  les  responsabilités  du  Bureau  du  Directeur  général  de l'informatique et du Département de l'appui aux missions du Secrétariat dans les activités informatiques et télématiques, notamment les chaînes hiérarchiques et de responsabilité et la répartition des tâches définies dans la nouvelle structure ;"
+        ],
+        "items_en": [
+            "1. Recognizes that the effective integration of central information and communications technology functions throughout the Secretariat is essential for the coherence and coordination of the work of the Organization and the work of the Secretariat with the funds, programmes and specialized agencies;",
+            "2. Notes the intention of the Secretary-General to establish the Office of Information and Communications Technology without any budgetary or staffing implications;",
+            "3. Stresses the need for a simple, operationally effective governance structure with clear lines of accountability and accountability;",
+            "4. Decides to establish the Office of Information and Communications Technology, as an independent unit, under a separate budget section and under the direction of the Chief Information Technology Officer, at the Assistant Secretary-General level;",
+            "5. Stresses that there is no single model of ICT governance that can be considered the only model to meet the needs of the Organization;",
+            "6. Takes note of the considerable expertise of the International Computing Centre, and requests the Secretary-General to continue to utilize the services of the Centre in support of the information and communications technology activities of the Organization;",
+            "7. Requests the Secretary-General to ensure that the centralization and integration of information and communications technology functions resulting from the establishment of the Office of Information and Communications Technology does not undermine support for field operations around the world;",
+            "8. Encourages the Secretary-General, in his capacity as Chairman of the United Nations System Chief Executives Board for Coordination, to enhance coordination and collaboration among the organizations of the United Nations system on all issues relating to information and communications technology;",
+            "9. Requests the Secretary-General to submit to the Committee for Programme and Coordination at its forty-ninth session, in accordance with General Assembly resolution 58/269 of 23 December 2003, a revised strategic framework, in the light of the programmatic changes resulting from the establishment of the Office of Information and Communications Technology;",
+            "10. Also requests the Secretary-General to submit to the General Assembly at the main part of its sixty-fifth session a report on his information and communications technology strategy, in which he will submit:",
+            "( a ) The necessary changes to simplify the governance structure and make it an operationally effective policy and management tool ;",
+            "( b ) Developments in management mechanisms and reporting structure ;",
+            "( c ) An in-depth evaluation of the organizational structure, including the possibility of changing the position of the Office in the organizational structure of the Organization;",
+            "( d ) A comprehensive inventory of information and communications technology capabilities throughout the Secretariat, including full-time and part-time staff engaged in information and communications technology tasks;",
+            "( e ) A more accurate and quantified identification of efficiency gains or expected benefits from the implementation of the strategy ;",
+            "( f ) The method and reference points used to identify and measure these benefits ;",
+            "( g ) The role and responsibilities of the Office of the Director-General of Information and Communications Technology and the Department of Field Support of the Secretariat in information and communications technology activities, including lines of authority and responsibility and the division of tasks defined in the new structure;"
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "II",
+        "text_en": "II"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Progiciel de gestion intégré",
+        "text_en": "Enterprise resource planning"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Rappelle le paragraphe 4 de la section II de sa résolution 60/283 dans lequel elle a décidé de remplacer le Système intégré de gestion par un progiciel de gestion intégré de la prochaine génération ou un autre système comparable ;",
+            "2. Souligne que l'adoption du progiciel de gestion intégré a pour objet de permettre  de  gérer  toutes  les  ressources  financières,  humaines  et  matérielles  au moyen d'un système intégré commun à toute l'Organisation, y compris les missions de maintien de la paix et autres missions ;",
+            "3. Est consciente des risques opérationnels et financiers considérables que comporte la mise en place du progiciel de gestion intégré, et souligne qu'il faut que le Secrétaire général veille à ce que le principe de responsabilité soit strictement appliqué et les chaînes hiérarchiques clairement définies dans le cadre du projet ;",
+            "4. Note que le Secrétaire général entend mettre en œuvre les fonctionnalités du progiciel de gestion intégré de l'Organisation de façon à réduire les risques sur les plans des opérations et de la gestion ;",
+            "5. Souligne la nécessité de mettre en service les divers modules du progiciel de gestion intégré dans l'ensemble des bureaux des Nations Unies étape par étape et",
+            "de  façon  bien  programmée,  pour  que  les  préparatifs  et  la  formation  soient correctement effectués partout et que le changement pèse le moins possible sur l'Organisation et ses ressources, de sorte que les risques sur les plans des opérations et de la gestion soient encore réduits ;",
+            "6. Note que  le  progiciel  de  gestion  intégré  est  un  ensemble  intégré d'applications  informatiques,  comme  l'a  indiqué  le  Secrétaire  général  au  paragraphe 20 de son rapport 3 , et prie le Secrétaire général de lui faire rapport sur ces applications à sa soixante-quatrième session ;",
+            "7. Approuve le  dispositif  de  gouvernance  proposé  pour  le  progiciel  de gestion intégré ;",
+            "8. Note que le dispositif de gouvernance proposé par le Secrétaire général pour le progiciel de gestion intégré et la structure de gouvernance informatique et télématique sont deux choses différentes ;",
+            "9. Sait que le succès du projet consacré au progiciel de gestion intégré exige l'appui et l'engagement pleins et entiers de la direction et une coopération étroite et continue avec les principales parties prenantes ;",
+            "10. Souligne que le projet consacré au progiciel de gestion intégré doit être vu principalement comme une entreprise qui concerne l'ensemble de l'Organisation et obéit aux exigences du fonctionnement de celle-ci, et que sa mise en œuvre repose  sur  des  systèmes  informatiques  et  télématiques  complexes  exigeant  des compétences techniques de haut niveau ;",
+            "11. Rappelle que  le  progiciel  de  gestion  intégré  doit  servir  à  améliorer l'efficacité et la transparence de l'utilisation des ressources de l'Organisation et, à cet  égard,  souligne  que  les  gains  d'efficacité  et  de  productivité  tangibles  et mesurables résultant du projet devront être recensés ;",
+            "12. Prie le Secrétaire général de limiter, dans la mesure du possible, les adaptations du progiciel de gestion intégré, afin de garantir le rapport coût-efficacité du projet et de conserver la souplesse voulue pour les futures mises à jour du progiciel,  et  de  lui  signaler  les  adaptations  qui  seraient  indispensables  en  en justifiant pleinement le bien-fondé et les coûts ;",
+            "13. Prie également le Secrétaire général d'envisager, dans les cas où il serait indispensable d'adapter telle ou telle fonction, d'améliorer les systèmes existants ou de recourir à des logiciels spécialisés pouvant se greffer sur le progiciel de gestion intégré si ces options devaient être plus rentables à long terme ;",
+            "14. Souligne que  dans  tous  les  cas,  il  faudra  envisager  de  modifier  les méthodes  de  travail  et  les  processus-métier  du  Secrétariat  avant  d'adapter  le progiciel ;",
+            "15. Se déclare prête à examiner toute proposition dûment justifiée visant à réduire l'ampleur des adaptations et souligne que toute modification des règlements de l'Organisation doit remporter son approbation préalable ;",
+            "16. Souligne que, d'autres organismes des Nations Unies s'étant dotés avant elle de progiciels de gestion intégré, l'Organisation peut s'inspirer des enseignements qu'ils ont tirés de l'expérience ;",
+            "17. Prend acte du montant total des ressources que le Secrétaire général a demandées dans son rapport 3 pour la mise en place du progiciel de gestion intégré de l'Organisation ;",
+            "18. Approuve pour  la  mise  en  place  du  progiciel  de  gestion  intégré  un montant de 20 millions de dollars des États-Unis, dont 5 110 000 dollars seront imputés sur le budget ordinaire de l'exercice biennal 2008-2009, 7 050 000 dollars seront imputés sur le budget du compte d'appui aux opérations de maintien de la paix pour l'exercice allant du 1 er juillet 2008 au 30 juin 2009 et 7 840 000 dollars seront  financés  au  moyen  des  ressources  extrabudgétaires  de  l'exercice  biennal 2008-2009 ;",
+            "19. Décide que le montant de 2 346 000 dollars correspondant aux intérêts créditeurs disponibles au 31 décembre 2007 dans le Fonds du Système intégré de gestion sera déduit du montant des crédits à prévoir au budget ordinaire pour le financement des dépenses approuvées pour le projet au paragraphe 18 de la présente section ;",
+            "20. Prie le Secrétaire général de financer le montant de 2 764 000 dollars représentant la part des dépenses relatives au progiciel de gestion intégré à imputer au  budget  ordinaire  au  moyen  des  crédits  ouverts  au  budget  ordinaire  pour l'exercice biennal 2008-2009 et de lui rendre compte des dépenses correspondantes, selon qu'il conviendra, dans le deuxième rapport sur l'exécution du budget de cet exercice ;",
+            "21. Autorise le  Secrétaire  général  à  engager  des  dépenses  d'un  montant maximal  de  7 050 000  dollars,  au  titre  du  compte  d'appui  aux  opérations  de maintien de la paix pour l'exercice allant du 1 er juillet 2008 au 30 juin 2009, pour le financement  de  la  part  des  dépenses  relatives  au  progiciel  de  gestion  intégré imputable à ce compte ;",
+            "22. Note qu'un montant estimatif de 7 840 000 dollars sera financé au moyen des ressources extrabudgétaires de l'exercice biennal 2008-2009 ;",
+            "23. Approuve la formule de partage des coûts que le Secrétaire général a proposée au paragraphe 79 de son rapport 3 pour le financement du progiciel de gestion intégré ;",
+            "24. Décide de ne pas suspendre l'application des dispositions de l'alinéa d de l'article 3.2 et des articles 5.3 et 5.4 du Règlement financier et des règles de gestion financière de l'Organisation 20 , qui régissent l'utilisation de l'excédent du compte du Fonds général de l'Organisation et du solde inutilisé des opérations de maintien de la paix en cours ;",
+            "25. Autorise le Secrétaire général à instituer un compte spécial pluriannuel pour la comptabilisation des recettes et des dépenses afférentes au projet ;",
+            "26. Prie le  Secrétaire  général  de  garder  le  dispositif  de  gouvernance  du progiciel de gestion intégré à l'étude et de lui soumettre à la partie principale de sa soixante-quatrième session un rapport sur le projet dans lequel il présentera :",
+            "a ) Une évaluation des modalités d'organisation ;",
+            "b ) Un  plan  révisé  de  mise  en  place  du  progiciel  et  un  budget  révisé, accompagnés d'un bilan de la phase de conception et d'une justification complète et détaillée des ressources demandées ;",
+            "c ) Une analyse de rentabilité mise à jour donnant des précisions sur les gains d'efficacité et de productivité tangibles et mesurables que la mise en place du"
+        ],
+        "items_en": [
+            "1. Recalls section II, paragraph 4, of its resolution 60/283, in which it decided to replace the Integrated Management Information System with a next-generation enterprise resource planning system or similar system;",
+            "2. Emphasizes that the purpose of the enterprise resource planning system is to manage all financial, human and material resources through a common enterprise resource planning system across the Organization, including peacekeeping and other missions;",
+            "3. Recognizes the significant operational and financial risks involved in the implementation of the enterprise resource planning system, and stresses the need for the Secretary-General to ensure strict accountability and clear lines of accountability within the project;",
+            "4. Notes the intention of the Secretary-General to implement the functionality of the enterprise resource planning system in order to reduce operational and management risks;",
+            "5. Stresses the need for the implementation of the various enterprise resource planning modules across the United Nations offices on a step-by-step basis and",
+            "in a well-programmed manner, to ensure that preparations and training are carried out properly everywhere and that changes are made to the Organization and its resources as little as possible, so that operational and management risks are further reduced;",
+            "6. Notes that the enterprise resource planning system is an integrated set of information technology applications, as indicated in paragraph 20 of the report of the Secretary-General, and requests the Secretary-General to report on these applications to the General Assembly at its sixty-fourth session;",
+            "7. Approves the proposed governance framework for the enterprise resource planning system;",
+            "8. Notes that the governance framework proposed by the Secretary-General for the enterprise resource planning system and the ICT governance structure are two different things;",
+            "9. Recognizes that the success of the enterprise resource planning project requires the full support and commitment of management and close and continuous cooperation with key stakeholders;",
+            "10. Stresses that the enterprise resource planning project should be viewed primarily as an enterprise enterprise that is relevant to the United Nations and that the implementation of the enterprise resource planning project is based on complex information and communications technology systems that require high-level technical expertise;",
+            "11. Recalls that the enterprise resource planning system should be used to improve the efficiency and transparency of the use of the resources of the Organization, and in this regard stresses that tangible and measurable efficiency and productivity gains resulting from the project should be identified;",
+            "12. Requests the Secretary-General to limit, to the extent possible, the adaptations of the enterprise resource planning system, in order to ensure the cost-effectiveness of the project and to maintain the flexibility required for future updates of the enterprise resource planning system, and to report to the General Assembly on the adjustments that would be necessary, fully justifying the merits and costs of the project;",
+            "13. Also requests the Secretary-General to consider, in cases where it would be necessary to adapt a particular function, improving existing systems or using specialized software that could be incorporated into the enterprise resource planning system if such options were to be more cost-effective in the long term;",
+            "14. Stresses that, in all cases, changes in the working methods and business processes of the Secretariat will need to be considered before the software package is adapted;",
+            "15. Expresses its readiness to consider any duly justified proposal to reduce the scale of the adjustments, and stresses that any amendment to the regulations of the Organization must obtain its prior approval;",
+            "16. Stresses that, since other organizations of the United Nations system have introduced enterprise resource planning systems in advance of the General Assembly, the Organization can draw on lessons learned;",
+            "17. Takes note of the total resources requested by the Secretary-General in his report 3 for the implementation of the enterprise resource planning system;",
+            "18. Approves an amount of 20 million United States dollars for the implementation of the enterprise resource planning system, of which 5,110,000 dollars will be charged to the regular budget for the biennium 2008-2009, 7,050,000 dollars to be charged to the support account for peacekeeping operations for the period from 1 July 2008 to 30 June 2009 and 7,840,000 dollars to be financed from extrabudgetary resources for the biennium 2008-2009;",
+            "19. Decides that the amount of 2,346,000 dollars in respect of interest income available as at 31 December 2007 in the Fund of the Integrated Management Information System shall be set off against the regular budget appropriations for the expenditures approved for the project in paragraph 18 of the present section;",
+            "20. Requests the Secretary-General to fund the share of 2,764,000 dollars in the regular budget for the enterprise resource planning system from the regular budget for the biennium 2008-2009 and to report thereon to the General Assembly, as appropriate, in the context of the second performance report for the biennium 2008-2009;",
+            "21. Authorizes the Secretary-General to enter into commitments of up to 7,050,000 dollars for the support account for peacekeeping operations for the period from 1 July 2008 to 30 June 2009 for the financing of the enterprise resource planning component of the account;",
+            "22. Notes that an estimated amount of 7,840,000 dollars will be funded from extrabudgetary resources for the biennium 2008-2009;",
+            "23. Endorses the cost-sharing formula proposed by the Secretary-General in paragraph 79 of his report 3 for the financing of the enterprise resource planning system;",
+            "24. Decides not to suspend the application of the provisions of regulation 3.2 (d) and regulations 5.3 and 5.4 of the Financial Regulations and Rules of the United Nations 20 , which govern the use of the surplus of the account of the General Fund of the United Nations and the unencumbered balance of active peacekeeping operations;",
+            "25. Authorizes the Secretary-General to establish a multi-year special account for income and expenditure relating to the project;",
+            "26. Requests the Secretary-General to keep the enterprise resource planning governance framework under review and to submit to the General Assembly at the main part of its sixty-fourth session a report on the project in which he will submit:",
+            "( a ) An evaluation of the organisational arrangements ;",
+            "( b ) A revised software implementation plan and a revised budget, accompanied by a review of the design phase and a full and detailed justification of the resources requested;",
+            "( c ) An updated cost-effectiveness analysis giving details of tangible and measurable efficiency and productivity gains as a result of the implementation of the"
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+        "text_en": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\__"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "progiciel devrait permettre de réaliser sur les plans opérationnel et administratif et indiquant les points de référence qui serviront à mesurer les progrès accomplis, ainsi que le rendement escompté des capitaux investis ;",
+        "text_en": "It is expected that the system will enable operational and administrative implementation, including benchmarks for measuring progress, as well as the expected return on capital invested;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "d ) La liste des modules indispensables à la mise en application des Normes comptables internationales pour le secteur public ;",
+            "e ) Les progrès accomplis dans la mise en place des progiciels de gestion de la relation client et de gestion des contenus, les nouvelles ressources demandées à cet effet et la formule de partage des coûts pour la poursuite de la mise en œuvre ;",
+            "f ) Des  renseignements  indiquant  en  quoi  la  création  d'une  réserve  pour imprévus se justifie et les différentes possibilités envisageables, y compris une autre solution budgétaire ;",
+            "g ) Des moyens de réduire l'ampleur du projet relatif au progiciel de gestion intégré afin d'en faire baisser le coût ;"
+        ],
+        "items_en": [
+            "( d ) The list of modules essential for the implementation of the International Public Sector Accounting Standards;",
+            "( e ) The progress made in the implementation of customer relationship management and content management systems, the new resources requested for this purpose and the cost-sharing formula for further implementation ;",
+            "( f ) Information on the justification for the creation of a contingency reserve and possible options, including an alternative budgetary solution ;",
+            "( g ) Ways to reduce the scale of the enterprise resource planning project in order to reduce its cost;"
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "III",
+        "text_en": "III"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Progiciels de gestion de la relation client et de gestion des contenus",
+        "text_en": "Customer relationship management and content management software"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Est consciente de l'intérêt que présente la mise en place de progiciels de gestion de la relation client et de gestion des contenus, et prie le Secrétaire général de la poursuivre dans l'ensemble de l'Organisation, selon qu'il conviendra ;",
+            "2. Souligne que les progiciels de gestion de la relation client et de gestion des contenus doivent être développés et mis en service sous l'autorité du Directeur général de l'informatique pour que tous les systèmes de gestion de l'Organisation soient développés de manière coordonnée ;",
+            "3. Insiste sur la nécessité de veiller à la complémentarité des progiciels de gestion de la relation client et de gestion des contenus et du futur progiciel de gestion intégré ;",
+            "4. Décide d'approuver l'affectation au projet de gestion des contenus d'un montant additionnel de 2 millions de dollars, et prie le Secrétaire général de prélever ce montant sur les crédits ouverts dans le budget-programme de l'exercice biennal 2008-2009 et de lui rendre compte des dépenses qui auront été engagées, selon qu'il conviendra, dans le deuxième rapport sur l'exécution du budget-programme dudit exercice ;",
+            "5. Note que la mise en place des progiciels de gestion de la relation client et de gestion des contenus est déjà commencée et qu'au moment où ces projets ont démarré,  elle  n'avait  pas  été  saisie  par  le  Secrétaire  général  d'une  proposition complète les concernant ;"
+        ],
+        "items_en": [
+            "1. Recognizes the value of the implementation of client relationship management and content management systems, and requests the Secretary-General to continue the implementation throughout the Organization, as appropriate;",
+            "2. Stresses the need for the development and implementation of client relationship management and content management systems under the authority of the Chief Information Technology Officer to ensure that all management systems of the Organization are developed in a coordinated manner;",
+            "3. Stresses the need to ensure the complementarity of client relationship management and content management systems and the future enterprise resource planning system;",
+            "4. Decides to approve the allocation of an additional $2 million to the content management project, and requests the Secretary-General to appropriate this amount from the appropriations approved in the programme budget for the biennium 2008-2009 and to report to the General Assembly, as appropriate, on expenditures incurred in the context of the second performance report on the programme budget for the biennium 2008-2009;",
+            "5. Notes that the implementation of the client relationship management and content management software packages has already begun and that, at the time of the start of the projects, a full proposal for them had not been submitted by the Secretary-General;"
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "IV",
+        "text_en": "IV"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Sécurité, continuité des opérations et reprise après sinistre",
+        "text_en": "Security, business continuity and disaster recovery"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Insiste sur  la  nécessité  d'avoir  les  dispositifs  voulus  pour  assurer  la sécurité et la continuité des opérations informatiques et télématiques, ainsi que leur reprise après sinistre ;",
+            "2. Prie le  Secrétaire  général  de  regrouper  les  systèmes  dans  des  pôles informatiques  afin  de  renforcer  le  dispositif  de  continuité  des  opérations  et  de reprise  après  sinistre  tout  en  réduisant  au  minimum  la  taille  des  centres informatiques locaux, tant principaux que secondaires ;",
+            "3. Prie également le Secrétaire général de définir l'ordre de priorité des systèmes, afin de réduire le plus possible le coût du dispositif de continuité des opérations et de reprise après sinistre ;",
+            "4. Rappelle la section XV de sa résolution 60/266 du 30 juin 2006, et insiste sur  la  nécessité  de  mettre  en  place  des  moyens  de  transmission  sécurisés  qui permettent l'échange rapide de données dans un même lieu d'affectation et entre différents lieux, ainsi qu'une infrastructure solide à tolérance de pannes qui assure la poursuite ou la reprise des opérations en cas de catastrophe naturelle ou autre ou de problème technique ;",
+            "5. Note que  le  Secrétariat  n'a  pas  de  politique  cohérente  à  l'échelle  de l'Organisation concernant la continuité des opérations et la reprise après sinistre, ce qui expose l'Organisation à des risques considérables et, à ce propos, se félicite de l'élaboration d'une démarche unifiée applicable dans ce domaine à l'ensemble du Secrétariat ;",
+            "6. Engage le Secrétaire général à adopter une démarche unifiée en matière de continuité des opérations et de reprise après sinistre, en tirant parti de toutes les infrastructures  existantes,  afin  de  réaliser  des  économies  d'échelle  et  des  gains d'efficacité ;",
+            "7. Déplore vivement que le Secrétaire général ait signé un bail à long terme en prévision de l'installation à Long Island City (New York) d'un centre informatique secondaire pour le Siège de l'Organisation avant d'avoir déterminé avec certitude  si  le  projet  était  viable,  et  demande  instamment  au  Secrétaire  général d'étudier  d'urgence  à  quel  autre  usage  les  locaux  en  question  pourraient  être affectés ;",
+            "8. Note  avec  préoccupation que  les  retards  ainsi  occasionnés  pourraient entraîner  une  nouvelle  augmentation  des  coûts,  y  compris  ceux  du  Plan-cadre d'équipement, et compromettre la sécurité des données ;",
+            "9. Note qu'il est particulièrement difficile de mettre en place un dispositif de  continuité  des  opérations  et  de  reprise  après  sinistre  pour  les  systèmes informatiques différenciés des divers départements, et invite le Secrétaire général à adopter chaque fois que possible une démarche informatique intégrée ;",
+            "10. Prie le Secrétaire général de veiller à ce que l'Organisation privilégie dans la mesure du possible les solutions informatiques centralisées plutôt que les solutions locales ;",
+            "11. Décide de  ne  pas  approuver  à  ce  stade  la  proposition  du  Secrétaire général concernant la création d'un nouveau centre informatique secondaire, et prie le Secrétaire général de lui indiquer durant la première partie de la reprise de sa soixante-troisième session les mesures à prendre pour limiter les risques lors du transfert du centre principal dans le bâtiment de la pelouse Nord ;",
+            "12. Prie le  Secrétaire  général  de  lui  présenter  un  dispositif  unifié  de continuité  des  opérations  et  de  reprise  après  sinistre,  y  compris  une  solution permanente pour le Siège ;",
+            "13. Prie également le Secrétaire général d'effectuer une étude approfondie des moyens les plus fiables et les plus économiques d'assurer de manière centralisée le stockage des données, la continuité des opérations et l'hébergement des progiciels de  l'Organisation,  en  tenant  compte  de  l'expérience  des  autres  organismes  des Nations unies et de l'évolution générale des technologies de l'information et des"
+        ],
+        "items_en": [
+            "1. Stresses the need for adequate arrangements to ensure the security, continuity and disaster recovery of information and communications technology operations;",
+            "2. Requests the Secretary-General to consolidate the systems into information technology hubs in order to strengthen the disaster recovery and business continuity framework while minimizing the size of local information technology centres, both primary and secondary;",
+            "3. Also requests the Secretary-General to prioritize systems in order to minimize the cost of disaster recovery and business continuity;",
+            "4. Recalls section XV of its resolution 60/266 of 30 June 2006, and stresses the need for secure means of transmission that allow for the rapid exchange of data at the same duty station and between different duty stations, as well as a robust fault-tolerant infrastructure that ensures the continuation or resumption of operations in the event of natural or other disasters or technical problems;",
+            "5. Notes that the Secretariat does not have a coherent Organization-wide policy on business continuity and disaster recovery, which exposes the Organization to significant risks, and in this regard welcomes the development of a unified approach to disaster recovery across the Secretariat;",
+            "6. Encourages the Secretary-General to adopt a unified approach to business continuity and disaster recovery, building on all existing infrastructure, in order to achieve economies of scale and efficiency gains;",
+            "7. Strongly regrets that the Secretary-General has signed a long-term lease in preparation for the installation in Long Island City, New York, of a secondary data centre at United Nations Headquarters before determining with certainty whether the project was viable, and urges the Secretary-General to consider urgently what other use of the premises could be affected;",
+            "8. Notes with concern that delays resulting from such delays could lead to further increases in costs, including those of the capital master plan, and could jeopardize data security;",
+            "9. Notes the particular challenge of establishing a disaster recovery and business continuity framework for the differentiated information technology systems of various departments, and invites the Secretary-General to adopt an integrated information technology approach wherever possible;",
+            "10. Requests the Secretary-General to ensure that the Organization gives priority to centralized information technology solutions, as far as possible, rather than to local solutions;",
+            "11. Decides not to approve at this stage the proposal of the Secretary-General for the establishment of a new secondary data centre, and requests the Secretary-General to inform the General Assembly during the first part of its resumed sixty-third session of the measures to be taken to mitigate the risks involved in the transfer of the main data centre to the North Lawn Building;",
+            "12. Requests the Secretary-General to submit a unified disaster recovery and business continuity framework to the General Assembly, including a permanent solution for Headquarters;",
+            "13. Also requests the Secretary-General to conduct an in-depth study of the most reliable and cost-effective means of centralized data storage, business continuity and hosting of United Nations software packages, taking into account the experience of other United Nations agencies and the general developments in information and communications technology"
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "communications, et de lui faire rapport à ce sujet durant la partie principale de sa soixante-quatrième session ;",
+        "text_en": "and to report thereon to the General Assembly at the main part of its sixty-fourth session;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "14. Est favorable à la réorganisation des applications et des données si, à terme, elle doit permettre d'assurer la continuité des opérations et la reprise après sinistre à partir de pôles informatiques et si, à terme également, cette solution est plus économique que leur hébergement dans des centres informatiques locaux ;",
+            "15. Prend acte avec gratitude de l'engagement pris par le Gouvernement espagnol, et approuve sa proposition d'installer à Valence (Espagne) un centre de communications secondaire actif pour l'appui aux activités de maintien de la paix ;",
+            "16. Décide de ne pas donner suite à ce stade au projet consistant à installer au centre de communications secondaire actif de Valence du matériel de traitement et de stockage des données faisant partie du dispositif de continuité des opérations et de reprise après sinistre du Secrétariat ;",
+            "17. Demande au Secrétaire général de présenter dans le rapport requis au paragraphe 13 de la présente section un programme de réduction du nombre de centres informatiques locaux existant au Siège, dans les bureaux hors Siège et dans les missions de maintien de la paix ;",
+            "18. Approuve la formule  proposée  par  le  Secrétaire  général  pour  la répartition des coûts du nouveau centre informatique principal du Siège 21 ;",
+            "19. Prie le  Secrétaire  général  de  proposer  dans  le  rapport  requis  au paragraphe 11  de  la  présente  section  une  formule  de  répartition  des  coûts  du nouveau centre informatique secondaire ;",
+            "20. Note que  les  dépenses,  estimées  à  149 400  dollars,  qu'il  est  prévu d'engager au cours de l'exercice allant du 1 er juillet 2008 au 30 juin 2009 pour l'installation d'un centre de communications secondaire actif à Valence seraient financées à l'aide des crédits déjà approuvés au titre de cet exercice pour la Base de soutien logistique des Nations unies à Brindisi (Italie) ;",
+            "21. Approuve le montant de 7 145 500 dollars demandé pour l'installation d'un nouveau centre informatique principal dans le bâtiment de la pelouse Nord au Siège, dont  5 716 400  dollars  sera  financé  au  moyen  des  crédits  inscrits  au  budgetprogramme de l'exercice biennal 2008-2009, et invite le Secrétaire général à lui rendre  compte  des  dépenses  qui  auront  été  engagées  à  ce  titre,  selon  qu'il conviendra, dans le deuxième rapport sur l'exécution dudit budget-programme ;",
+            "22. Autorise le Secrétaire général à imputer un montant total maximum de 1 429 100 dollars sur le budget du compte d'appui aux opérations de maintien de la paix pour l'exercice allant du 1 er juillet 2008 au 30 juin 2009, au titre de la part imputable à ce compte du coût de l'installation du centre informatique principal dans le bâtiment de la pelouse Nord ;",
+            "23. Prend note des paragraphes 89 et 96 du rapport du Comité consultatif pour les questions administratives et budgétaires 5 , décide d'approuver l'imputation sur le budget ordinaire de l'exercice biennal 2008-2009 d'un montant de 2,5 millions de dollars, destiné à financer les services de continuité des opérations et de reprise après sinistre fournis au Siège, aux bureaux hors Siège et aux missions, et prie le Secrétaire  général  de  couvrir  ce  montant  au  moyen  des  crédits  ouverts  pour"
+        ],
+        "items_en": [
+            "14. Supports the reorganisation of applications and data if, in the long term, it is intended to ensure business continuity and disaster recovery from information technology hubs and if, in the long term, it is also more cost-effective than hosting them in local information centres;",
+            "15. Takes note with appreciation of the commitment made by the Government of Spain, and endorses its proposal to establish a secondary active communications centre in Valencia, Spain, to support peacekeeping activities;",
+            "16. Decides not to implement at this stage the project of installing data processing and storage equipment in the Secretariat ' s disaster recovery and business continuity system at the secondary active communications centre in Valencia;",
+            "17. Requests the Secretary-General to submit in the report requested in paragraph 13 of the present section a programme to reduce the number of local information centres at Headquarters, offices away from Headquarters and peacekeeping missions;",
+            "18. Endorses the formula proposed by the Secretary-General for the cost apportionment of the new main data centre at Headquarters; 21",
+            "19. Requests the Secretary-General to propose in the report requested in paragraph 11 of the present section a cost-sharing formula for the new secondary information technology centre;",
+            "20. Notes that the estimated requirements of 149,400 dollars for the period from 1 July 2008 to 30 June 2009 for the installation of a secondary active communications centre in Valencia would be met from within the appropriations already approved for that period for the United Nations Logistics Base at Brindisi, Italy;",
+            "21. Approves the amount of 7,145,500 dollars requested for the installation of a new main data centre in the North Lawn Building at Headquarters, of which 5,716,400 dollars will be funded from the programme budget for the biennium 2008-2009, and invites the Secretary-General to report to the General Assembly on the related expenditures, as appropriate, in the context of the second performance report;",
+            "22. Authorizes the Secretary-General to charge a maximum of 1,429,100 dollars from the budget for the support account for peacekeeping operations for the period from 1 July 2008 to 30 June 2009 against the share attributable to that account of the cost of the installation of the main data centre in the North Lawn Building;",
+            "23. Takes note of paragraphs 89 and 96 of the report of the Advisory Committee on Administrative and Budgetary Questions, 5 decides to approve a charge of $2.5 million from the regular budget for the biennium 2008-2009 for disaster recovery and business continuity services provided at Headquarters, offices away from Headquarters and missions, and requests the Secretary-General to cover this amount from the appropriation for the biennium 2008-2009."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+        "text_en": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\__"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "l'exercice considéré et de lui rendre compte des dépenses qui auront été engagées, selon  qu'il  conviendra,  dans  le  deuxième  rapport  sur  l'exécution  du  budgetprogramme dudit exercice ;",
+        "text_en": "the financial period in question and to report to the Council on the expenditure incurred, as appropriate, in the second performance report on the programme budget for the financial period in question;"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "V",
+        "text_en": "V"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Normes comptables internationales pour le secteur public",
+        "text_en": "International Public Sector Accounting Standards"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Prend acte du premier rapport du Secrétaire général sur l'adoption des Normes comptables internationales pour le secteur public 6 ;",
+            "2. Souscrit aux conclusions et recommandations que le Comité consultatif pour les questions administratives et budgétaires a formulées dans son rapport 7 ;",
+            "3. Rappelle que, dans sa résolution 60/283, elle a approuvé l'adoption par l'Organisation des Nations Unies des Normes comptables internationales pour le secteur public ;",
+            "4. Souligne que l'adoption de ces normes permettra de mieux faire respecter les principes de bonne gouvernance, de responsabilité et de transparence dans le système des Nations Unies ;",
+            "5. Constate que le progiciel de gestion intégré sera déterminant pour la mise en application par l'Organisation des Normes comptables internationales pour le secteur public ;",
+            "6. Engage le Secrétaire général, en sa qualité de Président du Conseil des chefs  de  secrétariat  des  organismes  des  Nations  Unies  pour  la  coordination,  à s'employer, au sein du Conseil, à suivre l'application des Normes dans le système des Nations Unies afin qu'elle soit homogène ;"
+        ],
+        "items_en": [
+            "1. Takes note of the first report of the Secretary-General on the adoption of the International Public Sector Accounting Standards; 6",
+            "2. Endorses the conclusions and recommendations contained in the report of the Advisory Committee on Administrative and Budgetary Questions;",
+            "3. Recalls that, in its resolution 60/283, the General Assembly endorsed the adoption by the United Nations of the International Public Sector Accounting Standards;",
+            "4. Stresses that the adoption of such standards will enhance the implementation of the principles of good governance, accountability and transparency in the United Nations system;",
+            "5. Recognizes that the enterprise resource planning system will be critical to the implementation by the Organization of the International Public Sector Accounting Standards;",
+            "6. Encourages the Secretary-General, in his capacity as Chairman of the United Nations System Chief Executives Board for Coordination, to work within the Council to monitor the implementation of the Norms in the United Nations system in order to ensure its consistency;"
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "VI",
+        "text_en": "VI"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Comptabilité analytique",
+        "text_en": "Analytical accounting"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Souscrit au rapport du Comité consultatif pour les questions administratives  et  budgétaires 19 , sous  réserve  des  dispositions  de  la  présente résolution ;",
+            "2. Prend  note des  paragraphes 12,  17  et  18  du  rapport  du  Comité consultatif 19 ;",
+            "3. Note que  la  comptabilité  analytique  s'applique  mieux  aux  services d'appui de l'Organisation et ne convient pas nécessairement pour ses activités de fond ;",
+            "4. Prie le Secrétaire général de continuer à améliorer les méthodes de calcul des coûts de revient des services d'appui, notamment en élaborant un cadre de référence pour la comptabilité analytique afin de normaliser les techniques de calcul actuellement employées, et de lui faire rapport à ce sujet à sa soixante-cinquième session ;",
+            "5. Prie également le Secrétaire général de présenter dans le rapport demandé au paragraphe 4 de la présente section une analyse des autres volets des services d'appui de l'Organisation auxquels la comptabilité analytique pourrait s'appliquer."
+        ],
+        "items_en": [
+            "1. Endorses the report of the Advisory Committee on Administrative and Budgetary Questions, 19 subject to the provisions of the present resolution;",
+            "2. Takes note of paragraphs 12, 17 and 18 of the report of the Advisory Committee; 19",
+            "3. Notes that cost-accounting is better applied to the support services of the Organization and not necessarily appropriate for its substantive activities;",
+            "4. Requests the Secretary-General to continue to improve costing methods for support services, including the development of a framework for cost accounting in order to standardize current costing techniques, and to report thereon to the General Assembly at its sixty-fifth session;",
+            "5. Also requests the Secretary-General to include in the report requested in paragraph 4 of the present section an analysis of other aspects of the support services of the Organization to which cost-accounting might apply."
+        ]
+    }
+]

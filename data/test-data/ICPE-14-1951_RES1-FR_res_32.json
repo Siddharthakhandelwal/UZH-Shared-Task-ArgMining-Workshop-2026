@@ -1,0 +1,703 @@
+{
+  "TEXT_ID": "ICPE-14-1951_RES1-FR_res_32",
+  "RECOMMENDATION": 32,
+  "TITLE": "LA SCOLARITÉ OBLIGATOIRE ET SA PROLONGATION",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-14-1951_RES1-FR",
+      "nb_paras": 76,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'Instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'Education, la Science et la Culture et par le Bureau international d'Education, et s'y étant réunie le douze juillet mil neuf cent cinquante et un en sa quatorzième session, adopte le vingt juillet mil neuf cent cinquante et un la recommandation suivante: La Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Instruction, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and by the International Bureau of Education, having met there on the twelfth of July, nineteen hundred and fifty-one, in its fourteenth session, adopts on the twentieth of July, nineteen hundred and fifty-one, the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant que la Déclaration universelle des Droits de l'Homme, du Io décembre 1948, reconnaît le droit de toute personne à l'éducation, préconise la gratuité de l'éducation de base et de l'enseignement primaire, ce dernier devant être de plus obligatoire;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the Universal Declaration of Human Rights, of December 10, 1948, recognizes the right of every person to education, advocates for the free provision of basic education and primary schooling, the latter being furthermore compulsory;"
+      },
+      {
+        "para_number": 3,
+        "para": "Que le projet de Pacte sur la Déclaration universelle des Droits de l'Homme qui doit être soumis à l'Assemblée Générale des Nations Unies proclame que l'enseignement primaire doit être obligatoire et dispensé gratuitement à tous et que l'enseignement secondaire sous ses différentes formes, y compris l'enseignement technique et professionnel, doit être généralisé et rendu progressivement gratuit ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the draft Covenant on the Universal Declaration of Human Rights to be submitted to the United Nations General Assembly proclaims that primary education must be compulsory and provided free of charge to all, and that secondary education in its various forms, including technical and vocational education, should be generalized and progressively made free of charge;"
+      },
+      {
+        "para_number": 4,
+        "para": "Que, selon les termes de ce projet de Pacte « tout Etat, partie au présent Pacte, qui au moment où il y devient partie, n'a pas encore pu assurer dans sa Métropole ou dans les territoires placés sous sa juridiction, la gratuité et le caractère obligatoire de l'enseignement primaire, s'engage à établir et à adopter dans un délai de deux ans un plan détaillé de mesures nécessaires pour réaliser progressivement dans un nombre raisonnable d'années fixé par ce plan la pleine application du principe de l'enseignement primaire gratuit et obligatoire pour tous »;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "According to the terms of this draft Covenant, \"every State party to the present Covenant which, at the time it becomes a party thereto, has not yet been able to ensure, within its metropolitan territory or in territories under its jurisdiction, the free and compulsory nature of primary education, undertakes to establish and adopt within a period of two years a detailed plan of necessary measures to progressively achieve, within a reasonable number of years fixed by this plan, the full implementation of the principle of free and compulsory primary education for all\";"
+      },
+      {
+        "para_number": 5,
+        "para": "Que la généralisation du droit primordial à l'éducation n'est pas à envisager uniquement dans les pays moins évolués du point de vue scolaire, mais aussi dans les pays qui doivent faire face actuellement aux besoins éducatifs d'une population qui ne cesse de s'accroître ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the universalization of the fundamental right to education should not be considered solely in less educationally developed countries, but also in those countries that currently face the educational needs of a continuously growing population;"
+      },
+      {
+        "para_number": 6,
+        "para": "Qu'à son tour, le problème de la prolongation de la scolarité obligatoire devient aussi une préoccupation des autorités scolaires d'un nombre croissant de pays, y compris les pays moins évolués qui possèdent de grands centres 138",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "In turn, the issue of extending compulsory schooling is becoming a concern for the educational authorities of an increasing number of countries, including less developed countries that have large centers."
+      },
+      {
+        "para_number": 7,
+        "para": "Que la IIIe Conférence internationale de l'Instruction publique réunie à Genève en 1934 avait reconnu que le problème de la scolarité obligatoire et de sa prolongation se présente de façon différente dans les divers pays et que les mesures d'ensemble recommandées doivent tenir compte dans leur application des circonstances nationales et parfois régionales et locales ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the 3rd International Conference on Public Instruction convened in Geneva in 1934 recognized that the issue of compulsory schooling and its extension presents itself differently in various countries, and that the recommended comprehensive measures must take into account national, and sometimes regional and local, circumstances in their implementation;"
+      },
+      {
+        "para_number": 8,
+        "para": "Que les techniques d'instruction et d'éducation à mettre en œuvre doivent : a) servir à épanouir les valeurs propres à chaque culture dans la ligne de ses traditions historiques et à promouvoir entre les diverses cultures une harmonie génératrice de concorde et de paix, b) être menées de front avec le développement social et économique et ce, au moyen de la plus large collaboration internationale,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the instructional and educational techniques to be implemented must: a) serve to foster the values inherent to each culture in accordance with its historical traditions and to promote among the various cultures a harmony that generates concord and peace, b) be carried out simultaneously with social and economic development, and this through the broadest possible international cooperation,"
+      },
+      {
+        "para_number": 9,
+        "para": "Soumet aux Ministères de l'Instruction publique des différents pays la recommandation suivante :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits to the Ministries of Public Instruction of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 68,
+        "para": "La Conférence Soumet à l'Organisation des Nations Unies, aux Institutions spécialisées et aux Organisations intergouvernementales la recommandation suivante :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The Conference submits the following recommendation to the United Nations, to specialized agencies, and to intergovernmental organizations:"
+      },
+      {
+        "para_number": 10,
+        "para": "I. Des plans prévoyant la généralisation de la scolarité obligatoire dans l'esprit de l'article 26 de la Déclaration universelle des Droits de l'Homme du Io décembre 1948 doivent être élaborés dans les pays où le problème se pose et cela dans les délais les plus courts possible;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "I. Plans providing for the generalization of compulsory schooling in accordance with the spirit of Article 26 of the Universal Declaration of Human Rights of 10 December 1948 must be developed in countries where this issue arises, and this within the shortest possible time frame;"
+      },
+      {
+        "para_number": 11,
+        "para": "2. Les plans de généralisation de la scolarité obligatoire comportant, outre des mesures pédagogiques, des mesures financières, sociales ou autres, doivent être élaborés par des comités interministériels, ou autres organes mixtes compétents, auxquels pourraient être associés des organismes représentatifs des forces vives du pays;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. The plans for the generalization of compulsory schooling, including pedagogical measures as well as financial, social, or other measures, must be developed by interministerial committees or other competent mixed bodies, which may include representative organizations of the active forces of the country."
+      },
+      {
+        "para_number": 12,
+        "para": "3. Ces plans doivent prévoir à la fois des mesures de portée immédiate et des mesures progressives échelonnées sur un nombre déterminé d'années ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. These plans must include both measures of immediate effect and progressive measures spread over a specified number of years;"
+      },
+      {
+        "para_number": 13,
+        "para": "4. Les plans de généralisation de la scolarité obligatoire doivent être précédés d'enquêtes aussi précises et approfondies que possible, portant sur l'aspect quantitatif du problème, c'est-à-dire sur les statistiques de la population scolaire actuelle et prévisible;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. Plans for the generalization of compulsory schooling must be preceded by surveys that are as precise and thorough as possible, focusing on the quantitative aspect of the issue, namely the statistics of the current and foreseeable student population."
+      },
+      {
+        "para_number": 14,
+        "para": "5. Les plans de généralisation de la scolarité obligatoire doivent être établis aussi en coordination avec les plans de réforme et de développement économiques et sociaux du pays, parmi lesquels ils doivent bénéficier de la priorité qui leur est due; des études préalables porteraient notamment sur les facteurs : a) d'ordre économique (montant du revenu national, degré d'industrialisation, organisation agricole, niveau de vie des populations, etc.) ; b) d'ordre financier (système d'impôts, administration budgétaire sur le plan national, régional et local, etc.) ; c) d'ordre social (organisation des communautés, structure sociale des populations, existence de tribus nomades, vie familiale et condition de la femme, etc.) ; d) d'ordre géographique (densité et distribution de la population, développement des centres urbains par rapport aux agglomérations rurales, climat et topographie du terrain, moyens de communication, etc.) ; 139 e) d'ordre politique (structure politique et administrative, etc.) ; j) d'ordre linguistique (coexistence de plusieurs langues, langues non écrites, etc.) ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. The plans for the generalization of compulsory schooling must also be established in coordination with the country’s economic and social reform and development plans, among which they must be accorded the priority they deserve; preliminary studies should notably focus on the following factors: a) economic (amount of national income, degree of industrialization, agricultural organization, standard of living of the population, etc.); b) financial (tax system, budget administration at the national, regional, and local levels, etc.); c) social (organization of communities, social structure of the population, existence of nomadic tribes, family life and the condition of women, etc.); d) geographical (population density and distribution, development of urban centers relative to rural settlements, climate and topography, means of communication, etc.); e) political (political and administrative structure, etc.); f) linguistic (coexistence of multiple languages, unwritten languages, etc.)."
+      },
+      {
+        "para_number": 15,
+        "para": "6. Ces plans doivent être souples, constamment amendés et réadaptés, en fonction d'une part du résultat obtenu, d'autre part de l'évolution de la situation qui devra être étudiée en permanence;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. These plans must be flexible, constantly amended and readjusted, based on, on the one hand, the results obtained, and on the other hand, the ongoing evolution of the situation, which must be continuously studied;"
+      },
+      {
+        "para_number": 16,
+        "para": "7. Ces plans de scolarisation et les mesures d'application qui en découlent doivent être largement diffusés en insistant sur leur importance à l'égard de l'individu et de la société afin d'obtenir l'appui total de l'opinion publique;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. These schooling plans and the resulting implementation measures must be widely disseminated, emphasizing their importance for both the individual and society in order to obtain the full support of public opinion;"
+      },
+      {
+        "para_number": 17,
+        "para": "8. Les plans de généralisation de la scolarité obligatoire devant, pour un certain nombre de pays, porter forcément sur une période de temps plus ou moins longue, il y a lieu d'envisager si le développement de la campagne doit s'étendre immédiatement à l'ensemble du pays ou s'il n'y aurait pas avantage à s'attaquer au problème par régions ou par zones (urbaines, rurales, etc.) afin de ne pas disperser les efforts ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. The plans for the generalization of compulsory schooling, which for a number of countries must necessarily cover a more or less extended period of time, should consider whether the development of the campaign should immediately extend to the entire country or whether it would be more advantageous to address the issue by regions or zones (urban, rural, etc.) in order to avoid dispersing efforts;"
+      },
+      {
+        "para_number": 18,
+        "para": "9. Le mouvement en faveur de la généralisation de la scolarité obligatoire doit être mené parallèlement pour les garçons et pour les filles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The movement in favor of the generalization of compulsory schooling must be carried out simultaneously for both boys and girls."
+      },
+      {
+        "para_number": 19,
+        "para": "10. L'insuffisance des crédits étant le plus sérieux des obstacles à la généralisation de la scolarité obligatoire, l'aspect financier du plan doit être soigneusement étudié ; cette étude doit non seulement porter sur les moyens de s'assurer les ressources nécessaires, mais aussi prévoir la rationalisation des dépenses, afin d'obtenir le maximum de rendement des sommes investies ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. The insufficiency of funding being the most serious obstacle to the universalization of compulsory schooling, the financial aspect of the plan must be carefully examined; this study should not only focus on securing the necessary resources but also anticipate the rationalization of expenditures in order to achieve the maximum return on invested sums."
+      },
+      {
+        "para_number": 20,
+        "para": "11. Les systèmes d'administration fiscale n'étant pas les mêmes pour tous les pays, une méthode unique de financement ne saurait être suggérée ; tandis qu'il faut envisager dans certains pays la création de nouveaux impôts locaux ou nationaux, il s'agira dans d'autres cas soit d'affecter à ce financement un pourcentage suffisant du budget ordinaire de l'instruction publique, soit de prévoir un crédit extraordinaire dont la couverture sera échelonnée sur un nombre d'années déterminé;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. Since tax administration systems are not the same in all countries, a single method of financing cannot be proposed; while the creation of new local or national taxes must be considered in some countries, in other cases it will involve either allocating a sufficient percentage of the ordinary public education budget to this financing, or providing for an extraordinary credit whose coverage will be spread over a determined number of years;"
+      },
+      {
+        "para_number": 21,
+        "para": "12. Pour autant que la structure financière de chaque pays s'y prête, une participation conjointe de l'administration centrale et des administrations locales au financement du plan serait souhaitable, surtout si la participation financière de l'une des parties est conditionnée par celle de l'autre ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. Provided that the financial structure of each country allows it, joint participation by the central administration and local administrations in financing the plan would be desirable, especially if the financial contribution of one party is contingent upon that of the other."
+      },
+      {
+        "para_number": 22,
+        "para": "13. Une large publicité devra être donnée au plan de financement afin de convaincre l'opinion publique de la rentabilité des investissements financiers consentis en faveur de l'éducation, tout progrès éducatif se traduisant à plus ou moins longue échéance par une augmentation notable du revenu national.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. Wide publicity must be given to the financing plan in order to convince public opinion of the profitability of financial investments made in favor of education, as any educational progress will eventually result in a significant increase in national income."
+      },
+      {
+        "para_number": 23,
+        "para": "14. On ne saurait concevoir une scolarité trop courte, surtout dans les pays où la question linguistique se pose; la sortie de l'école ne doit pas avoir lieu avant que les acquisitions scolaires des élèves soient assez solides pour être durables et qu'elles soient suffisantes pour leur permettre de participer de façon efficace à la vie de la communauté;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. A schooling period that is too short cannot be envisaged, especially in countries where the language issue arises; students should not leave school before their educational achievements are sufficiently solid to be lasting and adequate to enable them to participate effectively in the life of the community;"
+      },
+      {
+        "para_number": 24,
+        "para": "15. Dans les pays où la scolarité obligatoire n'a pas encore été légalement établie, la durée minimum de la scolarité doit être fixée selon les principes de la recommandation précédente, sans que cette durée risque de rester purement théorique ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "15. In countries where compulsory schooling has not yet been legally established, the minimum duration of schooling must be determined according to the principles of the preceding recommendation, without this duration running the risk of remaining purely theoretical;"
+      },
+      {
+        "para_number": 25,
+        "para": "16. Il n'est pas concevable de procéder à un abaissement légal de la scolarité obligatoire dans les pays où celle-ci a déjà été fixée à 5, 6 ou 7 ans ou davantage, alors même qu'une proportion très grande de la population d'âge scolaire (allant parfois jusqu'à plus de 50%) échappe encore à l'application de la loi; tout l'effort des plans de généralisation doit porter dans ce cas à rapprocher graduellement l'état de fait de l'état de droit;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. It is inconceivable to legally lower the duration of compulsory schooling in countries where it has already been established at 5, 6, or 7 years or more, especially when a very large proportion of the school-age population (sometimes exceeding 50%) still falls outside the application of the law; in such cases, all efforts within generalization plans must focus on gradually bringing the actual situation into alignment with the legal framework."
+      },
+      {
+        "para_number": 26,
+        "para": "17. Il est désirable que dans les pays où l'écart entre la population d'âge scolaire et le nombre d'élèves inscrits ne dépasse pas 20 ou 30%, et où la généralisation de la scolarité obligatoire semble pouvoir être réalisée dans un avenir plus ou moins immédiat, la durée de la scolarité obligatoire soit progressivement portée à 7 ou 8 ans;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. It is desirable that in countries where the gap between the school-age population and the number of enrolled students does not exceed 20 or 30%, and where the generalization of compulsory education appears feasible in the more or less immediate future, the duration of compulsory education be gradually extended to 7 or 8 years;"
+      },
+      {
+        "para_number": 27,
+        "para": "18. La prolongation de la scolarité obligatoire au delà de l'âge de 14 ou 15 ans, soit sous une forme générale, soit sous la forme d'une scolarité partielle, soit dans le cadre de l'enseignement primaire ou dans celui des différents enseignements du second degré, doit être encouragée surtout dans les pays où l'obligation scolaire est déjà effective;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. The extension of compulsory schooling beyond the age of 14 or 15, whether in a general form, as partial schooling, or within the framework of primary education or the various secondary education levels, should be encouraged especially in countries where compulsory education is already effectively implemented."
+      },
+      {
+        "para_number": 28,
+        "para": "19. L'âge légal d'admission au travail et la durée de la scolarité obligatoire doivent être fixés en fonction l'un de l'autre ; la coordination la plus complète doit donc exister entre l'administration de l'instruction publique et celle du travail, elle doit être établie non seulement sur le plan national; mais aussi sur le plan international entre les organisations qui s'occupent de la scolarité obligatoire et celles qui s'occupent du travail des enfants et des jeunes gens.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "19. The legal age for admission to work and the duration of compulsory schooling must be determined in relation to each other; therefore, the most comprehensive coordination must exist between the administration of public education and that of labor, and this coordination must be established not only at the national level but also internationally between organizations responsible for compulsory education and those responsible for the work of children and young people."
+      },
+      {
+        "para_number": 29,
+        "para": "20. Le principe du droit à l'éducation ayant un caractère absolu, les autorités scolaires doivent, à mesure que les circonstances le permettent, créer les institutions nécessaires et prendre des dispositions efficaces pour que les dispenses prévues dans certaines législations, ou admises implicitement, par exemple pour les enfants malades, déficients physiques ou mentaux, exemptés en raison de l'éloignement de l'école, etc., puissent être rapportées ou supprimées;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. Since the principle of the right to education is absolute, educational authorities must, as circumstances allow, establish the necessary institutions and take effective measures to ensure that exemptions provided for in certain legislations, or implicitly accepted, for example for sick children, children with physical or mental disabilities, those exempted due to the distance from school, etc., can be revoked or eliminated;"
+      },
+      {
+        "para_number": 30,
+        "para": "22. Des mesures telles que la création d'internats, l'organisation d'un enseignement par correspondance ou par radio, etc., peuvent contribuer selon les circonstances à assurer l'éducation des enfants dont les parents n'ont pas de domicile fixe, tels que les forains, les bateliers, etc. ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Measures such as the establishment of boarding schools, the organization of correspondence or radio-based education, etc., can, depending on the circumstances, contribute to ensuring the education of children whose parents have no fixed domicile, such as itinerant traders, river workers, and the like."
+      },
+      {
+        "para_number": 31,
+        "para": "22. L'éducation des enfants des tribus et celle des enfants nomades imposent à la société des obligations spéciales que les autorités scolaires ne sauraient éluder; le système des écoles itinérantes peut constituer, lorsque les circonstances le permettent, une solution adéquate.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The education of children from tribes and nomadic children imposes special obligations on society which educational authorities cannot evade; the system of mobile schools can constitute, when circumstances permit, an adequate solution."
+      },
+      {
+        "para_number": 32,
+        "para": "23. Un recensement périodique des enfants d'âge scolaire doit être établi dans chaque localité pour permettre le contrôle de l'application de la scolarité obligatoire;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "23. A periodic census of school-age children must be established in each locality to enable the monitoring of the enforcement of compulsory schooling;"
+      },
+      {
+        "para_number": 33,
+        "para": "24. Quoique des sanctions doivent être prévues pour les cas de mauvaise volonté manifeste de la part des parents ou autres personnes responsables de la fréquentation scolaire, c'est surtout à des mesures d'encouragement que l'on doit faire appel ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. Although sanctions must be provided for cases of evident unwillingness on the part of parents or other individuals responsible for school attendance, emphasis should primarily be placed on measures of encouragement;"
+      },
+      {
+        "para_number": 34,
+        "para": "25. La collaboration entre la famille et l'école doit être encouragée ; les organisations de parents pourront contribuer efficacement à la lutte contre les manquements à l'obligation scolaire, en même temps que les agents de l'autorité, le personnel de l'assistance sociale, etc. ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. Collaboration between the family and the school must be encouraged; parent organizations can contribute effectively to the fight against breaches of compulsory schooling, alongside authorities, social welfare personnel, etc.;"
+      },
+      {
+        "para_number": 35,
+        "para": "26. La gratuité de l'enseignement primaire ne doit pas se limiter à l'exemption des droits d'écolage; elle doit aussi s'étendre progressivement au matériel et aux fournitures scolaires ainsi qu'aux manuels, conformément à la recommandation no z1 votée par la Xe Conférence internationale de l'Instruction publique;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. The free provision of primary education should not be limited to the exemption from tuition fees; it should also progressively extend to school materials and supplies as well as textbooks, in accordance with Recommendation No. Z1 adopted by the 10th International Conference on Public Instruction."
+      },
+      {
+        "para_number": 36,
+        "para": "27. Des mesures efficaces doivent être envisagées pour remédier, dans la mesure du possible, aux difficultés résultant de la distance, de la dispersion de l'habitat : meilleur emplacement de l'école, facilités de transport, écoles avec internat, etc. ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. Effective measures must be considered to remedy, as far as possible, the difficulties arising from distance and the dispersion of settlements: better school locations, transportation facilities, boarding schools, etc.;"
+      },
+      {
+        "para_number": 37,
+        "para": "28. Lorsque les élèves d'une commune ou d'une région habitent à une plus courte distance d'une école appartenant à une autre circonscription administrative ou territoriale, des facilités doivent leur être accordées pour qu'ils puissent fréquenter l'école la plus proche ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. When students from a municipality or region live closer to a school belonging to another administrative or territorial district, facilities must be provided to allow them to attend the nearest school;"
+      },
+      {
+        "para_number": 38,
+        "para": "29. Les services médicaux, d'aide alimentaire et, si besoin est, d'aide vestimentaire pour les écoliers doivent être généralisés, car, outre leur valeur propre, ils facilitent la fréquentation; les autorités scolaires doivent développer ces services même si d'autres organes officiels ou privés fournissent une aide sociale de ce genre ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. Medical services, food assistance, and, if necessary, clothing aid for schoolchildren must be made widely available, as, in addition to their intrinsic value, they facilitate attendance; educational authorities must develop these services even if other official or private bodies provide such social assistance."
+      },
+      {
+        "para_number": 39,
+        "para": "30. Des allocations familiales sont un moyen d'encourager la fréquentation scolaire ; elles peuvent compenser le manque à gagner des enfants soumis à l'obligation scolaire, et pour le moins servir à combattre l'absentéisme.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. Family allowances are a means of encouraging school attendance; they can compensate for the loss of earnings of children subject to compulsory schooling and, at the very least, serve to combat absenteeism."
+      },
+      {
+        "para_number": 40,
+        "para": "31. Afin que le travail scolaire soit mieux apprécié des parents et que la scolarité obligatoire soit plus acceptable, l'école doit s'intégrer aussi étroitement que possible à la communauté; elle doit contribuer à l'amélioration du niveau de vie de cette communauté et devenir un des éléments de progrès social, économique, civique, artistique et culturel; pour cela, elle doit utiliser des programmes adaptés à l'enfant et des méthodes telles que les méthodes actives qui le rattachent à l'étude du milieu, permettant d'intéresser l'élève et d'orienter son esprit vers l'amélioration de ce milieu ; l'école doit aussi profiter des expériences et des efforts faits dans le domaine de l'éducation de base ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. In order for schoolwork to be better appreciated by parents and for compulsory schooling to be more acceptable, the school must be integrated as closely as possible into the community; it must contribute to the improvement of the community’s standard of living and become one of the elements of social, economic, civic, artistic, and cultural progress; to achieve this, it must use programs adapted to the child and methods such as active methods that connect the child to the study of their environment, thereby engaging the student and directing their mind towards the improvement of that environment; the school must also benefit from experiences and efforts made in the field of basic education."
+      },
+      {
+        "para_number": 41,
+        "para": "32. Il est important, dans les communautés où l'analphabétisme prédomine, que des plans pour la généralisation de l'enseignement obligatoire soient accompagnés autant que possible de plans pour l'éducation de base des adultes; cela créera parmi les parents une atmosphère favorable à l'éducation de leurs enfants et il en résultera une plus grande harmonie entre les élèves quittant l'école et leurs aînés ; le travail d'éducation de base devra être étroitement coordonné avec celui de l'école ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "32. It is important, in communities where illiteracy predominates, that plans for the generalization of compulsory education be accompanied as far as possible by plans for adult basic education; this will create among parents a favorable atmosphere for the education of their children and will result in greater harmony between pupils leaving school and their elders; the work of basic education must be closely coordinated with that of the school."
+      },
+      {
+        "para_number": 42,
+        "para": "33. Tout en reconnaissant que l'école primaire dans laquelle un maître unique s'occupe des enfants de tous les âges à la fois présente pour celui-ci de très grandes difficultés d'ordre technique, il y a intérêt néanmoins à recourir à ce système partout où il peut contribuer à la généralisation de l'enseignement obligatoire ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. While acknowledging that a primary school in which a single teacher is responsible for children of all ages simultaneously presents very significant technical challenges for the teacher, there is nonetheless an interest in using this system wherever it can contribute to the generalization of compulsory education."
+      },
+      {
+        "para_number": 43,
+        "para": "34. Dans la détermination de l'année scolaire, il faudrait tenir compte des caractéristiques régionales (conditions de climat, travaux saisonniers, etc.), lorsqu'il existe de grandes différences entre celles-ci ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "34. In determining the school year, regional characteristics (climatic conditions, seasonal work, etc.) should be taken into account when there are significant differences between them;"
+      },
+      {
+        "para_number": 44,
+        "para": "35: Le même principe devrait être appliqué à l'élaboration des horaires, ceux-ci devant être conçus de façon à faciliter le plus possible la fréquentation ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The same principle should be applied to the development of schedules, which should be designed so as to facilitate attendance as much as possible;"
+      },
+      {
+        "para_number": 45,
+        "para": "36. Tout en reconnaissant que l'horaire scolaire prévoyant deux séances quotidiennes de travail est en général préférable, on peut admettre un horaire à séance unique a) lorsque la pénurie de locaux et de personnel enseignant ou le climat l'imposent comme solution temporaire pour assurer le droit à l'éducation, b) lorsque les conditions économiques et sociales le font apparaître comme avantageux;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. While recognizing that a school schedule providing for two daily sessions of instruction is generally preferable, a single-session schedule may be accepted a) when a shortage of facilities and teaching staff or climatic conditions necessitate it as a temporary measure to ensure the right to education, and b) when economic and social conditions make it appear advantageous;"
+      },
+      {
+        "para_number": 46,
+        "para": "37. L'horaire à séance unique ne doit pas imposer un travail trop long à l'élève, ni un surcroît de travail au maître, afin de ne pas avoir d'action défavorable sur la santé et sur le rendement ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. The single-session schedule must not impose excessively long working hours on the student, nor an additional workload on the teacher, so as not to adversely affect health and performance;"
+      },
+      {
+        "para_number": 47,
+        "para": "38. Etant donné les obstacles que le problème des langues présente dans certains pays pour la généralisation de la scolarité obligatoire, et tout en soulignant le rôle que peut jouer, en principe, l'emploi des langues vernaculaires, la solution de ce problème doit être recherchée pour chacun de ces pays en fonction des conditions nationales, régionales ou locales, compte tenu des données de la psychologie de l'enfant et de la pédagogie.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. Given the obstacles that the language issue presents in certain countries for the generalization of compulsory education, and while emphasizing the role that the use of vernacular languages can, in principle, play, the solution to this problem must be sought for each of these countries based on national, regional, or local conditions, taking into account findings from child psychology and pedagogy."
+      },
+      {
+        "para_number": 48,
+        "para": "39. L'élément essentiel dans tout plan de généralisation de l'enseignement obligatoire est le maître ; la pénurie de maîtres constituant actuellement un des obstacles à la généralisation de la scolarité obligatoire, un grand effort doit être réalisé afin d'obvier à cette pénurie ; il y a lieu, conformément aux recommandations nos 4 et I3, votées par la IVe et par la VIIe Conférence internationale de l'Instruction publique : a) d'octroyer aux membres de l'enseignement une rémunération correspondant à l'importance de leur mission ; b) de leur accorder une grande sécurité d'emploi; c) de créer un nombre suffisant de centres de formation professionnelle pour les maîtres;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. The essential element in any plan for the generalization of compulsory education is the teacher; as the shortage of teachers currently constitutes one of the obstacles to the generalization of compulsory schooling, a major effort must be made to overcome this shortage; in accordance with recommendations Nos. 4 and 13, adopted by the Fourth and Seventh International Conferences on Public Education: a) to grant teaching personnel remuneration commensurate with the importance of their mission; b) to provide them with strong job security; c) to establish a sufficient number of professional training centers for teachers;"
+      },
+      {
+        "para_number": 49,
+        "para": "40. La formation normale du personnel enseignant doit être toujours plus poussée et plus complète tant du point de vue de la culture générale que du point de vue de la formation professionnelle proprement dite; toutefois, afin de promouvoir l'obligation scolaire, on pourrait envisager en plus, selon les circonstances, une formation accélérée des maîtres; cette formation accélérée ne saurait être que temporaire et des possibilités de perfectionnement (stages, missions pédagogiques, cours de vacances, revues éducatives, etc.) devraient être offertes à tous les maîtres quelle que soit leur origine (formation accélérée ou normale) ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "40. The standard training of teaching staff must be increasingly advanced and comprehensive, both in terms of general knowledge and in terms of specialized professional training; however, in order to promote compulsory schooling, accelerated training of teachers could also be envisaged according to circumstances; such accelerated training must be temporary, and opportunities for further development (internships, educational missions, summer courses, educational journals, etc.) should be made available to all teachers, regardless of their initial training (accelerated or standard)."
+      },
+      {
+        "para_number": 50,
+        "para": "41. La formation professionnelle doit permettre aux maîtres, tout particulièrement aux maîtres ruraux, de devenir non seulement des techniciens de l'enseignement, mais aussi des personnes pouvant prendre une part active à la vie sociale, étant particulièrement avertis du milieu dans lequel ils sont appelés à vivre, au courant de ses habitudes, de ses besoins, de ses aspirations ; ils doivent être les agents actifs d'une « éducation de base » portant à la fois sur la culture générale, l'hygiène, les activités artisanales, les pratiques agricoles, etc. ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "41. Professional training must enable teachers, particularly rural teachers, to become not only teaching technicians but also individuals capable of taking an active part in social life, being especially well-informed about the environment in which they are called to live, aware of its habits, needs, and aspirations; they must be active agents of a \"basic education\" encompassing general culture, hygiene, artisanal activities, agricultural practices, and so forth."
+      },
+      {
+        "para_number": 51,
+        "para": "42. Dans les cas où les maîtres ruraux connaissent des conditions de vie particulièrement difficiles, les autorités scolaires doivent s'efforcer de trouver des mesures destinées à compenser les désavantages résultant d'une telle situation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "42. In cases where rural teachers face particularly difficult living conditions, the educational authorities must strive to find measures aimed at compensating for the disadvantages resulting from such a situation."
+      },
+      {
+        "para_number": 52,
+        "para": "43. Il y a lieu de tenir compte des suggestions ci-dessous énumérées tout en s'inspirant de la recommandation n° 9, votée par la Ve Conférence internationale de l'Instruction publique;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "43. The following suggestions should be taken into account while drawing inspiration from Recommendation No. 9, adopted by the Fifth International Conference on Public Instruction;"
+      },
+      {
+        "para_number": 53,
+        "para": "44. Tout plan de généralisation de la scolarité obligatoire doit s'accompagner d'un plan de construction correspondant; ce plan doit tenir compte non seulement de la construction des classes, mais aussi de celle des logements des maîtres partout où la nécessité s'en fait sentir ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "44. Any plan for the expansion of compulsory schooling must be accompanied by a corresponding construction plan; this plan must take into account not only the construction of classrooms but also the construction of teachers' housing wherever the need arises;"
+      },
+      {
+        "para_number": 54,
+        "para": "45. La situation topographique des constructions scolaires doit être étudiée avec soin en tenant compte de la répartition de la population scolaire et des distances à parcourir par les élèves ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The topographical situation of school buildings must be carefully studied taking into account the distribution of the school population and the distances to be traveled by the students;"
+      },
+      {
+        "para_number": 55,
+        "para": "46. Les plans de constructions scolaires devront répondre, selon les possibilités économiques, aux exigences pédagogiques, hygiéniques et climatiques des localités auxquelles ils sont destinés ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "46. School construction plans must, according to economic possibilities, meet the pedagogical, hygienic, and climatic requirements of the localities for which they are intended."
+      },
+      {
+        "para_number": 56,
+        "para": "47. Il peut y avoir intérêt, selon les circonstances, à associer les populations à la construction de leurs propres écoles, sans que pour autant les autorités soient déchargées de la responsabilité qui leur incombe dans ce domaine ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "47. Depending on the circumstances, it may be advantageous to involve the local populations in the construction of their own schools, without thereby relieving the authorities of the responsibilities incumbent upon them in this domain;"
+      },
+      {
+        "para_number": 57,
+        "para": "48. Des solutions « d'urgence » pourront être envisagées pour faire face aux besoins les plus pressants dans le domaine des constructions scolaires : écoles préfabriquées, utilisation temporaire de bâtiments destinés à d'autres fins, etc. ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "48. \"Emergency\" solutions may be considered to address the most urgent needs in the field of school construction: prefabricated schools, temporary use of buildings intended for other purposes, etc.;"
+      },
+      {
+        "para_number": 58,
+        "para": "14449. Même quand la charge financière des constructions scolaires incombe en principe aux autorités, il y a lieu d'encourager les initiatives individuelles ou collectives, qu'il s'agisse de cessions gratuites de terrain, de donations, de souscriptions, etc.; dans les cas d'urgence, des emprunts spéciaux peuvent être encouragés aussi ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14449. Even when the financial burden of school construction principally rests with the authorities, individual or collective initiatives should be encouraged, whether in the form of free land transfers, donations, subscriptions, etc.; in emergency cases, special loans may also be promoted."
+      },
+      {
+        "para_number": 59,
+        "para": "50. Lorsque cela s'avère possible, l'école doit comprendre, outre le préau et la cour, un atelier, un champ ou un jardin ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "50. Whenever possible, the school should include, in addition to the playground and courtyard, a workshop, a field, or a garden;"
+      },
+      {
+        "para_number": 60,
+        "para": "51. Lorsque les conditions climatiques le permettent, l'école en plein air peut constituer une solution au problème des constructions scolaires, étant donné ses avantages pédagogiques, économiques et hygiéniques ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "51. When climatic conditions permit, the open-air school can provide a solution to the problem of school buildings, given its pedagogical, economic, and hygienic advantages;"
+      },
+      {
+        "para_number": 61,
+        "para": "52. L'obligation scolaire doit être réalisée dès la création de toute agglomération nouvelle: un nombre suffisant d'écoles doivent avoir été prévues et bâties à cette fin.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "52. Compulsory schooling must be implemented from the establishment of any new settlement: a sufficient number of schools must have been planned and constructed for this purpose."
+      },
+      {
+        "para_number": 62,
+        "para": "53. Compte tenu des recommandations nos 1, 2 et 19 votées par la IIe et par la IXe Conférence internationale de l'Instruction publique, il est recommandé aux pays qui ont déjà réalisé la scolarité obligatoire d'établir, dans les délais les plus rapprochés, un plan visant à étendre graduellement le bénéfice d'une plus longue scolarité aux jeunes gens;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "53. In view of Recommendations Nos. 1, 2, and 19 adopted by the 2nd and the 9th International Conference on Public Education, it is recommended that countries which have already established compulsory schooling should, as soon as possible, develop a plan to gradually extend the benefits of longer schooling to young people;"
+      },
+      {
+        "para_number": 63,
+        "para": "54. On peut envisager l'octroi d'une aide financière aux familles nécessiteuses, en particulier à l'âge où l'enfant pourrait entrer dans la vie active, sous la forme d'une compensation au manque à gagner, afin de leur permettre de laisser leurs enfants continuer les études auxquelles ils sont aptes ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "54. Consideration may be given to providing financial assistance to needy families, particularly at the age when the child might enter the workforce, in the form of compensation for lost earnings, in order to enable them to allow their children to continue the studies for which they are qualified;"
+      },
+      {
+        "para_number": 64,
+        "para": "55. L'enseignement prolongé doit être adapté à la diversité des capacités, des aptitudes et des intérêts individuels, comme à l'ampleur et à la variété des besoins sociaux et économiques, en utilisant toutes les ressources que présente la culture moderne; une grande diversité d'études doit être offerte à la jeunesse avec des possibilités nombreuses d'orientation, de bifurcation et de rattrapage;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "55. Extended education must be adapted to the diversity of individual capacities, aptitudes, and interests, as well as to the scope and variety of social and economic needs, utilizing all the resources offered by modern culture; a wide range of studies must be made available to youth with numerous opportunities for guidance, branching, and catching up."
+      },
+      {
+        "para_number": 65,
+        "para": "56. L'étude des sciences et des techniques doit être suffisamment humanisée pour qu'elle puisse servir aussi à la culture générale de ceux qui en feront leur spécialité ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "56. The study of sciences and technology must be sufficiently humanized so that it can also contribute to the general education of those who make it their specialty."
+      },
+      {
+        "para_number": 66,
+        "para": "57. Une coordination efficace doit exister entre les divers types d'écoles de l'enseignement prolongé (secondaire classique et moderne, technique et professionnel, primaire) de façon à rendre aisé le passage d'un type à l'autre et à obtenir une sélection et une orientation plus rationnelles ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "57. Effective coordination must exist between the various types of extended education schools (classical and modern secondary, technical and vocational, primary) so as to facilitate transfer from one type to another and to achieve more rational selection and guidance."
+      },
+      {
+        "para_number": 67,
+        "para": "58. Un enseignement postscolaire efficient doit permettre aux jeunes gens, occupant déjà un emploi salarié, après leur sortie de l'école et jusqu'à l'âge de 18 ans, de perfectionner leur formation professionnelle et leur culture générale, l'employeur accordant à cet effet le temps nécessaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "58. Efficient post-school education should enable young people, who are already employed in a salaried position after leaving school and up to the age of 18, to improve their vocational training and general culture, with the employer granting the necessary time for this purpose."
+      },
+      {
+        "para_number": 69,
+        "para": "59. Que l'Unesco, en consultation avec les Etats membres intéressés et les Institutions spécialisées des Nations Unies et les Organisations internationales, considère la possibilité d'élaborer un programme d'assistance pour mettre en vigueur l'instruction obligatoire dans les Etats membres qui en feraient la demande; ce programme devrait répondre aux besoins nationaux et être conforme au Pacte des Nations Unies ; il devrait coordonner toutes les sources d'assistance actuellement disponibles, envisager la possibilité de prêts et faire appel à des fonds provenant de contributions bénévoles ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "59. That UNESCO, in consultation with the interested Member States, the specialized United Nations institutions, and international organizations, consider the possibility of developing an assistance program to implement compulsory education in the Member States requesting it; this program should address national needs and be consistent with the United Nations Charter; it should coordinate all currently available sources of assistance, consider the possibility of loans, and appeal for funds from voluntary contributions;"
+      },
+      {
+        "para_number": 70,
+        "para": "60. Qu'une attention prioritaire soit prêtée, lors de l'élaboration des plans d'assistance technique, aux plans qui ont trait à la généralisation de la scolarité obligatoire ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "60. Priority should be given, in the development of technical assistance plans, to those plans related to the expansion of compulsory schooling;"
+      },
+      {
+        "para_number": 71,
+        "para": "61. Que cette assistance ne soit pas seulement d'ordre financier mais qu'elle comporte une collaboration efficace des organisations internationales, en ce qui concerne l'élaboration et l'application des plans de généralisation ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "61. That this assistance should not be solely financial in nature but should include effective collaboration from international organizations concerning the development and implementation of universal education plans;"
+      },
+      {
+        "para_number": 72,
+        "para": "62. En attendant que les plans de développement économique aient produit les résultats escomptés et permettent de couvrir les dépenses de l'obligation scolaire, il serait souhaitable que la Banque Internationale pour la Reconstruction et le Développement étudiât la possibilité d'accorder aux pays qui en feraient la demande des prêts à long terme pour la réalisation immédiate de leur plan de scolarisation ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "62. Pending the economic development plans yielding the expected results and enabling coverage of the expenses related to compulsory schooling, it would be desirable for the International Bank for Reconstruction and Development to consider the possibility of granting long-term loans to countries that request them for the immediate implementation of their schooling plans;"
+      },
+      {
+        "para_number": 73,
+        "para": "63. Que l'Organisation des Nations Unies pour l'Education, la Science et la Culture contribue par l'organisation de conférences régionales à l'adaptation des principes énoncés par la XIVe Conférence internationale de l'Instruction publique aux conditions spéciales des différentes régions du globe;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "63. That the United Nations Educational, Scientific and Cultural Organization contributes, through the organization of regional conferences, to the adaptation of the principles set forth by the 14th International Conference on Public Education to the special conditions of the various regions of the world;"
+      },
+      {
+        "para_number": 74,
+        "para": "64. Que des missions d'experts soient envoyées dans les pays qui en feraient la demande pour étudier sur place les aspects particuliers que présente la généralisation de la scolarité obligatoire et que réciproquement des bourses internationales soient accordées à des experts des pays qui en feraient la demande pour aller étudier l'obligation scolaire dans les pays où celle-ci est déjà réalisée ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "64. That expert missions be sent to countries requesting them to study on-site the particular aspects involved in the generalization of compulsory schooling, and that, conversely, international scholarships be granted to experts from countries requesting them to study compulsory schooling in countries where it has already been implemented;"
+      },
+      {
+        "para_number": 75,
+        "para": "65. Que l'Organisation des Nations Unies pour l'Education, la Science et la Culture continue les enquêtes et études entreprises concernant la scolarité obligatoire et sa prolongation, sans oublier l'orientation scolaire et la coordination des divers types d'enseignement du deuxième degré, et que les résultats de ces études soient publiés et portés à la connaissance des autorités scolaires et des éducateurs ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "65. That the United Nations Educational, Scientific and Cultural Organization continues the inquiries and studies undertaken concerning compulsory schooling and its extension, without neglecting school guidance and the coordination of the various types of secondary education, and that the results of these studies be published and brought to the attention of educational authorities and educators;"
+      },
+      {
+        "para_number": 76,
+        "para": "66. Que, dans le cadre d'accords latéraux ou multilatéraux, soient pratiqués, en vue de la généralisation et de la prolongation de la scolarité obligatoire, des échanges d'information, des rencontres d'experts et, éventuellement, une action d'entr'aide.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "66. That, within the framework of bilateral or multilateral agreements, exchanges of information, expert meetings, and, if necessary, mutual assistance actions be conducted with the aim of generalizing and extending compulsory schooling."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'Instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'Education, la Science et la Culture et par le Bureau international d'Education, et s'y étant réunie le douze juillet mil neuf cent cinquante et un en sa quatorzième session, adopte le vingt juillet mil neuf cent cinquante et un la recommandation suivante: La Conférence, Considérant que la Déclaration universelle des Droits de l'Homme, du Io décembre 1948, reconnaît le droit de toute personne à l'éducation, préconise la gratuité de l'éducation de base et de l'enseignement primaire, ce dernier devant être de plus obligatoire; Que le projet de Pacte sur la Déclaration universelle des Droits de l'Homme qui doit être soumis à l'Assemblée Générale des Nations Unies proclame que l'enseignement primaire doit être obligatoire et dispensé gratuitement à tous et que l'enseignement secondaire sous ses différentes formes, y compris l'enseignement technique et professionnel, doit être généralisé et rendu progressivement gratuit ; Que, selon les termes de ce projet de Pacte « tout Etat, partie au présent Pacte, qui au moment où il y devient partie, n'a pas encore pu assurer dans sa Métropole ou dans les territoires placés sous sa juridiction, la gratuité et le caractère obligatoire de l'enseignement primaire, s'engage à établir et à adopter dans un délai de deux ans un plan détaillé de mesures nécessaires pour réaliser progressivement dans un nombre raisonnable d'années fixé par ce plan la pleine application du principe de l'enseignement primaire gratuit et obligatoire pour tous »; Que la généralisation du droit primordial à l'éducation n'est pas à envisager uniquement dans les pays moins évolués du point de vue scolaire, mais aussi dans les pays qui doivent faire face actuellement aux besoins éducatifs d'une population qui ne cesse de s'accroître ; Qu'à son tour, le problème de la prolongation de la scolarité obligatoire devient aussi une préoccupation des autorités scolaires d'un nombre croissant de pays, y compris les pays moins évolués qui possèdent de grands centres  138 Que la IIIe Conférence internationale de l'Instruction publique réunie à Genève en 1934 avait reconnu que le problème de la scolarité obligatoire et de sa prolongation se présente de façon différente dans les divers pays et que les mesures d'ensemble recommandées doivent tenir compte dans leur application des circonstances nationales et parfois régionales et locales ; Que les techniques d'instruction et d'éducation à mettre en œuvre doivent : a) servir à épanouir les valeurs propres à chaque culture dans la ligne de ses traditions historiques et à promouvoir entre les diverses cultures une harmonie génératrice de concorde et de paix, b) être menées de front avec le développement social et économique et ce, au moyen de la plus large collaboration internationale, Soumet aux Ministères de l'Instruction publique des différents pays la recommandation suivante : PLANS DE GÉNÉRALISATION DE LA SCOLARITÉ OBLIGATOIRE I. Des plans prévoyant la généralisation de la scolarité obligatoire dans l'esprit de l'article 26 de la Déclaration universelle des Droits de l'Homme du Io décembre 1948 doivent être élaborés dans les pays où le problème se pose et cela dans les délais les plus courts possible; 2. Les plans de généralisation de la scolarité obligatoire comportant, outre des mesures pédagogiques, des mesures financières, sociales ou autres, doivent être élaborés par des comités interministériels, ou autres organes mixtes compétents, auxquels pourraient être associés des organismes représentatifs des forces vives du pays; 3. Ces plans doivent prévoir à la fois des mesures de portée immédiate et des mesures progressives échelonnées sur un nombre déterminé d'années ; 4. Les plans de généralisation de la scolarité obligatoire doivent être précédés d'enquêtes aussi précises et approfondies que possible, portant sur l'aspect quantitatif du problème, c'est-à-dire sur les statistiques de la population scolaire actuelle et prévisible; 5. Les plans de généralisation de la scolarité obligatoire doivent être établis aussi en coordination avec les plans de réforme et de développement économiques et sociaux du pays, parmi lesquels ils doivent bénéficier de la priorité qui leur est due; des études préalables porteraient notamment sur les facteurs : a) d'ordre économique (montant du revenu national, degré d'industrialisation, organisation agricole, niveau de vie des populations, etc.) ; b) d'ordre financier (système d'impôts, administration budgétaire sur le plan national, régional et local, etc.) ; c) d'ordre social (organisation des communautés, structure sociale des populations, existence de tribus nomades, vie familiale et condition de la femme, etc.) ; d) d'ordre géographique (densité et distribution de la population, développement des centres urbains par rapport aux agglomérations rurales, climat et topographie du terrain, moyens de communication, etc.) ;  139 e) d'ordre politique (structure politique et administrative, etc.) ; j) d'ordre linguistique (coexistence de plusieurs langues, langues non écrites, etc.) ; 6. Ces plans doivent être souples, constamment amendés et réadaptés, en fonction d'une part du résultat obtenu, d'autre part de l'évolution de la situation qui devra être étudiée en permanence; 7. Ces plans de scolarisation et les mesures d'application qui en découlent doivent être largement diffusés en insistant sur leur importance à l'égard de l'individu et de la société afin d'obtenir l'appui total de l'opinion publique; 8. Les plans de généralisation de la scolarité obligatoire devant, pour un certain nombre de pays, porter forcément sur une période de temps plus ou moins longue, il y a lieu d'envisager si le développement de la campagne doit s'étendre immédiatement à l'ensemble du pays ou s'il n'y aurait pas avantage à s'attaquer au problème par régions ou par zones (urbaines, rurales, etc.) afin de ne pas disperser les efforts ; 9. Le mouvement en faveur de la généralisation de la scolarité obligatoire doit être mené parallèlement pour les garçons et pour les filles. FINANCEMENT DE CES PLANS 10. L'insuffisance des crédits étant le plus sérieux des obstacles à la généralisation de la scolarité obligatoire, l'aspect financier du plan doit être soigneusement étudié ; cette étude doit non seulement porter sur les moyens de s'assurer les ressources nécessaires, mais aussi prévoir la rationalisation des dépenses, afin d'obtenir le maximum de rendement des sommes investies ; 11. Les systèmes d'administration fiscale n'étant pas les mêmes pour tous les pays, une méthode unique de financement ne saurait être suggérée ; tandis qu'il faut envisager dans certains pays la création de nouveaux impôts locaux ou nationaux, il s'agira dans d'autres cas soit d'affecter à ce financement un pourcentage suffisant du budget ordinaire de l'instruction publique, soit de prévoir un crédit extraordinaire dont la couverture sera échelonnée sur un nombre d'années déterminé; 12. Pour autant que la structure financière de chaque pays s'y prête, une participation conjointe de l'administration centrale et des administrations locales au financement du plan serait souhaitable, surtout si la participation financière de l'une des parties est conditionnée par celle de l'autre ; 13. Une large publicité devra être donnée au plan de financement afin de convaincre l'opinion publique de la rentabilité des investissements financiers consentis en faveur de l'éducation, tout progrès éducatif se traduisant à plus ou moins longue échéance par une augmentation notable du revenu national. DURÉE DE LA SCOLARITÉ OBLIGATOIRE 14. On ne saurait concevoir une scolarité trop courte, surtout dans les pays où la question linguistique se pose; la sortie de l'école ne doit pas avoir lieu avant que les acquisitions scolaires des élèves soient assez solides pour être durables et qu'elles soient suffisantes pour leur permettre de participer de façon efficace à la vie de la communauté;  140 15. Dans les pays où la scolarité obligatoire n'a pas encore été légalement établie, la durée minimum de la scolarité doit être fixée selon les principes de la recommandation précédente, sans que cette durée risque de rester purement théorique ; 16. Il n'est pas concevable de procéder à un abaissement légal de la scolarité obligatoire dans les pays où celle-ci a déjà été fixée à 5, 6 ou 7 ans ou davantage, alors même qu'une proportion très grande de la population d'âge scolaire (allant parfois jusqu'à plus de 50%) échappe encore à l'application de la loi; tout l'effort des plans de généralisation doit porter dans ce cas à rapprocher graduellement l'état de fait de l'état de droit; 17. Il est désirable que dans les pays où l'écart entre la population d'âge scolaire et le nombre d'élèves inscrits ne dépasse pas 20 ou 30%, et où la généralisation de la scolarité obligatoire semble pouvoir être réalisée dans un avenir plus ou moins immédiat, la durée de la scolarité obligatoire soit progressivement portée à 7 ou 8 ans; 18. La prolongation de la scolarité obligatoire au delà de l'âge de 14 ou 15 ans, soit sous une forme générale, soit sous la forme d'une scolarité partielle, soit dans le cadre de l'enseignement primaire ou dans celui des différents enseignements du second degré, doit être encouragée surtout dans les pays où l'obligation scolaire est déjà effective; 19. L'âge légal d'admission au travail et la durée de la scolarité obligatoire doivent être fixés en fonction l'un de l'autre ; la coordination la plus complète doit donc exister entre l'administration de l'instruction publique et celle du travail, elle doit être établie non seulement sur le plan national; mais aussi sur le plan international entre les organisations qui s'occupent de la scolarité obligatoire et celles qui s'occupent du travail des enfants et des jeunes gens. DISPENSES 20. Le principe du droit à l'éducation ayant un caractère absolu, les autorités scolaires doivent, à mesure que les circonstances le permettent, créer les institutions nécessaires et prendre des dispositions efficaces pour que les dispenses prévues dans certaines législations, ou admises implicitement, par exemple pour les enfants malades, déficients physiques ou mentaux, exemptés en raison de l'éloignement de l'école, etc., puissent être rapportées ou supprimées; 22. Des mesures telles que la création d'internats, l'organisation d'un enseignement par correspondance ou par radio, etc., peuvent contribuer selon les circonstances à assurer l'éducation des enfants dont les parents n'ont pas de domicile fixe, tels que les forains, les bateliers, etc. ; 22. L'éducation des enfants des tribus et celle des enfants nomades imposent à la société des obligations spéciales que les autorités scolaires ne sauraient éluder; le système des écoles itinérantes peut constituer, lorsque les circonstances le permettent, une solution adéquate.  141 MESURES D'ENCOURAGEMENT ET SANCTIONS 23. Un recensement périodique des enfants d'âge scolaire doit être établi dans chaque localité pour permettre le contrôle de l'application de la scolarité obligatoire; 24. Quoique des sanctions doivent être prévues pour les cas de mauvaise volonté manifeste de la part des parents ou autres personnes responsables de la fréquentation scolaire, c'est surtout à des mesures d'encouragement que l'on doit faire appel ; 25. La collaboration entre la famille et l'école doit être encouragée ; les organisations de parents pourront contribuer efficacement à la lutte contre les manquements à l'obligation scolaire, en même temps que les agents de l'autorité, le personnel de l'assistance sociale, etc. ; 26. La gratuité de l'enseignement primaire ne doit pas se limiter à l'exemption des droits d'écolage; elle doit aussi s'étendre progressivement au matériel et aux fournitures scolaires ainsi qu'aux manuels, conformément à la recommandation no z1 votée par la Xe Conférence internationale de l'Instruction publique; 27. Des mesures efficaces doivent être envisagées pour remédier, dans la mesure du possible, aux difficultés résultant de la distance, de la dispersion de l'habitat : meilleur emplacement de l'école, facilités de transport, écoles avec internat, etc. ; 28. Lorsque les élèves d'une commune ou d'une région habitent à une plus courte distance d'une école appartenant à une autre circonscription administrative ou territoriale, des facilités doivent leur être accordées pour qu'ils puissent fréquenter l'école la plus proche ; 29. Les services médicaux, d'aide alimentaire et, si besoin est, d'aide vestimentaire pour les écoliers doivent être généralisés, car, outre leur valeur propre, ils facilitent la fréquentation; les autorités scolaires doivent développer ces services même si d'autres organes officiels ou privés fournissent une aide sociale de ce genre ; 30. Des allocations familiales sont un moyen d'encourager la fréquentation scolaire ; elles peuvent compenser le manque à gagner des enfants soumis à l'obligation scolaire, et pour le moins servir à combattre l'absentéisme. ASPECTS PÉDAGOGIQUES DE LA SCOLARITÉ OBLIGATOIRE 31. Afin que le travail scolaire soit mieux apprécié des parents et que la scolarité obligatoire soit plus acceptable, l'école doit s'intégrer aussi étroitement que possible à la communauté; elle doit contribuer à l'amélioration du niveau de vie de cette communauté et devenir un des éléments de progrès social, économique, civique, artistique et culturel; pour cela, elle doit utiliser des programmes adaptés à l'enfant et des méthodes telles que les méthodes actives qui le rattachent à l'étude du milieu, permettant d'intéresser l'élève et d'orienter son esprit vers l'amélioration de ce milieu ; l'école doit aussi profiter des expériences et des efforts faits dans le domaine de l'éducation de base ;  32. Il est important, dans les communautés où l'analphabétisme prédomine, que des plans pour la généralisation de l'enseignement obligatoire soient accompagnés autant que possible de plans pour l'éducation de base des adultes; cela créera parmi les parents une atmosphère favorable à l'éducation de leurs enfants et il en résultera une plus grande harmonie entre les élèves quittant l'école et leurs aînés ; le travail d'éducation de base devra être étroitement coordonné avec celui de l'école ; 33. Tout en reconnaissant que l'école primaire dans laquelle un maître unique s'occupe des enfants de tous les âges à la fois présente pour celui-ci de très grandes difficultés d'ordre technique, il y a intérêt néanmoins à recourir à ce système partout où il peut contribuer à la généralisation de l'enseignement obligatoire ; 34. Dans la détermination de l'année scolaire, il faudrait tenir compte des caractéristiques régionales (conditions de climat, travaux saisonniers, etc.), lorsqu'il existe de grandes différences entre celles-ci ; 35: Le même principe devrait être appliqué à l'élaboration des horaires, ceux-ci devant être conçus de façon à faciliter le plus possible la fréquentation ; 36. Tout en reconnaissant que l'horaire scolaire prévoyant deux séances quotidiennes de travail est en général préférable, on peut admettre un horaire à séance unique a) lorsque la pénurie de locaux et de personnel enseignant ou le climat l'imposent comme solution temporaire pour assurer le droit à l'éducation, b) lorsque les conditions économiques et sociales le font apparaître comme avantageux; 37. L'horaire à séance unique ne doit pas imposer un travail trop long à l'élève, ni un surcroît de travail au maître, afin de ne pas avoir d'action défavorable sur la santé et sur le rendement ; 38. Etant donné les obstacles que le problème des langues présente dans certains pays pour la généralisation de la scolarité obligatoire, et tout en soulignant le rôle que peut jouer, en principe, l'emploi des langues vernaculaires, la solution de ce problème doit être recherchée pour chacun de ces pays en fonction des conditions nationales, régionales ou locales, compte tenu des données de la psychologie de l'enfant et de la pédagogie. LE PROBLÈME DU PERSONNEL ENSEIGNANT 39. L'élément essentiel dans tout plan de généralisation de l'enseignement obligatoire est le maître ; la pénurie de maîtres constituant actuellement un des obstacles à la généralisation de la scolarité obligatoire, un grand effort doit être réalisé afin d'obvier à cette pénurie ; il y a lieu, conformément aux recommandations nos 4 et I3, votées par la IVe et par la VIIe Conférence internationale de l'Instruction publique : a) d'octroyer aux membres de l'enseignement une rémunération correspondant à l'importance de leur mission ; b) de leur accorder une grande sécurité d'emploi;  c) de créer un nombre suffisant de centres de formation professionnelle pour les maîtres; 40. La formation normale du personnel enseignant doit être toujours plus poussée et plus complète tant du point de vue de la culture générale que du point de vue de la formation professionnelle proprement dite; toutefois, afin de promouvoir l'obligation scolaire, on pourrait envisager en plus, selon les circonstances, une formation accélérée des maîtres; cette formation accélérée ne saurait être que temporaire et des possibilités de perfectionnement (stages, missions pédagogiques, cours de vacances, revues éducatives, etc.) devraient être offertes à tous les maîtres quelle que soit leur origine (formation accélérée ou normale) ; 41. La formation professionnelle doit permettre aux maîtres, tout particulièrement aux maîtres ruraux, de devenir non seulement des techniciens de l'enseignement, mais aussi des personnes pouvant prendre une part active à la vie sociale, étant particulièrement avertis du milieu dans lequel ils sont appelés à vivre, au courant de ses habitudes, de ses besoins, de ses aspirations ; ils doivent être les agents actifs d'une « éducation de base » portant à la fois sur la culture générale, l'hygiène, les activités artisanales, les pratiques agricoles, etc. ; 42. Dans les cas où les maîtres ruraux connaissent des conditions de vie particulièrement difficiles, les autorités scolaires doivent s'efforcer de trouver des mesures destinées à compenser les désavantages résultant d'une telle situation. LE PROBLÈME DES CONSTRUCTIONS SCOLAIRES 43. Il y a lieu de tenir compte des suggestions ci-dessous énumérées tout en s'inspirant de la recommandation n° 9, votée par la Ve Conférence internationale de l'Instruction publique; 44. Tout plan de généralisation de la scolarité obligatoire doit s'accompagner d'un plan de construction correspondant; ce plan doit tenir compte non seulement de la construction des classes, mais aussi de celle des logements des maîtres partout où la nécessité s'en fait sentir ; 45. La situation topographique des constructions scolaires doit être étudiée avec soin en tenant compte de la répartition de la population scolaire et des distances à parcourir par les élèves ; 46. Les plans de constructions scolaires devront répondre, selon les possibilités économiques, aux exigences pédagogiques, hygiéniques et climatiques des localités auxquelles ils sont destinés ; 47. Il peut y avoir intérêt, selon les circonstances, à associer les populations à la construction de leurs propres écoles, sans que pour autant les autorités soient déchargées de la responsabilité qui leur incombe dans ce domaine ; 48. Des solutions « d'urgence » pourront être envisagées pour faire face aux besoins les plus pressants dans le domaine des constructions scolaires : écoles préfabriquées, utilisation temporaire de bâtiments destinés à d'autres fins, etc. ;  14449. Même quand la charge financière des constructions scolaires incombe en principe aux autorités, il y a lieu d'encourager les initiatives individuelles ou collectives, qu'il s'agisse de cessions gratuites de terrain, de donations, de souscriptions, etc.; dans les cas d'urgence, des emprunts spéciaux peuvent être encouragés aussi ; 50. Lorsque cela s'avère possible, l'école doit comprendre, outre le préau et la cour, un atelier, un champ ou un jardin ; 51. Lorsque les conditions climatiques le permettent, l'école en plein air peut constituer une solution au problème des constructions scolaires, étant donné ses avantages pédagogiques, économiques et hygiéniques ; 52. L'obligation scolaire doit être réalisée dès la création de toute agglomération nouvelle: un nombre suffisant d'écoles doivent avoir été prévues et bâties à cette fin. PROLONGATION DE LA SCOLARITÉ 53. Compte tenu des recommandations nos 1, 2 et 19 votées par la IIe et par la IXe Conférence internationale de l'Instruction publique, il est recommandé aux pays qui ont déjà réalisé la scolarité obligatoire d'établir, dans les délais les plus rapprochés, un plan visant à étendre graduellement le bénéfice d'une plus longue scolarité aux jeunes gens; 54. On peut envisager l'octroi d'une aide financière aux familles nécessiteuses, en particulier à l'âge où l'enfant pourrait entrer dans la vie active, sous la forme d'une compensation au manque à gagner, afin de leur permettre de laisser leurs enfants continuer les études auxquelles ils sont aptes ; 55. L'enseignement prolongé doit être adapté à la diversité des capacités, des aptitudes et des intérêts individuels, comme à l'ampleur et à la variété des besoins sociaux et économiques, en utilisant toutes les ressources que présente la culture moderne; une grande diversité d'études doit être offerte à la jeunesse avec des possibilités nombreuses d'orientation, de bifurcation et de rattrapage; 56. L'étude des sciences et des techniques doit être suffisamment humanisée pour qu'elle puisse servir aussi à la culture générale de ceux qui en feront leur spécialité ; 57. Une coordination efficace doit exister entre les divers types d'écoles de l'enseignement prolongé (secondaire classique et moderne, technique et professionnel, primaire) de façon à rendre aisé le passage d'un type à l'autre et à obtenir une sélection et une orientation plus rationnelles ; 58. Un enseignement postscolaire efficient doit permettre aux jeunes gens, occupant déjà un emploi salarié, après leur sortie de l'école et jusqu'à l'âge de 18 ans, de perfectionner leur formation professionnelle et leur culture générale, l'employeur accordant à cet effet le temps nécessaire.  145 CONTRIBUTION DES ORGANISATIONS INTERNATIONALES La Conférence Soumet à l'Organisation des Nations Unies, aux Institutions spécialisées et aux Organisations intergouvernementales la recommandation suivante : 59. Que l'Unesco, en consultation avec les Etats membres intéressés et les Institutions spécialisées des Nations Unies et les Organisations internationales, considère la possibilité d'élaborer un programme d'assistance pour mettre en vigueur l'instruction obligatoire dans les Etats membres qui en feraient la demande; ce programme devrait répondre aux besoins nationaux et être conforme au Pacte des Nations Unies ; il devrait coordonner toutes les sources d'assistance actuellement disponibles, envisager la possibilité de prêts et faire appel à des fonds provenant de contributions bénévoles ; 60. Qu'une attention prioritaire soit prêtée, lors de l'élaboration des plans d'assistance technique, aux plans qui ont trait à la généralisation de la scolarité obligatoire ; 61. Que cette assistance ne soit pas seulement d'ordre financier mais qu'elle comporte une collaboration efficace des organisations internationales, en ce qui concerne l'élaboration et l'application des plans de généralisation ; 62. En attendant que les plans de développement économique aient produit les résultats escomptés et permettent de couvrir les dépenses de l'obligation scolaire, il serait souhaitable que la Banque Internationale pour la Reconstruction et le Développement étudiât la possibilité d'accorder aux pays qui en feraient la demande des prêts à long terme pour la réalisation immédiate de leur plan de scolarisation ; 63. Que l'Organisation des Nations Unies pour l'Education, la Science et la Culture contribue par l'organisation de conférences régionales à l'adaptation des principes énoncés par la XIVe Conférence internationale de l'Instruction publique aux conditions spéciales des différentes régions du globe; 64. Que des missions d'experts soient envoyées dans les pays qui en feraient la demande pour étudier sur place les aspects particuliers que présente la généralisation de la scolarité obligatoire et que réciproquement des bourses internationales soient accordées à des experts des pays qui en feraient la demande pour aller étudier l'obligation scolaire dans les pays où celle-ci est déjà réalisée ; 65. Que l'Organisation des Nations Unies pour l'Education, la Science et la Culture continue les enquêtes et études entreprises concernant la scolarité obligatoire et sa prolongation, sans oublier l'orientation scolaire et la coordination des divers types d'enseignement du deuxième degré, et que les résultats de ces études soient publiés et portés à la connaissance des autorités scolaires et des éducateurs ; 66. Que, dans le cadre d'accords latéraux ou multilatéraux, soient pratiqués, en vue de la généralisation et de la prolongation de la scolarité obligatoire, des échanges d'information, des rencontres d'experts et, éventuellement, une action d'entr'aide."
+  }
+}

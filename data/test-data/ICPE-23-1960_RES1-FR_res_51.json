@@ -1,0 +1,496 @@
+{
+  "TEXT_ID": "ICPE-23-1960_RES1-FR_res_51",
+  "RECOMMENDATION": 51,
+  "TITLE": "L'ORGANISATION DE L'ENSEIGNEMENT SPÉCIAL POUR LES DEBILES MENTAUX",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-23-1960_RES1-FR",
+      "nb_paras": 53,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le six juillet mil neuf cent soixante en sa vingt-troisième session, adopte le quinze juillet mil neuf cent soixante la recommandation suivante: La Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Instruction, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and the International Bureau of Education, and having met there on July 6, 1960, at its twenty-third session, adopts on July 15, 1960, the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant les principes déjà énoncés par la Conférence internationale de l'instruction publique sur l'organisation de l'enseignement spécial dans sa Recommandation no 7 adoptée le quatorze juillet mil neuf cent trente-six en sa cinquième session,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the principles already set forth by the International Conference on Public Instruction regarding the organization of special education in its Recommendation No. 7 adopted on July 14, 1936, during its fifth session,"
+      },
+      {
+        "para_number": 3,
+        "para": "Considérant que le droit à l'éducation, proclamé par la Déclaration universelle des droits de l'homme, s'applique à tous les individus qui sont capables d'en profiter, y compris les moins doués,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the right to education, proclaimed by the Universal Declaration of Human Rights, applies to all individuals who are capable of benefiting from it, including those with lesser abilities,"
+      },
+      {
+        "para_number": 4,
+        "para": "Considérant que l'idée d'enseignement obligatoire pour tous est universellement acceptée et qu'elle est déjà appliquée dans bon nombre de pays,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the idea of compulsory education for all is universally accepted and is already implemented in many countries,"
+      },
+      {
+        "para_number": 5,
+        "para": "Considérant le handicap économique, social et culturel que représente pour un peuple l'existence en son sein d'un contingent de déficients mentaux dont bon nombre auraient pu devenir des éléments utiles s'ils avaient été convenablement éduqués,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the economic, social, and cultural handicap represented for a people by the existence within it of a group of mentally disabled individuals, many of whom could have become useful members if they had been properly educated,"
+      },
+      {
+        "para_number": 6,
+        "para": "Considérant qu'il convient de tirer parti de toute aptitude particulière dont peut témoigner un enfant débile mental, en vue de faciliter son éducation,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that it is appropriate to make use of any particular ability demonstrated by a mentally disabled child, with a view to facilitating their education,"
+      },
+      {
+        "para_number": 7,
+        "para": "Considérant que, grâce aux progrès réalisés par la médecine, par la psychologie de l'enfant et par la pédagogie curative, il existe des moyens de dépister les enfants souffrant de déficience mentale et d'entreprendre leur éducation au moyen de méthodes fondées sur la différenciation et l'individualisation de l'enseignement,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas, thanks to advances made in medicine, child psychology, and remedial pedagogy, there are means to identify children suffering from mental deficiency and to undertake their education using methods based on the differentiation and individualization of teaching,"
+      },
+      {
+        "para_number": 8,
+        "para": "Considérant que l'application de méthodes d'éducation différenciée ne doit pas conduire à isoler complètement de la communauté des enfants qui ont besoin de rester en contact avec la vie normale pour pouvoir s'y intégrer — 151 — par la suite et que le maître averti peut tirer parti de cette situation pour susciter chez les enfants dotés d'aptitudes diverses des attitudes favorisant une meilleure compréhension mutuelle,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the application of differentiated educational methods should not lead to the complete isolation from the community of children who need to remain in contact with normal life in order to be able to integrate into it thereafter, and that a trained teacher can take advantage of this situation to cultivate in children with diverse abilities attitudes that promote better mutual understanding,"
+      },
+      {
+        "para_number": 9,
+        "para": "Considérant que, dans chaque pays, le problème de l'extension de l'enseignement spécial pour les débiles mentaux est toujours lié au stade d'avancement de la scolarisation des élèves normaux et que, pour organiser cet enseignement spécial, il y a lieu de tenir compte des différences pouvant subsister entre les grandes localités et les localités moins importantes,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that, in each country, the issue of expanding special education for mentally disabled children is always linked to the level of advancement in the schooling of regular students and that, in organizing this special education, it is necessary to take into account the differences that may exist between large urban centers and smaller localities,"
+      },
+      {
+        "para_number": 10,
+        "para": "Considérant que les problèmes relatifs à l'éducation spéciale doivent avoir, dans la coopération culturelle entre nations et dans les programmes d'assistance technique, une place d'autant plus importante que ces problèmes, malgré leur urgence, n'ont pas encore pu être systématiquement abordés dans certains pays,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that special education issues must have an increasingly important place in cultural cooperation between nations and in technical assistance programs, especially since these issues, despite their urgency, have not yet been systematically addressed in certain countries,"
+      },
+      {
+        "para_number": 11,
+        "para": "Considérant qu'en dépit d'aspirations semblables, des pays dont la situation est très différente se doivent d'apporter des solutions diverses au problème de l'organisation de l'enseignement spécial pour les débiles mentaux,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that, despite similar aspirations, countries with very different circumstances must provide diverse solutions to the problem of organizing special education for the mentally retarded,"
+      },
+      {
+        "para_number": 12,
+        "para": "Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante:",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits to the Ministries of Public Instruction of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 13,
+        "para": "1. Il importe que, partout où les circonstances le permettent, le dépistage des enfants débiles mentaux soit effectué dès le début de la scolarité et, si possible, dès la période préscolaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. It is important that, wherever circumstances permit, the screening of mentally deficient children be carried out from the beginning of schooling and, if possible, from the preschool period."
+      },
+      {
+        "para_number": 14,
+        "para": "2. A cet effet, il importe que les techniques d'observation et de mesure psychologique, d'une part, les moyens de diagnostic dont disposent les différents spécialistes, d'autre part, soient perfectionnés de façon à assurer un dépistage aussi objectif que possible qui évite, entre autres, la confusion entre la débilité mentale organique et la débilité mentale apparente.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. To this end, it is essential that the techniques of psychological observation and measurement, on the one hand, and the diagnostic tools available to various specialists, on the other hand, be refined so as to ensure a screening process that is as objective as possible, thereby avoiding, among other things, confusion between organic mental retardation and apparent mental retardation."
+      },
+      {
+        "para_number": 15,
+        "para": "3. Il convient aussi de tenir compte de la manière dont les enfants soupçonnés de débilité mentale se comportent dans le milieu familial, social et scolaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. It is also appropriate to take into account the behavior of children suspected of mental retardation within the family, social, and school environments."
+      },
+      {
+        "para_number": 16,
+        "para": "4. La décision de retirer un enfant de l'enseignement de type courant et le choix de la classe ou de l'école sur laquelle il sera dirigé sont du ressort des autorités scolaires, si possible avec l'accord de la famille; il serait bon qu'une période d'observation précède toute décision.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. The decision to remove a child from regular education and the choice of the class or school to which the child will be assigned fall under the responsibility of the educational authorities, preferably with the consent of the family; it would be advisable for a period of observation to precede any decision."
+      },
+      {
+        "para_number": 17,
+        "para": "5. Tous les enfants débiles mentaux reconnus éducables ont droit à l'éducation au même titre que les autres enfants; il en résulte que les autorités scolaires ont le devoir impérieux de leur offrir une éducation appropriée à leurs besoins. — 152 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. All children with intellectual disabilities who are deemed educable have the right to education on the same basis as other children; it follows that the educational authorities have the imperative duty to provide them with an education appropriate to their needs."
+      },
+      {
+        "para_number": 18,
+        "para": "6. Le principe de l'obligation scolaire ne peut être invoqué à l'égard de l'enfant débile mental que dans la mesure où les autorités scolaires peuvent lui assurer un enseignement approprié; il est même hautement désirable que cet enseignement se prolonge au delà de la limite légale de l'obligation scolaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. The principle of compulsory schooling can only be invoked in relation to the mentally retarded child insofar as the school authorities are able to provide appropriate education; it is even highly desirable that this education extends beyond the legal limit of compulsory schooling."
+      },
+      {
+        "para_number": 19,
+        "para": "7. Le principe de la gratuité constituant un corollaire de l'obligation scolaire, les débiles mentaux devraient bénéficier de la gratuité de l'enseignement, même si l'enseignement spécial exige un effort financier particulier.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. The principle of free education, being a corollary of compulsory schooling, should apply to mentally retarded children, even if special education requires a particular financial effort."
+      },
+      {
+        "para_number": 20,
+        "para": "8. Lorsque les enfants débiles mentaux doivent fréquenter un internat, des crédits devraient être prévus pour aider les parents à qui leurs moyens ne permettraient pas de payer les frais de pension et de transport, qu'il s'agisse d'une institution officielle ou d'une institution privée.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. When mentally handicapped children are required to attend a boarding school, funds should be allocated to assist parents whose financial means do not allow them to pay the boarding and transportation fees, whether the institution is public or private."
+      },
+      {
+        "para_number": 21,
+        "para": "9. Dans les pays où l'importance de l'enseignement spécial le justifie, il y a lieu de charger un service spécialisé de l'instruction publique de contribuer au développement de l'enseignement destiné à toutes les catégories d'enfants inadaptés, notamment en coordonnant les efforts réalises dans ce domaine.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. In countries where the significance of special education justifies it, a specialized public education service should be entrusted with contributing to the development of education intended for all categories of maladapted children, notably by coordinating the efforts carried out in this field."
+      },
+      {
+        "para_number": 22,
+        "para": "10. En ce qui concerne les débiles mentaux, le service de l'enseignement spécial devrait entreprendre, par ses propres moyens ou avec l'aide des centres de documentation ou de recherche pédagogique: a) l'établissement de définitions précises concernant les différentes catégories de débiles mentaux; b) l'élaboration de statistiques sur la proportion d'enfants d'âge scolaire qui entrent dans ces diverses catégories, ainsi que sur leur taux de scolarisation; c) des études portant sur les besoins satisfaits et encore à satisfaire dans ce domaine; d) la mise au point de plans destinés à assurer l'extension rationnelle et progressive de l'enseignement spécial; e) l'étude des problèmes que posent la formation professionnelle des enfants débiles mentaux et les conditions de leur emploi; f) l'étude des différentes formes d'aide postscolaire à accorder à ces mêmes enfants, etc.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. With regard to mentally retarded individuals, the special education service should undertake, by its own means or with the assistance of documentation centers or educational research institutes: a) the establishment of precise definitions concerning the various categories of mentally retarded individuals; b) the development of statistics on the proportion of school-age children who fall into these different categories, as well as on their enrollment rates; c) studies on the needs that have been met and those that still need to be addressed in this field; d) the formulation of plans aimed at ensuring the rational and progressive expansion of special education; e) the examination of issues related to the vocational training of mentally retarded children and the conditions of their employment; f) the study of the different forms of post-school assistance to be provided to these same children, etc."
+      },
+      {
+        "para_number": 23,
+        "para": "11. Le service de l'enseignement spécial devrait assurer le contrôle des institutions publiques et privées relevant de sa compétence; dès que le nombre de ces établissements le justifie, le contrôle devrait en être confié à des inspecteurs ou conseillers spécialisés, capables de guider les maîtres et de contribuer au développement de cet enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. The special education service should ensure the supervision of public and private institutions within its jurisdiction; as soon as the number of these establishments justifies it, supervision should be entrusted to specialized inspectors or advisors, capable of guiding teachers and contributing to the development of this form of education."
+      },
+      {
+        "para_number": 24,
+        "para": "12. Là où il n'existe pas d'inspecteurs de l'enseignement spécial, il faudrait que les inspecteurs ordinaires, surtout ceux qui ont la responsabilité des écoles situées dans de petites localités et dans les régions rurales, se préoccupent du sort qui est fait aux cas isolés de débilité mentale et fassent partager ce souci aux maîtres, aux autorités scolaires et aux organisations de protection sociale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. Where there are no special education inspectors, ordinary inspectors, particularly those responsible for schools located in small communities and rural areas, should take an interest in the treatment of isolated cases of mental deficiency and encourage teachers, educational authorities, and social protection organizations to share this concern."
+      },
+      {
+        "para_number": 25,
+        "para": "13. L'éducation des débiles mentaux semble constituer un domaine où la collaboration entre l'initiative privée et les autorités scolaires peut — 153 — s'avérer particulièrement efficace; c'est pourquoi, là où la chose est possible, il conviendrait de soutenir l'effort des associations privées qui ont souvent été à l'avant-garde de l'éducation et de la protection des débiles mentaux et qui, maintenant encore, contribuent parfois à compenser l'absence d'action officielle dans ce domaine.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. The education of the mentally deficient appears to be an area where collaboration between private initiative and educational authorities can prove particularly effective; for this reason, wherever possible, efforts by private associations—which have often been at the forefront of the education and protection of the mentally deficient and which still sometimes help to compensate for the lack of official action in this field—should be supported."
+      },
+      {
+        "para_number": 26,
+        "para": "14. Etant donné la variété des formes de débilité mentale et les circonstances particulières à chaque cas, il importe de prévoir divers types de classes et d'établissements permettant un enseignement différencié.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. Given the variety of forms of mental deficiency and the particular circumstances of each case, it is important to provide various types of classes and institutions allowing for differentiated instruction."
+      },
+      {
+        "para_number": 27,
+        "para": "15. Il faut éviter, autant que possible, de séparer complètement le débile mental de son milieu et notamment des enfants mieux doués, sans toutefois le mettre en compétition avec eux dans des épreuves où il se trouverait en situation d'infériorité; c'est pourquoi il est souhaitable d'ouvrir des classes spéciales dans des écoles de type courant.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "15. As far as possible, mentally disabled individuals should not be completely separated from their environment, particularly from more gifted children, without, however, placing them in competition with such children in activities where they would be at a disadvantage; for this reason, it is desirable to establish special classes within mainstream schools."
+      },
+      {
+        "para_number": 28,
+        "para": "16. Pour les débiles mentaux plus gravement atteints, les écoles spéciales, avec ou sans internat, semblent mieux convenir ; l'internat parait surtout nécessaire lorsque le domicile des parents est éloigné de tout externat spécialisé, lorsque le milieu familial est défectueux ou lorsque la débilité mentale s'accompagne de troubles du comportement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. For more severely mentally disabled individuals, special schools, with or without boarding facilities, appear to be more appropriate; boarding is especially necessary when the parents’ home is far from any specialized day school, when the family environment is inadequate, or when the mental disability is accompanied by behavioral disorders."
+      },
+      {
+        "para_number": 29,
+        "para": "17. Dans les grandes localités des pays qui disposent des moyens nécessaires et qui ont résolu les problèmes posés par la généralisation de l'obligation scolaire au niveau du premier degré, il y a lieu d'envisager l'ouverture progressive de classes et d'écoles du type ci-dessus.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. In large towns of countries that have the necessary resources and have resolved the issues arising from the generalization of compulsory schooling at the primary level, it is appropriate to consider the gradual establishment of classes and schools of the type mentioned above."
+      },
+      {
+        "para_number": 30,
+        "para": "18. Dans les petites localités et dans les régions à population clairsemée où il n'est pas possible d'ouvrir une classe ou une école spéciale, on peut envisager l'une ou l'autre des solutions suivantes: a) enseignement individualisé dans les classes de type courant; b) fréquentation d'une classe ou d'une école spéciale dans une localité voisine, à condition que soient assurés les moyens de transport et, le cas échéant, le repas de midi; c) enseignement à domicile et système des maîtres itinérants; d) fréquentation d'un internat.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. In small localities and in sparsely populated regions where it is not possible to open a special class or school, one of the following solutions may be considered: a) individualized teaching within regular classes; b) attendance at a special class or school in a neighboring locality, provided that transportation means and, where applicable, midday meals are ensured; c) home teaching and the system of itinerant teachers; d) attendance at a boarding school."
+      },
+      {
+        "para_number": 31,
+        "para": "19. Dans les pays qui ne possèdent pas encore les moyens d'organiser systématiquement un enseignement pour les débiles mentaux et même dans les pays où l'obligation scolaire n'est pas encore appliquée intégralement, il convient de prévoir au moins des expériences pilotes, permettant de scolariser un certain nombre d'enfants débiles mentaux et de servir de point de départ à un véritable enseignement spécial.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "19. In countries that do not yet have the means to systematically organize education for mentally retarded children, and even in countries where compulsory schooling is not yet fully enforced, at least pilot projects should be planned to enable the schooling of a certain number of mentally retarded children and to serve as a starting point for genuine special education."
+      },
+      {
+        "para_number": 32,
+        "para": "20. L'enseignement des débiles mentaux, plus que tout autre, doit être fonctionnel et concret; il convient donc de recourir aux méthodes qui stimulent les fonctions mentales par des activités faisant appel à l'intelligence pratique et permettant d'acquérir les notions de base. — 154 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. The education of mentally deficient individuals, more than any other, must be functional and concrete; therefore, it is appropriate to use methods that stimulate mental functions through activities engaging practical intelligence and enabling the acquisition of basic concepts."
+      },
+      {
+        "para_number": 33,
+        "para": "21. L'enseignement doit être fortement individualisé pour s'adapter aux aptitudes, aux besoins et au rythme d'apprentissage propres à chaque enfant; d'autre part, il doit prévoir des activités de groupe, qu'il s'agisse de travail ou de jeu, pour développer son sens social.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "21. Teaching must be highly individualized to adapt to the aptitudes, needs, and learning pace specific to each child; furthermore, it must include group activities, whether work or play, to develop their social sense."
+      },
+      {
+        "para_number": 34,
+        "para": "22. Pour toutes ces raisons, il importe de ne pas confier plus d'une quinzaine d'élèves à un seul maître, pour autant que la chose soit possible.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. For all these reasons, it is important not to assign more than about fifteen students to a single teacher, insofar as this is possible."
+      },
+      {
+        "para_number": 35,
+        "para": "23. Il ne faut pas craindre les exercices de récapitulation et de répétition propres à fixer l'acquisition des mécanismes de base et des connaissances à la portée des enfants débiles mentaux, tout en donnant une place suffisante à l'éducation du caractère et à la formation d'habitudes et d'attitudes socialement et moralement acceptables, de manière à développer chez eux des qualités pouvant compenser les déficits de leur intelligence et leur donner confiance en eux-mêmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "23. One should not fear the use of review and repetition exercises that help consolidate the acquisition of basic skills and knowledge within the grasp of mentally deficient children, while also giving sufficient attention to character education and the formation of socially and morally acceptable habits and attitudes, so as to develop qualities in them that can compensate for their intellectual deficits and instill self-confidence."
+      },
+      {
+        "para_number": 36,
+        "para": "24. Il importe de souligner la valeur de la logopédie comme moyen de rééducation pour les enfants débiles mentaux.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. It is important to emphasize the value of speech therapy as a means of rehabilitation for mentally deficient children."
+      },
+      {
+        "para_number": 37,
+        "para": "25. Le jeu, l'éducation physique et rythmique, le chant choral et la musique, le dessin et les arts plastiques doivent faire partie intégrante de l'éducation des débiles mentaux; ce sont des moyens d'expression qui les aideront à se discipliner et à développer harmonieusement leur personnalité.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. Play, physical and rhythmic education, choral singing and music, drawing and the visual arts must be an integral part of the education of mentally deficient children; these are means of expression that will help them to discipline themselves and to develop their personality harmoniously."
+      },
+      {
+        "para_number": 38,
+        "para": "26. Les travaux manuels occuperont, dès le début, une place essentielle dans l'éducation des débiles mentaux et pourront, par la suite, servir de base à une véritable initiation professionnelle.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. Manual work will occupy, from the outset, an essential place in the education of mentally retarded children and may subsequently serve as a foundation for genuine vocational training."
+      },
+      {
+        "para_number": 39,
+        "para": "27. La collaboration entre l'école et la famille est particulièrement nécessaire dans l'enseignement pour les débiles mentaux ; une action suivie doit être exercée par le maître et, le cas échéant, par l'assistante sociale pour faire comprendre aux parents ou tuteurs les besoins particuliers de leur enfant débile; leur participation à certaines activités scolaires ou extrascolaires devrait même être sollicitée.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. Collaboration between the school and the family is particularly necessary in the education of mentally disabled individuals; continuous efforts must be made by the teacher and, where appropriate, by the social worker to help parents or guardians understand the specific needs of their mentally disabled child; their participation in certain school or extracurricular activities should even be encouraged."
+      },
+      {
+        "para_number": 40,
+        "para": "28. Si l'école spéciale ne peut donner une véritable formation professionnelle, il serait utile de prévoir des cours complémentaires professionnels et des ateliers d'apprentissage à l'intention des débiles mentaux, avec des périodes d'apprentissage de durée suffisamment longue.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. If the special school cannot provide genuine vocational training, it would be useful to organize supplementary professional courses and apprenticeship workshops for mentally handicapped individuals, with apprenticeship periods of sufficiently long duration."
+      },
+      {
+        "para_number": 41,
+        "para": "29. Il importe de multiplier les activités propres à faciliter l'adaptation à la vie quotidienne et l'intégration dans le monde du travail; dans certains pays, il peut être utile de recourir au système « école-emploi », qui permet un travail à temps partiel sous le contrôle de l'école.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. It is important to increase activities specifically designed to facilitate adaptation to daily life and integration into the workforce; in some countries, it may be useful to adopt the \"school-work\" system, which allows part-time employment under the supervision of the school."
+      },
+      {
+        "para_number": 42,
+        "para": "30. Il faut aider les jeunes débiles mentaux à trouver des emplois à leur convenance, de façon que toute action éducative ne se trouve pas interrompue après l'école et que, grâce à leur salaire, ces adolescents ne soient pas une charge pour la société; les services d'orientation professionnelle — 155 et de placement devraient procéder à un inventaire systématique des postes les mieux adaptés aux débiles mentaux, notamment dans l'industrie.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. Efforts must be made to assist young mentally handicapped individuals in finding suitable employment, so that all educational efforts are not interrupted after school and, through their wages, these adolescents do not become a burden on society; vocational guidance and placement services should conduct a systematic inventory of the positions best suited to mentally handicapped persons, particularly in industry."
+      },
+      {
+        "para_number": 43,
+        "para": "31. Une action postscolaire en faveur des débites mentaux est indispensable; les services destinés à assurer cette action devraient être développés tant sur le plan officiel que dans le domaine privé; il leur faut rester en contact avec les jeunes débiles mentaux et leurs familles, s'intéresser à leur sort et leur assurer la protection sociale et les conseils dont ils ont besoin.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. Post-school support for the mentally deficient is essential; the services intended to provide such support should be developed both officially and privately; they must maintain contact with mentally deficient youths and their families, take an interest in their well-being, and ensure they receive the social protection and guidance they need."
+      },
+      {
+        "para_number": 44,
+        "para": "32. L'enseignement spécial exige, tant des maîtres que des éducateurs, des qualités de dévouement, de patience et de tact sans lesquelles une préparation spécialisée, même très complète, ne pourrait porter tous ses fruits.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Special education demands from both teachers and educators qualities of dedication, patience, and tact, without which even the most comprehensive specialized training could not yield its full benefits."
+      },
+      {
+        "para_number": 45,
+        "para": "33. L'éducation des débiles mentaux présentant des problèmes pédagogiques et psychologiques particuliers, il importe de prévoir, à l'intention des maîtres qui s'y destinent, des cours de spécialisation de durée suffisamment longue pour compléter leur formation pédagogique générale; il serait souhaitable que les maîtres en exercice soient invités à suivre périodiquement des cours de perfectionnement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. The education of mentally handicapped individuals presenting particular pedagogical and psychological challenges requires the provision of specialization courses of sufficient duration for teachers who intend to work in this field, in order to complete their general pedagogical training; it would be desirable for practicing teachers to be invited to periodically attend refresher courses."
+      },
+      {
+        "para_number": 46,
+        "para": "34. Les éducateurs qui sont chargés de s'occuper des enfants en dehors des heures de classe et notamment à l'internat ont un rôle essentiel du point de vue pédagogique ; il y aurait lieu de prévoir, pour eux également, une formation spécialisée, comme cela se pratique déjà dans plusieurs pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "34. Educators who are responsible for caring for children outside of class hours, particularly in boarding schools, play an essential role from a pedagogical standpoint; specialized training should also be provided for them, as is already practiced in several countries."
+      },
+      {
+        "para_number": 47,
+        "para": "35. Les traitements des maîtres et des éducateurs appartenant à l'enseignement spécial devraient tenir compte comme il convient des difficultés inhérentes à leur tâche et de la formation complémentaire que les intéressés peuvent avoir reçue.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. The salaries of teachers and educators working in special education should appropriately reflect the difficulties inherent in their tasks as well as the additional training they may have received."
+      },
+      {
+        "para_number": 48,
+        "para": "36. Etant donné que les rapports entre l'enseignement de type courant et l'enseignement spécial doivent rester très étroits et qu'un grand nombre de maîtres ordinaires risquent d'avoir dans leur classe des enfants qui suivent difficilement, il est de toute importance que les maîtres et les inspecteurs de l'enseignement de type courant reçoivent une information précise sur les problèmes de la débilité mentale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. Given that the relationship between mainstream education and special education must remain very close and that a large number of regular teachers are likely to have children in their classes who face learning difficulties, it is of utmost importance that mainstream teachers and inspectors receive precise information on the issues related to intellectual disabilities."
+      },
+      {
+        "para_number": 49,
+        "para": "37. Il serait souhaitable que les inspecteurs de l'enseignement spécial soient recrutés, autant que possible, parmi les maîtres de cet enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. It would be desirable for special education inspectors to be recruited, as far as possible, from among the teachers of this type of education."
+      },
+      {
+        "para_number": 50,
+        "para": "38. Les pays qui manquent de ressources financières et de personnel qualifié pour assurer l'organisation ou le développement d'un enseignement spécial, devraient bénéficier d'une assistance technique qui pourrait prendre la forme d'octroi de bourses d'études et de recherche, d'aide matérielle, d'envoi d'experts, etc. — 156 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Countries lacking financial resources and qualified personnel to ensure the organization or development of special education should receive technical assistance, which could take the form of scholarships and research grants, material aid, the dispatch of experts, and so forth."
+      },
+      {
+        "para_number": 51,
+        "para": "39. Il importerait que l'Unesco, agissant en liaison avec les organismes et les spécialistes qui s'intéressent à la question, établisse sans tarder une classification de base des grandes catégories d'enfants inadaptés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. It is essential that UNESCO, acting in collaboration with relevant organizations and specialists interested in the matter, promptly establish a basic classification of the main categories of children with special needs."
+      },
+      {
+        "para_number": 52,
+        "para": "40. Il serait souhaitable que l'Unesco participe à la création d'un organisme international ou coordonne le travail des organismes internationaux existants en vue d'aider les services de l'enseignement spécial de tous les pays en leur fournissant une documentation sur les réalisations accomplies dans la recherche, le dépistage, l'observation, les techniques, les méthodes, le matériel didactique, l'administration, etc. concernant l'enseignement spécial.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "40. It would be desirable for UNESCO to participate in the establishment of an international body or to coordinate the work of existing international organizations with the aim of assisting special education services in all countries by providing documentation on achievements made in research, screening, observation, techniques, methods, teaching materials, administration, and other aspects related to special education."
+      },
+      {
+        "para_number": 53,
+        "para": "41. Il serait également souhaitable que l'Unesco, en collaboration avec le Bureau international d'Education et les autres organisations internationales intéressées, aide des pays se trouvant dans une situation semblable à confronter leurs expériences dans le domaine de l'enseignement spécial.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "41. It would also be desirable for UNESCO, in collaboration with the International Bureau of Education and other interested international organizations, to assist countries in similar circumstances to compare their experiences in the field of special education."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le six juillet mil neuf cent soixante en sa vingt-troisième session, adopte le quinze juillet mil neuf cent soixante la recommandation suivante: La Conférence, Considérant les principes déjà énoncés par la Conférence internationale de l'instruction publique sur l'organisation de l'enseignement spécial dans sa Recommandation no 7 adoptée le quatorze juillet mil neuf cent trente-six en sa cinquième session, Considérant que le droit à l'éducation, proclamé par la Déclaration universelle des droits de l'homme, s'applique à tous les individus qui sont capables d'en profiter, y compris les moins doués, Considérant que l'idée d'enseignement obligatoire pour tous est universellement acceptée et qu'elle est déjà appliquée dans bon nombre de pays, Considérant le handicap économique, social et culturel que représente pour un peuple l'existence en son sein d'un contingent de déficients mentaux dont bon nombre auraient pu devenir des éléments utiles s'ils avaient été convenablement éduqués, Considérant qu'il convient de tirer parti de toute aptitude particulière dont peut témoigner un enfant débile mental, en vue de faciliter son éducation, Considérant que, grâce aux progrès réalisés par la médecine, par la psychologie de l'enfant et par la pédagogie curative, il existe des moyens de dépister les enfants souffrant de déficience mentale et d'entreprendre leur éducation au moyen de méthodes fondées sur la différenciation et l'individualisation de l'enseignement, Considérant que l'application de méthodes d'éducation différenciée ne doit pas conduire à isoler complètement de la communauté des enfants qui ont besoin de rester en contact avec la vie normale pour pouvoir s'y intégrer  — 151 — par la suite et que le maître averti peut tirer parti de cette situation pour susciter chez les enfants dotés d'aptitudes diverses des attitudes favorisant une meilleure compréhension mutuelle, Considérant que, dans chaque pays, le problème de l'extension de l'enseignement spécial pour les débiles mentaux est toujours lié au stade d'avancement de la scolarisation des élèves normaux et que, pour organiser cet enseignement spécial, il y a lieu de tenir compte des différences pouvant subsister entre les grandes localités et les localités moins importantes, Considérant que les problèmes relatifs à l'éducation spéciale doivent avoir, dans la coopération culturelle entre nations et dans les programmes d'assistance technique, une place d'autant plus importante que ces problèmes, malgré leur urgence, n'ont pas encore pu être systématiquement abordés dans certains pays, Considérant qu'en dépit d'aspirations semblables, des pays dont la situation est très différente se doivent d'apporter des solutions diverses au problème de l'organisation de l'enseignement spécial pour les débiles mentaux, Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante: DÉPISTAGE 1. Il importe que, partout où les circonstances le permettent, le dépistage des enfants débiles mentaux soit effectué dès le début de la scolarité et, si possible, dès la période préscolaire. 2. A cet effet, il importe que les techniques d'observation et de mesure psychologique, d'une part, les moyens de diagnostic dont disposent les différents spécialistes, d'autre part, soient perfectionnés de façon à assurer un dépistage aussi objectif que possible qui évite, entre autres, la confusion entre la débilité mentale organique et la débilité mentale apparente. 3. Il convient aussi de tenir compte de la manière dont les enfants soupçonnés de débilité mentale se comportent dans le milieu familial, social et scolaire. 4. La décision de retirer un enfant de l'enseignement de type courant et le choix de la classe ou de l'école sur laquelle il sera dirigé sont du ressort des autorités scolaires, si possible avec l'accord de la famille; il serait bon qu'une période d'observation précède toute décision. OBLIGATION SCOLAIRE 5. Tous les enfants débiles mentaux reconnus éducables ont droit à l'éducation au même titre que les autres enfants; il en résulte que les autorités scolaires ont le devoir impérieux de leur offrir une éducation appropriée à leurs besoins.  — 152 — 6. Le principe de l'obligation scolaire ne peut être invoqué à l'égard de l'enfant débile mental que dans la mesure où les autorités scolaires peuvent lui assurer un enseignement approprié; il est même hautement désirable que cet enseignement se prolonge au delà de la limite légale de l'obligation scolaire. 7. Le principe de la gratuité constituant un corollaire de l'obligation scolaire, les débiles mentaux devraient bénéficier de la gratuité de l'enseignement, même si l'enseignement spécial exige un effort financier particulier. 8. Lorsque les enfants débiles mentaux doivent fréquenter un internat, des crédits devraient être prévus pour aider les parents à qui leurs moyens ne permettraient pas de payer les frais de pension et de transport, qu'il s'agisse d'une institution officielle ou d'une institution privée. ADMINISTRATION ET CONTRÔLE 9. Dans les pays où l'importance de l'enseignement spécial le justifie, il y a lieu de charger un service spécialisé de l'instruction publique de contribuer au développement de l'enseignement destiné à toutes les catégories d'enfants inadaptés, notamment en coordonnant les efforts réalises dans ce domaine. 10. En ce qui concerne les débiles mentaux, le service de l'enseignement spécial devrait entreprendre, par ses propres moyens ou avec l'aide des centres de documentation ou de recherche pédagogique: a) l'établissement de définitions précises concernant les différentes catégories de débiles mentaux; b) l'élaboration de statistiques sur la proportion d'enfants d'âge scolaire qui entrent dans ces diverses catégories, ainsi que sur leur taux de scolarisation; c) des études portant sur les besoins satisfaits et encore à satisfaire dans ce domaine; d) la mise au point de plans destinés à assurer l'extension rationnelle et progressive de l'enseignement spécial; e) l'étude des problèmes que posent la formation professionnelle des enfants débiles mentaux et les conditions de leur emploi; f) l'étude des différentes formes d'aide postscolaire à accorder à ces mêmes enfants, etc. 11. Le service de l'enseignement spécial devrait assurer le contrôle des institutions publiques et privées relevant de sa compétence; dès que le nombre de ces établissements le justifie, le contrôle devrait en être confié à des inspecteurs ou conseillers spécialisés, capables de guider les maîtres et de contribuer au développement de cet enseignement. 12. Là où il n'existe pas d'inspecteurs de l'enseignement spécial, il faudrait que les inspecteurs ordinaires, surtout ceux qui ont la responsabilité des écoles situées dans de petites localités et dans les régions rurales, se préoccupent du sort qui est fait aux cas isolés de débilité mentale et fassent partager ce souci aux maîtres, aux autorités scolaires et aux organisations de protection sociale. 13. L'éducation des débiles mentaux semble constituer un domaine où la collaboration entre l'initiative privée et les autorités scolaires peut  — 153 — s'avérer particulièrement efficace; c'est pourquoi, là où la chose est possible, il conviendrait de soutenir l'effort des associations privées qui ont souvent été à l'avant-garde de l'éducation et de la protection des débiles mentaux et qui, maintenant encore, contribuent parfois à compenser l'absence d'action officielle dans ce domaine. STRUCTURE DE L'ENSEIGNEMENT SPÉCIAL 14. Etant donné la variété des formes de débilité mentale et les circonstances particulières à chaque cas, il importe de prévoir divers types de classes et d'établissements permettant un enseignement différencié. 15. Il faut éviter, autant que possible, de séparer complètement le débile mental de son milieu et notamment des enfants mieux doués, sans toutefois le mettre en compétition avec eux dans des épreuves où il se trouverait en situation d'infériorité; c'est pourquoi il est souhaitable d'ouvrir des classes spéciales dans des écoles de type courant. 16. Pour les débiles mentaux plus gravement atteints, les écoles spéciales, avec ou sans internat, semblent mieux convenir ; l'internat parait surtout nécessaire lorsque le domicile des parents est éloigné de tout externat spécialisé, lorsque le milieu familial est défectueux ou lorsque la débilité mentale s'accompagne de troubles du comportement. 17. Dans les grandes localités des pays qui disposent des moyens nécessaires et qui ont résolu les problèmes posés par la généralisation de l'obligation scolaire au niveau du premier degré, il y a lieu d'envisager l'ouverture progressive de classes et d'écoles du type ci-dessus. 18. Dans les petites localités et dans les régions à population clairsemée où il n'est pas possible d'ouvrir une classe ou une école spéciale, on peut envisager l'une ou l'autre des solutions suivantes: a) enseignement individualisé dans les classes de type courant; b) fréquentation d'une classe ou d'une école spéciale dans une localité voisine, à condition que soient assurés les moyens de transport et, le cas échéant, le repas de midi; c) enseignement à domicile et système des maîtres itinérants; d) fréquentation d'un internat. 19. Dans les pays qui ne possèdent pas encore les moyens d'organiser systématiquement un enseignement pour les débiles mentaux et même dans les pays où l'obligation scolaire n'est pas encore appliquée intégralement, il convient de prévoir au moins des expériences pilotes, permettant de scolariser un certain nombre d'enfants débiles mentaux et de servir de point de départ à un véritable enseignement spécial. MÉTHODES ET PROGRAMMES D'ENSEIGNEMENT 20. L'enseignement des débiles mentaux, plus que tout autre, doit être fonctionnel et concret; il convient donc de recourir aux méthodes qui stimulent les fonctions mentales par des activités faisant appel à l'intelligence pratique et permettant d'acquérir les notions de base.  — 154 — 21. L'enseignement doit être fortement individualisé pour s'adapter aux aptitudes, aux besoins et au rythme d'apprentissage propres à chaque enfant; d'autre part, il doit prévoir des activités de groupe, qu'il s'agisse de travail ou de jeu, pour développer son sens social. 22. Pour toutes ces raisons, il importe de ne pas confier plus d'une quinzaine d'élèves à un seul maître, pour autant que la chose soit possible. 23. Il ne faut pas craindre les exercices de récapitulation et de répétition propres à fixer l'acquisition des mécanismes de base et des connaissances à la portée des enfants débiles mentaux, tout en donnant une place suffisante à l'éducation du caractère et à la formation d'habitudes et d'attitudes socialement et moralement acceptables, de manière à développer chez eux des qualités pouvant compenser les déficits de leur intelligence et leur donner confiance en eux-mêmes. 24. Il importe de souligner la valeur de la logopédie comme moyen de rééducation pour les enfants débiles mentaux. 25. Le jeu, l'éducation physique et rythmique, le chant choral et la musique, le dessin et les arts plastiques doivent faire partie intégrante de l'éducation des débiles mentaux; ce sont des moyens d'expression qui les aideront à se discipliner et à développer harmonieusement leur personnalité. 26. Les travaux manuels occuperont, dès le début, une place essentielle dans l'éducation des débiles mentaux et pourront, par la suite, servir de base à une véritable initiation professionnelle. 27. La collaboration entre l'école et la famille est particulièrement nécessaire dans l'enseignement pour les débiles mentaux ; une action suivie doit être exercée par le maître et, le cas échéant, par l'assistante sociale pour faire comprendre aux parents ou tuteurs les besoins particuliers de leur enfant débile; leur participation à certaines activités scolaires ou extrascolaires devrait même être sollicitée. FORMATION PROFESSIONNELLE ET ACTION POSTSCOLAIRE 28. Si l'école spéciale ne peut donner une véritable formation professionnelle, il serait utile de prévoir des cours complémentaires professionnels et des ateliers d'apprentissage à l'intention des débiles mentaux, avec des périodes d'apprentissage de durée suffisamment longue. 29. Il importe de multiplier les activités propres à faciliter l'adaptation à la vie quotidienne et l'intégration dans le monde du travail; dans certains pays, il peut être utile de recourir au système « école-emploi », qui permet un travail à temps partiel sous le contrôle de l'école. 30. Il faut aider les jeunes débiles mentaux à trouver des emplois à leur convenance, de façon que toute action éducative ne se trouve pas interrompue après l'école et que, grâce à leur salaire, ces adolescents ne soient pas une charge pour la société; les services d'orientation professionnelle  — 155 et de placement devraient procéder à un inventaire systématique des postes les mieux adaptés aux débiles mentaux, notamment dans l'industrie. 31. Une action postscolaire en faveur des débites mentaux est indispensable; les services destinés à assurer cette action devraient être développés tant sur le plan officiel que dans le domaine privé; il leur faut rester en contact avec les jeunes débiles mentaux et leurs familles, s'intéresser à leur sort et leur assurer la protection sociale et les conseils dont ils ont besoin. PERSONNEL 32. L'enseignement spécial exige, tant des maîtres que des éducateurs, des qualités de dévouement, de patience et de tact sans lesquelles une préparation spécialisée, même très complète, ne pourrait porter tous ses fruits. 33. L'éducation des débiles mentaux présentant des problèmes pédagogiques et psychologiques particuliers, il importe de prévoir, à l'intention des maîtres qui s'y destinent, des cours de spécialisation de durée suffisamment longue pour compléter leur formation pédagogique générale; il serait souhaitable que les maîtres en exercice soient invités à suivre périodiquement des cours de perfectionnement. 34. Les éducateurs qui sont chargés de s'occuper des enfants en dehors des heures de classe et notamment à l'internat ont un rôle essentiel du point de vue pédagogique ; il y aurait lieu de prévoir, pour eux également, une formation spécialisée, comme cela se pratique déjà dans plusieurs pays. 35. Les traitements des maîtres et des éducateurs appartenant à l'enseignement spécial devraient tenir compte comme il convient des difficultés inhérentes à leur tâche et de la formation complémentaire que les intéressés peuvent avoir reçue. 36. Etant donné que les rapports entre l'enseignement de type courant et l'enseignement spécial doivent rester très étroits et qu'un grand nombre de maîtres ordinaires risquent d'avoir dans leur classe des enfants qui suivent difficilement, il est de toute importance que les maîtres et les inspecteurs de l'enseignement de type courant reçoivent une information précise sur les problèmes de la débilité mentale. 37. Il serait souhaitable que les inspecteurs de l'enseignement spécial soient recrutés, autant que possible, parmi les maîtres de cet enseignement. COOPÉRATION INTERNATIONALE 38. Les pays qui manquent de ressources financières et de personnel qualifié pour assurer l'organisation ou le développement d'un enseignement spécial, devraient bénéficier d'une assistance technique qui pourrait prendre la forme d'octroi de bourses d'études et de recherche, d'aide matérielle, d'envoi d'experts, etc.  — 156 — 39. Il importerait que l'Unesco, agissant en liaison avec les organismes et les spécialistes qui s'intéressent à la question, établisse sans tarder une classification de base des grandes catégories d'enfants inadaptés. 40. Il serait souhaitable que l'Unesco participe à la création d'un organisme international ou coordonne le travail des organismes internationaux existants en vue d'aider les services de l'enseignement spécial de tous les pays en leur fournissant une documentation sur les réalisations accomplies dans la recherche, le dépistage, l'observation, les techniques, les méthodes, le matériel didactique, l'administration, etc. concernant l'enseignement spécial. 41. Il serait également souhaitable que l'Unesco, en collaboration avec le Bureau international d'Education et les autres organisations internationales intéressées, aide des pays se trouvant dans une situation semblable à confronter leurs expériences dans le domaine de l'enseignement spécial."
+  }
+}

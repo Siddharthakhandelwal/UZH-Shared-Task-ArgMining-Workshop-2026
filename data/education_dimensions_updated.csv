@@ -1,0 +1,142 @@
+Dimensions;Categories;CODE
+Education level;Early childhood educational development (ISCED 01);ISC_01
+Education level;Pre-primary education (ISCED 02);ISC_02
+Education level;Early childhood care and education unspecified (ISCED 0);ISC_0
+Education level;Primary education (ISCED 1);ISC_1
+Education level;Secondary education unspecified (ISCED 2, 3);ISC_23
+Education level;Lower secondary education (ISCED 2);ISC_2
+Education level;Upper secondary education (ISCED 3);ISC_3
+Education level;Post-secondary non-tertiary (ISCED 4);ISC_4
+Education level;Short-cycle tertiary education (ISCED 5);ISC_5
+Education level;Bachelor or equivalent (ISCED 6);ISC_6
+Education level;Master or equivalent (ISCED 7);ISC_7
+Education level;Doctoral or equivalent (ISCED 8);ISC_8
+Education level;Higher education unspecified (ISCED 5, 6, 7, 8);ISC_5678
+Education level;Multiple levels;ISC_99
+Education level;NA;NA
+Education orientation;General (academic);O_G
+Education orientation;Vocational/technical (TVET);O_VET
+Education orientation;Combined general and vocational;O_All
+Education orientation;NA;NA
+Learning modality;Formal education;M_FORM
+Learning modality;Non-formal education;M_NFORM
+Learning modality;Informal learning;M_INFORM
+Learning modality;Lifelong learning;M_LL
+Learning modality;NA;NA
+Ownership/Provision;Public (state-run);OWN_PUB
+Ownership/Provision;Private non-profit;OWN_PRIV
+Ownership/Provision;Private for-profit;OWN_PFP
+Ownership/Provision;Public-private partnership (PPP);OWN_PPP
+Ownership/Provision;Community or faith-based;OWN_COM
+Ownership/Provision;NA;NA
+Teachers;Initial education and training;T_INI
+Teachers;Recruitment and hiring;T_RECR
+Teachers;Professional development;T_PDEV
+Teachers;Working conditions and salaries;T_COND
+Teachers;Qualification and certification;T_QUAL
+Teachers;Legal status and rights;T_STAT
+Teachers;Teacher evaluation and performance;T_EVAL
+Teachers;Teacher supply and shortages;T_SUPP
+Teachers;Teacher other;T_OTHER
+Teachers;NA;NA
+Infrastructure & resources;School buildings and physical infrastructure;INFRA_BUILD
+Infrastructure & resources;Classrooms and learning environments;INFRA_CLASS
+Infrastructure & resources;Teaching and learning materials;INFRA_TLM
+Infrastructure & resources;ICT and digital infrastructure;INFRA_ICT
+Infrastructure & resources;Laboratories and libraries;INFRA_LABS
+Infrastructure & resources;WASH facilities (water, sanitation and hygiene);INFRA_WASH
+Infrastructure & resources;Transport and boarding;INFRA_TRANS
+Infrastructure & resources;Other;INFRA_OTHER
+Infrastructure & resources;NA;NA
+Curriculum;Design and development;CUR_DVPMT
+Curriculum;Content and learning areas;CUR_CONTENT
+Curriculum;Organization and instructional time;CUR_ORG
+Curriculum;Curriculum implementation;CUR_IMPL
+Curriculum;Curriculum evaluation and reform;CUR_EVAL
+Curriculum;Competency-based and learning outcomes;CUR_LO
+Curriculum;Other curriculum-related issue;CUR_OTHER
+Curriculum;NA;NA
+Pedagogy & assessment;Pedagogical foundations and theories;PEDAG_FOUND
+Pedagogy & assessment;Teaching methods and approaches;PEDAG_METHO
+Pedagogy & assessment;Technology-supported pedagogy;PEDAG_TECH
+Pedagogy & assessment;Assessment and feedback;PEDAG_ASSESS
+Pedagogy & assessment;Professional learning communities;PEDAG_LEARN
+Pedagogy & assessment;Other pedagogy related issue;PEDAG_OTHER
+Pedagogy & assessment;NA;NA
+Subject domain;Literacy and language;F_LITE
+Subject domain;Mathematics and numeracy;F_MATH
+Subject domain;Science and technology (STEM);F_SCI
+Subject domain;Social sciences and humanities;F_SOCSCI
+Subject domain;Arts and culture;F_ARTS
+Subject domain;Physical education and health;F_PE
+Subject domain;Religion and moral education;F_REL
+Subject domain;Environmental education and sustainable development;F_ENV
+Subject domain;Vocational and technical skills;F_VET
+Subject domain;Other subject area;F_OTHER
+Subject domain;NA;NA
+Cross-cutting themes & skills;Citizenship and civic education;CCUT_CITIZ 
+Cross-cutting themes & skills;Global citizenship and peace education;CCUT_GCITIZ 
+Cross-cutting themes & skills;Human rights and equality;CCUT__RIGH
+Cross-cutting themes & skills;Digital and ICT literacy;CCUT_DIGIT
+Cross-cutting themes & skills;Financial and economic literacy;CCUT_FIN
+Cross-cutting themes & skills;Entrepreneurship and business skills;CCUT_BUSI
+Cross-cutting themes & skills;Life skills and 21st century competencies;CCUT_21ST
+Cross-cutting themes & skills;Health and well-being education;CCUT_WELLB
+Cross-cutting themes & skills;Sustainable development and climate action;CCUT_SUST
+Cross-cutting themes & skills;Inclusive education and special needs;CCUT_INCL
+Cross-cutting themes & skills;Other cross-cutting theme;CCUT_OTH
+Cross-cutting themes & skills;NA;NA
+Policy theme;Access and equity;POL_EQUIT
+Policy theme;Quality and learning outcomes;POL_QUAL
+Policy theme;Governance and planning;POL_GOV
+Policy theme;Financing and resource mobilization;POL_FIN
+Policy theme;Teachers and workforce policies;POL_TEACH
+Policy theme;Curriculum and pedagogy policies;POL_CUR
+Policy theme;Innovation and technology policies;POL_INNOV
+Policy theme;Inclusion and diversity;POL_INCL
+Policy theme;International cooperation and partnerships;POL_INTCOOP
+Policy theme;Education in emergencies and crises;POL_EIE
+Policy theme;Sustainable development and environment;POL_SUST
+Policy theme;Health and well-being policies;POL_WELLB
+Policy theme;Lifelong learning and adult education;POL_LL
+Policy theme;Accountability and transparency;POL_TRANSP
+Policy theme;Other policy theme;POL_OTH
+Policy theme;NA;NA
+Education system monitoring & evaluation;Education statistics and indicators;SYST_STAT
+Education system monitoring & evaluation;Learning assessments and examinations;SYST_ASSESS
+Education system monitoring & evaluation;EMIS and data systems;SYST_EMIS
+Education system monitoring & evaluation;Quality assurance and accreditation;SYST_QUAL
+Education system monitoring & evaluation;Institutional evaluation and inspection;SYST_INST
+Education system monitoring & evaluation;Research and surveys;SYST_RESEAR
+Education system monitoring & evaluation;Other;SYST_OTHER
+Education system monitoring & evaluation;NA;NA
+Legal frameworks;Constitution and fundamental rights;LAW_CONSTI
+Legal frameworks;Education laws and regulations;LAW_REG
+Legal frameworks;International conventions and treaties;LAW_INTER
+Legal frameworks;Policy implementation and enforcement;LAW_IMPLEM
+Legal frameworks;Rights and obligations of stakeholders;LAW_RIGHTS
+Legal frameworks;Legal disputes and interpretation;LAW_INTERPR
+Legal frameworks;Other;LAW_OTHER
+Legal frameworks;NA;NA
+Stakeholder focus;Government and policy makers;ACT_GOV
+Stakeholder focus;Teachers and educators;ACT_EDUC
+Stakeholder focus;Learners and students;ACT_STUD
+Stakeholder focus;Parents and communities;ACT_PARENT
+Stakeholder focus;Civil society and NGOs;ACT_CSO
+Stakeholder focus;Private sector and industry;ACT_PRIV
+Stakeholder focus;International organizations and donors;ACT_IO
+Stakeholder focus;Other;ACT_OTHER
+Stakeholder focus;NA;NA
+Learner population;All learners;POP_ALL
+Learner population;Children (0-17);POP_CHILD
+Learner population;Youth and adolescents;POP_YOUTH
+Learner population;Adults and lifelong learners;POP_ADUL
+Learner population;Women and girls;POP_WOM
+Learner population;Learners with disabilities;POP_DISAB
+Learner population;Indigenous or minority groups;POP_INDIG
+Learner population;Migrants, refugees and displaced persons;POP_DISPL
+Learner population;Rural and remote learners;POP_RUR
+Learner population;Low-income and disadvantaged groups;POP_POOR
+Learner population;Population in conflict and emergencies settings;POP_EMERG
+Learner population;Other;POP_OTHER
+Learner population;NA;NA

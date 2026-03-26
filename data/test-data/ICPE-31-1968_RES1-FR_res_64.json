@@ -1,0 +1,631 @@
+{
+  "TEXT_ID": "ICPE-31-1968_RES1-FR_res_64",
+  "RECOMMENDATION": 64,
+  "TITLE": "L'éducation pour la compréhension internationale en tant que partie intégrante des études et de la vie scolaires",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-31-1968_RES1-FR",
+      "nb_paras": 68,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le premier juillet mil neuf cent soixante-huit en sa trente et unième session, adopte le neuf juillet mil neuf cent soixante-huit la recommandation suivante: La Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Education, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and the International Bureau of Education, and having met there on the first of July nineteen sixty-eight in its thirty-first session, adopts on the ninth of July nineteen sixty-eight the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant que la Déclaration universelle des droits de l'homme proclame que l'éducation « doit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix », et que les souffrances et les humiliations auxquelles assistent et que subissent des hommes dans de nombreuses parties du monde sont dues à la violation des droits de l'homme,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the Universal Declaration of Human Rights proclaims that education \"shall promote understanding, tolerance and friendship among all nations, racial or religious groups, as well as the activities of the United Nations for the maintenance of peace,\" and that the suffering and humiliations witnessed and endured by individuals in many parts of the world are due to the violation of human rights,"
+      },
+      {
+        "para_number": 3,
+        "para": "Considérant que la Déclaration des Nations Unies sur la promotion parmi les jeunes des idéaux de paix, de compréhension et de respect mutuel entre les peuples affirme que « tous les moyens d'éducation y compris, étant donné son importance capitale, l'éducation donnée par les parents ou la famille et tous les moyens d'enseignement et d'information destinés à la jeunesse doivent promouvoir parmi les jeunes les idéaux de paix, d'humanisme, de liberté et de solidarité internationale, ainsi que tous les autres idéaux qui contribuent au rapprochement des peuples, et doivent leur faire connaître le rôle confié à l'Organisation des Nations Unies en tant que moyen de préserver et de maintenir la paix et de favoriser la compréhension et la coopération internationales »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the United Nations Declaration on the Promotion among Youth of the Ideals of Peace, Mutual Understanding and Respect between Peoples states that \"all means of education, including, given its paramount importance, education provided by parents or the family and all means of teaching and information intended for youth, must promote among young people the ideals of peace, humanism, freedom and international solidarity, as well as all other ideals contributing to the rapprochement of peoples, and must make them aware of the role entrusted to the United Nations Organization as a means to preserve and maintain peace and to foster international understanding and cooperation,\""
+      },
+      {
+        "para_number": 4,
+        "para": "Considérant que l'un des buts principaux de l'Unesco et du Bureau international d'Education est de contribuer au maintien de la paix et de la sécurité en resserrant la collaboration entre nations par l'éducation et que, comme l'affirme la Constitution de l'Unesco, « l'incompréhension mutuelle des peuples a toujours été, au cours de 166 l'histoire, à l'origine de la suspicion et de la méfiance entre nations, par où leurs désaccords ont trop souvent dégénéré en guerre »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas one of the main objectives of UNESCO and the International Bureau of Education is to contribute to the maintenance of peace and security by strengthening collaboration between nations through education, and as stated in the UNESCO Constitution, “mutual misunderstanding among peoples has always been, throughout history, the root of suspicion and distrust between nations, whereby their disagreements have too often escalated into war,”"
+      },
+      {
+        "para_number": 5,
+        "para": "Prenant note des résolutions de la Conférence internationale sur les droits de l'homme réunie à Téhéran en 1968, concernant en particulier l'éducation de la jeunesse,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Taking note of the resolutions of the International Conference on Human Rights held in Tehran in 1968, particularly concerning the education of young people,"
+      },
+      {
+        "para_number": 6,
+        "para": "Considérant la Recommandation N° 24 concernant «le développement de la conscience internationale dans la jeunesse et l'enseignement relatif aux organismes internationaux »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering Recommendation No. 24 concerning \"the development of international awareness among youth and education relating to international organizations,\""
+      },
+      {
+        "para_number": 7,
+        "para": "Considérant la Recommandation N° 26 concernant « l'enseignement de la géographie et la compréhension internationale »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering Recommendation No. 26 concerning \"the teaching of geography and international understanding,\""
+      },
+      {
+        "para_number": 8,
+        "para": "Considérant la Recommandation N° 48 concernant « l'élaboration, le choix et l'utilisation des manuels de l'enseignement primaire »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering Recommendation No. 48 concerning \"the preparation, selection, and use of primary education textbooks,\""
+      },
+      {
+        "para_number": 9,
+        "para": "Considérant la Recommandation N° 59 concernant « l'enseignement des langues vivantes à l'école secondaire »,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering Recommendation No. 59 concerning \"the teaching of modern languages in secondary schools,\""
+      },
+      {
+        "para_number": 10,
+        "para": "Considérant la nécessité d'apprendre à tous les peuples du monde et en particulier à la jeunesse à travailler en faveur de la paix et à édifier une communauté internationale, conformément à l'esprit de la Charte des Nations Unies, ainsi qu'à lutter pour la mise en œuvre des principes de la Déclaration universelle des droits de l'homme,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the necessity of teaching all the peoples of the world, and particularly the youth, to work in favor of peace and to build an international community, in accordance with the spirit of the United Nations Charter, as well as to strive for the implementation of the principles of the Universal Declaration of Human Rights,"
+      },
+      {
+        "para_number": 11,
+        "para": "Considérant la nécessité de convertir ces principes en une action pratique soulignant la valeur morale de l'homme et son droit de lutter pour une vie meilleure fondée sur le respect de la dignité humaine,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the necessity to translate these principles into practical action emphasizing the moral value of the individual and their right to strive for a better life based on respect for human dignity,"
+      },
+      {
+        "para_number": 12,
+        "para": "Considérant que l'éducation pour la compréhension internationale joue, en ce domaine, un rôle de premier plan et que la plupart des Etats n'ont pas encore pris toutes les mesures qu'il leur est loisible d'adopter dans le cadre de leur juridiction, en vue de l'incorporer aux programmes et à la vie scolaires,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that education for international understanding plays a leading role in this field and that most States have not yet taken all the measures within their power under their jurisdiction to incorporate it into school curricula and school life,"
+      },
+      {
+        "para_number": 13,
+        "para": "Considérant qu'une telle éducation vise non seulement à transmettre des connaissances, mais aussi à former des attitudes et à susciter des comportements et des activités favorables à la compréhension internationale et au respect des droits de T'homme,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that such education aims not only to impart knowledge, but also to shape attitudes and to encourage behaviors and activities conducive to international understanding and respect for human rights,"
+      },
+      {
+        "para_number": 14,
+        "para": "Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante:",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recommends to the Ministries of Public Education of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 15,
+        "para": "1. L'éducation à tous les degrés doit contribuer à la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. Education at all levels must contribute to international understanding."
+      },
+      {
+        "para_number": 16,
+        "para": "2. L'éducation doit contribuer à mieux faire connaître aux jeunes le monde et ses habitants et à engendrer des attitudes qui développent chez eux vis-à-vis des autres cultures, des autres races et des autres modes de vie un esprit d'appréciation et de respect mutuels. L'éducation doit mettre en lumière les relations entre le milieu 167 — et les modes et niveaux de vie. Tout en présentant de façon objective les différences qui existent notamment en matière de systèmes politiques, économiques et sociaux, elle doit insister sur les valeurs, les aspirations et les besoins communs à l'existence et à la conscience des différents peuples.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. Education must help young people to gain a better understanding of the world and its inhabitants and to foster attitudes that develop in them a spirit of mutual appreciation and respect towards other cultures, races, and ways of life. Education must highlight the relationships between the environment and modes and standards of living. While presenting in an objective manner the differences that exist, particularly in political, economic, and social systems, it must emphasize the values, aspirations, and needs common to the existence and consciousness of different peoples."
+      },
+      {
+        "para_number": 17,
+        "para": "3. L'éducation doit montrer que le progrès des connaissances humaines résulte des contributions des divers peuples du monde et que toutes les cultures nationales ont été enrichies par les apports d'autres cultures et continuent de l'être.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. Education must demonstrate that the advancement of human knowledge results from the contributions of the diverse peoples of the world and that all national cultures have been enriched by the influences of other cultures and continue to be so."
+      },
+      {
+        "para_number": 18,
+        "para": "4. L'éducation doit encourager le respect des droits de l'homme et leur observance dans la vie quotidienne. Elle doit mettre en relief le principe de l'égalité des hommes et de l'esprit de justice qui trouve son expression dans la Déclaration universelle des droits de l'homme, en soulignant que ce principe implique un respect égal pour tous les êtres humains, sans distinction de race, de couleur, de sexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'origine nationale ou sociale, de fortune, de naissance ou de toute autre situation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. Education must encourage respect for human rights and their observance in daily life. It should highlight the principle of the equality of all people and the spirit of justice as expressed in the Universal Declaration of Human Rights, emphasizing that this principle entails equal respect for all human beings, without distinction of race, color, sex, language, religion, political or other opinion, national or social origin, property, birth, or any other status."
+      },
+      {
+        "para_number": 19,
+        "para": "5. L'éducation doit contribuer à donner à chaque élève et à chaque étudiant le sens de la dignité humaine qui s'oppose à toute domination de l'homme sur ses semblables. Elle doit tout mettre en œuvre pour éveiller chez les jeunes le désir de comprendre les problèmes économiques et sociaux de leur pays et de leur époque, et leur apporter une démonstration objective des effets nocifs du colonialisme, du néo-colonialisme, du racisme, de l'apartheid, de l'esclavage et de toutes les formes d'agression.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. Education must help to instill in every pupil and student a sense of human dignity that opposes any domination of one person over another. It must do everything possible to awaken in young people the desire to understand the economic and social problems of their country and era, and provide them with an objective demonstration of the harmful effects of colonialism, neo-colonialism, racism, apartheid, slavery, and all forms of aggression."
+      },
+      {
+        "para_number": 20,
+        "para": "6. Il importe que l'éducation souligne l'égalité de droit de toutes les nations, grandes et petites, à régler leur propre existence et à épanouir pleinement toutes leurs ressources culturelles et matérielles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. It is important that education emphasizes the equal right of all nations, large and small, to determine their own existence and to fully develop all their cultural and material resources."
+      },
+      {
+        "para_number": 21,
+        "para": "7. L'éducation doit développer le sens de la solidarité internationale et de l'interdépendance de toutes les nations et de tous les hommes. Elle doit mettre en lumière la nécessité de la coopération internationale dans le traitement des problèmes mondiaux, et montrer que toutes les nations, quelle que soit la différence de leurs systèmes politiques et de leurs modes de vie, ont le devoir de collaborer à cette fin et ont intérêt à le faire. A cet égard, les activités des Nations Unies et des institutions apparentées devront être étudiées dans les écoles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. Education must foster a sense of international solidarity and the interdependence of all nations and all people. It must highlight the necessity of international cooperation in addressing global issues, and demonstrate that all nations, regardless of the differences in their political systems and ways of life, have the duty to collaborate for this purpose and stand to benefit from doing so. In this regard, the activities of the United Nations and related institutions should be studied in schools."
+      },
+      {
+        "para_number": 22,
+        "para": "8. Les textes législatifs ou autres documents de caractère officiel définissant les buts généraux de l'éducation doivent lui assigner comme l'un de ses objectifs à tous les niveaux le développement de l'esprit de paix, de compréhension mutuelle entre les peuples et de respect des droits de l'homme. Les règlements officiels, instructions et recommandations destinés aux maîtres devraient formuler cet objectif en termes spécifiques et détaillés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. Legislative texts or other official documents defining the general objectives of education must assign, at all levels, the development of the spirit of peace, mutual understanding among peoples, and respect for human rights as one of its goals. Official regulations, instructions, and recommendations addressed to teachers should articulate this objective in specific and detailed terms."
+      },
+      {
+        "para_number": 23,
+        "para": "9. Les programmes généraux et les programmes des différentes disciplines devraient comporter des dispositions expresses concernant l'éducation pour la compréhension internationale, dispositions adaptées aux différents cours et aux nine son internation apaton les pres one de diffrents différents degrés, et prévoyant qu'un temps suffisant lui sera consacré. A cette fin, des groupes de spécialistes, composés principalement de maîtres en exercice, pourraient être constitués, là où il n'en existe pas encore, pour examiner la place accordée aux — 168 études qui favorisent la compréhension internationale dans le cadre des plans d'études aux différents degrés et des programmes des différentes matières d'enseignement. Les organisations d'enseignants devraient être invitées à participer à cette tâche.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. General curricula and the curricula of various disciplines should include specific provisions concerning education for international understanding, adapted to the different courses and to the various educational levels, and ensuring that sufficient time is devoted to it. To this end, groups of specialists, mainly composed of practicing teachers, could be established where they do not yet exist, to review the place given to studies promoting international understanding within the curricula at different levels and across various teaching subjects. Teachers' organizations should be invited to participate in this task."
+      },
+      {
+        "para_number": 24,
+        "para": "10. Les examens aux différents degrés de l'enseignement devraient comporter des questions relatives aux travaux effectués dans le cadre de l'éducation pour la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. Examinations at the various levels of education should include questions related to the work carried out within the framework of education for international understanding."
+      },
+      {
+        "para_number": 25,
+        "para": "11. Les administrateurs scolaires et les inspecteurs dans l'exercice de leurs fonctions devraient veiller à ce que les plans d'études, les activités scolaires et l'enseignement contribuent à une meilleure compréhension internationale ainsi qu'au respect des droits de l'homme.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "School administrators and inspectors, in the performance of their duties, should ensure that curricula, school activities, and teaching contribute to a better international understanding as well as to the respect for human rights."
+      },
+      {
+        "para_number": 26,
+        "para": "12. La plupart des disciplines qui figurent ordinairement au programme des écoles primaires et secondaires se prêtent à l'éducation pour la compréhension internationale. Il convient de tirer parti des ressources offertes par chacune d'entre elles de façon appropriée, en tenant dûment compte de l'âge, des aptitudes et des intérêts des élèves. L'expérience démontre que les idées maîtresses peuvent être assimilées à n'importe quel âge, tout au long de la scolarité, primaire et secondaire, et par des élèves d'aptitudes très différentes pourvu que ces idées soient adaptées à leur âge et présentées de façon adéquate. L'école doit créer une atmosphère qui favorise chez tous les membres de la communauté scolaire l'acquisition des qualités de justice, d'impartialité, de tolérance et de respect à l'égard des hommes de toutes sortes et de toutes conditions.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. Most of the subjects ordinarily included in the curriculum of primary and secondary schools lend themselves to education for international understanding. It is appropriate to make use of the resources offered by each subject in a suitable manner, duly taking into account the age, abilities, and interests of the students. Experience shows that the key ideas can be assimilated at any age, throughout primary and secondary schooling, and by students with widely differing abilities, provided that these ideas are adapted to their age and presented adequately. The school must create an atmosphere that fosters in all members of the school community the acquisition of qualities such as fairness, impartiality, tolerance, and respect for people of all kinds and conditions."
+      },
+      {
+        "para_number": 27,
+        "para": "13. L'éducation pour la compréhension internationale devrait être conçue et dispensée comme une partie intégrante des études scolaires, chaque discipline contribuant effectivement, par les moyens appropriés, à l'ensemble d'un programme coordonné et continu se développant d'année en année.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. Education for international understanding should be designed and delivered as an integral part of school studies, with each discipline effectively contributing, through appropriate means, to a coordinated and continuous program that develops year after year."
+      },
+      {
+        "para_number": 28,
+        "para": "14. Il importe que les programmes généraux et les programmes de chaque discipline soient conçus de manière assez souple pour permettre des liaisons étroites entre les différentes disciplines. Dans certaines matières de base, telles que la langue maternelle, la littérature nationale, les mathématiques, les sciences et les langues vivantes, l'esprit de compréhension internationale peut être développé en mettant à profit toutes les occasions favorables sans qu'il existe pour autant dans les programmes de rubrique particulière à ce sujet. D'autres disciplines, telles que l'histoire et la géographie, offrent un terrain particulièrement favorable à l'éducation pour la compréhension internationale; d'autres encore, comme la morale, l'instruction civique et les arts, y compris la musique, la danse et les jeux, devraient donner lieu, à l'intérieur même des programmes, à des études et à des activités en rapport direct avec la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. It is essential that general curricula and the curricula of each discipline be designed with sufficient flexibility to allow close connections between different subjects. In certain core subjects, such as the mother tongue, national literature, mathematics, sciences, and modern languages, the spirit of international understanding can be fostered by taking advantage of all suitable opportunities, even though there may not be a specific section dedicated to this in the programmes. Other disciplines, such as history and geography, provide particularly favourable grounds for education for international understanding; still others, like ethics, civic education, and the arts—including music, dance, and games—should include studies and activities directly related to international understanding within their own curricula."
+      },
+      {
+        "para_number": 29,
+        "para": "15. Les problèmes internationaux doivent être traités selon les cas d'espèce, dans le cadre des différentes matières d'enseignement ou dans des cours séparés. Chaque établissement d'enseignement doit posséder une documentation adéquate concernant les questions internationales.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "International issues should be addressed on a case-by-case basis, either within the framework of various teaching subjects or through separate courses. Each educational institution must have adequate documentation concerning international matters."
+      },
+      {
+        "para_number": 30,
+        "para": "16. La littérature devrait être enseignée de manière à ouvrir des perspectives sur la nature humaine, les idéaux et aspirations communs à l'humanité tout entière, ses souffrances et ses luttes, sur les caractéristiques des diverses cultures nationales ainsi que sur leur apport particulier à la culture mondiale. L'enseignement de la littérature mondiale dans les établissements du second degré devrait être encouragé.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. Literature should be taught in a way that opens perspectives on human nature, the ideals and aspirations common to all humanity, its sufferings and struggles, on the characteristics of various national cultures as well as their particular contribution to world culture. The teaching of world literature in secondary schools should be encouraged."
+      },
+      {
+        "para_number": 31,
+        "para": "17. L'enseignement des langues vivantes devrait viser à donner pleinement accès aux cultures et aux modes de vie des autres pays, et à en favoriser la compréhension.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. The teaching of modern languages should aim to provide full access to the cultures and ways of life of other countries, and to promote understanding thereof."
+      },
+      {
+        "para_number": 32,
+        "para": "18. Dans l'enseignement des mathématiques, on devrait mettre en lumière la contribution des différentes cultures au développement de cette science. Certaines applications des mathématiques, comme la statistique et l'interprétation des données, devraient contribuer à l'étude des questions d'intérêt international, telles que la croissance démographique, la production agricole et industrielle et les dépenses en matière d'armements et en matière d'éducation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. In the teaching of mathematics, the contribution of different cultures to the development of this science should be highlighted. Certain applications of mathematics, such as statistics and data interpretation, should contribute to the study of issues of international interest, such as population growth, agricultural and industrial production, and expenditures on armaments and education."
+      },
+      {
+        "para_number": 33,
+        "para": "19. Dans les cours d'introduction générale à la science, il convient d'enseigner l'histoire du développement des connaissances scientifiques et des contributions apportées par les différents pays et les différentes cultures. On devrait également prêter attention aux conséquences sociales des applications technologiques de la science et aux problèmes comme aux avantages qui résultent pour l'ensemble de l'humanité des rapides progrès de la science et de la technologie modernes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "19. In general introductory science courses, the history of the development of scientific knowledge and the contributions made by different countries and cultures should be taught. Attention should also be given to the social consequences of the technological applications of science and to both the problems and benefits that arise for all humanity from the rapid advances in modern science and technology."
+      },
+      {
+        "para_number": 34,
+        "para": "20. a) Dans l'enseignement de la biologie, l'étude de la transmission et de la répartition des caractéristiques humaines, ainsi que des rapports entre les facteurs héréditaires et culturels, doit être conduite de manière à ôter tout fondement aux préjugés qui reposent sur les distinctions de race, de couleur, de nationalité ou de culture. A cet égard, il conviendrait d'utiliser les conclusions formulées dans la déclaration rédigée par le Comité international d'experts sur la race et les préjugés raciaux organisé par l'Unesco en 1967.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. a) In the teaching of biology, the study of the transmission and distribution of human characteristics, as well as the relationship between hereditary and cultural factors, must be conducted in a manner that removes any basis for prejudices based on distinctions of race, color, nationality, or culture. In this regard, the conclusions set forth in the declaration drafted by the International Committee of Experts on Race and Racial Prejudice organized by UNESCO in 1967 should be utilized."
+      },
+      {
+        "para_number": 35,
+        "para": "20. b) Dans la mesure où la biologie se rapproche de l'écologie, on devrait la prendre, en corrélation avec la géographie, pour base de l'étude des modes de vie dans les diverses régions du monde. En biologie ou en hygiène, il convient de prêter attention aux problèmes mondiaux de la santé ainsi qu'à la coopération internationale dans la lutte contre les maladies.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. b) Insofar as biology approaches ecology, it should be taken, in correlation with geography, as the basis for studying lifestyles in the various regions of the world. In biology or hygiene, attention should be given to global health issues as well as international cooperation in the fight against diseases."
+      },
+      {
+        "para_number": 36,
+        "para": "21. L'enseignement de l'histoire devrait permettre une meilleure compréhension de l'histoire nationale si on reliait celle-ci à l'histoire des civilisations et si on accordait une attention accrue aux aspects sociaux, économiques, culturels et scientifiques de l'évolution de l'homme, en prêtant, en revanche, moins d'importance aux aspects purement militaires de l'histoire. L'histoire nationale et l'histoire des autres nations doivent être présentées aussi objectivement que possible, en tenant compte des différences d'opinions et d'interprétations et en s'inspirant des conclusions récentes de la recherche historique. Une attention particulière doit être accordée à l'histoire 170 = des luttes pour les droits de l'homme, y compris les luttes pour la libération nationale et pour la justice sociale, et au développement des institutions de coopération internationale destinées à promouvoir le bien-être de l'humanité, ainsi qu'aux hommes et aux femmes illustres des différents pays dont l'œuvre et les travaux ont profité à l'humanité tout entière.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "21. The teaching of history should enable a better understanding of national history by connecting it to the history of civilizations and by giving increased attention to the social, economic, cultural, and scientific aspects of human development, while placing less emphasis on purely military aspects of history. National history and the history of other nations must be presented as objectively as possible, taking into account differences of opinion and interpretation and drawing on the recent conclusions of historical research. Special attention should be given to the history of struggles for human rights, including struggles for national liberation and social justice, and to the development of institutions of international cooperation aimed at promoting the well-being of humanity, as well as to the distinguished men and women of different countries whose work and achievements have benefited all of humanity."
+      },
+      {
+        "para_number": 37,
+        "para": "22. L'enseignement de la géographie devrait amener l'enfant à penser au monde entier et à ses habitants, à comprendre les relations entre l'homme et son milieu et à se faire une idée juste des problèmes à résoudre pour que les ressources disponibles dans le monde contribuent à améliorer les conditions d'existence de l'humanité. Ce faisant, la géographie devrait faire comprendre la nécessité de la solidarité et de la coopération entre tous les peuples du monde.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. The teaching of geography should lead the child to think about the entire world and its inhabitants, to understand the relationships between humans and their environment, and to form an accurate understanding of the problems that need to be solved so that the resources available in the world contribute to improving the living conditions of humanity. In doing so, geography should convey the necessity of solidarity and cooperation among all the peoples of the world."
+      },
+      {
+        "para_number": 38,
+        "para": "23. Les cours de géographie et d'histoire devraient être conçus de manière à assurer un juste équilibre entre la place faite à la géographie et à l'histoire nationales et celle consacrée aux autres pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "23. Geography and history courses should be designed to ensure a fair balance between the emphasis placed on national geography and history and that devoted to other countries."
+      },
+      {
+        "para_number": 39,
+        "para": "24. L'instruction civique, dont le but est de faire connaître les institutions nationales et de susciter le loyalisme à leur égard, devrait également viser à familiariser les élèves avec le rôle joué par les institutions internationales pour promouvoir le bien-être de l'humanité, et à leur donner le sens des responsabilités qui leur incombent en vue d'assurer l'efficacité future de ces institutions. Il importe de présenter les institutions et les activités du système des Nations Unies de façon objective et dans un esprit constructif. Il convient de donner toute l'attention nécessaire aux obstacles auxquels les Nations Unies et les institutions apparentées se heurtent dans leur action.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. Civic education, whose purpose is to familiarize students with national institutions and to foster loyalty towards them, should also aim to acquaint students with the role played by international institutions in promoting the well-being of humanity, and to instill in them a sense of responsibility for ensuring the future effectiveness of these institutions. It is important to present the institutions and activities of the United Nations system in an objective and constructive spirit. Due attention should be given to the obstacles encountered by the United Nations and related institutions in the course of their work."
+      },
+      {
+        "para_number": 40,
+        "para": "25. Dans le cadre de l'instruction religieuse ou de l'éducation morale, ou en philosophie, il importe que l'enseignement pour la compréhension internationale soit direct et explicite et s'attache aux fondements éthiques de la solidarité humaine. Il doit viser à développer le sens de la responsabilité morale et sociale envers autrui, le désir d'agir pour le bien commun et la volonté de paix.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. Within religious instruction, moral education, or philosophy, it is essential that teaching for international understanding be direct and explicit, focusing on the ethical foundations of human solidarity. It should aim to develop a sense of moral and social responsibility toward others, a desire to act for the common good, and a commitment to peace."
+      },
+      {
+        "para_number": 41,
+        "para": "26. Dans les arts, la musique, la danse et les jeux, on devrait enrichir l'habileté d'exécution et le jugement esthétique par le recours à des thèmes empruntés à toutes les parties du monde. Il conviendrait de traiter ces matières du point de vue de leur valeur affective autant qu'intellectuelle.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. In the arts, music, dance, and games, skillful performance and aesthetic judgment should be enriched by drawing on themes from all parts of the world. These subjects should be approached from the perspective of their emotional as well as intellectual value."
+      },
+      {
+        "para_number": 42,
+        "para": "27. Dans l'éducation pour la compréhension internationale, il convient d'utiliser une gamme aussi complète que possible de matériels d'enseignement, y compris les films, la radiodiffusion et la télévision scolaires et les autres auxiliaires audiovisuels. La nouvelle technologie éducative peut servir utilement la cause de la compréhension internationale. Elle donne de nouvelles dimensions à l'enseignement en général et devrait rendre les mêmes services pour diffuser des informations sur les autres peuples et modifier les attitudes à leur égard. Les programmes télévisés devraient — 171 à la fois rendre sensible la réalité des différentes cultures et des divers modes de vie et les faire accepter. Les communications spatiales faciliteront de plus en plus des émissions de ce genre.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. In education for international understanding, it is appropriate to use as wide a range as possible of teaching materials, including films, school broadcasting and television, and other audiovisual aids. New educational technology can serve the cause of international understanding usefully. It gives new dimensions to teaching in general and should provide the same services to disseminate information about other peoples and change attitudes towards them. Television programs should simultaneously raise awareness of the reality of different cultures and diverse ways of life and foster their acceptance. Space communications will increasingly facilitate such broadcasts."
+      },
+      {
+        "para_number": 43,
+        "para": "28. Le matériel d'enseignement utilisé doit être régulièrement examiné du point de vue de la contribution qu'il apporte à la compréhension internationale et au respect des droits de l'homme. En revisant ou en élaborant le matériel d'enseignement, en particulier les manuels d'histoire et de géographie, il importe de veiller particulièrement à ce qu'ils présentent une image équilibrée, objective, précise et actuelle des autres peuples et des pays de systèmes économique et politique différents, ainsi que des problèmes mondiaux. La confrontation des divers manuels, en particulier pour l'histoire et la géographie — déjà d'usage dans plusieurs pays peut contribuer, dans une large mesure, à l'élimination des erreurs, des malentendus, parfois même des divergences de points de vue qui existent entre deux peuples. A cette fin, il conviendrait de constituer des comités mixtes comprenant des représentants de deux ou plusieurs pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. Teaching materials used must be regularly reviewed in terms of their contribution to international understanding and respect for human rights. When revising or developing teaching materials, particularly history and geography textbooks, it is essential to ensure that they present a balanced, objective, accurate, and current portrayal of other peoples and countries with different economic and political systems, as well as global issues. The comparison of various textbooks, especially for history and geography—already in use in several countries—can greatly contribute to eliminating errors, misunderstandings, and sometimes even differences in viewpoints that exist between two peoples. To this end, it would be appropriate to establish joint committees comprising representatives from two or more countries."
+      },
+      {
+        "para_number": 44,
+        "para": "29. Il est souhaitable que les divers pays, avec la collaboration des institutions et des services scientifiques et pédagogiques nationaux, élaborent, à l'intention les listes de livres, de films et d'autre matériel d'enseignement recommandés, en particulier pour l'histoire et la géographie, qui paraîtraient de temps en temps.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. It is desirable that the various countries, with the collaboration of national scientific and educational institutions and services, develop recommended lists of books, films, and other teaching materials, particularly for history and geography, which would be published from time to time."
+      },
+      {
+        "para_number": 45,
+        "para": "30. Il convient d'encourager la production de matériel spécialement conçu en vue de l'éducation pour la compréhension internationale, y compris des guides et des livres du maître. Il importe que les autorités scolaires responsables prévoient de publier, sous une forme qui leur permette d'être utilisés dans les établissements de préparation des enseignants, certains documents fondamentaux émanant des Nations Unies, de l'Unesco et d'autres institutions internationales, et énonçant les principes approuvés concernant les droits de l'homme et la coopération internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. The production of material specifically designed for education for international understanding, including guides and teacher's books, should be encouraged. It is important that the responsible educational authorities plan to publish, in a form that allows their use in teacher training institutions, certain fundamental documents originating from the United Nations, UNESCO, and other international organizations, setting out the approved principles concerning human rights and international cooperation."
+      },
+      {
+        "para_number": 46,
+        "para": "31. Dans l'éducation pour la compréhension internationale, il convient d'avoir recours, autant que possible, aux méthodes actives qui font appel à l'initiative individuelle, à la créativité, à l'adresse, aux aptitudes et à l'intelligence des élèves euxmêmes. Ces méthodes comprennent: la participation active à des campagnes d'entraide internationale, la libre discussion, les débats, les études critiques portant sur les articles de journaux, les films et les documentaires télévisés, les rapports et les études individuelles ou collectives, la préparation d'albums, de livres, de journaux muraux et d'expositions, les échanges de correspondance et de documents divers avec des écoles de l'étranger, des programmes de réunions, des excursions, des concerts, des réunions sur le modèle des assemblées des Nations Unies, des études sur la communauté, des camps internationaux ainsi que des activités de jeunesse.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. In education for international understanding, it is appropriate to use, as far as possible, active methods that call upon the individual initiative, creativity, skill, aptitudes, and intelligence of the students themselves. These methods include: active participation in international mutual aid campaigns, free discussion, debates, critical studies of newspaper articles, films, and television documentaries, reports and individual or collective studies, preparation of albums, books, wall newspapers, and exhibitions, exchanges of correspondence and various documents with schools abroad, programs of meetings, excursions, concerts, meetings modeled on United Nations assemblies, community studies, international camps, as well as youth activities."
+      },
+      {
+        "para_number": 47,
+        "para": "32. Il importe de réorganiser, le cas échéant, certaines activités tant dans le cadre des programmes scolaires qu'en dehors de ces programmes, en vue de compléter — 172 -et de renforcer l'éducation pour la compréhension internationale dans l'ensemble de l'enseignement. L'éventail de ces activités doit être assez large et assez varié pour offrir à tous les élèves des occasions d'exercer et d'épanouir leurs aptitudes particulières et leurs intérêts. Il est souhaitable que parmi ces activités figurent l'organisation de clubs ou d'associations, tels que les clubs Unesco, les clubs des Nations Unies et les clubs de relations internationales qui ont pour principal objet de promouvoir la compréhension internationale, ainsi que la célébration des anniversaires de personnalités qui ont apporté une contribution éminente au développement scientifique et culturel de l'humanité, et des journées commémorant des événements d'importance internationale, tels que la Journée des Nations Unies et celle des droits de l'homme. Les clubs devraient organiser des activités interscolaires et se constituer en associations nationales et régionales. Il convient d'encourager les initiatives que prendraient les élèves et les étudiants, ainsi que leurs organisations, pour entreprendre de nouvelles activités. Les prix accordés aux meilleurs élèves pourraient, chaque fois qu'il est possible, prendre la forme de facilités de voyage pour leur permettre de visiter d'autres pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "32. It is important to reorganize, where appropriate, certain activities both within and outside the school curriculum, in order to complement and strengthen education for international understanding throughout the entire educational system. The range of these activities should be broad and varied enough to provide all students with opportunities to exercise and develop their particular skills and interests. It is desirable that among these activities there should be the organization of clubs or associations, such as UNESCO clubs, United Nations clubs, and international relations clubs whose main purpose is to promote international understanding, as well as the celebration of anniversaries of individuals who have made outstanding contributions to the scientific and cultural development of humanity, and commemorative days marking events of international significance, such as United Nations Day and Human Rights Day. The clubs should organize interschool activities and form national and regional associations. Initiatives taken by pupils and students, as well as their organizations, to undertake new activities should be encouraged. Awards given to the best students could, whenever possible, take the form of travel opportunities allowing them to visit other countries."
+      },
+      {
+        "para_number": 48,
+        "para": "33. La pratique du sport doit être utilisée comme moyen d'éliminer les tendances agressives en de saines compétitions et de développer la confiance en soi, le sens de l'honneur et l'esprit de « fair play ». Il convient d'éviter que, dans les compétitions internationales, un nationalisme excessif batte en brèche le respect dû aux sportifs des autres pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. The practice of sport should be utilized as a means to channel aggressive tendencies into healthy competition and to develop self-confidence, a sense of honor, and the spirit of fair play. It is important to avoid that, in international competitions, excessive nationalism undermines the respect due to athletes from other countries."
+      },
+      {
+        "para_number": 49,
+        "para": "34. L'action de l'école doit être soutenue et renforcée par la famille et la communauté. Il importe donc de ne négliger aucune occasion pour assurer la collaboration des parents d'élèves, des organisations extrascolaires d'enfants et de jeunes gens et de la communauté dans son ensemble à de telles activités, tant scolaires qu'extrascolaires, tendant à favoriser la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "34. The role of the school must be supported and strengthened by the family and the community. It is therefore essential not to miss any opportunity to ensure the collaboration of parents, extracurricular organizations for children and young people, and the community as a whole in such activities, both curricular and extracurricular, aimed at promoting international understanding."
+      },
+      {
+        "para_number": 50,
+        "para": "35. Dans le développement de la compréhension internationale, la personnalité et les attitudes de l'enseignant ont une importance décisive et peuvent, dans une large mesure, déterminer le succès d'une éducation orientée dans ce sens. Il convient d'en tenir le plus grand compte dans la formation des enseignants.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. In the development of international understanding, the personality and attitudes of the teacher are of decisive importance and can largely determine the success of education directed towards this goal. This should be given the utmost consideration in teacher training."
+      },
+      {
+        "para_number": 51,
+        "para": "36. Il importe que les enseignants soient préparés de façon aussi complète que possible, du triple point de vue moral, psychologique et professionnel, à jouer efficacement leur rôle dans l'éducation pour la compréhension internationale. Il conviendrait d'étudier les méthodes propres à orienter les cours de formation du personnel enseignant et l'enseignement en général en fonction des objectifs de la compréhension internationale. La formation des maîtres doit, notamment, viser à réduire au minimum les incidences de leurs propres préjugés et à développer des qualités d'esprit et de comportement qui augmenteront leur efficacité dans leur rôle d'éducateurs pour la compréhension internationale. La formation doit, en outre, tendre à éveiller l'intérêt des étudiants pour cet aspect de l'éducation, à les convaincre de son importance, à leur inspirer le sentiment qu'ils sont en mesure d'enseigner dans cet esprit. Un effort d'imagination est nécessaire pour élaborer de nouvelles formules en vue de la préparation et du perfectionnement des maîtres. Il convient d'encourager les institutions chargées de la préparation des enseignants, avec la participation des maîtres et des étudiants, à concevoir des projets et des programmes d'éducation pour la compréhension internationale qui s'adaptent aux circonstances particulières.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. It is essential that teachers be prepared as comprehensively as possible from moral, psychological, and professional perspectives to effectively fulfill their role in education for international understanding. Appropriate methods should be studied to guide teacher training courses and education in general according to the objectives of international understanding. Teacher training must, in particular, aim to minimize the influence of their own prejudices and to develop mental and behavioral qualities that will enhance their effectiveness as educators for international understanding. Moreover, training should seek to awaken students’ interest in this aspect of education, convince them of its importance, and inspire in them the belief that they are capable of teaching in this spirit. An imaginative effort is required to develop new approaches for the preparation and continuing education of teachers. Institutions responsible for teacher preparation should be encouraged, with the participation of teachers and students, to design projects and educational programs for international understanding that are adapted to specific circumstances."
+      },
+      {
+        "para_number": 52,
+        "para": "37. Il est souhaitable que les programmes de préparation du personnel enseignant fournissent dans ce domaine à la fois la base de connaissances requise et la formation professionnelle nécessaire en ce qui concerne les conceptions, les méthodes et les techniques à appliquer afin que l'éducation pour la compréhension internationale agisse efficacement sur les élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. It is desirable that teacher preparation programs provide in this area both the required knowledge base and the necessary professional training concerning the concepts, methods, and techniques to be applied so that education for international understanding may effectively influence the students."
+      },
+      {
+        "para_number": 53,
+        "para": "38. Les méthodes, les programmes et tous les auxiliaires de l'enseignement en usage dans les cours de formation devraient être utilisés par les élèves-maîtres au cours des stages pratiques qu'ils effectuent.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. The methods, programs, and all teaching aids used in training courses should be employed by student teachers during their practical teaching internships."
+      },
+      {
+        "para_number": 54,
+        "para": "39. Il convient de tirer parti de toutes les occasions pour mettre à profit les activités des stages d'études et des cours de perfectionnement organisés à l'intention des maîtres en exercice, en fonction des objectifs de l'éducation pour la compréhension internationale. Il importe également d'organiser régulièrement, à l'intention des maîtres en exercice, des stages et des cours spéciaux portant sur l'éducation pour la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. Every opportunity should be taken to utilize the activities of study internships and refresher courses organized for in-service teachers, in accordance with the objectives of education for international understanding. It is also important to regularly organize workshops and special courses on education for international understanding for in-service teachers."
+      },
+      {
+        "para_number": 55,
+        "para": "40. Il importe d'effectuer des recherches visant à déterminer le rôle que l'éducation pour la compréhension internationale peut jouer dans la formation et la modification des attitudes, ainsi que l'efficacité relative des différentes conceptions, des différentes méthodes et des différents types de matériel employés dans l'éducation pour la compréhension internationale. Il conviendra de s'inspirer des résultats de ces recherches lors de l'élaboration ou de la revision des programmes scolaires, des programmes des différentes disciplines et du matériel d'enseignement, ainsi que dans la formation et le perfectionnement du personnel enseignant. Les enseignants et leurs organisations doivent être associés à ces recherches. Il conviendrait d'encourager la coopération internationale en matière de recherche sur la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "40. It is important to conduct research aimed at determining the role that education for international understanding can play in shaping and modifying attitudes, as well as the relative effectiveness of different concepts, methods, and types of material used in education for international understanding. The results of this research should be taken into account when developing or revising school curricula, the curricula of various disciplines, and teaching materials, as well as in the training and professional development of teaching staff. Teachers and their organizations should be involved in this research. International cooperation in research on international understanding should be encouraged."
+      },
+      {
+        "para_number": 56,
+        "para": "41. Il faut encourager et aider la réalisation de programmes expérimentaux et de projets-pilotes d'éducation pour la compréhension internationale, tels qu'en ont entrepris les écoles primaires ou secondaires, ou les établissements de formation des maîtres qui participent au système des Ecoles associées de l'Unesco. Il convient aussi de prendre les mesures appropriées pour encourager dans les établissements scolaires l'adoption et l'application généralisée des conceptions, des méthodes et du matériel mis au point et éprouvés dans le cadre de ces expériences.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "41. Experimental programs and pilot projects in education for international understanding, such as those undertaken by primary or secondary schools or teacher training institutions participating in the UNESCO Associated Schools system, should be encouraged and supported. Appropriate measures should also be taken to promote the widespread adoption and application in schools of the concepts, methods, and materials developed and tested through these initiatives."
+      },
+      {
+        "para_number": 57,
+        "para": "42. Il est souhaitable que des recherches et des études d'anthropologie et d'autres sciences sociales soient poursuivies, en vue d'éliminer les mythes raciaux qui font obstacle à la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "42. It is desirable that research and studies in anthropology and other social sciences be pursued with the aim of eliminating racial myths that hinder international understanding."
+      },
+      {
+        "para_number": 58,
+        "para": "43. Il importe que les autorités compétentes en matière d'éducation stimulent et facilitent, sur le plan international, l'échange et la diffusion de l'information et de la documentation relatives à l'éducation pour la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "43. It is essential that the competent educational authorities stimulate and facilitate, on an international level, the exchange and dissemination of information and documentation related to education for international understanding."
+      },
+      {
+        "para_number": 59,
+        "para": "44. Ces autorités doivent soutenir et encourager la participation aux programmes et projets bilatéraux, multilatéraux et internationaux qui visent à développer et à améliorer l'éducation pour la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "44. These authorities must support and encourage participation in bilateral, multilateral, and international programs and projects aimed at developing and improving education for international understanding."
+      },
+      {
+        "para_number": 60,
+        "para": "45. Les échanges internationaux de professeurs, d'étudiants et d'élèves, ainsi que les échanges d'administrateurs scolaires et d'inspecteurs, doivent être encouragés et aidés. Des efforts devraient également être faits pour accroître considérablement les occasions de voyages à l'étranger offertes aux élèves-maîtres et aux maîtres en exercice, afin qu'ils puissent prendre contact avec les élèves d'autres pays, visiter des établissements scolaires et se familiariser avec d'autres peuples et d'autres cultures. Les autorités compétentes devraient aussi faire un effort spécial pour faciliter les échanges organisés par les mouvements de jeunesse. Il convient de favoriser tous les contacts scolaires et extra-scolaires entre élèves et étudiants de nations et de cultures différentes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "45. International exchanges of teachers, students, and pupils, as well as exchanges of school administrators and inspectors, should be encouraged and supported. Efforts should also be made to significantly increase opportunities for travel abroad offered to student teachers and practicing teachers, so that they can interact with pupils from other countries, visit educational institutions, and become familiar with other peoples and cultures. The competent authorities should also make a special effort to facilitate exchanges organized by youth movements. All school and extracurricular contacts between pupils and students from different nations and cultures should be promoted."
+      },
+      {
+        "para_number": 61,
+        "para": "46. La participation à des tâches d'intérêt général aux côtés d'hommes et de femmes d'autres pays constitue une des formes les plus efficaces d'éducation pour la compréhension internationale. Il convient d'encourager et d'aider dans toute la mesure possible les voyages d'enseignants et de jeunes gens à l'étranger pour y participer à des activités volontaires en faveur du développement économique, social, culturel et éducatif. Ils peuvent de cette manière jouer un rôle actif dans la lutte contre l'analphabétisme, la famine et la maladie dont souffre une grande partie de la population du monde, et qui constituent une menace pour la paix.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "46. Participation in activities of general interest alongside men and women from other countries constitutes one of the most effective forms of education for international understanding. Efforts should be made to encourage and assist, to the fullest extent possible, the travel of teachers and young people abroad to take part in voluntary activities promoting economic, social, cultural, and educational development. In this way, they can play an active role in combating illiteracy, famine, and disease, which afflict a large portion of the world’s population and pose a threat to peace."
+      },
+      {
+        "para_number": 62,
+        "para": "47. Les contacts et les échanges internationaux entre les écoles, comme par l'entremise du système des Ecoles associées appliquant un programme d'éducation pour la compréhension internationale, méritent d'être encouragés et aidés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "47. International contacts and exchanges between schools, such as through the Associated Schools system implementing an educational program for international understanding, deserve to be encouraged and supported."
+      },
+      {
+        "para_number": 63,
+        "para": "48. Les autorités scolaires pourraient encourager, dans l'esprit des Jeux olympiques, l'organisation de compétitions internationales à l'intention des élèves et des étudiants, dans des disciplines telles que les mathématiques, la physique, la chimie et la littérature mondiale. Il conviendrait également d'organiser des rencontres d'athlétisme entre écoles de deux ou de plusieurs pays, ou de caractère largement international.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "48. Educational authorities could encourage, in the spirit of the Olympic Games, the organization of international competitions for pupils and students in disciplines such as mathematics, physics, chemistry, and world literature. Meetings in athletics between schools from two or more countries, or of a broadly international nature, should also be organized."
+      },
+      {
+        "para_number": 64,
+        "para": "49. Il importe que la présente recommandation fasse l'objet d'une large diffusion de la part des Ministères de l'instruction publique et des autorités scolaires. Les centres de documentation pédagogique, les associations internationales et nationales de maîtres et de parents, et la presse pédagogique, tant officielle que privée, devraient jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant et des universités, ainsi que du grand public. Il importe que les Ministères de l'instruction publique s'assurent le concours des organisations d'enseignants, tant pour diffuser la présente recommandation que pour participer à sa mise en œuvre.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "49. It is essential that this recommendation be widely disseminated by Ministries of Public Education and school authorities. Educational documentation centers, international and national associations of teachers and parents, and both official and private educational press should play a significant role in distributing this recommendation to the relevant departments, administrative and teaching staff, universities, as well as the general public. It is important that the Ministries of Public Education secure the support of teachers' organizations both to disseminate this recommendation and to participate in its implementation."
+      },
+      {
+        "para_number": 65,
+        "para": "50. L'Unesco et les autres organisations internationales compétentes sont invitées à faciliter, avec la collaboration des Ministères des pays intéressés, l'examen de la présente recommandation à l'échelon national ou régional en vue de son application conformément aux caractéristiques de chaque région.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "50. UNESCO and other competent international organizations are invited to facilitate, in collaboration with the Ministries of the countries concerned, the review of this recommendation at the national or regional level for its implementation in accordance with the characteristics of each region."
+      },
+      {
+        "para_number": 66,
+        "para": "51. Les Ministères de l'instruction publique et les autres autorités compétentes sont invités à examiner dès maintenant la présente recommandation par rapport à la situation de droit et de fait, ainsi qu'aux conditions ethniques et culturelles existant dans leurs pays respectifs, en vue d'appliquer les dispositions, là où elles ne sont —175 pas encore en vigueur et de les adapter dans toute la mesure nécessaire aux diverses situations nationales. Les Ministères sont en outre invités, dans le cadre des mesures nouvelles envisagées dans ce domaine, à prévoir l'évaluation continue de l'action entreprise.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "51. The Ministries of Public Instruction and other competent authorities are invited to examine this recommendation from now on in relation to the legal and factual situation, as well as to the existing ethnic and cultural conditions in their respective countries, with a view to applying the provisions where they are not yet in force and adapting them to the fullest extent necessary to the various national situations. The Ministries are also invited, within the framework of new measures envisaged in this field, to provide for the continuous evaluation of the actions undertaken."
+      },
+      {
+        "para_number": 67,
+        "para": "52. Il conviendrait de faire appel à l'assistance technique et financière des organisations internationales en faveur des pays où la mise en œuvre de la présente recommandation implique une revision du matériel d'enseignement et la réorientation des programmes de formation du personnel enseignant.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Technical and financial assistance from international organizations should be sought for countries where the implementation of this recommendation necessitates the revision of teaching materials and the reorientation of teacher training programs."
+      },
+      {
+        "para_number": 68,
+        "para": "53. Etant donné l'urgence du problème considéré dans la présente recommandation, l'Unesco et le Bureau international d'Education sont invités à adresser aux Ministères de l'instruction publique, avant la fin de l'année 1970, un questionnaire leur demandant de décrire les mesures prises en vue d'appliquer les dispositions de la présente recommandation dans leurs pays respectifs.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "53. In view of the urgency of the issue addressed in the present recommendation, UNESCO and the International Bureau of Education are invited to send to the Ministries of Public Instruction, before the end of 1970, a questionnaire requesting them to describe the measures taken to implement the provisions of this recommendation in their respective countries."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le premier juillet mil neuf cent soixante-huit en sa trente et unième session, adopte le neuf juillet mil neuf cent soixante-huit la recommandation suivante: La Conférence, Considérant que la Déclaration universelle des droits de l'homme proclame que l'éducation « doit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix », et que les souffrances et les humiliations auxquelles assistent et que subissent des hommes dans de nombreuses parties du monde sont dues à la violation des droits de l'homme, Considérant que la Déclaration des Nations Unies sur la promotion parmi les jeunes des idéaux de paix, de compréhension et de respect mutuel entre les peuples affirme que « tous les moyens d'éducation y compris, étant donné son importance capitale, l'éducation donnée par les parents ou la famille et tous les moyens d'enseignement et d'information destinés à la jeunesse doivent promouvoir parmi les jeunes les idéaux de paix, d'humanisme, de liberté et de solidarité internationale, ainsi que tous les autres idéaux qui contribuent au rapprochement des peuples, et doivent leur faire connaître le rôle confié à l'Organisation des Nations Unies en tant que moyen de préserver et de maintenir la paix et de favoriser la compréhension et la coopération internationales », Considérant que l'un des buts principaux de l'Unesco et du Bureau international d'Education est de contribuer au maintien de la paix et de la sécurité en resserrant la collaboration entre nations par l'éducation et que, comme l'affirme la Constitution de l'Unesco, « l'incompréhension mutuelle des peuples a toujours été, au cours de  166 l'histoire, à l'origine de la suspicion et de la méfiance entre nations, par où leurs désaccords ont trop souvent dégénéré en guerre », Prenant note des résolutions de la Conférence internationale sur les droits de l'homme réunie à Téhéran en 1968, concernant en particulier l'éducation de la jeunesse, Considérant la Recommandation N° 24 concernant «le développement de la conscience internationale dans la jeunesse et l'enseignement relatif aux organismes internationaux », Considérant la Recommandation N° 26 concernant « l'enseignement de la géographie et la compréhension internationale », Considérant la Recommandation N° 48 concernant « l'élaboration, le choix et l'utilisation des manuels de l'enseignement primaire », Considérant la Recommandation N° 59 concernant « l'enseignement des langues vivantes à l'école secondaire », Considérant la nécessité d'apprendre à tous les peuples du monde et en particulier à la jeunesse à travailler en faveur de la paix et à édifier une communauté internationale, conformément à l'esprit de la Charte des Nations Unies, ainsi qu'à lutter pour la mise en œuvre des principes de la Déclaration universelle des droits de l'homme, Considérant la nécessité de convertir ces principes en une action pratique soulignant la valeur morale de l'homme et son droit de lutter pour une vie meilleure fondée sur le respect de la dignité humaine, Considérant que l'éducation pour la compréhension internationale joue, en ce domaine, un rôle de premier plan et que la plupart des Etats n'ont pas encore pris toutes les mesures qu'il leur est loisible d'adopter dans le cadre de leur juridiction, en vue de l'incorporer aux programmes et à la vie scolaires, Considérant qu'une telle éducation vise non seulement à transmettre des connaissances, mais aussi à former des attitudes et à susciter des comportements et des activités favorables à la compréhension internationale et au respect des droits de T'homme, Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante: PRINCIPES DIRECTEURS RELATIFS A L'ÉDUCATION POUR LA COMPRÉHENSION INTERNATIONALE 1. L'éducation à tous les degrés doit contribuer à la compréhension internationale. 2. L'éducation doit contribuer à mieux faire connaître aux jeunes le monde et ses habitants et à engendrer des attitudes qui développent chez eux vis-à-vis des autres cultures, des autres races et des autres modes de vie un esprit d'appréciation et de respect mutuels. L'éducation doit mettre en lumière les relations entre le milieu  167 — et les modes et niveaux de vie. Tout en présentant de façon objective les différences qui existent notamment en matière de systèmes politiques, économiques et sociaux, elle doit insister sur les valeurs, les aspirations et les besoins communs à l'existence et à la conscience des différents peuples. 3. L'éducation doit montrer que le progrès des connaissances humaines résulte des contributions des divers peuples du monde et que toutes les cultures nationales ont été enrichies par les apports d'autres cultures et continuent de l'être. 4. L'éducation doit encourager le respect des droits de l'homme et leur observance dans la vie quotidienne. Elle doit mettre en relief le principe de l'égalité des hommes et de l'esprit de justice qui trouve son expression dans la Déclaration universelle des droits de l'homme, en soulignant que ce principe implique un respect égal pour tous les êtres humains, sans distinction de race, de couleur, de sexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'origine nationale ou sociale, de fortune, de naissance ou de toute autre situation. 5. L'éducation doit contribuer à donner à chaque élève et à chaque étudiant le sens de la dignité humaine qui s'oppose à toute domination de l'homme sur ses semblables. Elle doit tout mettre en œuvre pour éveiller chez les jeunes le désir de comprendre les problèmes économiques et sociaux de leur pays et de leur époque, et leur apporter une démonstration objective des effets nocifs du colonialisme, du néo-colonialisme, du racisme, de l'apartheid, de l'esclavage et de toutes les formes d'agression. 6. Il importe que l'éducation souligne l'égalité de droit de toutes les nations, grandes et petites, à régler leur propre existence et à épanouir pleinement toutes leurs ressources culturelles et matérielles. 7. L'éducation doit développer le sens de la solidarité internationale et de l'interdépendance de toutes les nations et de tous les hommes. Elle doit mettre en lumière la nécessité de la coopération internationale dans le traitement des problèmes mondiaux, et montrer que toutes les nations, quelle que soit la différence de leurs systèmes politiques et de leurs modes de vie, ont le devoir de collaborer à cette fin et ont intérêt à le faire. A cet égard, les activités des Nations Unies et des institutions apparentées devront être étudiées dans les écoles. DISPOSITIONS OFFICIELLES ET ADMINISTRATIVES 8. Les textes législatifs ou autres documents de caractère officiel définissant les buts généraux de l'éducation doivent lui assigner comme l'un de ses objectifs à tous les niveaux le développement de l'esprit de paix, de compréhension mutuelle entre les peuples et de respect des droits de l'homme. Les règlements officiels, instructions et recommandations destinés aux maîtres devraient formuler cet objectif en termes spécifiques et détaillés. 9. Les programmes généraux et les programmes des différentes disciplines devraient comporter des dispositions expresses concernant l'éducation pour la compréhension internationale, dispositions adaptées aux différents cours et aux nine son internation apaton les pres one de diffrents différents degrés, et prévoyant qu'un temps suffisant lui sera consacré. A cette fin, des groupes de spécialistes, composés principalement de maîtres en exercice, pourraient être constitués, là où il n'en existe pas encore, pour examiner la place accordée aux  — 168 études qui favorisent la compréhension internationale dans le cadre des plans d'études aux différents degrés et des programmes des différentes matières d'enseignement. Les organisations d'enseignants devraient être invitées à participer à cette tâche. 10. Les examens aux différents degrés de l'enseignement devraient comporter des questions relatives aux travaux effectués dans le cadre de l'éducation pour la compréhension internationale. 11. Les administrateurs scolaires et les inspecteurs dans l'exercice de leurs fonctions devraient veiller à ce que les plans d'études, les activités scolaires et l'enseignement contribuent à une meilleure compréhension internationale ainsi qu'au respect des droits de l'homme. ÉTUDES ET ACTIVITÉS DANS LES ÉCOLES PRIMAIRES ET SECONDAIRES 12. La plupart des disciplines qui figurent ordinairement au programme des écoles primaires et secondaires se prêtent à l'éducation pour la compréhension internationale. Il convient de tirer parti des ressources offertes par chacune d'entre elles de façon appropriée, en tenant dûment compte de l'âge, des aptitudes et des intérêts des élèves. L'expérience démontre que les idées maîtresses peuvent être assimilées à n'importe quel âge, tout au long de la scolarité, primaire et secondaire, et par des élèves d'aptitudes très différentes pourvu que ces idées soient adaptées à leur âge et présentées de façon adéquate. L'école doit créer une atmosphère qui favorise chez tous les membres de la communauté scolaire l'acquisition des qualités de justice, d'impartialité, de tolérance et de respect à l'égard des hommes de toutes sortes et de toutes conditions. 13. L'éducation pour la compréhension internationale devrait être conçue et dispensée comme une partie intégrante des études scolaires, chaque discipline contribuant effectivement, par les moyens appropriés, à l'ensemble d'un programme coordonné et continu se développant d'année en année. 14. Il importe que les programmes généraux et les programmes de chaque discipline soient conçus de manière assez souple pour permettre des liaisons étroites entre les différentes disciplines. Dans certaines matières de base, telles que la langue maternelle, la littérature nationale, les mathématiques, les sciences et les langues vivantes, l'esprit de compréhension internationale peut être développé en mettant à profit toutes les occasions favorables sans qu'il existe pour autant dans les programmes de rubrique particulière à ce sujet. D'autres disciplines, telles que l'histoire et la géographie, offrent un terrain particulièrement favorable à l'éducation pour la compréhension internationale; d'autres encore, comme la morale, l'instruction civique et les arts, y compris la musique, la danse et les jeux, devraient donner lieu, à l'intérieur même des programmes, à des études et à des activités en rapport direct avec la compréhension internationale. 15. Les problèmes internationaux doivent être traités selon les cas d'espèce, dans le cadre des différentes matières d'enseignement ou dans des cours séparés. Chaque établissement d'enseignement doit posséder une documentation adéquate concernant les questions internationales.  169 Littérature et langues 16. La littérature devrait être enseignée de manière à ouvrir des perspectives sur la nature humaine, les idéaux et aspirations communs à l'humanité tout entière, ses souffrances et ses luttes, sur les caractéristiques des diverses cultures nationales ainsi que sur leur apport particulier à la culture mondiale. L'enseignement de la littérature mondiale dans les établissements du second degré devrait être encouragé. 17. L'enseignement des langues vivantes devrait viser à donner pleinement accès aux cultures et aux modes de vie des autres pays, et à en favoriser la compréhension. Mathématiques et sciences 18. Dans l'enseignement des mathématiques, on devrait mettre en lumière la contribution des différentes cultures au développement de cette science. Certaines applications des mathématiques, comme la statistique et l'interprétation des données, devraient contribuer à l'étude des questions d'intérêt international, telles que la croissance démographique, la production agricole et industrielle et les dépenses en matière d'armements et en matière d'éducation. 19. Dans les cours d'introduction générale à la science, il convient d'enseigner l'histoire du développement des connaissances scientifiques et des contributions apportées par les différents pays et les différentes cultures. On devrait également prêter attention aux conséquences sociales des applications technologiques de la science et aux problèmes comme aux avantages qui résultent pour l'ensemble de l'humanité des rapides progrès de la science et de la technologie modernes. Biologie 20. a) Dans l'enseignement de la biologie, l'étude de la transmission et de la répartition des caractéristiques humaines, ainsi que des rapports entre les facteurs héréditaires et culturels, doit être conduite de manière à ôter tout fondement aux préjugés qui reposent sur les distinctions de race, de couleur, de nationalité ou de culture. A cet égard, il conviendrait d'utiliser les conclusions formulées dans la déclaration rédigée par le Comité international d'experts sur la race et les préjugés raciaux organisé par l'Unesco en 1967. b) Dans la mesure où la biologie se rapproche de l'écologie, on devrait la prendre, en corrélation avec la géographie, pour base de l'étude des modes de vie dans les diverses régions du monde. En biologie ou en hygiène, il convient de prêter attention aux problèmes mondiaux de la santé ainsi qu'à la coopération internationale dans la lutte contre les maladies. Histoire et géographie 21. L'enseignement de l'histoire devrait permettre une meilleure compréhension de l'histoire nationale si on reliait celle-ci à l'histoire des civilisations et si on accordait une attention accrue aux aspects sociaux, économiques, culturels et scientifiques de l'évolution de l'homme, en prêtant, en revanche, moins d'importance aux aspects purement militaires de l'histoire. L'histoire nationale et l'histoire des autres nations doivent être présentées aussi objectivement que possible, en tenant compte des différences d'opinions et d'interprétations et en s'inspirant des conclusions récentes de la recherche historique. Une attention particulière doit être accordée à l'histoire  170 = des luttes pour les droits de l'homme, y compris les luttes pour la libération nationale et pour la justice sociale, et au développement des institutions de coopération internationale destinées à promouvoir le bien-être de l'humanité, ainsi qu'aux hommes et aux femmes illustres des différents pays dont l'œuvre et les travaux ont profité à l'humanité tout entière. 22. L'enseignement de la géographie devrait amener l'enfant à penser au monde entier et à ses habitants, à comprendre les relations entre l'homme et son milieu et à se faire une idée juste des problèmes à résoudre pour que les ressources disponibles dans le monde contribuent à améliorer les conditions d'existence de l'humanité. Ce faisant, la géographie devrait faire comprendre la nécessité de la solidarité et de la coopération entre tous les peuples du monde. 23. Les cours de géographie et d'histoire devraient être conçus de manière à assurer un juste équilibre entre la place faite à la géographie et à l'histoire nationales et celle consacrée aux autres pays. Instruction civique et éducation morale 24. L'instruction civique, dont le but est de faire connaître les institutions nationales et de susciter le loyalisme à leur égard, devrait également viser à familiariser les élèves avec le rôle joué par les institutions internationales pour promouvoir le bien-être de l'humanité, et à leur donner le sens des responsabilités qui leur incombent en vue d'assurer l'efficacité future de ces institutions. Il importe de présenter les institutions et les activités du système des Nations Unies de façon objective et dans un esprit constructif. Il convient de donner toute l'attention nécessaire aux obstacles auxquels les Nations Unies et les institutions apparentées se heurtent dans leur action. 25. Dans le cadre de l'instruction religieuse ou de l'éducation morale, ou en philosophie, il importe que l'enseignement pour la compréhension internationale soit direct et explicite et s'attache aux fondements éthiques de la solidarité humaine. Il doit viser à développer le sens de la responsabilité morale et sociale envers autrui, le désir d'agir pour le bien commun et la volonté de paix. Arts, musique, danse et jeux 26. Dans les arts, la musique, la danse et les jeux, on devrait enrichir l'habileté d'exécution et le jugement esthétique par le recours à des thèmes empruntés à toutes les parties du monde. Il conviendrait de traiter ces matières du point de vue de leur valeur affective autant qu'intellectuelle. MATERIEL ET AUXILIAIRES D'ENSEIGNEMENT 27. Dans l'éducation pour la compréhension internationale, il convient d'utiliser une gamme aussi complète que possible de matériels d'enseignement, y compris les films, la radiodiffusion et la télévision scolaires et les autres auxiliaires audiovisuels. La nouvelle technologie éducative peut servir utilement la cause de la compréhension internationale. Elle donne de nouvelles dimensions à l'enseignement en général et devrait rendre les mêmes services pour diffuser des informations sur les autres peuples et modifier les attitudes à leur égard. Les programmes télévisés devraient  — 171 à la fois rendre sensible la réalité des différentes cultures et des divers modes de vie et les faire accepter. Les communications spatiales faciliteront de plus en plus des émissions de ce genre. 28. Le matériel d'enseignement utilisé doit être régulièrement examiné du point de vue de la contribution qu'il apporte à la compréhension internationale et au respect des droits de l'homme. En revisant ou en élaborant le matériel d'enseignement, en particulier les manuels d'histoire et de géographie, il importe de veiller particulièrement à ce qu'ils présentent une image équilibrée, objective, précise et actuelle des autres peuples et des pays de systèmes économique et politique différents, ainsi que des problèmes mondiaux. La confrontation des divers manuels, en particulier pour l'histoire et la géographie — déjà d'usage dans plusieurs pays peut contribuer, dans une large mesure, à l'élimination des erreurs, des malentendus, parfois même des divergences de points de vue qui existent entre deux peuples. A cette fin, il conviendrait de constituer des comités mixtes comprenant des représentants de deux ou plusieurs pays. 29. Il est souhaitable que les divers pays, avec la collaboration des institutions et des services scientifiques et pédagogiques nationaux, élaborent, à l'intention les listes de livres, de films et d'autre matériel d'enseignement recommandés, en particulier pour l'histoire et la géographie, qui paraîtraient de temps en temps. 30. Il convient d'encourager la production de matériel spécialement conçu en vue de l'éducation pour la compréhension internationale, y compris des guides et des livres du maître. Il importe que les autorités scolaires responsables prévoient de publier, sous une forme qui leur permette d'être utilisés dans les établissements de préparation des enseignants, certains documents fondamentaux émanant des Nations Unies, de l'Unesco et d'autres institutions internationales, et énonçant les principes approuvés concernant les droits de l'homme et la coopération internationale. METHODES D'ENSEIGNEMENT ET ACTIVITÉS SCOLAIRES ET EXTRASCOLAIRES 31. Dans l'éducation pour la compréhension internationale, il convient d'avoir recours, autant que possible, aux méthodes actives qui font appel à l'initiative individuelle, à la créativité, à l'adresse, aux aptitudes et à l'intelligence des élèves euxmêmes. Ces méthodes comprennent: la participation active à des campagnes d'entraide internationale, la libre discussion, les débats, les études critiques portant sur les articles de journaux, les films et les documentaires télévisés, les rapports et les études individuelles ou collectives, la préparation d'albums, de livres, de journaux muraux et d'expositions, les échanges de correspondance et de documents divers avec des écoles de l'étranger, des programmes de réunions, des excursions, des concerts, des réunions sur le modèle des assemblées des Nations Unies, des études sur la communauté, des camps internationaux ainsi que des activités de jeunesse. 32. Il importe de réorganiser, le cas échéant, certaines activités tant dans le cadre des programmes scolaires qu'en dehors de ces programmes, en vue de compléter  — 172 -et de renforcer l'éducation pour la compréhension internationale dans l'ensemble de l'enseignement. L'éventail de ces activités doit être assez large et assez varié pour offrir à tous les élèves des occasions d'exercer et d'épanouir leurs aptitudes particulières et leurs intérêts. Il est souhaitable que parmi ces activités figurent l'organisation de clubs ou d'associations, tels que les clubs Unesco, les clubs des Nations Unies et les clubs de relations internationales qui ont pour principal objet de promouvoir la compréhension internationale, ainsi que la célébration des anniversaires de personnalités qui ont apporté une contribution éminente au développement scientifique et culturel de l'humanité, et des journées commémorant des événements d'importance internationale, tels que la Journée des Nations Unies et celle des droits de l'homme. Les clubs devraient organiser des activités interscolaires et se constituer en associations nationales et régionales. Il convient d'encourager les initiatives que prendraient les élèves et les étudiants, ainsi que leurs organisations, pour entreprendre de nouvelles activités. Les prix accordés aux meilleurs élèves pourraient, chaque fois qu'il est possible, prendre la forme de facilités de voyage pour leur permettre de visiter d'autres pays. 33. La pratique du sport doit être utilisée comme moyen d'éliminer les tendances agressives en de saines compétitions et de développer la confiance en soi, le sens de l'honneur et l'esprit de « fair play ». Il convient d'éviter que, dans les compétitions internationales, un nationalisme excessif batte en brèche le respect dû aux sportifs des autres pays. 34. L'action de l'école doit être soutenue et renforcée par la famille et la communauté. Il importe donc de ne négliger aucune occasion pour assurer la collaboration des parents d'élèves, des organisations extrascolaires d'enfants et de jeunes gens et de la communauté dans son ensemble à de telles activités, tant scolaires qu'extrascolaires, tendant à favoriser la compréhension internationale. PRÉPARATION DU PERSONNEL ENSEIGNANT 35. Dans le développement de la compréhension internationale, la personnalité et les attitudes de l'enseignant ont une importance décisive et peuvent, dans une large mesure, déterminer le succès d'une éducation orientée dans ce sens. Il convient d'en tenir le plus grand compte dans la formation des enseignants. 36. Il importe que les enseignants soient préparés de façon aussi complète que possible, du triple point de vue moral, psychologique et professionnel, à jouer efficacement leur rôle dans l'éducation pour la compréhension internationale. Il conviendrait d'étudier les méthodes propres à orienter les cours de formation du personnel enseignant et l'enseignement en général en fonction des objectifs de la compréhension internationale. La formation des maîtres doit, notamment, viser à réduire au minimum les incidences de leurs propres préjugés et à développer des qualités d'esprit et de comportement qui augmenteront leur efficacité dans leur rôle d'éducateurs pour la compréhension internationale. La formation doit, en outre, tendre à éveiller l'intérêt des étudiants pour cet aspect de l'éducation, à les convaincre de son importance, à leur inspirer le sentiment qu'ils sont en mesure d'enseigner dans cet esprit. Un effort d'imagination est nécessaire pour élaborer de nouvelles formules en vue de la préparation et du perfectionnement des maîtres. Il convient d'encourager les institutions chargées de la préparation des enseignants, avec la participation des maîtres et des étudiants, à concevoir des projets et des programmes d'éducation pour la compréhension internationale qui s'adaptent aux circonstances particulières.   37. Il est souhaitable que les programmes de préparation du personnel enseignant fournissent dans ce domaine à la fois la base de connaissances requise et la formation professionnelle nécessaire en ce qui concerne les conceptions, les méthodes et les techniques à appliquer afin que l'éducation pour la compréhension internationale agisse efficacement sur les élèves. 38. Les méthodes, les programmes et tous les auxiliaires de l'enseignement en usage dans les cours de formation devraient être utilisés par les élèves-maîtres au cours des stages pratiques qu'ils effectuent. 39. Il convient de tirer parti de toutes les occasions pour mettre à profit les activités des stages d'études et des cours de perfectionnement organisés à l'intention des maîtres en exercice, en fonction des objectifs de l'éducation pour la compréhension internationale. Il importe également d'organiser régulièrement, à l'intention des maîtres en exercice, des stages et des cours spéciaux portant sur l'éducation pour la compréhension internationale. RECHERCHES ET ACTIVITÉS EXPÉRIMENTALES 40. Il importe d'effectuer des recherches visant à déterminer le rôle que l'éducation pour la compréhension internationale peut jouer dans la formation et la modification des attitudes, ainsi que l'efficacité relative des différentes conceptions, des différentes méthodes et des différents types de matériel employés dans l'éducation pour la compréhension internationale. Il conviendra de s'inspirer des résultats de ces recherches lors de l'élaboration ou de la revision des programmes scolaires, des programmes des différentes disciplines et du matériel d'enseignement, ainsi que dans la formation et le perfectionnement du personnel enseignant. Les enseignants et leurs organisations doivent être associés à ces recherches. Il conviendrait d'encourager la coopération internationale en matière de recherche sur la compréhension internationale. 41. Il faut encourager et aider la réalisation de programmes expérimentaux et de projets-pilotes d'éducation pour la compréhension internationale, tels qu'en ont entrepris les écoles primaires ou secondaires, ou les établissements de formation des maîtres qui participent au système des Ecoles associées de l'Unesco. Il convient aussi de prendre les mesures appropriées pour encourager dans les établissements scolaires l'adoption et l'application généralisée des conceptions, des méthodes et du matériel mis au point et éprouvés dans le cadre de ces expériences. 42. Il est souhaitable que des recherches et des études d'anthropologie et d'autres sciences sociales soient poursuivies, en vue d'éliminer les mythes raciaux qui font obstacle à la compréhension internationale. RELATIONS ET ECHANGES INTERNATIONAUX 43. Il importe que les autorités compétentes en matière d'éducation stimulent et facilitent, sur le plan international, l'échange et la diffusion de l'information et de la documentation relatives à l'éducation pour la compréhension internationale. 44. Ces autorités doivent soutenir et encourager la participation aux programmes et projets bilatéraux, multilatéraux et internationaux qui visent à développer et à améliorer l'éducation pour la compréhension internationale.  —174 45. Les échanges internationaux de professeurs, d'étudiants et d'élèves, ainsi que les échanges d'administrateurs scolaires et d'inspecteurs, doivent être encouragés et aidés. Des efforts devraient également être faits pour accroître considérablement les occasions de voyages à l'étranger offertes aux élèves-maîtres et aux maîtres en exercice, afin qu'ils puissent prendre contact avec les élèves d'autres pays, visiter des établissements scolaires et se familiariser avec d'autres peuples et d'autres cultures. Les autorités compétentes devraient aussi faire un effort spécial pour faciliter les échanges organisés par les mouvements de jeunesse. Il convient de favoriser tous les contacts scolaires et extra-scolaires entre élèves et étudiants de nations et de cultures différentes. 46. La participation à des tâches d'intérêt général aux côtés d'hommes et de femmes d'autres pays constitue une des formes les plus efficaces d'éducation pour la compréhension internationale. Il convient d'encourager et d'aider dans toute la mesure possible les voyages d'enseignants et de jeunes gens à l'étranger pour y participer à des activités volontaires en faveur du développement économique, social, culturel et éducatif. Ils peuvent de cette manière jouer un rôle actif dans la lutte contre l'analphabétisme, la famine et la maladie dont souffre une grande partie de la population du monde, et qui constituent une menace pour la paix. 47. Les contacts et les échanges internationaux entre les écoles, comme par l'entremise du système des Ecoles associées appliquant un programme d'éducation pour la compréhension internationale, méritent d'être encouragés et aidés. 48. Les autorités scolaires pourraient encourager, dans l'esprit des Jeux olympiques, l'organisation de compétitions internationales à l'intention des élèves et des étudiants, dans des disciplines telles que les mathématiques, la physique, la chimie et la littérature mondiale. Il conviendrait également d'organiser des rencontres d'athlétisme entre écoles de deux ou de plusieurs pays, ou de caractère largement international. APPLICATION DE LA PRÉSENTE RECOMMANDATION 49. Il importe que la présente recommandation fasse l'objet d'une large diffusion de la part des Ministères de l'instruction publique et des autorités scolaires. Les centres de documentation pédagogique, les associations internationales et nationales de maîtres et de parents, et la presse pédagogique, tant officielle que privée, devraient jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant et des universités, ainsi que du grand public. Il importe que les Ministères de l'instruction publique s'assurent le concours des organisations d'enseignants, tant pour diffuser la présente recommandation que pour participer à sa mise en œuvre. 50. L'Unesco et les autres organisations internationales compétentes sont invitées à faciliter, avec la collaboration des Ministères des pays intéressés, l'examen de la présente recommandation à l'échelon national ou régional en vue de son application conformément aux caractéristiques de chaque région. 51. Les Ministères de l'instruction publique et les autres autorités compétentes sont invités à examiner dès maintenant la présente recommandation par rapport à la situation de droit et de fait, ainsi qu'aux conditions ethniques et culturelles existant dans leurs pays respectifs, en vue d'appliquer les dispositions, là où elles ne sont  —175 pas encore en vigueur et de les adapter dans toute la mesure nécessaire aux diverses situations nationales. Les Ministères sont en outre invités, dans le cadre des mesures nouvelles envisagées dans ce domaine, à prévoir l'évaluation continue de l'action entreprise. 52. Il conviendrait de faire appel à l'assistance technique et financière des organisations internationales en faveur des pays où la mise en œuvre de la présente recommandation implique une revision du matériel d'enseignement et la réorientation des programmes de formation du personnel enseignant. 53. Etant donné l'urgence du problème considéré dans la présente recommandation, l'Unesco et le Bureau international d'Education sont invités à adresser aux Ministères de l'instruction publique, avant la fin de l'année 1970, un questionnaire leur demandant de décrire les mesures prises en vue d'appliquer les dispositions de la présente recommandation dans leurs pays respectifs."
+  }
+}

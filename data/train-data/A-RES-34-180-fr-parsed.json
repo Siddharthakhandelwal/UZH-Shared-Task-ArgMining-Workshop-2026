@@ -1,0 +1,922 @@
+[
+    {
+        "type": "paragraph",
+        "text_fr": "lance en ce qui concerne la situation des droits de  l'homme daris  ce pays;",
+        "text_en": "launches with regard to the human rights situation in that country;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "4. Se déclare gravement préoccupée par la détérioration qui  s'est produite  dans  un  certain  nombre  de  domaines, particulièrement en  ce qui concerne  :",
+            "a)  L'accroissement des  pouvoirs arbitraires des  organes de  sécurité;",
+            "b)  Les cas de torture, de sévices et de décès inexpliqués;",
+            "c)  La  liberté de  réunion et d'association;",
+            "d)  Les  droits  syndicaux;",
+            "e)  La  présomption d'innocence dont  doivent  bénéficier les  personnes accusées;",
+            "f) Le  traitement des  autochtones;",
+            "5. Prie instamment les autorités chiliennes de  respecter et  de  promouvoir  les  droits  de  l'homme, conformément aux  obligations que  le  Chili a assumées en  vertu de divers instruments internationaux, et en particulier :",
+            "a)  De  mettre  fin  à l'état d'urgence, à la  faveur  duquel des  violations  des  droits  de  l'homme continuent  d'avoir lieu,  et  de  rétablir les  institutions  démocratiques et  les  ga› ranties  constitutionnelles  dont  le  peuple  chilien  jouissait auparavant;",
+            "b)  De  faire  en  sorte  qu'il soit  immédiatement mis  fin  à la  torture  et  aux  autres  formes  de  traitement  inhumain  ou dégradant et de poursuivre et punir les  responsables de  ces pratiques;",
+            "c)  De  rétablir complètement la  liberté d'expression et d'information ainsi  que de réunion et d'association;",
+            "d)  De  rétablir complètement les  droits  syndicaux,  spé› cialement en ce qui  concerne la liberté de  former  des  syn› dicats  pouvant  opérer librement,  sans  contrôle  du  gou› vernement, et d'exercer pleinement le  droit de  grève;",
+            "e)  De  permettre aux ressortissants chiliens d · entrer dans leur pays ou de  le  quitter en  toute  liberté et  de  restituer la nationalité chilienne à ceux qui en ont été déchus pour des raisons politiques;",
+            "f) De  rétablir complètement le  droit  d' amparo  (habeas corpus);",
+            "g) De respecter les  droits,  en  particulier les  droits  éco› nomiques,  sociaux  et  culturels,  de  la  population  autoch› tone;",
+            "h)  De  prendre  des  mesures  pour  que  la  population  en général puisse bénéficier davantage de  ses droits économi› ques et sociaux;",
+            "6. Se  déclare profondément préoccupée parce  que, même si elle a noté qu'on n'a pas signalé de  cas de  dispa› rition  au  Chili  en  1978  et  1979,  le  fait  qu'on n'a toujours pas  retrouvé trace  de  nombre  de  personnes  portées dispa› rues entre septembre 1973 et la fin  de  1977 témoigne d'une situation  continue  de  violations  flagrantes  et  massives  des droits  de  l'homme;",
+            "7. Prie  instamment les  autorités chiliennes  d'enquêter et de  faire  la lumière sur le  sort des  personnes qui auraient disparu pour des raisons politiques, d'informer leur famille des  résultats obtenus,  d'engager des  poursuites  contre  les responsables de ces disparitions et de  punir les  coupables;",
+            "8. Invite la  Commission  des  droits  de  l'homme  à continuer de suivre de  près la situation  au  Chili et, à cette",
+            "a)  Proroger  le  mandat  du  Rapporteur  spécial chargé d'étudier la  situation  des  droits  de  l'homme  au  Chili, conformément au paragraphe 6 de  la résolution 11 (XXXV) de  la  Commission;",
+            "b)  Examiner  plus  avant  à sa  trente-sixième session  les moyens les  plus efficaces de  faire  la  lumière sur le  sort des personnes  portées manquantes  ou  disparues  au  Chili  ainsi que  sur le  lieu  oø  elles  se  trouvent,  compte  tenu  des  indi› cations contenues dans  le  rapport de  !'Expert chargé d'étu› dier la  question  du  sort  des  personnes  portées manquantes ou disparues  au  Chili;",
+            "9. Prie en  outre  instamment les  autorités chiliennes de coopérer avec le  Rapporteur spécial et  avec  !'Expert chargé d'étudier la  question  du  sort  des  personnes  portées man› quantes ou  disparues  au  Chili;",
+            "10. Prie la  Commission des droits de  l'homme de faire rapport  sur  cette  question  à l'Assemblée générale, lors  de sa  trente-cinquième session, par l'intermédiaire du  Conseil économique et  social."
+        ],
+        "items_en": [
+            "4. Expresses grave concern at the deterioration in a number of areas, in particular with regard to:",
+            "(a) The increase in the arbitrary powers of the security organs;",
+            "(b) Unexplained cases of torture, abuse and death;",
+            "(c) Freedom of assembly and association;",
+            "(d) Trade union rights;",
+            "(e) The presumption of innocence to be enjoyed by accused persons;",
+            "(f) Treatment of indigenous people;",
+            "5. Urges the Chilean authorities to respect and promote human rights, in accordance with Chile's obligations under various international instruments, in particular:",
+            "(a) To put an end to the state of emergency, in which human rights violations continue to occur, and to restore the democratic institutions and constitutional guaranties previously enjoyed by the Chilean people;",
+            "(b) To ensure the immediate cessation of torture and other forms of inhuman or degrading treatment and to prosecute and punish those responsible for such practices;",
+            "(c) To fully restore freedom of expression, information, assembly and association;",
+            "(d) The full restoration of trade union rights, especially with regard to the freedom to form trade unions which can operate freely without government control, and the full exercise of the right to strike;",
+            "(e) To allow Chilean nationals to enter or leave their country freely and to return Chilean nationality to those who have been deprived of Chilean nationality for political reasons;",
+            "(f) To fully restore the right to amparo (habeas corpus);",
+            "(g) To respect the rights, in particular the economic, social and cultural rights of the indigenous population;",
+            "(h) Take measures to increase the enjoyment of economic and social rights by the general population;",
+            "6. Expresses its deep concern at the fact that, although it has noted that there have been no reports of dispersal in Chile in 1978 and 1979, the fact that there have still been no records of the number of people brought out from the streets between September 1973 and the end of 1977 demonstrates a continuing situation of gross and massive violations of human rights;",
+            "7. Urges the Chilean authorities to investigate and clarify the fate of persons who have allegedly disappeared for political reasons, to inform their families of the results achieved, to prosecute those responsible for such disappearances and to punish those responsible;",
+            "8. Invites the Commission on Human Rights to continue to monitor closely the situation in Chile and,",
+            "(a) To extend the mandate of the Special Rapporteur on the situation of human rights in Chile, in accordance with paragraph 6 of Commission resolution 11 (XXXV);",
+            "(b) Further consider at its thirty-sixth session the most effective ways to shed light on the fate and whereabouts of persons reported missing or missing in Chile, taking into account the information contained in the report of the expert on the question of the fate of persons reported missing or missing in Chile;",
+            "9. Further urges the Chilean authorities to cooperate with the Special Rapporteur and with the expert on the fate of persons who have been brought into Chile to report on the fate of persons who have been brought into Chile;",
+            "10. Requests the Commission on Human Rights to report on this issue to the General Assembly at its thirty-fifth session, through the Economic and Social Council."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "J06e  séance plénière 17  décembre l 979",
+        "text_en": "J06th plenary meeting 17 December l 979"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "34/180. Convention  sur  l'élimination de  toutes  les formes de discrimination à l'égard des femmes",
+        "text_en": "34/180. Convention on the Elimination of All Forms of Discrimination against Women"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "L'Assemblée générale,",
+        "text_en": "The General Assembly,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Considérant qu'un des  buts  des  Nations  Unies,  énoncé aux  Articles premier et  55  de  la  Charte, est  de  favoriser le respect universel  des  droits  de  l'homme et des  libertés fon› damentales,  sans  distinction  aucune,  notamment de  sexe,",
+        "text_en": "Considering that one of the purposes of the United Nations, as set out in Articles 1 and 55 of the Charter, is to promote universal respect for human rights and fundamental freedoms, without distinction of any kind, including gender,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Rappelant que,  par  sa  résolution 2263 (XXII) du  7 no› vembre  1967,  l'Assemblée générale a proclamé la  Décla› ration  sur  l'élimination de  la  discrimination  à l'égard des femmes,",
+        "text_en": "Recalling that, by its resolution 2263 (XXII) of 7 November 1967, the General Assembly proclaimed the Declaration on the Elimination of Discrimination against Women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Tenant  compte des  conventions,  résolutions, déclara› tions  et  recommandations  de  l'Organisation des Nations Unies  et  des  institutions  spécialisées ayant  pour  objet d'éliminer toutes  les  formes  de  discrimination  et  de pro› mouvoir l'égalité des droits  de  l'homme et de  la  femme,",
+        "text_en": "Taking into account the conventions, resolutions, declarations and recommendations of the United Nations and the specialized agencies aimed at eliminating all forms of discrimination and promoting equal rights for men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant, en  particulier,  sa  résolution 33/ 177  du  20 dé› cembre  1978,  relative  à l'élaboration d'une convention  sur l'élimination de  la discrimination  à l'égard des  femmes,",
+        "text_en": "Noting, in particular, its resolution 33/ 177 of 20 December 1978 on the elaboration of a convention on the elimination of discrimination against women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Considérant que la discrimination qui  s'exerce contre les femmes est incompatible avec  la dignité humaine et avec le bien-être de  la  société et qu'elle constitue  un  obstacle à la pleine  réalisation des  potentialités des  femmes,",
+        "text_en": "Recognizing that discrimination against women is incompatible with human dignity and the well-being of society and constitutes an obstacle to the full realization of the potential of women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Affirmant que  les  femmes  et  les  hommes devraient parti› ciper et  contribuer dans  des  conditions  d'égalité aux  pro› cessus  social,  économique et  politique  du  développement et  avoir  part,  à égalité, à l'amélioration des  conditions  de vie,",
+        "text_en": "Affirming that women and men should participate in and contribute equally to the social, economic and political processes of development and have an equal share in the improvement of living conditions,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Reconnaissant que  le  bien-être du  monde  et  la cause  de la paix  demandent la pleine  participation des  femmes  aussi bien que  des  hommes  à la vie  de  la  société,",
+        "text_en": "Recognizing that the well-being of the world and the cause of peace require the full participation of women as well as men in society,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Convaincue qu'il est  nécessaire de  faire  reconnaître uni› versellement, en droit et en  fait,  le  principe de  l'égalité des hommes et des  femmes,",
+        "text_en": "Convinced of the need to ensure that the principle of equality of men and women is recognized in law and in fact as one,"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Adopte et ouvre  à la  signature,  à la  ratification  et à l'adhésion la  Convention  sur  l'élimination de  toutes  les formes  de  discrimination  à  l'égard des  femmes,  dont  le texte est  annexé à la  présente résolution;",
+            "2. Exprime  l'espoir que  la  Convention  sera  signée èt ratifiée ou  recueillera  les  adhésions nécessaires sans  délai et  qu'elle entrera en  vigueur à une  date  rapprochée;",
+            "3. Prie le  Secrétaire général de  présenter le  texte de  la Convention  à la  Conférence mondiale  de  la  Décennie des Nations  Unies  pour la fem~e,  pour  son  information;",
+            "4. Prie le  Secrétaire général de  présenter à l 'Assem› blée générale, lors  de  sa  trente-cinquième session,  un  rap› port  sur  l'état de  la  Convention  dans  le  cadre  d'une ques› tion  intitulée \"Etat de  la  Convention  sur  l'élimination de toutes les formes de  discrimination à l'égard des  femmes\"."
+        ],
+        "items_en": [
+            "1. Adopts and opens for signature, ratification and accession the Convention on the Elimination of All Forms of Discrimination against Women, the text of which is annexed to the present resolution;",
+            "2. Expresses the hope that the Convention will be signed or acceded to without delay and that it will enter into force at an early date;",
+            "3. Requests the Secretary-General to submit the text of the Convention to the World Conference of the United Nations Decade for Women for its information;",
+            "4. Requests the Secretary-General to submit to the General Assembly at its thirty-fifth session a report on the status of the Convention in the context of a question entitled \"State of the Convention on the Elimination of All Forms of Discrimination against Women\"."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "107e  séance plénière 18  décembre 1979",
+        "text_en": "107th plenary meeting 18 December 1979"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "ANNEXE",
+        "text_en": "The President"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Convention sur l'éllmlnatlon de toutes les formes de  discrimination à l'égard des femmes",
+        "text_en": "Convention on the Elimination of All Forms of Discrimination against Women"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties à la  présente Convention,",
+        "text_en": "The States Parties to this Convention,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant que la Charte des Nations Unies  réaffinne la foi  dans  les droits fondamentaux  de  l'homme, dans  la  dignité et  la  valeur  de  la  personne humaine et  dans l'égalité des droits de  l'homme et de  la  femme,",
+        "text_en": "Noting that the Charter of the United Nations reshapes faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant que la  Déclaration universelle des droits de  l'homme 140 affinne le  principe  de  la  non-discrimination  et  proclame  que  tous  les  êtres hu› mains naissent libres et égaux en dignité et en droit et que chacun peut se prévaloir de  tous  les  droits  et  de  toutes  les  libertés qui  y  sont  énoncés, sans distinction  aucune,  notamment de  sexe,",
+        "text_en": "Noting that the Universal Declaration of Human Rights 140 refines the principle of non-discrimination and proclaims that all human beings are born free and equal in dignity and law and that everyone is entitled to all the rights and freedoms set forth therein, without distinction of any kind, including sex,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant que les Etats parties aux  Pactes internationaux relatifs aux droits de  l'homme 141 ont  l'obligation d'assurer l'égalité des  droits  de l'homme et de  la  femme  dans  l'exercice de  tous  les  droits  économiques, sociaux, culturels, civils et politiques,",
+        "text_en": "Noting that States parties to the International Covenants on Human Rights 141 have an obligation to ensure equal rights of men and women in the enjoyment of all economic, social, cultural, civil and political rights,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Considérant les  conventions  internationales  conclues  sous  l'égide de l'Organisation des  Nations Unies et des institutions spécialisées en  vue  de promouvoir l'égalité des droits de  l'homme et de la femme,",
+        "text_en": "Considering the international conventions concluded under the auspices of the United Nations and the specialized agencies with a view to promoting equal rights for men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant  également les résolutions,  déclarations et  recommandations adoptées par l'Organisation des Nations  Unies et les  institutions  spéciali› sées en  vue  de  promouvoir  l'égalité des  droits  de  l'homme et  de  la femme,",
+        "text_en": "Noting also the resolutions, declarations and recommendations adopted by the United Nations and the specialized agencies for the promotion of equal rights of men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Préoccupés toutefois de  constater qu'en dépit de ces divers instruments les  femmes  continuent de  faire  l'objet d'importantes discriminations,",
+        "text_en": "Concerned, however, that, despite these various instruments, women continue to face significant discrimination,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Rappelant que la discrimination à l'encontre des  femmes  viole les prin› cipes  de  l'égalité des  droits  et  du  respect  de  la  dignité humaine,  qu'elle entrave  la  participation  des  femmes,  dans  les  mêmes conditions que  les hommes, à la  vie  politique,  sociale,  économique et  culturelle  de  leur pays, qu'elle fait  obstacle à l'accroissement du bien-être de  la  société et de la famille  et qu'elle empêche les  femmes  de  servir leur pays etl'hu› manité dans toute la mesure de  leurs possibilités,",
+        "text_en": "Recalling that discrimination against women violates the principles of equal rights and respect for human dignity, impedes the participation of women, on the same conditions as men, in the political, social, economic and cultural life of their countries, impedes the growth of the well-being of society and the family and prevents women from serving their country and the dignity to the fullest extent of their possibilities,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Préoccupés par le  fait  que, dans  les  situations de pauvreté, les  femmes ont  un  minimum  d'accès à  l'alimentation,  aux  services  médicaux,  à l'éducation, à la  fonnation  ainsi  qu'aux possibilités d'emploi et  à la  sa› tisfaction  d'autres besoins,",
+        "text_en": "Concerned that, in situations of poverty, women have minimum access to food, medical services, education, job opportunities and other needs,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Convaincus que l'instauration du  nouvel ordre économique internatio› nal  fond!S  sur ! 'équité et la justice  contribuera  de  façon  significative  à promouvoir l'égalité entre  l'homme et la femme,",
+        "text_en": "Convinced that the establishment of the new international economic order is based on equity and justice and will make a significant contribution to promoting equality between men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Soulignant que  l'élimination de l'apartheid, de  toutes  les  fonnes  de racisme, de discrimination raciale,  de colonialisme, de  néo-colonialisme, d'agression, d'occupation et domination  étrangères et  d'ingérence dans les  affaires  intérieures des  Etats  est  indispensable  à  la  pleine  jouissance par l'homme et la femme  de  leurs droits,",
+        "text_en": "Stressing that the elimination of apartheid, all forms of racism, racial discrimination, colonialism, neo-colonialism, foreign aggression, occupation and domination and interference in the internal affairs of States are indispensable for the full enjoyment by men and women of their rights,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Affirmant que le  renforcement de  la  paix  et  de  la  sécurité internationa› les,  le  relâchement de la tension  internationale,  la coopération entre  tous les  Etats  quels  que  soient  leurs  systèmes sociaux  et  économiques, le  dé› sarmement général et complet et, en particulier, le  désarmement nucléaire sous contrôle international strict et  efficace,  l'affinnation des  principes de",
+        "text_en": "Affirming that the strengthening of international peace and security has been achieved, the relaxation of international tension, cooperation among all States, irrespective of their social and economic systems, general and complete disarmament and, in particular, nuclear disarmament under strict and effective international control, and the refinement of the principles of international peace and security,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "la justice, de  l'égalité et de  l'avantage mutuel dans les relations entre pays et la réalisation du droit des peuples assujettis à une domination étrangère et coloniale et  à une  occupation étrangère à l'autodétennination et à l'in› dépendance, ainsi  que  le  respect de la souveraineté nationale  et  de  I' inté› grité territoriale  favoriseront  le  progrès  social  et  le  développement et contribueront  par  conséquent à  la  réalisation de  la  pleine  égalité entre l'homme et la femme,",
+        "text_en": "justice, equality and mutual benefit in relations between countries and the realization of the right of peoples subject to foreign and colonial domination and foreign occupation to self-detennination and independance, as well as respect for national sovereignty and territorial integrity, will promote social progress and development and will therefore contribute to the achievement of full equality between men and women;"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Convaincus que  le  développement complet  d'un pays,  le  bien-être du monde  et  la  cause  de  la  paix  demandent  la  participation  maximale  des femmes,  à égalité avec  les  hommes, dans tous les  domaines,",
+        "text_en": "Convinced that the comprehensive development of a country, the well-being of the world and the cause of peace require the maximum participation of women, on an equal basis with men, in all fields,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Ayant à l'esprit l'importance de  la contribution  des  femmes  au  bien› être de  la  famille  et au  progrès de  la  société, qui  jusqu'à présent n'a pas été pleinement  reconnue,  de  l'importance sociale  de  la  maternité et  du rôle  des  parents  dans  la  famille  et  dans  l'éducation des  enfants  et conscients du fait  que le  rôle  de  la femme  dans la procréation ne  doit  pas être une  cause  de  discrimination  et  que  l'éducation des  enfants  exige  le partage  des  responsabilités entre  les  hommes,  les  femmes  et  la  société dans son ensemble,",
+        "text_en": "Bearing in mind the importance of women's contribution to the well-being of the family and to the advancement of society, which so far has not been fully recognized, the social importance of motherhood and the role of parents in the family and in the upbringing of children, and recognizing that the role of women in reproduction should not be a cause of discrimination and that the upbringing of children requires the sharing of responsibilities between men, women and society as a whole,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Conscients que le  rôle  traditionnel de  l'homme dans  la  famille  et dans la  société doit évoluer autant que celui de la femme  si  on  veut  parvenir à une  réelle égalité de  l'homme et de  la  femme,",
+        "text_en": "Recognizing that the traditional role of men in the family and in society must evolve as much as that of women in order to achieve real equality between men and women,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Résolus à mettre en œuvre les principes énoncés dans la Déclaration sur l'élimination de  la discrimination  à l'égard des  femmes  et,  pour ce  faire, à adopter les mesures nécessaires à la suppression de  cette discrimination sous toutes  ses  formes  et  dans toutes  ses  manifestations,",
+        "text_en": "Determined to implement the principles contained in the Declaration on the Elimination of Discrimination against Women and, in so doing, to adopt the necessary measures to eliminate such discrimination in all its forms and manifestations,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Sont convenus de  ce  qui  suit  :",
+        "text_en": "Have agreed as follows:"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "PREMIRE  PARTIE",
+        "text_en": "PREMIRE PART"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article premier",
+        "text_en": "Article 1"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Aux  fins  de  la  présente Convention,  l'expression  \"discrimination  à l'égard des  femmes\"  vise  toute  distinction,  exclusion ou restriction  fon› dée sur  le  sexe  qui  a  pour  effet  ou  pour  but  de  compromettre  ou  de détruire la  reconnaissance,  la  jouissance  ou  l'exercice par  les  femmes, quel que soit leur état matrimonial, sur la base de l'égalité de  l'homme et de  la  femme,  des droits de  l'homme et des libertés fondamentales dans les domaines  politique,  économique, social,  culturel  et  civil  ou  dans  tout autre  domaine.",
+        "text_en": "For the purposes of this Convention, the term \"discrimination against women\" shall mean any distinction, exclusion or restriction on sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise by women, irrespective of their marital status, on the basis of equality of men and women, human rights and fundamental freedoms in the political, economic, social, cultural and civil fields or in any other field."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 2",
+        "text_en": "Article 2"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les  Etats  parties  condamnent  la  discrimination  à  l'égard des  femmes sous  toutes  ses  formes,  conviennent  de  poursuivre  par  tous  les  moyens appropriés et sans retard  une  politique tendant à éliminer la discrimination à l'égard des femmes et, à cette fin,  s'engagent à :",
+        "text_en": "States Parties condemn discrimination against women in all its forms, agree to pursue by all appropriate means and without delay a policy of eliminating discrimination against women and, to this end, undertake to:"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "a) Inscrire  dans  leur  constitution  nationale  ou  toute  autre  disposition législative appropriée le  principe de  l'égalité des hommes el des femmes, si  ce  n'est déjà fait,  et  assurer  par  voie  de  législation ou  par  d'autres moyens  appropriés l'application effective dudit principe;",
+        "text_en": "(a) To include in their national constitutions or other appropriate legislative provisions the principle of equality of men and women, if not already done, and to ensure the effective implementation of that principle by legislation or other appropriate means;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "b) Adopter  des  mesures  législatives et  d'autres mesures  appropriées assorties,  y compris des  sanctions en  cas de  besoin,  interdisant  toute  dis› crimination à l'égard des  femmes;",
+            "c)  Instaurer  une  protection  juridictionnelle  des  droits  des  femmes  sur un  pied  d'égalité avec  les  hommes et garantir,  par le  truchement  des  tri› bunaux nationaux compétents et d'autres institutions publiques,  la  protec› tion  effective des femmes  contre  tout  acte discriminatoire;",
+            "d) S'abstenir de  tout  acte  ou  pratique  discriminatoire à l'égard des femmes  el  faire  en  sorte  que  les  autorités publiques  et  les  institutions publiques  se  confonnent à cette obligation;",
+            "e) Prendre  toutes  mesures  appropriées pour éliminer 'a discrimination pratiquée à l'égard des femmes par une  personne, une organisation ou une entreprise quelconque;",
+            "/)  Prendre  toutes  les  mesures  appropriées, y compris  des  dispositions législatives, pour modifier ou  abroger toute loi, disposition réglementaire, coutume  ou  pratique  qui  constitue  une  discrimination  à  l'égard des femmes;",
+            "g)  Abroger toutes les dispositions pénales qui constituent une discrimi› nation  à l'égard des  femmes."
+        ],
+        "items_en": [
+            "(b) To adopt appropriate legislative and other measures, including sanctions where necessary, prohibiting discrimination against women;",
+            "(c) To establish legal protection of women's rights on an equal footing with men and to ensure, through the competent national courts and other public institutions, the effective protection of women against any discriminatory act;",
+            "(d) To refrain from any act or practice that discriminates against women and to ensure that public authorities and public institutions comply with this obligation;",
+            "(e) Take all appropriate measures to eliminate discrimination against women by any person, organization or enterprise;",
+            "(l) Take all appropriate measures, including legislation, to amend or repeal any law, regulation, custom or practice that constitutes discrimination against women;",
+            "(g) Repeal all criminal provisions which constitute discrimination on the part of women."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 3",
+        "text_en": "Article 3"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties prennent dans tous les domaines, notamment dans les domaines  politique,  social,  économique et culturel,  toutes  les  mesures appropriées, y compris des dispositions législatives, pour assurer le plein développement et le  progrà des femmes, en vue de leur gll'llltir l'exer› cice et la jouissance des droits de  l'homme et des libertés fondamentales sur la  base  de l'égalité avec les hommes.",
+        "text_en": "States Parties shall take in all fields, in particular in the political, social, economic and cultural fields, all appropriate measures, including legislative provisions, to ensure the full development and advancement of women, with a view to their full exercise and enjoyment of human rights and fundamental freedoms on an equal basis with men."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 4",
+        "text_en": "Article 4"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "J. L'adoption par  les Etats parties  de mesures temporaires  spéciales visant à accélérer l'instauration d'une égalité de fait entre les  hommes el les  femmes n'est pas considérée comme un acte de discrimination tel qu'il est  défini dans  la  présente Convention,  mais  ne  doit  en  aucune  façon avoir pour conséquence le maintien de normes inéples ou distinctes; ces mesures doivent être abrogées dès que les objectifs en matière d'égalité de ch~s el de traitement ont été atteints. ·",
+            "2. L'adoption par les Etats parties de mesures spéciales, y compris de mesures  prévues dans la présente Convention,  qui  visent  à protéger la maternité n'est pas considérée comme un acte discriminatoire."
+        ],
+        "items_en": [
+            "J. The adoption by States Parties of temporary special measures aimed at accelerating the establishment of de facto equality between men and women shall not be regarded as an act of discrimination as defined in this Convention, but shall in no way result in the maintenance of inept or separate standards; such measures shall be repealed as soon as the objectives of equality of treatment have been achieved. ·",
+            "2. The adoption by States Parties of special measures, including measures provided for in this Convention, to protect maternity shall not be considered discriminatory."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 5",
+        "text_en": "Article 5"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties prennent toutes les mesures appropriées pour :",
+        "text_en": "States Parties shall take all appropriate measures to:"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "a)  Modifier les schémas et modèles de comportement socioculturel de l'homme et de la femme en we de parvenir à l'élimination des préjugés et des  pratiques coutumières, ou de tout  autre  type,  qui  sont  fondés sur l'idée de l'infériorité ou de la supériorité de l'un ou l'autre sexe ou d'un r61e  stéréotypé des hommes et des femmes;",
+            "b)  Faire  en  sorte  que  l'éducation familiale  contribue  à  faire  bien comprendre que la maternité est une fonction sociale et à faire reconnaître la responsabilité commune de l'homme et de la femme dans le soin d'éle› ver leurs enfants et d'assurer leur développement, étant entendu que l'in› térêt des enfants est la condition primordiale dans tous les cas."
+        ],
+        "items_en": [
+            "(a) To modify the patterns and patterns of sociocultural behaviour of men and women in we to achieve the elimination of prejudices and customary practices, or of any other type, which are based on the idea of inferiority or superiority of either sex or a stereotyped r61e of men and women;",
+            "(b) To ensure that family education contributes to the understanding that maternity is a social function and to the recognition of the common responsibility of men and women in the care of their children and to their development, on the understanding that the interests of children are paramount in all cases."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 6",
+        "text_en": "Article 6"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats  parties  prennent  toutes  les  mesures  appropriées, y  compris des  dispositions législatives, pour supprimer,  sous toutes leurs formes,  le trafic des femmes et l'exploitation de la prostitution des femmes.",
+        "text_en": "States Parties shall take all appropriate measures, including legislation, to eliminate, in all their forms, trafficking in women and exploitation of prostitution of women."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "DEUXIME  PARTIE",
+        "text_en": "PART TWO"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 7",
+        "text_en": "Article 7"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties prennent toutes les mesures appropiiée.. pour éliminer la  discrimination  à l'éprd des  femmes  dans la vie  politique et publique du  pays  et,  en  particulier,  leur assurent,  dans  des  conditions  d'égalité avec les hommes, le droit :",
+        "text_en": "States Parties shall take all appropriate measures to eliminate discrimination against women in the political and public life of the country and, in particular, shall ensure to women, on equal terms with men, the right to:"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "a) De voter à toutes les élections et dans tous les référendums publics et être éligibles à tous les organismes publiquement élus;",
+            "b)  De prendre  part  à l'élaboration de  la politique  de  l'Etat et à son exécution, occuper  des  emplois  publics  et exercer toutes  les  fonctions publiques à tous les échelons du gouvernement;",
+            "c)  De  participer aux organisations et assoçiations non gouvernementa› les s'occupant de la vie publique et politique du pays."
+        ],
+        "items_en": [
+            "(a) To vote in all elections and public referendums and to be eligible for election to all publicly elected bodies;",
+            "(b) To take part in the formulation and implementation of State policy, to hold public office and to perform all public functions at all levels of government;",
+            "(c) To participate in non-governmental organizations and associationsa› in the public and political life of the country."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 8",
+        "text_en": "Article 8"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties prennent toutes les  mesures  appropriées pour que les femmes,  dans des conditions d'égalité avec  les  hommes et sans aucune discrimination,  aient  la  possibilité de  représenter leur gouvernement  à l'échelon international  et  de  participer  aux  travaux  des  organisations internationales. ·",
+        "text_en": "States Parties shall take all appropriate measures to ensure that women, on an equal footing with men and without any discrimination, have the opportunity to represent their Governments at the international level and to participate in the work of international organizations. ·"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 9",
+        "text_en": "Article 9"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Les Etats  parties  accordent  aux  femmes  des droits égaux à ceux des  hommes en ce qui concerne l'acquisition, le changement et la conser› vation de la  nationalité. Ils prantissent en particulier que ni  le  mariage avec  un  étranger, ni  le  changement  de  nationalité du  mari  pendant  le mariage  ne  change automatiquement la nationalité de la femme,  ni  ne la rend apatride,  ni  ne l'oblige à prendre la nationalité de son mari.",
+            "2. Les  Etats parties accordent à la femme des droits égaux à ceux de l'homme en ce qui concerne la  nationalité de  leurs enfants."
+        ],
+        "items_en": [
+            "1. States Parties shall grant women equal rights with men with regard to the acquisition, change and acquisition of nationality, in particular that neither marriage to a foreigner nor change in the nationality of the husband during marriage shall automatically change the nationality of the woman, make her stateless or oblige her to take the nationality of her husband.",
+            "2. States Parties shall grant women equal rights with men with regard to the nationality of their children."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "TROISIME  PARTIE",
+        "text_en": "PART THIRD"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article JO",
+        "text_en": "Article OJ"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les  Etats parties prennent toutes les mesures appropriées pour éliminer la  discrimination  à  l'égard des  femmes  afin  de  leur  assurer  des  droits égaux à ceux des  hommes en ce qui  concerne l'éducation et, en  particu› lier,  pour assurer,  sur la  base de  l'égalité de l'homme et de  la femme  :",
+        "text_en": "States Parties shall take all appropriate measures to eliminate discrimination against women in order to ensure to them equal rights with men with regard to education and, in particular, to ensure, on a basis of equality of men and women:"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "a)  Les  mêmes conditions  d'orientation  professionnelle,  d'accès aux études et d'obtention de diplômes dans les établissements d'enseignement de toutes catégories, dans les  zones rurales comme dans les  zones urbai› nes, cette égalité devant être assurée dans l'enseignement préscolaire, gé› néral, technique,  professionnel et technique supérieur, ainsi que dans tout autre  moyen de formation  professionnelle;",
+            "b)  L'accès aux  mêmes programmes,  aux  mêmes examens,  à un  per› sonnel enseignant possédant les  qualifications de  même ordre, à des  lo› caux scolaires et à un  équipement de  même qualité;",
+            "c)  L'élimination de toute conception stéréotypée des rôles de l'homme et  de  la  femme  à tous  les  niveaux et dans toutes  les  fonnes d'enseigne› ment en encourageant l'éducation mixte et d'autres types d'éducation qui aideront  à réaliser cet objectif et, en  particulier, en  révisant les  livres et programmes scolaires et en adaptant  les  méthodes pédagogiques;",
+            "d)  Les  mêmes possibilités en ce qui  concerne  l'octroi de  bourses  el autres subventions pour les études;",
+            "e)  Les  mêmes possibilités d'accès aux  programmes  d'éducation per› manente,  y  compris  aux  programmes  d'alphabétisation pour  adultes  et d'alphabétisation fonctionnelle, en  vue notamment de  réduire au  plus tôt tout écan d'instruction existant entre les  hommes et les  femmes;",
+            "/) La réduction des taux d'abandon féminin des études et l'organisation de programmes pour les filles et les  femmes qui  ont quitté l'école préma› turément;",
+            "g)  Les  mêmes possibilités de  participer  activement  aux  sports  el  à l'éducation physique;",
+            "h)  L'accès à des renseignements spécifiques d'ordre éducatif tendant à assurer la santé et le bien-être des familles, y compris I' infonnation et des conseils relatifs à la planification de  la famille."
+        ],
+        "items_en": [
+            "(a) The same conditions for vocational guidance, access to education and the granting of diplomas in educational establishments of all categories, in rural and urban areas, and this equality must be ensured in pre-school, general, technical, vocational and higher technical education, as well as in any other means of vocational training;",
+            "(b) Access to the same curricula, exams, teachers with similar qualifications, school fees and equipment of the same quality;",
+            "(c) The elimination of any stereotypical conception of the roles of men and women at all levels and in all levels of education by encouraging mixed education and other types of education which will help to achieve this objective and, in particular, by revising textbooks and curricula and adapting teaching methods;",
+            "(d) The same opportunities for scholarships and other study grants;",
+            "(e) The same opportunities for access to continuing education programmes, including adult literacy and functional literacy programmes, with a view, inter alia, to reducing as soon as possible any gap in education between men and women;",
+            "(i) The reduction of female drop-out rates and the organization of programmes for girls and women who have left school for the first time;",
+            "(g) The same opportunities to participate actively in sports and physical education;",
+            "(h) Access to specific educational information to ensure the health and well-being of families, including infancy and counselling on family planning."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article //",
+        "text_en": "Article //"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1 . Les  Etats  panies  s · engagent  à prendre  toutes  les  mesures  appro› priées pour éliminer la  discrimination  à l'égard des  femmes dans  le  do› maine de l'emploi, afin d'assurer, sur la base  de  l'égalité de  l'homme et de  la femme, les mêmes droits, et en particulier :",
+            "a)  Le  droit  au  travail  en  tant  que  droit  inaliénable de  tous  les  êtres humains;",
+            "b)  Le droit  aux  mêmes possibilités d'emploi, y  compris  l'application des mêmes critères de sélection en  matière d'emploi;",
+            "c)  Le droit au  libre choix de la profession et de l'emploi, le  droit à la promotion,  à la  stabilité de  l'emploi et à toutes  les  prestations  et  con› ditions de travail, le droit à la fonnation professionnelle et au  recyclage, y compris l'apprentissage, le  perfectionnement professionnel et la formation pennanente;",
+            "d)  Le  droit  à  l'égalité de  rémunération, y  compris  de  prestation,  à l'égalité de  traitement  pour  un  travail  d'égale valeur  aussi  bien  qu'à l'égalité de  traitement  en  ce  qui  concerne  l'évaluation de  la  qualité du travail;",
+            "e)  Le droit à la sécurité sociale, notamment aux prestations de retraite, de chômage, de maladie,  d'invalidité et de  vieillesse  ou pour toute autre perte de capacité de travail,  ainsi que le droit à des congés payés;",
+            "/) Le droit à la protection de la santé et à la sécurité des conditions de travail, y compris la sauvegarde de la fonction de reproduction.",
+            "2. Afin de prévenir la discrimination à l'égard des femmes en  raison de leur mariage  ou de  leur maternité et de garantir leur droit effectif au travail,  les  Etats  parties  s'engagent à  prendre  des  mesures  appropriées ayant pour objet :",
+            "a)  D'interdire, sous peine de sanctions,  Je  licenciement pour cause de grossesse ou de congé de  maternité et la discrimination dans les licencie› ments fondée sur le statut  matrimonial;",
+            "b)  D'instituer l'octroi de congés de maternité payés ou ouvrant droit à des  prestations  sociales  comparables,  avec  la  garantie  du  maintien  de l'emploi antérieur, des droits d'ancienneté et des avantages sociaux;",
+            "c)  D'encourager la fourniture  des services sociaux d'appui nécessaires pour permettre aux parents de combiner les obligations familiales avec les responsabilités professionnelles  et  la participation  à  la vie  publique,  en particulier en favorisant  l'établissement et  le développement d'un réseau de garderies d'enfants;",
+            "d)  D'assurer une protection spéciale aux  femmes enceintes dont il  est prouvé que le travail est nocif.",
+            "3. Les lois visant à protéger les femmes dans les domaines visés par le présent article seront revues périodiquement en fonction des connaissances scientifiques et techniques et seront révisées, abrogées ou étendues, selon les besoins."
+        ],
+        "items_en": [
+            "1 . The States Parties undertake to take all appropriate measures to eliminate discrimination against women in the field of employment, in order to ensure, on a basis of equality of men and women, the same rights, in particular:",
+            "(a) The right to work as an inalienable right of all human beings;",
+            "(b) The right to the same employment opportunities, including the application of the same selection criteria for employment;",
+            "(c) The right to freedom of choice of profession and employment, the right to promotion, stability of employment and all benefits and conditions of employment, the right to vocational training and retraining, including apprenticeship, professional development and pennanent training;",
+            "(d) The right to equal remuneration, including benefits, equal treatment for work of equal value as well as equal treatment in the assessment of the quality of work;",
+            "(e) The right to social security, including retirement, unemployment, sickness, disability and old age benefits or any other loss of capacity to work, as well as the right to paid leave;",
+            "(l) The right to health protection and safety of working conditions, including the safeguarding of the reproductive function.",
+            "2. In order to prevent discrimination against women on the basis of marriage or maternity and to guarantee their effective right to work, States Parties undertake to take appropriate measures aimed at:",
+            "(a) To prohibit, on pain of punishment, dismissal on grounds of pregnancy or maternity leave and discrimination in dismissal on grounds of marital status;",
+            "(b) Instituting maternity leave with pay or with comparable social benefits, with the guarantee of the continuation of previous employment, seniority and social benefits;",
+            "(c) Encourage the provision of the necessary social support services to enable parents to combine family responsibilities with professional responsibilities and participation in public life, in particular by promoting the establishment and development of a network of childcare centres;",
+            "(d) Provide special protection to pregnant women whose work is proven to be harmful.",
+            "3. Laws to protect women in the areas covered by this article shall be reviewed periodically in the light of scientific and technical knowledge and shall be revised, repealed or extended, as appropriate."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 12",
+        "text_en": "Article 12"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Les Etats parties prennent toutes les mesures appropriées pour éli› miner la discrimination à l'égard des  femmes dans le  domaine des soins de santé en vue de leur assurer, sur la base de l'égalité de l'homme et de la femme,  les  moyens d'accéder aux  services médicaux, y  compris ceux qui concernent la planification de la famille.",
+            "2. Nonobstant  les  dispositions  du  paragraphe  I  ci-dessus,  les  Etats parties  fournissent  aux  femmes  pendant  la  grossesse,  pendant  l'accou› chement et après l'accouchement, des services appropriés et, au  besoin, gratuits,  ainsi  qu'une nutrition  adéquate pendant  la grossesse  et l'allai› tement."
+        ],
+        "items_en": [
+            "1. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care with a view to ensuring, on a basis of equality of men and women, access to medical services, including those relating to family planning.",
+            "2. Notwithstanding the provisions of paragraph I above, States Parties shall provide to women, during pregnancy, during pregnancy and after childbirth, appropriate and, where necessary, free services and adequate nutrition during pregnancy and childbirth."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article /3",
+        "text_en": "Article 3"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "Les Etats  parties  s'engagent à prendre  toutes  les  mesures appropriées pour éliminer la  discrimination à l'égard des  femmes  dans d'autres do› maines  de la vie  économique et  sociale,  afin  d'assurer, sur la base  de l'égalité de l'homme et de la femme, les mêmes droits et, en particulier:",
+            "a)  Le droit aux prestations familiales;",
+            "b)  Le droit aux prêts bancaires, prêts hypothécaires et autres formes de crédit financier;",
+            "c)  Le droit de participer aux  activités récréatives, aux sports et à tous les  aspects de la vie culturelle."
+        ],
+        "items_en": [
+            "States Parties undertake to take all appropriate measures to eliminate discrimination against women in other areas of economic and social life, in order to ensure, on a basis of equality of men and women, the same rights and, in particular:",
+            "(a) The right to family benefits;",
+            "(b) The right to bank loans, mortgages and other forms of financial credit;",
+            "(c) The right to participate in recreational activities, sports and all aspects of cultural life."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article  14",
+        "text_en": "Article 14"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Les Etats parties tiennent compte des problèmes particuliers qui se posent aux  femmes  rurales  et  du  rôle  important que  ces femmes jouent dans la survie économique de leurs  familles,  notamment par  leur travail dans  les  secteurs  non  monétaires de  l'économie, et  prennent  toutes  les mesures appropriées pour assurer l'application des dispositions de la pré› sente Convention aux  femmes des zones rurales.",
+            "2. Les Etats parties prennent toutes  les  mesures appropriées pour éli› miner la discrimination à l'égard des  femmes dans les  zones rurales afin d'assurer, sur la base de l'égalité de l'homme et de  la femme,  leur parti› cipation  au  développement rural  et à ses avantages et, en  particulier,  ils leur assurent le  droit :",
+            "a) De participer pleinement à l'élaboration et à l'exécution des  plans de développement à tous les échelons;",
+            "b)  D'avoir accès aux services adéquats dans le  domaine de la santé, y compris aux informations, conseils et services en  matière de planification de la famille;",
+            "c)  De bénéficier directement des programmes de  sécurité sociale;",
+            "d) De recevoir tout type de formation et d'éducation, scolaires ou non, y compris en matière d'alphabétisation fonctionnelle, et de pouvoir béné› ficier de tous les services communautaires et de vulgarisation, notamment pour accroître leurs compétences techniques;",
+            "e) D'organiser des  groupes d'entraide et des coopératives afin  de  per› mettre l'égalité de chances sur le plan économique, qu'il s'agisse de tra› vail  salarié ou de travail indépendant;",
+            "/) De participer à toutes les  activités de  la communauté;",
+            "g)  D'avoir accès au crédit et aux prêts agricoles, ainsi qu'aux services de commercialisation et aux  technologies  appropriées, et de  recevoir un traitement égal dans les  réformes foncières et agraires et dans les projets d'aménagement rural;",
+            "h) De bénéficier de conditions  de  vie  convenables,  notamment en ce qui concerne le logement,  l'assainissement, l'approvisionnement en élec› tricité et en eau, les  transports et les  communications."
+        ],
+        "items_en": [
+            "1. States Parties shall take into account the particular problems faced by rural women and the important role they play in the economic survival of their families, including through their work in the non-monetary sectors of the economy, and shall take all appropriate measures to ensure the application of the provisions of the Convention to women in rural areas.",
+            "2. States Parties shall take all appropriate measures to eliminate discrimination against women in rural areas in order to ensure, on a basis of equality of men and women, their participation in rural development and its benefits and, in particular, shall ensure to them the right:",
+            "(a) To participate fully in the preparation and implementation of development plans at all levels;",
+            "(b) Access to adequate health services, including family planning information, advice and services;",
+            "(c) To benefit directly from social security programmes;",
+            "(d) To receive all types of training and education, whether formal or non-formal, including in the area of functional literacy, and to be able to benefit from all community and extension services, including in order to increase their technical skills;",
+            "(e) To organize self-help groups and cooperatives in order to enable equal opportunities in the economic sphere, whether in the form of paid employment or self-employment;",
+            "(l) To participate in all activities of the community;",
+            "(g) To have access to agricultural credit and loans, marketing services and appropriate technologies, and to receive equal treatment in land and agrarian reforms and rural development projects;",
+            "(h) To enjoy adequate living conditions, including housing, sanitation, electricity and water supply, transport and communications."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "QUATRIME  PARTIE",
+        "text_en": "PART FOUR"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 15",
+        "text_en": "Article 15"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "l. Les  Etats  parties reconnaissent à la femme  l'égalité avec  l'homme devant la loi.",
+            "2. Les Etats parties reconnaissent à la femme, en matière civile,  une capacité juridique identique à celle de l'homme et les mêmes possibilités pour exercer cette capacité. Ils  lui  reconnaissent en particulier des droits égaux en ce qui concerne la conclusion de contrats et l'administration des biens et leur accordent le  même traitement à tous les stades de  la procé› dure judiciaire.",
+            "3. Les Etats parties conviennent que  tout contrat et tout autre  instru› ment privé, de quelque type que ce soit, ayant un effet juridique visant à limiter la capacité juridique de la femme doit être considéré comme nul.",
+            "4. Les  Etats  parties  reconnaissent à l'homme et  à  la  femme  les mêmes droits  en ce  qui  concerne  la législation relative  au  droit des per› sonnes à circuler librement et  à choisir leur résidence et leur domicile."
+        ],
+        "items_en": [
+            "l. States Parties shall accord to women equality with men before the law.",
+            "2. States Parties shall accord to women, in civil matters, a legal capacity identical to that of men and the same opportunities to exercise that capacity, in particular equal rights with regard to the conclusion of contracts and the administration of property, and shall accord them equal treatment at all stages of the judicial proceedings.",
+            "3. The States Parties agree that any contract or other private instrument of any kind having a legal effect aimed at limiting the legal capacity of women shall be considered null and void.",
+            "4. States Parties shall accord men and women the same rights with regard to legislation relating to the right of persons to move freely and to choose their residence and domicile."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article  16",
+        "text_en": "Article 16"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Les Etats parties prennent toutes  les  mesures appropriées pour éli› miner la  discrimination  à  l'égard des  femmes  dans  toutes  les  questions découlant du  mariage  et  dans  les  rapports  familiaux  et,  en  particulier, assurent,  sur la base de l'égalité de  l'homme et de la femme  :",
+            "a) Le  même droit de contracter mariage;",
+            "b) Le même droit de choisir librement son conjoint et de ne contracter mariage que de son libre et plein consentement;",
+            "c)  Les mêmes droits et les  mêmes responsabilités au cours du mariage et  lors de  sa dissolution;",
+            "d) Les mêmes droits et les mêmes responsabilités en tant que parents, quel  que  soit  leur  état matrimonial,  pour les  questions  se  rapportant  à leurs enfants; dans tous  les  cas,  l'intérêt des  enfants est la considération primordiale;",
+            "e)  Les  mêmes droits  de  décider librement et en toute connaissance de cause du nombre et de  l'espacement des  naissances et  d'avoir accès aux informations, à l'éducation et aux moyens nécessaires pour leur permettre d'exercer ces droits;",
+            "/)  Les  mêmes droits et responsabilités en  matière de tutelle,  de  cura› telle,  de  garde  et  d'adoption des  enfants,  ou  d'institutions similaires, lorsque ces concepts existent  dans  la législation nationale;  dans  tous  les cas, l'intérêt des enfants est la considération primordiale;",
+            "g)  Les  mêmes droits  personnels au  mari  et à la femme,  y compris en ce  qui  concerne  le  choix  du  nom  de  famille,  d'une profession  et  d'une occupation;",
+            "h) Les mêmes droits à chacun des époux en matière de propriété, d'ac› quisition, de gestion, d'administration, de jouissance et de disposition des biens, tant à titre  gratuit qu'à titre onéreux.",
+            "2. Les  fiançailles  et  les  mariages  d'enfants n'ont pas  d'effets juri› diques  et  toutes  les  mesures  nécessaires, y  compris  des  dispositions  lé› gislatives,  sont prises afin de fixer un  âge minimal pour le  mariage et de rendre obligatoire l'inscription du mariage sur un  registre officiel."
+        ],
+        "items_en": [
+            "1. States Parties shall take all appropriate measures to eliminate discrimination against women in all matters arising from marriage and in family relations and, in particular, shall ensure, on the basis of equality of men and women:",
+            "(a) The same right to enter into marriage;",
+            "(b) The same right to freely choose one ' s spouse and to enter into marriage only with his or her free and full consent;",
+            "(c) The same rights and responsibilities during marriage and at its dissolution;",
+            "(d) The same rights and responsibilities as parents, regardless of their marital status, in matters relating to their children; in all cases, the interests of the children shall be paramount;",
+            "(e) The same rights to decide freely and knowingly on the number and spacing of births and to have access to the information, education and means necessary to enable them to exercise these rights;",
+            "(l) The same rights and responsibilities with regard to guardianship, cura› such, custody and adoption of children, or similar institutions, where these concepts exist in national legislation; in all cases, the interests of children are the paramount consideration;",
+            "(g) The same personal rights as husband and wife, including the choice of surname, profession and occupation;",
+            "(h) The same rights to each spouse in respect of the ownership, acquisition, management, administration, enjoyment and disposition of the property, both free of charge and for consideration.",
+            "2. Engagements and marriages of children shall not have any legal effect and all necessary measures, including legal provisions, shall be taken to establish a minimum age for marriage and to make it compulsory for marriage to be entered in an official register."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "CINQUIME  PARTIE",
+        "text_en": "PART FIFTH"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article  17",
+        "text_en": "Article 17"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Aux  fins  d'examiner les  progrès réalisés dans  l'application de  la présente Convention,  il  est constitué un  Comité pour l'élimination de  la discrimination  à  l'égard des femmes  (ci-après dénommé k  Comité), qui se compose, au moment de l'entrée en vigueur de la Convention, de dix› huit, et après sa ratification ou l'adhésion du trente-cinquième Etat partie, de  vingt-trois  experts  d'une  haute  autorité  morale  et  éminemment compétents dans  le  domaine  auquel  s'applique la présente Convention. Ces  experts  sont  élus par les  Etats  parties  parmi  leurs  ressortissants  et siègent à  titre  personnel,  compte tenu du  principe d'une répartition géo› graphique équitable et de la représentation des différentes formes de civi› lisation  ainsi que des  principaux systèmes juridiques.",
+            "2. Les  membres du Comité sont élus au scrutin secret sur une liste de candidats désignés par les  États  parties.  Chaque Etat partie peut désigner un candidat choisi parmi ses ressortissants.",
+            "3. La première élection a  lieu  six  mois  après la date d'entrée en vi› gueur de  la présente Convention.  Trois  mois  au  moins  avant  la  date  de chaque élection, le Secrétaire général de l'Organisation des Nations Unies adresse une lettre aux Etats parties pour les inviter à soumettre leurs can› didatures dans  un  délai de deux  mois.  Le  Secrétaire général dresse  une liste alphabétique de tous les candidats, en indiquant par quel Etat  ils ont été désignés, liste qu'il communique aux Etats parties.",
+            "4. Les membres du Comité sont élus au cours d'une réunion des Etats parties convoquée par le Secrétaire général au Siège de l'Organisation des Nations  Unies.  A cette réunion, oø le  quorum est constitué par  les  deux tiers  des Etats parties,  sont élus membres du  Comité lès candidats  ayant obtenu le  plus grand nombre de voix et la majorité absolue des votes des représentants des Etats parties présents el votants.",
+            "5. Les  membres  du Comité sont  élus pour quatre  ans.  Toutefois,  le mandat  de  neuf des  membres élus à la première élection prendra fin  au bout de  deux ans;  le  Président du  Comité tirera  au  sort  les  noms de  ces neuf membres immédiatement après la première élection.",
+            "6. L'élection des  cinq  membres  additionnels  du  Comité se  fera conformément aux dispositions des  paragraphes 2,  3 et 4 du présent arti› cle à la suite de  la trente-cinquième ratification ou  adhésion. Le mandat de deux des  membres  additionnels  élus à  celte  occasion  prendra  fin  au bout de deux  ans;  le  nom  de  ces deux  membres  sera tiré au  sort  par  le Président du Comité.",
+            "7. Pour remplir  les  vacances  fortuites,  l'Etat partie  dont  l'expert a cessé d'exercer ses  fonctions  de  membre  de Comité nommera  un  autre expert parmi ses ressortissants, sous réserve·de l'approbation du  Comité.",
+            "8. Les  membres  du  Comité reçoivent,  avec  l'approbation de  I' As› semblée générale, des émoluments prélevés sur les ressources de  l'Orga› nisation des  Nations Unies dans les conditions fixées par l'Assemblée eu égard à l'importance des fonctions du Comité.",
+            "9. Le Secrétaire général de l'Organisation des Nations Unies met à la disposition  du Comité le  personnel et les  moyens  matériels qui  lui  sont nécessaires  pour  s'acquitter  efficacement  des  fonctions  qui  lui  sont confiées en vertu de la présente Convention."
+        ],
+        "items_en": [
+            "1. For the purpose of examining the progress made in the implementation of this Convention, a Committee on the Elimination of Discrimination against Women (hereinafter referred to as k Committee) shall be established. The Committee shall consist, at the time of entry into force of the Convention, of eighteen experts, and after its ratification or accession by the thirty-fifth State Party, of twenty-three experts of high moral and eminent competence in the field to which this Convention applies, who shall be elected by the States Parties from among their nationals and shall serve in their personal capacity, taking into account the principle of equitable geographical distribution and representation of the various forms of civicization and the main legal systems.",
+            "2. The members of the Committee shall be elected by secret ballot from a list of candidates nominated by States parties, and each State Party may nominate a candidate from among its nationals.",
+            "3. The first election shall be held six months after the date of entry into force of this Convention. At least three months before the date of each election, the Secretary-General of the United Nations shall send a letter to the States Parties inviting them to submit their can› information within two months. The Secretary-General shall draw up an alphabetical list of all candidates, indicating by which State they have been nominated, a list which he shall communicate to the States Parties.",
+            "4. The members of the Committee shall be elected at a meeting of the States Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, where two thirds of the States Parties constitute a quorum, they shall be elected members of the Committee who have obtained the largest number of votes and an absolute majority of the votes of the representatives of the States Parties present and voting.",
+            "5. The members of the Committee shall be elected for a term of four years; however, the term of nine of the members elected at the first election shall end after two years; the Chairperson of the Committee shall draw lots the names of those nine members immediately after the first election.",
+            "6. The election of the five additional members of the Committee shall be in accordance with the provisions of paragraphs 2, 3 and 4 of this Article, as a result of the thirty-fifth ratification or accession. The term of office of two of the additional members elected on this occasion shall expire after two years; the names of the two members shall be drawn by lot by the Chairman of the Committee.",
+            "7. In order to fill the casual vacancies, the State party whose expert has ceased to act as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.",
+            "8. Members of the Committee shall, with the approval of the General Assembly, receive emoluments from the resources of the United Nations under the conditions laid down by the Assembly in view of the importance of the functions of the Committee.",
+            "9. The Secretary-General of the United Nations shall make available to the Committee such staff and facilities as are necessary for the effective performance of the functions entrusted to him under this Convention."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article  /8",
+        "text_en": "Article 8"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Les  Etats  parties  s'engagent à  présenter au  Secrétaire général de l'Organisation des Nations Unies, pour examen par le Comité, un rapport sur les mesures d'ordre législatif, judiciaire, administratif ou autre qu'ils ont adoptées pour donner effet aux dispositions de la présente Convention et sur les progrès réalisés à cet égard :",
+            "a)  Dans  l'année suivant  l'entrée en  vigueur  de  la  Convention  dans l'Etat intéressé;",
+            "b) Puis tous les  quatre  ans,  ainsi qu'à la demande du  Comité.",
+            "2. Les rapports peuvent indiquer les facteurs et difficultés influant sur la  mesure  dans laquelle  sont  remplies  les obligations prévues par la pré› sente Convention."
+        ],
+        "items_en": [
+            "1. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures they have adopted to give effect to the provisions of this Convention and on the progress made in this regard:",
+            "(a) Within one year of the entry into force of the Convention in the State concerned;",
+            "(b) Thereafter every four years, as well as at the request of the Committee.",
+            "2. Reports may indicate the factors and difficulties affecting the extent to which the obligations under the Convention are fulfilled."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article  /9",
+        "text_en": "Article /9"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Le Comité adopte son propre règlement intérieur.",
+            "2. Le Comité élit son  Bureau pour une  période de deux ans."
+        ],
+        "items_en": [
+            "1. The Committee shall adopt its own rules of procedure.",
+            "2. The Committee shall elect its officers for a period of two years."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 20",
+        "text_en": "Article 20"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Le Comité se  réunit normalement  pendant  une  période de  deux semaines au  plus  chaque  année pour  examiner  les  rapports  présentés conformément à l'article 18  de la présente Convention.",
+            "2. Les  séances du  Comité se  tiennent  normalement  au  Siège  de l'Organisation des Nations Unies ou en tout autre  lieu adéquat déterminé par le  Comité."
+        ],
+        "items_en": [
+            "1. The Committee shall normally meet for a period of not more than two weeks each year to consider reports submitted in accordance with article 18 of this Convention.",
+            "2. The meetings of the Committee shall normally be held at United Nations Headquarters or at any other suitable place determined by the Committee."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 2 I",
+        "text_en": "Article 2 I"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Le Comité rend compte chaque année à l'Assemblée générale de l'Organisation des  Nations  Unies,  par l'intermédiaire du  Conseil écono› mique et social,  de ses activités et peut  formuler  des  suggestions et des recommandations générales fondées sur l'examen des rapports et des ren› seignements reçus des Etats parties.  Ces suggestions et recommandations"
+        ],
+        "items_en": [
+            "1. The Committee shall report annually to the General Assembly of the United Nations, through the Economic and Social Council, on its activities and may make suggestions and general recommendations based on the consideration of reports and reports received from States parties."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "sont  incluses  dans  le  rapport  du  Comité, accompagnées, le  cas échéant, des  observations des Etats parties.",
+        "text_en": "shall be included in the report of the Committee, together with, where appropriate, the observations of States parties."
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "2. Le Secrétaire général de l'Organisation des Nations Unies transmet les  rapports  du  Comité à  la  Commission  de  la  condition  de  la  femme, pour information."
+        ],
+        "items_en": [
+            "2. The Secretary-General of the United Nations shall transmit the reports of the Committee to the Commission on the Status of Women for information."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 22",
+        "text_en": "Article 22"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les  institutions  spécialisées ont  le  droit  d'être représentées lors  de l'examen de la mise en œuvre de toute disposition de la présente Conven› tion qui entre dans le  cadre de leurs  activités. Le Comité peut inviter les institutions  spécialisées à  soumettre  des  rapports  sur  l'application de  la Convention dans les domaines qui entrent dans le cadre de leurs activités.",
+        "text_en": "The specialized agencies shall have the right to be represented in the review of the implementation of any provision of this Conven tion which falls within the scope of their activities. The Committee may invite the specialized agencies to submit reports on the implementation of the Convention in areas falling within the scope of their activities."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "SIXIME  PARTIE",
+        "text_en": "PART SIX"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 23",
+        "text_en": "Article 23"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Aucune des  dispositions de  la présente Convention  ne  portera atteinte aux dispositions plus  propices à la réalisation de  l'égalité de  l'homme et de la femme  pouvant être contenues :",
+        "text_en": "Nothing in this Convention shall affect the provisions more conducive to the realization of the equality of men and women which may be contained:"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "a) Dans la législation d'un Etat  partie;  ou",
+            "b) Dans toute autre convention. tout autre traité ou accord international en  vigueur dans cet Etat."
+        ],
+        "items_en": [
+            "(a) In the legislation of a State Party; or",
+            "(b) In any other convention, any other international treaty or agreement in force in that State."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 24",
+        "text_en": "Article 24"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Les Etats parties s'engagent à adopter toutes les mesures nécessaires au niveau  national  pour assurer le  plein exercice  des  droits  reconnus  par  la présente Convention.",
+        "text_en": "States Parties undertake to adopt all necessary measures at the national level to ensure the full enjoyment of the rights recognized in this Convention."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 25",
+        "text_en": "Article 25"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "l. La présente Convention est ouverte à la signature de tous les Etats.",
+            "2. Le Secrétaire général de l'Organisation des Nations Unies est dési› gné comme dépositaire de  la  présente Convention.",
+            "3. La présente Convention est sujette à ratification et les instruments de  ratification  seront déposés auprès du Secrétaire général de  l 'Organisa› tion des  Nations  Unies.",
+            "4. La présente Convention sera ouverte à l'adhésion de tous les Etats. L'adhésion s'effectuera par le dépôt d'un instrument d'adhésion auprès du Secrétaire général de l'Organisation des  Nations Unies."
+        ],
+        "items_en": [
+            "l. This Convention shall be open for signature by all States.",
+            "2. The Secretary-General of the United Nations shall be the depositary of this Convention.",
+            "3. This Convention is subject to ratification and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.",
+            "4. This Convention shall be open for accession by all States. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 26",
+        "text_en": "Article 26"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Tout  Etat  partie  peut  demander  à tout  moment  la  révision de  la présente Convention en adressant une communication écrite à cet effet au Secrétaire général de  l'Organisation des  Nations  Unies.",
+            "2. L'Assemblée générale de  l'Organisation des Nations Unies décide des  mesures  à prendre,  le  cas échéant, au  sujet  d'une demande  de  cette nature."
+        ],
+        "items_en": [
+            "1. Any State Party may request the revision of this Convention at any time by sending a written communication to that effect to the Secretary-General of the United Nations.",
+            "2. The General Assembly of the United Nations shall decide on the action to be taken, if any, with regard to such a request."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 27",
+        "text_en": "Article 27"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1 . La présente Convention  entrera en  vigueur  le  trentième jour qui suivra la date du dépôt auprès du Secrétaire général de l'Organisation des Nations  Unies du vingtième instrument de  ratification ou d'adhésion.",
+            "2. Pour chacun des Etats qui  ratifieront  la  présente Convention ou y adhéreront après  le  dépôt du  vingtième  instrument  de  ratification  ou d'adhésion, ladite Convention entrera en  vigueur le  trentième jour après la  date  du dépôt par cet Etat  de  son  instrument de  ratification ou d'adhé› sion."
+        ],
+        "items_en": [
+            "1. This Convention shall enter into force on the thirtieth day following the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.",
+            "2. For each State ratifying or acceding to this Convention after the deposit of the twentieth instrument of ratification or accession, the said Convention shall enter into force on the thirtieth day after the date of deposit by that State of its instrument of ratification or accession."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 28",
+        "text_en": "Article 28"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Le  Secrétaire général de  l'Organisation des  Nations  Unies  recevra et communiquera à tous les Etats le texte des réserves qui auront été faites au  moment de  la ratification  ou  de  l'adhésion.",
+            "2. Aucune  réserve incompatible  avec  l'objet et  le  but  de  la présente Convention ne  sera autorisée.",
+            "3. Les réserves peuvent être retirées à tout moment par  voie de notifi› cation adressée au  Secrétaire général de l'Organisation des Nations Unies,"
+        ],
+        "items_en": [
+            "1. The Secretary-General of the United Nations shall receive and communicate to all States the text of reservations made at the time of ratification or accession.",
+            "2. No reservation incompatible with the object and purpose of this Convention shall be permitted.",
+            "3. Reservations may be withdrawn at any time by means of a notification addressed to the Secretary-General of the United Nations,"
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "lequel  informe  tous  les  Etats  parties  à  la  Convention.  La  notification prendra effet à la date de réception.",
+        "text_en": "which informs all States Parties to the Convention. The notification shall take effect on the date of receipt."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 29",
+        "text_en": "Article 29"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Tout  différend entre  deux  ou  plusieurs  Etats  parties  concernant l'interprétation ou  l'application de  la  présente Convention  qui  n'est pas réglé par voie  de  négociation est  soumis  à  l'arbitrage, à  la  demande  de l'un d'entre eux.  Si,  dans  les  six  mois qui  suivent  la date  de  la  demande d'arbitrage,  les  parties  ne  parviennent  pas à se mettre  d'accord  sur l'organisation de  l'arbitrage, l'une quelconque  d'entre elles  peut  soumet› tre  le  différend à la Cour  internationale  de  Justice,  en  déposant une  re› quête conformément au  Statut  de  la  Cour.",
+            "2. Tout  Etat  partie  pourra,  au  moment  oø  il  signera  la  présente Convention,  la  ratifiera ou y adhérera, déclarer qu'il ne  se  considère pas lié par les  dispositions du paragraphe  1 du présent article.  Les  autres Etals"
+        ],
+        "items_en": [
+            "1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall be submitted to arbitration, at the request of one of them. If, within six months from the date of the request for arbitration, the parties fail to reach agreement on the organization of the arbitration, any of them may submit the dispute to the International Court of Justice, by filing a re› search in accordance with the Statute of the Court.",
+            "2. Any State Party may, at the time of signing, ratifying or acceding to this Convention, declare that it does not consider itself bound by the provisions of paragraph 1 of this article."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "---------------------------",
+        "text_en": "----------------------------"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "parties ne  seront pas liés par lesdites dispositions envers un  Etat partie qui aura  formulé une  telle  réserve.",
+        "text_en": "Parties shall not be bound by such provisions towards a State Party which has formulated such a reservation."
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "3. Tout  Etat  partie  qui  aura  formulé une  réserve conformément aux dispositions  du  paragraphe  2  du  présent article  pourra à tout  moment lever  celte  réserve par  une  notification  adressée au  Secrétaire général de l'Organisation des  Nations  Unies."
+        ],
+        "items_en": [
+            "3. Any State Party which has made a reservation in accordance with the provisions of paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations."
+        ]
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "Article 30",
+        "text_en": "Article 30"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "La présente Convention, dont  les  textes  en  anglais,  arabe, chinois,  es› pagnol,  français  et  russe  font  également foi,  sera  déposée auprès  du Secrétaire général de  l'Organisation des  Nations  Unies.",
+        "text_en": "This Convention, of which the Arabic, Chinese, Spanish, French and Russian texts are equally authentic, shall be deposited with the Secretary-General of the United Nations."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "fa, Fot  DE  QUOI les  soussignés, à ce  dûment  habilités, ont  signé la présente Convention.",
+        "text_en": "Fa, Fot de Quoi, the undersigned, being duly authorized thereto, have signed this Convention."
+    }
+]

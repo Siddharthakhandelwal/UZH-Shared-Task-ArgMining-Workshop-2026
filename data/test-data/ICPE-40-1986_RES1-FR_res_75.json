@@ -1,0 +1,586 @@
+{
+  "TEXT_ID": "ICPE-40-1986_RES1-FR_res_75",
+  "RECOMMENDATION": 75,
+  "TITLE": "L'AMELIORATION DE L'ENSEIGNEMENT SECONDAIRE : OBJECTIFS, STRUCTURES, CONTENUS ET METHODES PREAMBULE",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-40-1986_RES1-FR",
+      "nb_paras": 63,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'éducation, convoquée par l'Organisation des Nations Unies pour l'éducation, la science et la culture, réunie à Genève, pour sa 40e session du 2 au 11 décembre 1986,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Education, convened by the United Nations Educational, Scientific and Cultural Organization, assembled in Geneva for its 40th session from 2 to 11 December 1986,"
+      },
+      {
+        "para_number": 2,
+        "para": "Eu égard aux conventions, recommandations et déclarations pertinentes adoptées à l'échelon international, et plus particulièrement par l'Unesco",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Having regard to the relevant conventions, recommendations, and declarations adopted at the international level, and more particularly by UNESCO,"
+      },
+      {
+        "para_number": 3,
+        "para": "Notant que la reconnaissance universelle du fait que l'éducation est un droit fondamental de l'individu et une condition préalable du progrès social a entraîné depuis une vingtaine d'années un développement sans précédent de l'éducation dans l'ensemble du monde, en particulier aux niveaux secondaire et supérieur,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Noting that the universal recognition of the fact that education is a fundamental right of the individual and a prerequisite for social progress has led, over the past twenty years, to an unprecedented development of education worldwide, particularly at the secondary and higher levels,"
+      },
+      {
+        "para_number": 4,
+        "para": "Rappelant que la Convention et la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement adoptées par la Conférence générale de l'Unesco à sa onzième session stipulent que l'enseignement secondaire sous ses diverses formes devrait être généralisé et rendu accessible à tous,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recalling that the Convention and the Recommendation concerning the Fight against Discrimination in Education adopted by the General Conference of UNESCO at its eleventh session stipulate that secondary education in its various forms should be expanded and made accessible to all,"
+      },
+      {
+        "para_number": 5,
+        "para": "Reconnaissant les particularités constitutionnelles de chaque Etat membre, de même que ses besoins et ses dispositifs éducatifs propres,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recognizing the constitutional particularities of each Member State, as well as its specific needs and educational systems,"
+      },
+      {
+        "para_number": 6,
+        "para": "Soulignant que l'enseignement secondaire devrait contribuer à la fois à l'épanouissement complet de l'individu et à sa préparation à la vie sur les plans culturel, social et économique, et souhaitant renforcer la coopération en matière d'éducation et en rechercher de nouvelles formes,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Emphasizing that secondary education should contribute both to the full development of the individual and to their preparation for life in cultural, social, and economic terms, and wishing to strengthen cooperation in the field of education and to explore new forms thereof,"
+      },
+      {
+        "para_number": 7,
+        "para": "Reconnaissant l'importance d'un enseignement secondaire en prise sur les réalités comme facteur c'accélération du développement culturel, socio-économique, scientifique et technologique dans toutes les sociétés contemporaines,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recognizing the importance of secondary education that is responsive to realities as a factor accelerating cultural, socio-economic, scientific, and technological development in all contemporary societies,"
+      },
+      {
+        "para_number": 8,
+        "para": "Rappelant que la recommandation n° 68 adoptée par la Conférence internationale de l'éducation à sa 34e session a invité les Etats membres à réorganiser l'enseignement secondaire en dépassant son caractère académique traditionnel et en associant dans un équilibre harmonieux et souplement diversifié les enseignements généraux, techniques et professionnels concourant à la formation,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recalling that Recommendation No. 68 adopted by the International Conference on Education at its 34th session called on Member States to reorganize secondary education by moving beyond its traditional academic character and by harmoniously and flexibly combining general, technical, and vocational education in a balanced manner contributing to training,"
+      },
+      {
+        "para_number": 9,
+        "para": "Notant qu'une tendance au rapprochement et parfois au regroupement de l'enseignement général et de l'enseignement professionnel s'est manifestée dans de très nombreux Etats membres,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Noting that a trend towards the rapprochement and sometimes the merging of general education and vocational education has emerged in numerous Member States,"
+      },
+      {
+        "para_number": 10,
+        "para": "Notant en outre que les structures et les programmes de l'enseignement secondaire font depuis une dizaine d'années l'objet de réformes profondes et réaffirmant qu'il importe de resserrer les liens entre les divers degrés de l'enseignement,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Noting furthermore that the structures and curricula of secondary education have been subject to profound reforms for about ten years and reaffirming the importance of strengthening the links between the various levels of education,"
+      },
+      {
+        "para_number": 11,
+        "para": "Reconnaissant que la rapidité de l'évolution scientifique, technologique et sociale lance de nouveaux défis qui appellent une amélioration de l'enseignement secondaire en vue de répondre aux besoins de l'individu et de la société aujourd'hui et demain,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recognizing that the rapid pace of scientific, technological, and social change presents new challenges that call for an improvement in secondary education in order to meet the needs of both the individual and society today and in the future,"
+      },
+      {
+        "para_number": 12,
+        "para": "Convaincue que la définition précise des buts et objectifs de l'enseignement secondaire à partir des objectifs nationaux de l'éducation et leur reformulation en fonction de l'évolution des circonstances et des besoins représentent des avancées significatives sur la voie de l'amélioration de l'enseignement secondaire,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Convinced that the precise definition of the goals and objectives of secondary education based on the national education objectives, and their reformulation according to the evolution of circumstances and needs, constitute significant progress towards the improvement of secondary education,"
+      },
+      {
+        "para_number": 13,
+        "para": "Reconnaissant que l'amélioration de l'enseignement secondaire passe par une formation initiale et continue adéquate des personnels enseignants, la mise en place et une bonne gestion des moyens matériels, ainsi que par l'actualisation des plans et programmes d'études, des manuels et des auxiliaires pédagogiques et aussi par le développement de modalités et de méthodes pédagogiques appropriées,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recognizing that the improvement of secondary education requires adequate initial and ongoing training of teaching staff, the establishment and proper management of material resources, as well as the updating of curricula, textbooks, and teaching aids, and also the development of appropriate pedagogical approaches and methods,"
+      },
+      {
+        "para_number": 54,
+        "para": "La Conférence internationale de l'éducation,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Education,"
+      },
+      {
+        "para_number": 55,
+        "para": "Constatant que le monde se trouve aux prises avec un problème dont on n'a mesuré la gravité qu'après que le projet de recommandation n° 75 sur \"l'amélioration de l'enseignement secondaire : ses objectifs, ses structures, ses contenus et ses méthodes\", eut été envoyé par le Secrétariat de l'Unesco aux Etats membres : la pandémie du SIDA, selon l'expression employée récemment par le Directeur général de l'Organisation mondiale de la santé (OMS),",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Noting that the world is grappling with a problem whose severity was only fully realized after the draft recommendation No. 75 on \"the improvement of secondary education: its objectives, structures, content, and methods\" had been sent by the UNESCO Secretariat to Member States: the AIDS pandemic, as recently described by the Director-General of the World Health Organization (WHO),"
+      },
+      {
+        "para_number": 56,
+        "para": "Notant que de nombreux gouvernements, et l'opinion publique en général, se trouvent actuellement désarmés et dépourvus du minimum d'information nécessaire pour affronter cette nouvelle maladie,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Noting that many governments, as well as public opinion in general, are currently disarmed and lacking the minimum necessary information to face this new disease,"
+      },
+      {
+        "para_number": 57,
+        "para": "Considérant qu'il y a beaucoup à faire, sur le plan de l'éducation, et sans aucun doute au niveau de l'école, en vue d'appliquer d'urgence des programmes d'information sur les moyens de prévention, et, en particulier, que cette information doit s'adresser en priorité aux maîtres et aux élèves de l'enseignement secondaire, ainsi qu'aux parents de ces élèves,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that much remains to be done in the field of education, and undoubtedly at the school level, to urgently implement information programs on means of prevention, and in particular that this information should primarily target secondary school teachers and students, as well as the parents of these students,"
+      },
+      {
+        "para_number": 58,
+        "para": "Estimant que l'Unesco a un rôle essentiel à jouer à cet égard en coopération étroite avec l'OMS et d'autres institutions, organisations et organismes du système des Nations Unies,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that UNESCO has an essential role to play in this regard in close cooperation with the WHO and other institutions, organizations, and bodies of the United Nations system,"
+      },
+      {
+        "para_number": 14,
+        "para": "Adopte, le 11 décembre 1986, et soumet à l'examen des Ministères de l'éducation et des instances et organismes compétents des divers Etats membres, des institutions du système des Nations Unies qui ont des responsabilités dans ce domaine et des organisations intergouvernementales et non gouvernementales intéressées, la recommandation suivante :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Adopts, on December 11, 1986, and submits for review to the Ministries of Education and the competent bodies and organizations of the various Member States, to the United Nations system institutions responsible in this field, and to the interested intergovernmental and non-governmental organizations, the following recommendation:"
+      },
+      {
+        "para_number": 15,
+        "para": "1. L'enseignement secondaire est une phase de l'éducation durant laquelle les jeunes sont amenés à devenir progressivement des adultes autonomes et responsables. Pendant cette période, en effet, les jeunes acquièrent les connaissances et les aptitudes nécessaires à leur préparation à la vie sous tous ses aspects.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. Secondary education is a phase of education during which young people are gradually led to become autonomous and responsible adults. During this period, young people acquire the knowledge and skills necessary for their preparation for life in all its aspects."
+      },
+      {
+        "para_number": 16,
+        "para": "2. L'amélioration de l'enseignement secondaire devrait se situer dans la perspective de l'éducation permanente. L'organisation de cet enseignement devrait être suffisamment souple pour assurer une continuité et une complémentarité entre les établissements qui constituent des éléments du système formel des écoles secondaires d'enseignement général et d'enseignement professionnel et les institutions et programmes extrascolaires, tout en offrant à ceux qui n'ont pas achevé leurs études secondaires ou n'ont jamais pu les commencer la possibilité de poursuivre ou de reprendre de telles études.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. The improvement of secondary education should be viewed within the framework of lifelong education. The organization of this education should be sufficiently flexible to ensure continuity and complementarity between institutions that form the formal system of general and vocational secondary schools, as well as extracurricular institutions and programs, while also providing those who have not completed or have never begun secondary education the opportunity to pursue or resume such studies."
+      },
+      {
+        "para_number": 17,
+        "para": "3. Le choix des objectifs, des structures, des contenus et des méthodes de l'enseignement secondaire devrait s'inspirer des principes généraux et des concepts clés suivants : (a) Viser à l'épanouissement complet et harmonieux de l'individu en réunissant les conditions nécessaires à sa formation intellectuelle, morale, spirituelle, physique, esthétique et sociale et à sa préparation à la vie en société ; former les jeunes dans un esprit de paix, de compréhension internationale, de coopération et de respect mutuel ; (b) Encourager la participation de la population tout entière à la stratégie de développement de l'enseignement secondaire, soit directement, soit par l'intermédiaire des organismes chargés de la gestion de l'éducation, y compris les institutions à vocation culturelle ou scientifique ; (c) Offrir à chaque individu une véritable égalité de chances et les plus larges possibilités de succès ; (d) Répondre aux besoins du développement culturel, socio-économique, scientifique et technologique et tenir compte des spécificités nationales ; respecter, dans le cas des territoires qui subissent encore une occupation étrangère, le droit de la population à un enseignement adapté à ses besoins. Son identité nationale et culturelle doit être préservée et il ne devrait être apporté aux programmes d'enseignement nationaux aucune modification qui soit de nature à altérer cette identité (e) Assurer la haute qualité de l'enseignement et de l'éducation, ce qui devrait être considéré comme une tâche primordiale dans le contexte de l'expansion rapide des effectifs de l'enseignement secondaire et de sa généralisation ; (f) Evaluer, réviser et ajuster régulièrement les programmes, les manuels, les méthodes et les processus d'enseignement et d'apprentissage afin d'améliorer la qualité de l'éducation, de permettre de suivre le rythme accéléré du progrès scientifique et technologique et l'évolution des savoirs et des savoir-faire qui en résultent, de former des individus qui puissent, grâce à l'autoapprentissage, s'orienter parmi les changements des processus industriels, agricoles et sociaux, promouvoir eux-mêmes ces changements et ce progrès au sein de la société et y participer activement ; (g) Définir les objectifs, les structures, les contenus, les modalités et les méthodes de l'enseignement secondaire dans un processus continu de réflexion ; (h) Faire appel dans le processus d'éducation et de formation à des approches et à des technologies correspondant à celles qui ont cours dans la société, en tenant compte de la nécessité d'intégrer les acquis techniques et scientifiques modernes (i) Développer et actualiser l'enseignement des sciences et de la technologie, encourager une approche interdisciplinaire de cet enseignement, en gardant aussi présente à l'esprit la nécessité de renforcer la formation humaniste des élèves afin d'assurer leur épanouissement harmonieux; (j) Prendre en considération le rôle fondamental de l'enseignement général tout en favorisant le rapprochement de l'enseignement général et de l'enseignement technique et professionnel en vue notamment de la revalorisation de ce dernier ; (k) Assurer une articulation étroite entre les formations dispensées par les établissements scolaires eux-mêmes et les multiples ressources offertes par l'environnement extrascolaire (l) Favoriser l'interaction entre éducation et travail conformément aux principes généraux, aux programmes et aux mesures énoncés dans la recommandation n° 73 adoptée par la Conférence internationale de l'éducation à sa 38e session ; (m) Mettre en œuvre dans la mesure du possible les principes énoncés dans les autres recommandations se rapportant à l'enseignement secondaire, adoptées par la Conférence internationale de l'éducation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. The selection of the objectives, structures, content, and methods of secondary education should be guided by the following general principles and key concepts: (a) Aim for the complete and harmonious development of the individual by providing the conditions necessary for intellectual, moral, spiritual, physical, aesthetic, and social formation, as well as preparation for life in society; train young people in a spirit of peace, international understanding, cooperation, and mutual respect; (b) Encourage the participation of the entire population in the strategy for the development of secondary education, either directly or through educational management bodies, including institutions with cultural or scientific missions; (c) Offer each individual genuine equality of opportunity and the broadest possibilities for success; (d) Respond to the needs of cultural, socio-economic, scientific, and technological development while taking national specificities into account; respect, in the case of territories still under foreign occupation, the right of the population to education adapted to their needs. Their national and cultural identity must be preserved, and no modifications should be made to national educational programs that could alter this identity; (e) Ensure the high quality of teaching and education, which should be regarded as a primary task in the context of the rapid expansion and generalization of secondary education; (f) Regularly evaluate, revise, and adjust curricula, textbooks, methods, and teaching and learning processes to improve educational quality, keep pace with the accelerated progress of science and technology, and the evolving knowledge and skills arising therefrom, to train individuals capable of self-directed learning who can navigate changes in industrial, agricultural, and social processes, promote these changes and progress within society, and actively participate in them; (g) Define the objectives, structures, content, forms, and methods of secondary education in a continuous process of reflection; (h) Employ approaches and technologies in the educational and training process that correspond to those prevailing in society, taking into account the need to integrate modern technical and scientific achievements; (i) Develop and update the teaching of science and technology, encourage an interdisciplinary approach to this teaching, while maintaining the importance of strengthening students’ humanistic education to ensure their harmonious development; (j) Consider the fundamental role of general education while promoting closer links between general and technical and vocational education, particularly with a view to enhancing the latter; (k) Ensure close coordination between the training provided by schools themselves and the multiple resources offered by the extracurricular environment; (l) Promote interaction between education and work in accordance with the general principles, programs, and measures set forth in Recommendation No. 73 adopted by the International Conference on Education at its 38th session; (m) Implement, as far as possible, the principles set out in other recommendations relating to secondary education adopted by the International Conference on Education."
+      },
+      {
+        "para_number": 18,
+        "para": "4. Les politiques nationales de l'éducation devraient favoriser l'amélioration de l'enseignement secondaire et lui accorder la priorité lorsqu'il y a lieu en recourant aux moyens suivants : (a) Réflexion permanente sur les objectifs de l'enseignement secondaire ; (b) Adoption de mesures législatives, administratives, financières, sociales et éducatives destinées à assurer la poursuite du processus de démocratisation de l'enseignement secondaire et l'amélioration de ses objectifs, de son contenu, de ses structures et de ses méthodes (c) Réexamen de la part du budget total de l'éducation consacrée à l'enseignement secondaire ; (d) Renforcement des actions éducatives au profit des groupes de population défavorisés et des régions déshéritées du pays, et effort pour élaborer et mettre en œuvre des mesures particulières telles qu'une meilleure répartition des établissements scolaires afin de desservir les zones rurales et suburbaines ; (e) Garantie aux migrants et aux minorités nationales de l'égalité du droit à l'enseignement secondaire, tout en leur permettant de conserver des liens avec leur culture d'origine et leur langue maternelle notamment par l'enseignement de celles-ci (f) Adoption de mesures appropriées à une éducation des jeunes handicapés, y compris une formation théorique et pratique du personnel enseignant ; (g) Développement et amélioration de l'enseignement secondaire technique et professionnel pour faire face, notamment, à l'évolution des besoins en main-d'œuvre qualifiée qui résulte des progrès de la science et de la technologie et du développement du pays ; (h) Création ou développement de cours du soir en dehors du temps scolaire et du système formel d'enseignement ainsi que de programmes d'enseignement à distance (par exemple, par correspondance, par radio et par télévision) ; (i) Recours à des mesures pour inciter et motiver les jeunes et les adultes, dans la société, dans les entreprises industrielles et agricoles et dans la famille, à acquérir une éducation secondaire (j) Favoriser un plus large accès des jeunes filles et des femmes aux études scientifiques et à l'enseignement secondaire technique et professionnel et les encourager, par des mesures appropriées, à poursuivre leurs études, notamment dans les disciplines qui leur permettent de participer à tous les secteurs de l'économie nationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. National education policies should promote the improvement of secondary education and prioritize it when appropriate by employing the following means: (a) continuous reflection on the objectives of secondary education; (b) adoption of legislative, administrative, financial, social, and educational measures aimed at ensuring the continuation of the democratization process of secondary education and the enhancement of its objectives, content, structures, and methods; (c) reconsideration of the portion of the total education budget allocated to secondary education; (d) strengthening educational efforts in favor of disadvantaged population groups and underprivileged regions in the country, as well as efforts to develop and implement special measures such as a better distribution of schools to serve rural and suburban areas; (e) guaranteeing migrants and national minorities equal rights to secondary education while enabling them to maintain ties with their original culture and mother tongue, notably through their instruction; (f) adoption of appropriate measures for the education of young persons with disabilities, including theoretical and practical training for teaching staff; (g) development and improvement of technical and vocational secondary education to address, in particular, the evolving demand for skilled labor resulting from scientific and technological progress and the country’s development; (h) creation or expansion of evening courses outside of school hours and the formal education system, as well as distance education programs (for example, by correspondence, radio, and television); (i) implementation of measures to encourage and motivate young people and adults, within society, industrial and agricultural enterprises, and families, to attain secondary education; (j) promoting wider access for girls and women to scientific studies and technical and vocational secondary education and encouraging them, through appropriate measures, to continue their studies, especially in disciplines that enable their participation in all sectors of the national economy."
+      },
+      {
+        "para_number": 19,
+        "para": "5. (a) Il conviendrait de mettre en place ou de renforcer des mécanismes propres à favoriser l'utilisation optimale des ressources disponibles, notamment pour assurer davantage de continuité et de complémentarité entre les différents types d'enseignement secondaire (b) Il y aurait lieu en outre d'encourager la formation, dans le domaine de la gestion et de l'éducation, en particulier des personnels de niveau intermédiaire à l'échelon local et à celui des institutions.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. (a) Mechanisms should be established or strengthened to promote the optimal use of available resources, particularly to ensure greater continuity and complementarity between the different types of secondary education. (b) Furthermore, training should be encouraged in the fields of management and education, especially for intermediate-level personnel at the local level and within institutions."
+      },
+      {
+        "para_number": 20,
+        "para": "6. Un examen approfondi des structures existantes s'impose dans le cadre des efforts déployés pour assurer l'amélioration générale de l'enseignement secondaire. Chaque fois qu'il y a lieu, des mesures concrètes devraient être prises pour : (a) faire en sorte que les structures soient mieux adaptées au développement culturel, socio-économique, scientifique et technique du pays (b) développer globalement les structures, les institutions et les cycles les plus propres à permettre d'atteindre les buts et objectifs nationaux de l'enseignement secondaire, dans le droit fil de la tendance actuelle au rapprochement entre l'enseignement général et l'enseignement technique et professionnel.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. A thorough review of existing structures is necessary within the framework of efforts to ensure the overall improvement of secondary education. Whenever appropriate, concrete measures should be taken to: (a) ensure that the structures are better adapted to the cultural, socio-economic, scientific, and technical development of the country; (b) comprehensively develop the structures, institutions, and cycles most suitable for achieving the national goals and objectives of secondary education, in line with the current trend toward closer integration between general education and technical and vocational education."
+      },
+      {
+        "para_number": 21,
+        "para": "7. Les structures éducatives devraient être développées de façon assez souple pour : (a) répondre à l’évolution des besoins de la société tout en conservant leur continuité et leur cohérence et en assurant l'égalité des chances d'accès et les plus larges possibilités de succès ; (b) offrir aux élèves, par des procédures appropriées, la possibilité de passer d'une filière ou d'une forme d'enseignement à une autre, de manière qu'un choix entre diverses options leur reste plus facilement ouvert au cours de leur scolarité ! (c) permettre l'intégration de l'éducation, de la science, de la culture et de la production ; assurer une liaison continue entre éducation et travail ; (d) améliorer les techniques d'examen et d'évaluation, cette dernière étant conçue cor le faisant partie intégrante du processus d'enseignement et d'apprentissage, de manière à assurer un contrôle permanent des progrès réalisés et des résultats obtenus par les élèves eu égard aux objectifs des enseignements ; (e) définir des procédures d'orientation et de sélection qui n'impliquent de discrimination d'aucune sorte.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. Educational structures should be developed with sufficient flexibility to: (a) respond to the evolving needs of society while maintaining their continuity and coherence and ensuring equal opportunities for access and the widest possibilities for success; (b) offer students, through appropriate procedures, the possibility of moving from one track or form of education to another, so that a choice among various options remains more readily open to them throughout their schooling; (c) enable the integration of education, science, culture, and production; ensure continuous linkage between education and work; (d) improve examination and assessment techniques, the latter being conceived as an integral part of the teaching and learning process, so as to provide ongoing monitoring of the progress made and the results achieved by students with regard to the objectives of instruction; (e) establish guidance and selection procedures that do not involve any form of discrimination."
+      },
+      {
+        "para_number": 22,
+        "para": "8. L'amélioration de l'enseignement secondaire devrait entraîner une élévation notable du niveau scientifique de la totalité de son contenu, afin qu'il soit tourné vers l'avenir at à la hauteur des acquis et des impératifs du progrès social, scientifique et. technologique, de façon à créer les conditions de qualifications professionnelles d'un type nouveau reposant sur la maîtrise de technologies intégrées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. The improvement of secondary education should lead to a significant elevation of the scientific level of its entire content, ensuring that it is forward-looking and aligned with the achievements and imperatives of social, scientific, and technological progress, so as to create the conditions for new types of professional qualifications based on mastery of integrated technologies."
+      },
+      {
+        "para_number": 23,
+        "para": "9. Des programmes équilibrés sont indispensables pour l'épanouissement global des élèves et il convient également de tenir compte de leurs aptitudes et de leurs intérêts personnels. L'évaluation et la rénovation permanentes de ces programmes s'imposent pour éviter les surcharges et les déséquilibres. Les disciplines enseignées devraient comprendre les langues, les mathématiques, les sciences exactes et naturelles, la technologie, les sciences sociales. L'éducation culturelle, morale, spirituelle, esthétique et physique devrait avoir sa place ainsi que celle liée aux nouveaux modes de pensée adaptés à l'ère nucléaire et spatiale. Ces éléments devraient préparer l'élève à la vie et au travail au sein de la collectivité. Le contenu de l'enseignement secondaire devrait mettre en valeur la culture et la tradition intellectuelle de chaque pays. Il devrait également tendre au renforcement du respect des droits de l'homme, des libertés fondamentales et des droits des peuples ; il devrait promouvoir la paix, la compréhension internationale et l'amitié entre toutes les nations ; il devrait combattre la ségrégation raciale et la discrimination fondée sur la race, le sexe ou la religion.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. Balanced curricula are essential for the overall development of students, and their personal abilities and interests must also be taken into account. Continuous evaluation and updating of these curricula are necessary to avoid overload and imbalances. The subjects taught should include languages, mathematics, exact and natural sciences, technology, and social sciences. Cultural, moral, spiritual, aesthetic, and physical education should have their place, as should education related to new modes of thinking adapted to the nuclear and space age. These elements should prepare the student for life and work within the community. The content of secondary education should highlight the culture and intellectual tradition of each country. It should also aim to reinforce respect for human rights, fundamental freedoms, and the rights of peoples; promote peace, international understanding, and friendship among all nations; and combat racial segregation and discrimination based on race, sex, or religion."
+      },
+      {
+        "para_number": 24,
+        "para": "10. L'élaboration des programmes devrait impliquer un large processus de recherche, d'évaluation et de consultation, associant les enseignants et leurs organisations, les parents, les élèves et les représentants des différents secteurs de la vie culturelle et socio-économique. L'introduction de nouveaux éléments dans un programme devrait faire l'objet d'études préalables et d'évaluations.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. The development of curricula should involve a broad process of research, evaluation, and consultation, engaging teachers and their organizations, parents, students, and representatives from various sectors of cultural and socio-economic life. The introduction of new elements into a curriculum should be subject to preliminary studies and evaluations."
+      },
+      {
+        "para_number": 25,
+        "para": "11. Le réaménagement des programmes devrait permettre d'éliminer les contenus périmés pour faire place à de nouveaux éléments (par exemple, l'éducation relative à l'environnement et à l'écologie, l'informatique, les technologies nouvelles, etc.) nécessaires pour faire face aux défis scientifiques et technologiques. Ces éléments peuvent s'insérer dans des enseignements intégrés ou interdisciplinaires, de manière à maintenir la conérence des programmes et à éviter de les surcharger.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. The restructuring of curricula should allow for the removal of outdated content to make way for new elements (for example, education related to the environment and ecology, computer science, new technologies, etc.) necessary to address scientific and technological challenges. These elements may be incorporated into integrated or interdisciplinary teachings, so as to maintain the coherence of the curricula and avoid overloading them."
+      },
+      {
+        "para_number": 26,
+        "para": "12. Les programmes, et en particulier ceux du deuxième cycle de l'enseignement secondaire, devraient faire une place à la créativité, à la souplesse et à la diversification. Au tronc commun des disciplines obligatoires devraient s'ajouter des matières à option et diverses activités extrascolaires,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. Curricula, particularly those of the upper secondary cycle, should allow for creativity, flexibility, and diversification. Optional subjects and various extracurricular activities should be added to the core curriculum of compulsory disciplines."
+      },
+      {
+        "para_number": 27,
+        "para": "13. Il faudrait se soucier non seulement du contenu de l'enseignement mais aussi de la façon dont celui-ci est dispensé. Il s'ensuit que les modalités et les méthodes d'enseignement et les matériels pédagogiques doivent être continuellement révisés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. Attention should be given not only to the content of teaching but also to the manner in which it is delivered. Consequently, the modes and methods of instruction as well as the teaching materials must be continuously reviewed."
+      },
+      {
+        "para_number": 28,
+        "para": "14. Il conviendrait d'élaborer et d'appliquer des méthodes qui stimulent la participation active des élèves au processus d'enseignement et d'apprentissage et développent leurs capacités d'auto-apprentissage, leur désir d'apprendre et leur goût de la connaissance.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. Methods should be developed and implemented that encourage the active participation of students in the teaching and learning process and that foster their self-learning abilities, their desire to learn, and their love of knowledge."
+      },
+      {
+        "para_number": 29,
+        "para": "15. Le processus d'enseignement et d'apprentissage devrait faire largement place aux activités qui visent à \"apprendre à apprendre\". Il faudrait recourir à cette fin à des méthodes qui s'y prêtent et à des modes appropriés d'organisation du travail des élèves comme le travail en groupe, l’apprentissage autodirigé et d'autres formes d'apprentissage à la carte.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "15. The teaching and learning process should give considerable emphasis to activities aimed at \"learning to learn.\" To this end, methods suited to this objective and appropriate modes of organizing students' work, such as group work, self-directed learning, and other forms of personalized learning, should be employed."
+      },
+      {
+        "para_number": 30,
+        "para": "16. L'inscription du travail ou de la familiarisation avec le monde du travail dans les programmes d'enseignement général appelle également des changements de priorité entre les différentes méthodes utilisées : des visites, des sorties éducatives, des initiations concrètes au travail dans un cadre autre que la classe devraient être organisées. Des experts extérieurs devraient aussi être invités plus fréquemment dans les établissements scolaires.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The inclusion of work experience or familiarization with the world of work in general education curricula also calls for a shift in priorities among the various methods used: visits, educational outings, and hands-on introductions to work outside the classroom setting should be organized. External experts should also be invited more frequently to schools."
+      },
+      {
+        "para_number": 31,
+        "para": "17. L'enseignement des sciences et de la technologie implique un accroissement de tous les types d'activités expérimentales et de travaux pratiques, notamment en laboratoire, qui sont de nature à susciter une participation plus active des élèves aux processus d'exploration scientifique et de développement technologique. De même, l'enseignement des humanités devrait être relié à l'utilisation des sources et des moyens de la culture, tels que les musées, les archives et les bibliothèques.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. The teaching of science and technology involves an increase in all types of experimental activities and practical work, particularly in laboratories, which are likely to encourage more active participation of students in the processes of scientific exploration and technological development. Likewise, the teaching of the humanities should be connected to the use of sources and cultural resources, such as museums, archives, and libraries."
+      },
+      {
+        "para_number": 32,
+        "para": "18. Les technologies modernes comme, par exemple, la micro-informatique, peuvent apporter un soutien non négligeable à l'amélioration du processus d'enseignement et d'apprentissage, favoriser l'apprentissage à la carte et servir à développer la personnalité de l'élève. Sur la base d'une analyse des résultats concrets de l'utilisation de l'informatique à l'école, des modifications appropriées devraient être apportées au contenu des enseignements faisant appel à l'ordinateur. Les autorités scolaires devraient mesurer l'intérêt des nouveaux équipements avant de procéder à leur acquisition.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. Modern technologies, such as microcomputing, can provide significant support in improving the teaching and learning process, promote personalized learning, and contribute to the development of the student's personality. Based on an analysis of the concrete results of the use of computer technology in schools, appropriate modifications should be made to the content of courses involving computers. Educational authorities should assess the value of new equipment before proceeding with its acquisition."
+      },
+      {
+        "para_number": 33,
+        "para": "19. Il faudrait prendre des mesures propres à accroître le potentiel national de production, à des coûts raisonnables, de matériels et d'équipements éducatifs, y compris de manuels, logiciels et autres dispositifs pour l'enseignement des sciences et de la technologie.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Measures should be taken to increase the national capacity to produce educational materials and equipment, including textbooks, software, and other tools for the teaching of science and technology, at reasonable costs."
+      },
+      {
+        "para_number": 34,
+        "para": "20. Les enseignants devraient être associés à l'élaboration des matériels nécessaires car c'est là un moyen d'accroître leur compétence professionnelle.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. Teachers should be involved in the development of necessary materials as this is a means of enhancing their professional competence."
+      },
+      {
+        "para_number": 35,
+        "para": "21. Les services d'orientation devraient être développés et offerts à tous les établissements et à tous les élèves du secondaire. L'orientation scolaire et professionnelle devrait, dans toute la mesure du possible, devenir une des dimensions de la scolarité secondaire. Les jeunes filles devraient être encouragées à faire des études ultérieures menant à des carrières scientifiques et technologiques et plus généralement à des carrières où elles sont sous-représentées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "21. Guidance services should be developed and made available to all secondary schools and students. School and vocational guidance should, as far as possible, become an integral component of secondary education. Girls should be encouraged to pursue further studies leading to scientific and technological careers and, more generally, to careers in which they are underrepresented."
+      },
+      {
+        "para_number": 36,
+        "para": "22. Il est également indispensable de développer des modalités extrascolaires d'orientation telles que, par exemple, des visites d'entreprises industrielles et agricoles et d'autres lieux de travail.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. It is also essential to develop extracurricular guidance activities such as, for example, visits to industrial and agricultural enterprises and other workplaces."
+      },
+      {
+        "para_number": 37,
+        "para": "23. L'appui voulu devrait être apporté au développement de la recherche pédagogique en tant qu'outil dont la contribution est indispensable pour atteindre les objectifs définis. La recherche pédagogique et les activités novatrices devraient être encouragées à tous les niveaux et être prises en compte dans les décisions politiques et la pratique éducative.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The desired support should be provided for the development of educational research as a tool whose contribution is essential to achieving the defined objectives. Educational research and innovative activities should be encouraged at all levels and taken into account in policy decisions and educational practice."
+      },
+      {
+        "para_number": 38,
+        "para": "24. Afin d'accroître le concours que la recherche peut apporter à l'amélioration de l'enseignement secondaire, des dispositions appropriées devraient être prises pour mieux faire connaître les résultats de la recherche pédagogique et les innovations qu'elle peut apporter. Ces résultats devraient être pris en compte dans la formation initiale et continue des professeurs, des administrateurs et des autres personnels de l'enseignement secondaire",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. In order to enhance the contribution that research can make to the improvement of secondary education, appropriate measures should be taken to better disseminate the results of educational research and the innovations it can provide. These results should be taken into account in the initial and ongoing training of teachers, administrators, and other secondary education personnel."
+      },
+      {
+        "para_number": 39,
+        "para": "25. Le développement, en particulier par la formation, des capacités de gestion aux échelons national et local et à celui des établissements est à même de rendre plus efficaces les méthodes d'administration de l'enseignement secondaire. La participation des maîtres et des parents est également souhaitable à cet égard.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. The development, particularly through training, of management capacities at the national, local, and institutional levels is likely to enhance the effectiveness of secondary education administration methods. The participation of teachers and parents is also desirable in this regard."
+      },
+      {
+        "para_number": 40,
+        "para": "26. Une utilisation accrue et mieux avisée des technologies modernes devrait avoir un impact positif sur la gestion de l'éducation et sur son efficacité. La mise en place de centres de soutien technique à la gestion et de systèmes d'information à l'usage de la gestion devrait être considérée comme un moyen important d'améliorer l'enseignement secondaire",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. An increased and more judicious use of modern technologies should have a positive impact on education management and its effectiveness. The establishment of technical support centers for management and information systems for management use should be considered an important means of improving secondary education."
+      },
+      {
+        "para_number": 41,
+        "para": "27. Chaque pays devrait déterminer quelles sont les fonctions administratives qu'il est préférable de confier, respectivement, aux services centraux, régionaux et locaux, afin d'assurer une utilisation plus rationnelle des moyens disponibles, une participation plus effective de tous les groupes et un meilleur courant d'information et de communication entre les différents échelons administratifs.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. Each country should determine which administrative functions are best assigned respectively to central, regional, and local services, in order to ensure a more rational use of available resources, more effective participation of all groups, and improved flow of information and communication between the various administrative levels."
+      },
+      {
+        "para_number": 42,
+        "para": "28. La gestion devrait comporter une évaluation de la manière dont l'enseignement secondaire est encadré. Il faudrait disposer à cette fin de systèmes de suivi et de contrôle judicieusement conçus pour tous les aspects de l'enseignement secondaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. Management should include an evaluation of how secondary education is supervised. To this end, well-designed monitoring and control systems should be in place for all aspects of secondary education."
+      },
+      {
+        "para_number": 43,
+        "para": "29. Il est indispensable d'encourager au niveau des politiques et d'assurer au niveau de la pratique une plus large participation de tous les secteurs de la population tant à la démocratisation qu'à l'amélioration de l'enseignement secondaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. It is essential to promote, at the policy level, and to ensure, in practice, broader participation of all sectors of the population in both the democratization and the improvement of secondary education."
+      },
+      {
+        "para_number": 44,
+        "para": "30. L'amélioration de l'enseignement secondaire exige que l'on forme en nombre suffisant des enseignants et autres personnels de l'éducation tout en élevant la qualité de la formation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. The improvement of secondary education requires the training of a sufficient number of teachers and other educational personnel while raising the quality of training."
+      },
+      {
+        "para_number": 45,
+        "para": "31. A cet égard, il conviendrait de définir des politiques et des objectifs à long et à moyen terme concernant la formation des enseignants et de prévoir des mesures concrètes qui pourraient notamment viser à : (a) encourager à s'orienter vers la profession enseignante les jeunes gens les plus motivés : (b) réorienter les méthodes et les programmes de formation des maîtres vers un meilleur équilibre entre les contenus disciplinaires et les aspects psychopédagogiques, de manière à assurer aux enseignants une préparation professionnelle harmonieuse ; cette préparation devrait s'appuyer sur une pratique effective de l'enseignement servant de base à l'analyse et à l'évaluation de l'activité éducative. Elle devrait également permettre de réduire raisonnablement la période d'adaptation des jeunes enseignants ; (c) faire correspondre l'offre et la demande d'enseignants, notamment dans les domaines de la science et de la technologie, ainsi, le cas échéant, que dans les autres domaines où les effectifs apparaissent insuffisants (d) mettre au point une approche systématique de la formation continue en organisant à intervalles réguliers des activités qui tendent à valoriser, à actualiser et, d'une manière générale, à améliorer les connaissances et les qualifications professionnelles des différentes catégories de personnel de l'enseignement secondaire. Cette approche devrait être différenciée en fonction et des du niveau de qualification des diverses catégories d'enseignants exigences concrètes de la pratique pédagogique, et favoriser l'échange d'expériences d'innovation, la recherche et la réflexion pédagogiques (e) fournir en temps utile au personnel enseignant l'information scientifique et technique, la documentation, les auxiliaires visuels et le matériel nécessaires à l'enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. In this regard, it would be appropriate to define long- and medium-term policies and objectives concerning teacher training and to provide concrete measures that could notably aim to: (a) encourage the most motivated young people to choose the teaching profession; (b) reorient teacher training methods and programs towards a better balance between disciplinary content and psychopedagogical aspects, so as to ensure teachers a harmonious professional preparation; this preparation should be based on effective teaching practice serving as a foundation for the analysis and evaluation of educational activity. It should also allow for a reasonable reduction in the adaptation period for young teachers; (c) align the supply and demand for teachers, particularly in the fields of science and technology, as well as, where applicable, in other areas where staff numbers appear insufficient; (d) develop a systematic approach to continuing education by organizing regular activities aimed at enhancing, updating, and, more generally, improving the knowledge and professional qualifications of the different categories of secondary education personnel. This approach should be differentiated according to the qualification level of the various categories of teachers, the concrete requirements of pedagogical practice, and encourage the exchange of innovative experiences, research, and pedagogical reflection; (e) provide teaching staff in a timely manner with scientific and technical information, documentation, visual aids, and necessary teaching materials."
+      },
+      {
+        "para_number": 46,
+        "para": "32. D'autres personnels de l'éducation administrateurs, directeurs d'établissement, inspecteurs et conseillers d'orientation, etc. devraient suivre des formations initiales et continues correspondant aux tâches qu'ils accomplissent dans l'enseignement secondaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Other education personnel—administrators, school principals, inspectors, and guidance counselors, etc.—should undergo initial and continuing training corresponding to the tasks they perform in secondary education."
+      },
+      {
+        "para_number": 47,
+        "para": "33. Compte tenu de la variété et des dimensions des problèmes et des interrogations que soulèvent le développement et l'amélioration de l'enseignement secondaire, en particulier mais non exclusivement dans les pays en développement, une approche internationale et régionale concertée pourrait aider les Etats membres à leur apporter des solutions et des réponses.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. Given the variety and scope of the problems and questions raised by the development and improvement of secondary education, particularly but not exclusively in developing countries, a coordinated international and regional approach could assist Member States in providing solutions and responses."
+      },
+      {
+        "para_number": 48,
+        "para": "34. Les Etats membres devraient continuer à renforcer et à développer la coopération bilatérale, régionale et internationale afin d'améliorer l'enseignement secondaire et apporter tout l'appui nécessaire aux programmes régionaux d'innovation éducative mis en œuvre par l'Unesco au service du développement. Une telle coopération est particulièrement souhaitable en ce qui concerne l'enseignement des langues vivantes en tant qu'instrument de l'éducation à la compréhension internationale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "34. Member States should continue to strengthen and develop bilateral, regional, and international cooperation in order to improve secondary education and provide all necessary support to the regional educational innovation programs implemented by UNESCO in service of development. Such cooperation is particularly desirable with regard to the teaching of modern languages as a tool for education in international understanding."
+      },
+      {
+        "para_number": 49,
+        "para": "35. L'Unesco, en tant qu'organisation internationale qui joue un rôle moteur dans le domaine de l'éducation, devrait s'efforcer (a) d'accorder une attention particulière au développement et à l'amélioration de l'enseignement secondaire dans ses programmes des prochaines années (b) d'encourager encore davantage la coopération internationale et régionale dans le domaine de l'enseignement secondaire au travers de ses différents programmes et projets internationaux et régionaux (c) de favoriser, notamment au moyen de ses réseaux régionaux d'innovation éducative pour le développement, une coopération plus étroite entre les Etats membres afin d'améliorer l'enseignement secondaire ; (d) d'encourager la coopération internationale et régionale en matière de formation et d'amélioration des qualifications des enseignants et du personnel chargé de l'administration de l'enseignement secondaire, en mettant en place divers programmes et projets internationaux et régionaux (e) de soutenir les efforts visant à développer les Ecoles associées :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. UNESCO, as an international organization playing a leading role in the field of education, should endeavor (a) to give particular attention to the development and improvement of secondary education in its programs for the coming years; (b) to further encourage international and regional cooperation in the field of secondary education through its various international and regional programs and projects; (c) to promote, notably through its regional networks of educational innovation for development, closer cooperation among Member States in order to improve secondary education; (d) to encourage international and regional cooperation in the training and upgrading of qualifications of teachers and personnel responsible for the administration of secondary education by establishing various international and regional programs and projects; (e) to support efforts aimed at developing Associated Schools."
+      },
+      {
+        "para_number": 50,
+        "para": "36. L'Unesco et le Bureau international de l'éducation, en tant qu'organe spécialisé de l'Unesco, devraient également s'efforcer : (a) de faciliter, dans le domaine de l'enseignement secondaire, l'échange entre les pays d'informations et d'expériences, y compris l'échange de programmes scolaires, de matériel pédagogique et de spécialistes. A cet égard, le service de documentation du BIE devrait jouer pleinement son rôle (b) de promouvoir des recherches et des études visant à améliorer l'enseignement secondaire : (c) de mener des activités destinées à donner suite à la présente Conférence et de conseiller les Etats membres, sur leur demande, au sujet des moyens d'appliquer la présente recommandation en fonction des réalités propres à chaque pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. UNESCO and the International Bureau of Education, as a specialized agency of UNESCO, should also endeavor to: (a) facilitate the exchange of information and experiences between countries in the field of secondary education, including the exchange of curricula, teaching materials, and specialists. In this regard, the documentation service of the IBE should fully perform its role; (b) promote research and studies aimed at improving secondary education; (c) undertake activities to follow up on the present Conference and, upon request, advise Member States on ways to implement this recommendation in accordance with the specific realities of each country."
+      },
+      {
+        "para_number": 51,
+        "para": "37. L'Unesco, en coopération avec d'autres organisations internationales, devrait renforcer les activités concernant l'éducation pour la compréhension internationale, la coopération et la paix, et l'éducation relative aux droits de l'homme et aux libertés fondamentales. Elles devraient également promouvoir, dans les Etats membres, les mesures de caractère novateur tendant à réaménager dans cette perspective les programmes de l'enseignement secondaire et à favoriser la révision mutuelle des manuels afin d'en éliminer les préjugés et toute incitation à la haine raciale et à l'hostilité à l'égard des autres peuples. L'échange international d'informations sur les résultats obtenus devrait être encouragé.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. UNESCO, in cooperation with other international organizations, should strengthen activities concerning education for international understanding, cooperation, and peace, as well as education related to human rights and fundamental freedoms. They should also promote, within Member States, innovative measures aimed at restructuring secondary education curricula from this perspective and encouraging the mutual revision of textbooks to eliminate prejudices and any incitement to racial hatred and hostility towards other peoples. The international exchange of information on the results achieved should be encouraged."
+      },
+      {
+        "para_number": 52,
+        "para": "38. En coopération avec d'autres organisations internationales, organismes régionaux et organisations internationales non gouvernementales intéressées, l'Unesco devrait encourager encore plus les activités menées conjointement et contribuer efficacement à l'échange systématique des idées, des informations et des expériences concernant l'amélioration de l'enseignement secondaire en recourant pour cela à divers moyens : susciter l'organisation de conférences régionales et internationales, d'ateliers, de séminaires et de réunions consacrés à l'examen de divers aspects de l'amélioration de l'enseignement secondaire, apporter un soutien à l'échange de personnels de l'éducation pour étudier les expériences d'autres pays, etc.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. In cooperation with other international organizations, regional bodies, and interested international non-governmental organizations, UNESCO should further encourage joint activities and effectively contribute to the systematic exchange of ideas, information, and experiences concerning the improvement of secondary education by utilizing various means: promoting the organization of regional and international conferences, workshops, seminars, and meetings dedicated to examining various aspects of secondary education improvement, supporting the exchange of education personnel to study the experiences of other countries, etc."
+      },
+      {
+        "para_number": 53,
+        "para": "39. Le Bureau international d'éducation, en coopération et en coordination avec d'autres unités de l'Unesco, devrait (a) dans le cadre de son programme de documentation et d'information pédagogiques, accorder une place appropriée à l'enseignement secondaire et à son amélioration en recueillant des informations relatives aux programmes et aux réformes de l'enseignement secondaire ainsi qu'aux expériences novatrices tentées à ce niveau, en analysant ces informations, en les diffusant, et en les mettant à la disposition des Etats membres (b) dans le cadre de ses activités de recherche, et en particulier de sa série d'études et d'enquêtes en éducation comparée, étudier en collaboration avec des instituts nationaux de recherche les voies et moyens d'améliorer l'enseignement secondaire (c) accorder une attention particulière au système de formation des cadres pédagogiques et à l'amélioration des qualifications, ainsi qu'aux tendances relevées à cet égard dans les programmes nationaux, rassembler des renseignements sur la documentation scolaire et les expériences novatrices faites en matière de formation et de pratique professionnelle des maîtres et communiquer ces renseignements aux Etats membres.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. The International Bureau of Education, in cooperation and coordination with other UNESCO units, should (a) within the framework of its program of pedagogical documentation and information, give appropriate attention to secondary education and its improvement by collecting information related to secondary education programs and reforms as well as innovative experiences undertaken at this level, analyzing this information, disseminating it, and making it available to Member States; (b) within its research activities, particularly its series of studies and surveys in comparative education, study in collaboration with national research institutes the means and methods to improve secondary education; (c) pay particular attention to the system of training educational staff and the improvement of qualifications, as well as to trends observed in this regard in national programs, gather information on school documentation and innovative experiences in teacher training and professional practice, and communicate this information to Member States."
+      },
+      {
+        "para_number": 59,
+        "para": "Recommande au Directeur général de l'Unesco d'étudier la possibilité d'élaborer à bref délai, en coopération avec les autres organismes internationaux compétents du système des Nations Unies, un projet de programme d'urgence relatif à l'éducation et à l'information à assurer dans les écoles en vue de la prévention du SIDA, et de soumettre a la prochaine session de la Conférence générale de l'Unesco les propositions qu'il jugera opportunes ;",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Recommends that the Director-General of UNESCO examine the possibility of promptly developing, in cooperation with other competent international bodies within the United Nations system, an emergency programme concerning education and information to be provided in schools for the prevention of AIDS, and submit to the next session of the UNESCO General Conference the proposals he deems appropriate;"
+      },
+      {
+        "para_number": 60,
+        "para": "Souhaite aussi que ce programme puisse devenir opérationnel dans tous les Etats membres aussitôt que possible et que puisse, à travers lui, s'instaurer rapidement une coopération entre les Etats membres qui ont déjà de l'expérience en la matière",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Also wishes that this program become operational in all Member States as soon as possible and that, through it, rapid cooperation be established among Member States that already have experience in this field."
+      },
+      {
+        "para_number": 61,
+        "para": "Adresse un appel pressant aux institutions, organismes et fondations disposant de moyens de financement pour qu'ils procurent à l'Unesco les ressources nécessaires à la mise en œuvre de cette dimension importante de la lutte contre le SIDA qu'est l'action éducative.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Makes an urgent appeal to institutions, organizations, and foundations with funding resources to provide UNESCO with the necessary resources for the implementation of this important aspect of the fight against AIDS, namely educational action."
+      },
+      {
+        "para_number": 62,
+        "para": "ANNEXES A. CONFERENCE INTERNATIONALE DE L'EDUCATION A I Ordre du jour A II Discours d'ouverture de Mme Ruth Lerner de Almea, Présidente de la 39e session de la Conférence internationale de l'éducation A III Discours en séance inaugurale de M. Dominique Föllmi, Conseiller d'Etat chargé du Département de l'instruction publique du Canton de Genève et Chef de la délégation suisse A IV Allocution d'ouverture de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco A V Discours d'ouverture de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence A VI Discours de clôture de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco A VII Discours de clôture des représentants des groupes régionaux : Groupe I Discours de clôture de M. J.R. Steinle, Directeur général de l'éducation de l'Australie méridionale Groupe II Discours de clôture de M. Vladimir D. Tchadrikov, Vice-Ministre de l'éducation de l'URSS Groupe III Discours de clôture de M. José Alberto Buendia Florer, Ministre de l'éducation d'El Salvador Groupe IV Discours de clôture de M. Fumitagke Kishida, Député et Vice¬ Ministre de l'éducation du Japon Groupe Va Discours de clôture de M. Peter Oloo-Aringo, Ministre de l'éducation, de la science et de la technologie du Kenya Groupe Vb Discours de clôture de M. Abdul Kader Izzidin Hamoudi, Ministre de l'éducation de l'Irak A VIII Discours de clôture de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence A IX Liste des documents de la Conférence et des rapports nationaux distribués pendant la session A XListe des participants A XI Secrétariat de la Conférence",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "ANNEXES A. INTERNATIONAL CONFERENCE ON EDUCATION A I Agenda A II Opening speech by Mrs. Ruth Lerner de Almea, Chairperson of the 39th session of the International Conference on Education A III Inaugural speech by Mr. Dominique Föllmi, State Councillor in charge of the Department of Public Instruction of the Canton of Geneva and Head of the Swiss delegation A IV Opening address by Mr. Amadou-Mahtar M'Bow, Director-General of UNESCO A V Opening speech by Mr. Isidore Hakizimana, Minister of National Education of Burundi, President of the Conference A VI Closing speech by Mr. Amadou-Mahtar M'Bow, Director-General of UNESCO A VII Closing speeches by representatives of regional groups: Group I Closing speech by Mr. J.R. Steinle, Director-General of Education of South Australia Group II Closing speech by Mr. Vladimir D. Tchadrikov, Deputy Minister of Education of the USSR Group III Closing speech by Mr. José Alberto Buendia Florer, Minister of Education of El Salvador Group IV Closing speech by Mr. Fumitagke Kishida, Member of Parliament and Vice Minister of Education of Japan Group Va Closing speech by Mr. Peter Oloo-Aringo, Minister of Education, Science and Technology of Kenya Group Vb Closing speech by Mr. Abdul Kader Izzidin Hamoudi, Minister of Education of Iraq A VIII Closing speech by Mr. Isidore Hakizimana, Minister of National Education of Burundi, President of the Conference A IX List of Conference documents and national reports distributed during the session A X List of participants A XI Conference Secretariat"
+      },
+      {
+        "para_number": 63,
+        "para": "B. CELEBRATION DU QUARANTIEME ANNIVERSAIRE DE LA FONDATTON DE L'UNESCO B I Allocution de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco B II Déclaration de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence B III Discours de M. Charles Hummel, Représentant du Gouvernement suisse B IV Discours de M. Yves Brunsvick, Président du Conseil du BIE B V Discours des représentants des groupes régionaux : Groupe I Allocution de M. Joaquin Arango Vila-Belda, Vice-Ministre de l'éducation et des sciences d'Espagne Groupe II Discours de M. Gunter Heidorn, Vice-Ministre de l'enseignement supérieur et technique de la République démocratique allemande Groupe III Discours de M. Jorge Konder Bornhausen, Ministre de l'éducation du Brésil Groupe IV Discours de N, Yang Haibo, Vice-Président de la Commission d'Etat pour l'éducation de la République populaire de Chine Groupe Va Discours de M. Joshoua Mayanja-Nkangi, Ministre de l'éducation de l'Ougande Groupe Vb Discours de M. Abdul Kader Izziddin Hamoudi, Ministre de l'éducation de l'Irak ANNEXES A I A XI A. CONFERENCE INTERNATIONAL DE L'EDUCATION ANNEXE A I ORDRE DU JOUR 1. Ouverture de la Conférence 2. Election du Président 3. Election des Vice-Présidents et du Rapporteur général de la Conférence 4. Adoption de l'ordre du jour (document ED/BIE/CONFINTED 40/1) 5. Organisation des travaux de la Conférence (document ED/BIE/CONFINTED 40/2) 6. Politiques et stratégies pour le développement de l'enseignement secondaire (thème de la plénière) (document ED/BIE/CONFINTED 40/3 Partie I) 7. Amélioration de l'enseignement du second degré, de ses objectifs, de ses contenus, de ses structures et de ses méthodes (thème spécial) (document ED/BIE/CONFINTED 40/3 Partie II 8. Formation initiale et continue des personnels de l'enseignement secondaire (document ED/BIE/CONFINTED 40/3 Partie III) 9. L'enseignement secondaire face aux défis scientifiques et technologiques (document ED/BIE/CONFINTED 40/3 Partie IV) 10. Adoption de la recommandation sur le thème spécial adressée aux ministères de l'éducation (document ED/BIE/CONFINTED 40/3 Add. Prov. 11. Adoption du rapport final 12. Clôture de la Conférence",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "B. CELEBRATION OF THE FORTIETH ANNIVERSARY OF THE FOUNDATION OF UNESCO  \nB I Address by Mr. Amadou-Mahtar M'Bow, Director-General of UNESCO  \nB II Statement by Mr. Isidore Hakizimana, Minister of National Education of Burundi, President of the Conference  \nB III Speech by Mr. Charles Hummel, Representative of the Swiss Government  \nB IV Speech by Mr. Yves Brunsvick, President of the International Bureau of Education Council  \nB V Speeches by representatives of the regional groups:  \nGroup I Address by Mr. Joaquin Arango Vila-Belda, Vice-Minister of Education and Sciences of Spain  \nGroup II Speech by Mr. Gunter Heidorn, Vice-Minister of Higher and Technical Education of the German Democratic Republic  \nGroup III Speech by Mr. Jorge Konder Bornhausen, Minister of Education of Brazil  \nGroup IV Speech by Mr. Yang Haibo, Vice-President of the State Commission for Education of the People's Republic of China  \nGroup Va Speech by Mr. Joshoua Mayanja-Nkangi, Minister of Education of Uganda  \nGroup Vb Speech by Mr. Abdul Kader Izziddin Hamoudi, Minister of Education of Iraq"
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'éducation, convoquée par l'Organisation des Nations Unies pour l'éducation, la science et la culture, réunie à Genève, pour sa 40e session du 2 au 11 décembre 1986, Eu égard aux conventions, recommandations et déclarations pertinentes adoptées à l'échelon international, et plus particulièrement par l'Unesco Notant que la reconnaissance universelle du fait que l'éducation est un droit fondamental de l'individu et une condition préalable du progrès social a entraîné depuis une vingtaine d'années un développement sans précédent de l'éducation dans l'ensemble du monde, en particulier aux niveaux secondaire et supérieur, Rappelant que la Convention et la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement adoptées par la Conférence générale de l'Unesco à sa onzième session stipulent que l'enseignement secondaire sous ses diverses formes devrait être généralisé et rendu accessible à tous, Reconnaissant les particularités constitutionnelles de chaque Etat membre, de même que ses besoins et ses dispositifs éducatifs propres, Soulignant que l'enseignement secondaire devrait contribuer à la fois à l'épanouissement complet de l'individu et à sa préparation à la vie sur les plans culturel, social et économique, et souhaitant renforcer la coopération en matière d'éducation et en rechercher de nouvelles formes, Reconnaissant l'importance d'un enseignement secondaire en prise sur les réalités comme facteur c'accélération du développement culturel, socio-économique, scientifique et technologique dans toutes les sociétés contemporaines, Rappelant que la recommandation n° 68 adoptée par la Conférence internationale de l'éducation à sa 34e session a invité les Etats membres à réorganiser l'enseignement secondaire en dépassant son caractère académique traditionnel et en associant dans un équilibre harmonieux et souplement diversifié les enseignements généraux, techniques et professionnels concourant à la formation, Notant qu'une tendance au rapprochement et parfois au regroupement de l'enseignement général et de l'enseignement professionnel s'est manifestée dans de très nombreux Etats membres, Notant en outre que les structures et les programmes de l'enseignement secondaire font depuis une dizaine d'années l'objet de réformes profondes et réaffirmant qu'il importe de resserrer les liens entre les divers degrés de l'enseignement, Reconnaissant que la rapidité de l'évolution scientifique, technologique et sociale lance de nouveaux défis qui appellent une amélioration de l'enseignement secondaire en vue de répondre aux besoins de l'individu et de la société aujourd'hui et demain, Convaincue que la définition précise des buts et objectifs de l'enseignement secondaire à partir des objectifs nationaux de l'éducation et leur reformulation en fonction de l'évolution des circonstances et des besoins représentent des avancées significatives sur la voie de l'amélioration de l'enseignement secondaire, Reconnaissant que l'amélioration de l'enseignement secondaire passe par une formation initiale et continue adéquate des personnels enseignants, la mise en place et une bonne gestion des moyens matériels, ainsi que par l'actualisation des plans et programmes d'études, des manuels et des auxiliaires pédagogiques et aussi par le développement de modalités et de méthodes pédagogiques appropriées, Adopte, le 11 décembre 1986, et soumet à l'examen des Ministères de l'éducation et des instances et organismes compétents des divers Etats membres, des institutions du système des Nations Unies qui ont des responsabilités dans ce domaine et des organisations intergouvernementales et non gouvernementales intéressées, la recommandation suivante : A. PRINCIPES GENERAUX ET CONCEPTS CLES 1. L'enseignement secondaire est une phase de l'éducation durant laquelle les jeunes sont amenés à devenir progressivement des adultes autonomes et responsables. Pendant cette période, en effet, les jeunes acquièrent les connaissances et les aptitudes nécessaires à leur préparation à la vie sous tous ses aspects. 2. L'amélioration de l'enseignement secondaire devrait se situer dans la perspective de l'éducation permanente. L'organisation de cet enseignement devrait être suffisamment souple pour assurer une continuité et une complémentarité entre les établissements qui constituent des éléments du système formel des écoles secondaires d'enseignement général et d'enseignement professionnel et les institutions et programmes extrascolaires, tout en offrant à ceux qui n'ont pas achevé leurs études secondaires ou n'ont jamais pu les commencer la possibilité de poursuivre ou de reprendre de telles études. 3. Le choix des objectifs, des structures, des contenus et des méthodes de l'enseignement secondaire devrait s'inspirer des principes généraux et des concepts clés suivants : (a) Viser à l'épanouissement complet et harmonieux de l'individu en réunissant les conditions nécessaires à sa formation intellectuelle, morale, spirituelle, physique, esthétique et sociale et à sa préparation à la vie en société ; former les jeunes dans un esprit de paix, de compréhension internationale, de coopération et de respect mutuel ; (b) Encourager la participation de la population tout entière à la stratégie de développement de l'enseignement secondaire, soit directement, soit par l'intermédiaire des organismes chargés de la gestion de l'éducation, y compris les institutions à vocation culturelle ou scientifique ; (c) Offrir à chaque individu une véritable égalité de chances et les plus larges possibilités de succès ; (d) Répondre aux besoins du développement culturel, socio-économique, scientifique et technologique et tenir compte des spécificités nationales ; respecter, dans le cas des territoires qui subissent encore une occupation étrangère, le droit de la population à un enseignement adapté à ses besoins. Son identité nationale et culturelle doit être préservée et il ne devrait être apporté aux programmes d'enseignement nationaux aucune modification qui soit de nature à altérer cette identité (e) Assurer la haute qualité de l'enseignement et de l'éducation, ce qui devrait être considéré comme une tâche primordiale dans le contexte de l'expansion rapide des effectifs de l'enseignement secondaire et de sa généralisation ; (f) Evaluer, réviser et ajuster régulièrement les programmes, les manuels, les méthodes et les processus d'enseignement et d'apprentissage afin d'améliorer la qualité de l'éducation, de permettre de suivre le rythme accéléré du progrès scientifique et technologique et l'évolution des savoirs et des savoir-faire qui en résultent, de former des individus qui puissent, grâce à l'autoapprentissage, s'orienter parmi les changements des processus industriels, agricoles et sociaux, promouvoir eux-mêmes ces changements et ce progrès au sein de la société et y participer activement ; (g) Définir les objectifs, les structures, les contenus, les modalités et les méthodes de l'enseignement secondaire dans un processus continu de réflexion ; (h) Faire appel dans le processus d'éducation et de formation à des approches et à des technologies correspondant à celles qui ont cours dans la société, en tenant compte de la nécessité d'intégrer les acquis techniques et scientifiques modernes (i) Développer et actualiser l'enseignement des sciences et de la technologie, encourager une approche interdisciplinaire de cet enseignement, en gardant aussi présente à l'esprit la nécessité de renforcer la formation humaniste des élèves afin d'assurer leur épanouissement harmonieux; (j) Prendre en considération le rôle fondamental de l'enseignement général tout en favorisant le rapprochement de l'enseignement général et de l'enseignement technique et professionnel en vue notamment de la revalorisation de ce dernier ; (k) Assurer une articulation étroite entre les formations dispensées par les établissements scolaires eux-mêmes et les multiples ressources offertes par l'environnement extrascolaire (l) Favoriser l'interaction entre éducation et travail conformément aux principes généraux, aux programmes et aux mesures énoncés dans la recommandation n° 73 adoptée par la Conférence internationale de l'éducation à sa 38e session ; (m) Mettre en œuvre dans la mesure du possible les principes énoncés dans les autres recommandations se rapportant à l'enseignement secondaire, adoptées par la Conférence internationale de l'éducation. B. MESURES ET PROGRAMMES CONCRETS A L'ECHELON NATIONAL 4. Les politiques nationales de l'éducation devraient favoriser l'amélioration de l'enseignement secondaire et lui accorder la priorité lorsqu'il y a lieu en recourant aux moyens suivants : (a) Réflexion permanente sur les objectifs de l'enseignement secondaire ; (b) Adoption de mesures législatives, administratives, financières, sociales et éducatives destinées à assurer la poursuite du processus de démocratisation de l'enseignement secondaire et l'amélioration de ses objectifs, de son contenu, de ses structures et de ses méthodes (c) Réexamen de la part du budget total de l'éducation consacrée à l'enseignement secondaire ; (d) Renforcement des actions éducatives au profit des groupes de population défavorisés et des régions déshéritées du pays, et effort pour élaborer et mettre en œuvre des mesures particulières telles qu'une meilleure répartition des établissements scolaires afin de desservir les zones rurales et suburbaines ; (e) Garantie aux migrants et aux minorités nationales de l'égalité du droit à l'enseignement secondaire, tout en leur permettant de conserver des liens avec leur culture d'origine et leur langue maternelle notamment par l'enseignement de celles-ci (f) Adoption de mesures appropriées à une éducation des jeunes handicapés, y compris une formation théorique et pratique du personnel enseignant ; (g) Développement et amélioration de l'enseignement secondaire technique et professionnel pour faire face, notamment, à l'évolution des besoins en main-d'œuvre qualifiée qui résulte des progrès de la science et de la technologie et du développement du pays ; (h) Création ou développement de cours du soir en dehors du temps scolaire et du système formel d'enseignement ainsi que de programmes d'enseignement à distance (par exemple, par correspondance, par radio et par télévision) ; (i) Recours à des mesures pour inciter et motiver les jeunes et les adultes, dans la société, dans les entreprises industrielles et agricoles et dans la famille, à acquérir une éducation secondaire (j) Favoriser un plus large accès des jeunes filles et des femmes aux études scientifiques et à l'enseignement secondaire technique et professionnel et les encourager, par des mesures appropriées, à poursuivre leurs études, notamment dans les disciplines qui leur permettent de participer à tous les secteurs de l'économie nationale. 5. (a) Il conviendrait de mettre en place ou de renforcer des mécanismes propres à favoriser l'utilisation optimale des ressources disponibles, notamment pour assurer davantage de continuité et de complémentarité entre les différents types d'enseignement secondaire (b) Il y aurait lieu en outre d'encourager la formation, dans le domaine de la gestion et de l'éducation, en particulier des personnels de niveau intermédiaire à l'échelon local et à celui des institutions. 6. Un examen approfondi des structures existantes s'impose dans le cadre des efforts déployés pour assurer l'amélioration générale de l'enseignement secondaire. Chaque fois qu'il y a lieu, des mesures concrètes devraient être prises pour : (a) faire en sorte que les structures soient mieux adaptées au développement culturel, socio-économique, scientifique et technique du pays (b) développer globalement les structures, les institutions et les cycles les plus propres à permettre d'atteindre les buts et objectifs nationaux de l'enseignement secondaire, dans le droit fil de la tendance actuelle au rapprochement entre l'enseignement général et l'enseignement technique et professionnel. 7. Les structures éducatives devraient être développées de façon assez souple pour : (a) répondre à l’évolution des besoins de la société tout en conservant leur continuité et leur cohérence et en assurant l'égalité des chances d'accès et les plus larges possibilités de succès ; (b) offrir aux élèves, par des procédures appropriées, la possibilité de passer d'une filière ou d'une forme d'enseignement à une autre, de manière qu'un choix entre diverses options leur reste plus facilement ouvert au cours de leur scolarité ! (c) permettre l'intégration de l'éducation, de la science, de la culture et de la production ; assurer une liaison continue entre éducation et travail ; (d) améliorer les techniques d'examen et d'évaluation, cette dernière étant conçue cor le faisant partie intégrante du processus d'enseignement et d'apprentissage, de manière à assurer un contrôle permanent des progrès réalisés et des résultats obtenus par les élèves eu égard aux objectifs des enseignements ; (e) définir des procédures d'orientation et de sélection qui n'impliquent de discrimination d'aucune sorte. 8. L'amélioration de l'enseignement secondaire devrait entraîner une élévation notable du niveau scientifique de la totalité de son contenu, afin qu'il soit tourné vers l'avenir at à la hauteur des acquis et des impératifs du progrès social, scientifique et. technologique, de façon à créer les conditions de qualifications professionnelles d'un type nouveau reposant sur la maîtrise de technologies intégrées. 9. Des programmes équilibrés sont indispensables pour l'épanouissement global des élèves et il convient également de tenir compte de leurs aptitudes et de leurs intérêts personnels. L'évaluation et la rénovation permanentes de ces programmes s'imposent pour éviter les surcharges et les déséquilibres. Les disciplines enseignées devraient comprendre les langues, les mathématiques, les sciences exactes et naturelles, la technologie, les sciences sociales. L'éducation culturelle, morale, spirituelle, esthétique et physique devrait avoir sa place ainsi que celle liée aux nouveaux modes de pensée adaptés à l'ère nucléaire et spatiale. Ces éléments devraient préparer l'élève à la vie et au travail au sein de la collectivité. Le contenu de l'enseignement secondaire devrait mettre en valeur la culture et la tradition intellectuelle de chaque pays. Il devrait également tendre au renforcement du respect des droits de l'homme, des libertés fondamentales et des droits des peuples ; il devrait promouvoir la paix, la compréhension internationale et l'amitié entre toutes les nations ; il devrait combattre la ségrégation raciale et la discrimination fondée sur la race, le sexe ou la religion. 10. L'élaboration des programmes devrait impliquer un large processus de recherche, d'évaluation et de consultation, associant les enseignants et leurs organisations, les parents, les élèves et les représentants des différents secteurs de la vie culturelle et socio-économique. L'introduction de nouveaux éléments dans un programme devrait faire l'objet d'études préalables et d'évaluations. 11. Le réaménagement des programmes devrait permettre d'éliminer les contenus périmés pour faire place à de nouveaux éléments (par exemple, l'éducation relative à l'environnement et à l'écologie, l'informatique, les technologies nouvelles, etc.) nécessaires pour faire face aux défis scientifiques et technologiques. Ces éléments peuvent s'insérer dans des enseignements intégrés ou interdisciplinaires, de manière à maintenir la conérence des programmes et à éviter de les surcharger. 12. Les programmes, et en particulier ceux du deuxième cycle de l'enseignement secondaire, devraient faire une place à la créativité, à la souplesse et à la diversification. Au tronc commun des disciplines obligatoires devraient s'ajouter des matières à option et diverses activités extrascolaires, 13. Il faudrait se soucier non seulement du contenu de l'enseignement mais aussi de la façon dont celui-ci est dispensé. Il s'ensuit que les modalités et les méthodes d'enseignement et les matériels pédagogiques doivent être continuellement révisés. 14. Il conviendrait d'élaborer et d'appliquer des méthodes qui stimulent la participation active des élèves au processus d'enseignement et d'apprentissage et développent leurs capacités d'auto-apprentissage, leur désir d'apprendre et leur goût de la connaissance. 15. Le processus d'enseignement et d'apprentissage devrait faire largement place aux activités qui visent à \"apprendre à apprendre\". Il faudrait recourir à cette fin à des méthodes qui s'y prêtent et à des modes appropriés d'organisation du travail des élèves comme le travail en groupe, l’apprentissage autodirigé et d'autres formes d'apprentissage à la carte. 16. L'inscription du travail ou de la familiarisation avec le monde du travail dans les programmes d'enseignement général appelle également des changements de priorité entre les différentes méthodes utilisées : des visites, des sorties éducatives, des initiations concrètes au travail dans un cadre autre que la classe devraient être organisées. Des experts extérieurs devraient aussi être invités plus fréquemment dans les établissements scolaires. 17. L'enseignement des sciences et de la technologie implique un accroissement de tous les types d'activités expérimentales et de travaux pratiques, notamment en laboratoire, qui sont de nature à susciter une participation plus active des élèves aux processus d'exploration scientifique et de développement technologique. De même, l'enseignement des humanités devrait être relié à l'utilisation des sources et des moyens de la culture, tels que les musées, les archives et les bibliothèques. 18. Les technologies modernes comme, par exemple, la micro-informatique, peuvent apporter un soutien non négligeable à l'amélioration du processus d'enseignement et d'apprentissage, favoriser l'apprentissage à la carte et servir à développer la personnalité de l'élève. Sur la base d'une analyse des résultats concrets de l'utilisation de l'informatique à l'école, des modifications appropriées devraient être apportées au contenu des enseignements faisant appel à l'ordinateur. Les autorités scolaires devraient mesurer l'intérêt des nouveaux équipements avant de procéder à leur acquisition. 19. Il faudrait prendre des mesures propres à accroître le potentiel national de production, à des coûts raisonnables, de matériels et d'équipements éducatifs, y compris de manuels, logiciels et autres dispositifs pour l'enseignement des sciences et de la technologie. 20. Les enseignants devraient être associés à l'élaboration des matériels nécessaires car c'est là un moyen d'accroître leur compétence professionnelle. 21. Les services d'orientation devraient être développés et offerts à tous les établissements et à tous les élèves du secondaire. L'orientation scolaire et professionnelle devrait, dans toute la mesure du possible, devenir une des dimensions de la scolarité secondaire. Les jeunes filles devraient être encouragées à faire des études ultérieures menant à des carrières scientifiques et technologiques et plus généralement à des carrières où elles sont sous-représentées. 22. Il est également indispensable de développer des modalités extrascolaires d'orientation telles que, par exemple, des visites d'entreprises industrielles et agricoles et d'autres lieux de travail. 23. L'appui voulu devrait être apporté au développement de la recherche pédagogique en tant qu'outil dont la contribution est indispensable pour atteindre les objectifs définis. La recherche pédagogique et les activités novatrices devraient être encouragées à tous les niveaux et être prises en compte dans les décisions politiques et la pratique éducative. 24. Afin d'accroître le concours que la recherche peut apporter à l'amélioration de l'enseignement secondaire, des dispositions appropriées devraient être prises pour mieux faire connaître les résultats de la recherche pédagogique et les innovations qu'elle peut apporter. Ces résultats devraient être pris en compte dans la formation initiale et continue des professeurs, des administrateurs et des autres personnels de l'enseignement secondaire 25. Le développement, en particulier par la formation, des capacités de gestion aux échelons national et local et à celui des établissements est à même de rendre plus efficaces les méthodes d'administration de l'enseignement secondaire. La participation des maîtres et des parents est également souhaitable à cet égard. 26. Une utilisation accrue et mieux avisée des technologies modernes devrait avoir un impact positif sur la gestion de l'éducation et sur son efficacité. La mise en place de centres de soutien technique à la gestion et de systèmes d'information à l'usage de la gestion devrait être considérée comme un moyen important d'améliorer l'enseignement secondaire 27. Chaque pays devrait déterminer quelles sont les fonctions administratives qu'il est préférable de confier, respectivement, aux services centraux, régionaux et locaux, afin d'assurer une utilisation plus rationnelle des moyens disponibles, une participation plus effective de tous les groupes et un meilleur courant d'information et de communication entre les différents échelons administratifs. 28. La gestion devrait comporter une évaluation de la manière dont l'enseignement secondaire est encadré. Il faudrait disposer à cette fin de systèmes de suivi et de contrôle judicieusement conçus pour tous les aspects de l'enseignement secondaire. 29. Il est indispensable d'encourager au niveau des politiques et d'assurer au niveau de la pratique une plus large participation de tous les secteurs de la population tant à la démocratisation qu'à l'amélioration de l'enseignement secondaire. 30. L'amélioration de l'enseignement secondaire exige que l'on forme en nombre suffisant des enseignants et autres personnels de l'éducation tout en élevant la qualité de la formation. 31. A cet égard, il conviendrait de définir des politiques et des objectifs à long et à moyen terme concernant la formation des enseignants et de prévoir des mesures concrètes qui pourraient notamment viser à : (a) encourager à s'orienter vers la profession enseignante les jeunes gens les plus motivés : (b) réorienter les méthodes et les programmes de formation des maîtres vers un meilleur équilibre entre les contenus disciplinaires et les aspects psychopédagogiques, de manière à assurer aux enseignants une préparation professionnelle harmonieuse ; cette préparation devrait s'appuyer sur une pratique effective de l'enseignement servant de base à l'analyse et à l'évaluation de l'activité éducative. Elle devrait également permettre de réduire raisonnablement la période d'adaptation des jeunes enseignants ; (c) faire correspondre l'offre et la demande d'enseignants, notamment dans les domaines de la science et de la technologie, ainsi, le cas échéant, que dans les autres domaines où les effectifs apparaissent insuffisants (d) mettre au point une approche systématique de la formation continue en organisant à intervalles réguliers des activités qui tendent à valoriser, à actualiser et, d'une manière générale, à améliorer les connaissances et les qualifications professionnelles des différentes catégories de personnel de l'enseignement secondaire. Cette approche devrait être différenciée en fonction et des du niveau de qualification des diverses catégories d'enseignants exigences concrètes de la pratique pédagogique, et favoriser l'échange d'expériences d'innovation, la recherche et la réflexion pédagogiques (e) fournir en temps utile au personnel enseignant l'information scientifique et technique, la documentation, les auxiliaires visuels et le matériel nécessaires à l'enseignement. 32. D'autres personnels de l'éducation administrateurs, directeurs d'établissement, inspecteurs et conseillers d'orientation, etc. devraient suivre des formations initiales et continues correspondant aux tâches qu'ils accomplissent dans l'enseignement secondaire. C. COOPERATION REGIONALE ET INTERNATIONALE 33. Compte tenu de la variété et des dimensions des problèmes et des interrogations que soulèvent le développement et l'amélioration de l'enseignement secondaire, en particulier mais non exclusivement dans les pays en développement, une approche internationale et régionale concertée pourrait aider les Etats membres à leur apporter des solutions et des réponses. 34. Les Etats membres devraient continuer à renforcer et à développer la coopération bilatérale, régionale et internationale afin d'améliorer l'enseignement secondaire et apporter tout l'appui nécessaire aux programmes régionaux d'innovation éducative mis en œuvre par l'Unesco au service du développement. Une telle coopération est particulièrement souhaitable en ce qui concerne l'enseignement des langues vivantes en tant qu'instrument de l'éducation à la compréhension internationale. 35. L'Unesco, en tant qu'organisation internationale qui joue un rôle moteur dans le domaine de l'éducation, devrait s'efforcer (a) d'accorder une attention particulière au développement et à l'amélioration de l'enseignement secondaire dans ses programmes des prochaines années (b) d'encourager encore davantage la coopération internationale et régionale dans le domaine de l'enseignement secondaire au travers de ses différents programmes et projets internationaux et régionaux (c) de favoriser, notamment au moyen de ses réseaux régionaux d'innovation éducative pour le développement, une coopération plus étroite entre les Etats membres afin d'améliorer l'enseignement secondaire ; (d) d'encourager la coopération internationale et régionale en matière de formation et d'amélioration des qualifications des enseignants et du personnel chargé de l'administration de l'enseignement secondaire, en mettant en place divers programmes et projets internationaux et régionaux (e) de soutenir les efforts visant à développer les Ecoles associées : 36. L'Unesco et le Bureau international de l'éducation, en tant qu'organe spécialisé de l'Unesco, devraient également s'efforcer : (a) de faciliter, dans le domaine de l'enseignement secondaire, l'échange entre les pays d'informations et d'expériences, y compris l'échange de programmes scolaires, de matériel pédagogique et de spécialistes. A cet égard, le service de documentation du BIE devrait jouer pleinement son rôle (b) de promouvoir des recherches et des études visant à améliorer l'enseignement secondaire : (c) de mener des activités destinées à donner suite à la présente Conférence et de conseiller les Etats membres, sur leur demande, au sujet des moyens d'appliquer la présente recommandation en fonction des réalités propres à chaque pays. 37. L'Unesco, en coopération avec d'autres organisations internationales, devrait renforcer les activités concernant l'éducation pour la compréhension internationale, la coopération et la paix, et l'éducation relative aux droits de l'homme et aux libertés fondamentales. Elles devraient également promouvoir, dans les Etats membres, les mesures de caractère novateur tendant à réaménager dans cette perspective les programmes de l'enseignement secondaire et à favoriser la révision mutuelle des manuels afin d'en éliminer les préjugés et toute incitation à la haine raciale et à l'hostilité à l'égard des autres peuples. L'échange international d'informations sur les résultats obtenus devrait être encouragé. 38. En coopération avec d'autres organisations internationales, organismes régionaux et organisations internationales non gouvernementales intéressées, l'Unesco devrait encourager encore plus les activités menées conjointement et contribuer efficacement à l'échange systématique des idées, des informations et des expériences concernant l'amélioration de l'enseignement secondaire en recourant pour cela à divers moyens : susciter l'organisation de conférences régionales et internationales, d'ateliers, de séminaires et de réunions consacrés à l'examen de divers aspects de l'amélioration de l'enseignement secondaire, apporter un soutien à l'échange de personnels de l'éducation pour étudier les expériences d'autres pays, etc. 39. Le Bureau international d'éducation, en coopération et en coordination avec d'autres unités de l'Unesco, devrait (a) dans le cadre de son programme de documentation et d'information pédagogiques, accorder une place appropriée à l'enseignement secondaire et à son amélioration en recueillant des informations relatives aux programmes et aux réformes de l'enseignement secondaire ainsi qu'aux expériences novatrices tentées à ce niveau, en analysant ces informations, en les diffusant, et en les mettant à la disposition des Etats membres (b) dans le cadre de ses activités de recherche, et en particulier de sa série d'études et d'enquêtes en éducation comparée, étudier en collaboration avec des instituts nationaux de recherche les voies et moyens d'améliorer l'enseignement secondaire (c) accorder une attention particulière au système de formation des cadres pédagogiques et à l'amélioration des qualifications, ainsi qu'aux tendances relevées à cet égard dans les programmes nationaux, rassembler des renseignements sur la documentation scolaire et les expériences novatrices faites en matière de formation et de pratique professionnelle des maîtres et communiquer ces renseignements aux Etats membres. B. RECOMMANDATION CONCERNANT L'EDUCATION ET LA LUTTE CONTRE LE SIDA La Conférence internationale de l'éducation, Constatant que le monde se trouve aux prises avec un problème dont on n'a mesuré la gravité qu'après que le projet de recommandation n° 75 sur \"l'amélioration de l'enseignement secondaire : ses objectifs, ses structures, ses contenus et ses méthodes\", eut été envoyé par le Secrétariat de l'Unesco aux Etats membres : la pandémie du SIDA, selon l'expression employée récemment par le Directeur général de l'Organisation mondiale de la santé (OMS), Notant que de nombreux gouvernements, et l'opinion publique en général, se trouvent actuellement désarmés et dépourvus du minimum d'information nécessaire pour affronter cette nouvelle maladie, Considérant qu'il y a beaucoup à faire, sur le plan de l'éducation, et sans aucun doute au niveau de l'école, en vue d'appliquer d'urgence des programmes d'information sur les moyens de prévention, et, en particulier, que cette information doit s'adresser en priorité aux maîtres et aux élèves de l'enseignement secondaire, ainsi qu'aux parents de ces élèves, Estimant que l'Unesco a un rôle essentiel à jouer à cet égard en coopération étroite avec l'OMS et d'autres institutions, organisations et organismes du système des Nations Unies, Recommande au Directeur général de l'Unesco d'étudier la possibilité d'élaborer à bref délai, en coopération avec les autres organismes internationaux compétents du système des Nations Unies, un projet de programme d'urgence relatif à l'éducation et à l'information à assurer dans les écoles en vue de la prévention du SIDA, et de soumettre a la prochaine session de la Conférence générale de l'Unesco les propositions qu'il jugera opportunes ; Souhaite aussi que ce programme puisse devenir opérationnel dans tous les Etats membres aussitôt que possible et que puisse, à travers lui, s'instaurer rapidement une coopération entre les Etats membres qui ont déjà de l'expérience en la matière Adresse un appel pressant aux institutions, organismes et fondations disposant de moyens de financement pour qu'ils procurent à l'Unesco les ressources nécessaires à la mise en œuvre de cette dimension importante de la lutte contre le SIDA qu'est l'action éducative. ANNEXES A. CONFERENCE INTERNATIONALE DE L'EDUCATION A I Ordre du jour A II Discours d'ouverture de Mme Ruth Lerner de Almea, Présidente de la 39e session de la Conférence internationale de l'éducation A III Discours en séance inaugurale de M. Dominique Föllmi, Conseiller d'Etat chargé du Département de l'instruction publique du Canton de Genève et Chef de la délégation suisse A IV Allocution d'ouverture de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco A V Discours d'ouverture de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence A VI Discours de clôture de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco A VII Discours de clôture des représentants des groupes régionaux : Groupe I Discours de clôture de M. J.R. Steinle, Directeur général de l'éducation de l'Australie méridionale Groupe II Discours de clôture de M. Vladimir D. Tchadrikov, Vice-Ministre de l'éducation de l'URSS Groupe III Discours de clôture de M. José Alberto Buendia Florer, Ministre de l'éducation d'El Salvador Groupe IV Discours de clôture de M. Fumitagke Kishida, Député et Vice¬ Ministre de l'éducation du Japon Groupe Va Discours de clôture de M. Peter Oloo-Aringo, Ministre de l'éducation, de la science et de la technologie du Kenya Groupe Vb Discours de clôture de M. Abdul Kader Izzidin Hamoudi, Ministre de l'éducation de l'Irak A VIII Discours de clôture de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence A IX Liste des documents de la Conférence et des rapports nationaux distribués pendant la session A XListe des participants A XI Secrétariat de la Conférence B. CELEBRATION DU QUARANTIEME ANNIVERSAIRE DE LA FONDATTON DE L'UNESCO B I Allocution de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco B II Déclaration de M. Isidore Hakizimana, Ministre de l'éducation nationale du Burundi, Président de la Conférence B III Discours de M. Charles Hummel, Représentant du Gouvernement suisse B IV Discours de M. Yves Brunsvick, Président du Conseil du BIE B V Discours des représentants des groupes régionaux : Groupe I Allocution de M. Joaquin Arango Vila-Belda, Vice-Ministre de l'éducation et des sciences d'Espagne Groupe II Discours de M. Gunter Heidorn, Vice-Ministre de l'enseignement supérieur et technique de la République démocratique allemande Groupe III Discours de M. Jorge Konder Bornhausen, Ministre de l'éducation du Brésil Groupe IV Discours de N, Yang Haibo, Vice-Président de la Commission d'Etat pour l'éducation de la République populaire de Chine Groupe Va Discours de M. Joshoua Mayanja-Nkangi, Ministre de l'éducation de l'Ougande Groupe Vb Discours de M. Abdul Kader Izziddin Hamoudi, Ministre de l'éducation de l'Irak ANNEXES A I A XI A. CONFERENCE INTERNATIONAL DE L'EDUCATION ANNEXE A I ORDRE DU JOUR 1. Ouverture de la Conférence 2. Election du Président 3. Election des Vice-Présidents et du Rapporteur général de la Conférence 4. Adoption de l'ordre du jour (document ED/BIE/CONFINTED 40/1) 5. Organisation des travaux de la Conférence (document ED/BIE/CONFINTED 40/2) 6. Politiques et stratégies pour le développement de l'enseignement secondaire (thème de la plénière) (document ED/BIE/CONFINTED 40/3 Partie I) 7. Amélioration de l'enseignement du second degré, de ses objectifs, de ses contenus, de ses structures et de ses méthodes (thème spécial) (document ED/BIE/CONFINTED 40/3 Partie II 8. Formation initiale et continue des personnels de l'enseignement secondaire (document ED/BIE/CONFINTED 40/3 Partie III) 9. L'enseignement secondaire face aux défis scientifiques et technologiques (document ED/BIE/CONFINTED 40/3 Partie IV) 10. Adoption de la recommandation sur le thème spécial adressée aux ministères de l'éducation (document ED/BIE/CONFINTED 40/3 Add. Prov. 11. Adoption du rapport final 12. Clôture de la Conférence"
+  }
+}

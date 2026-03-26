@@ -1,0 +1,532 @@
+{
+  "TEXT_ID": "ICPE-29-1966_RES1-FR_res_60",
+  "RECOMMENDATION": 60,
+  "TITLE": "L’ORGANISATION DE LA RECHERCHE PÉDAGOGIQUE",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-29-1966_RES1-FR",
+      "nb_paras": 57,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l’instruction publique, Convoquée à Genève par l’Organisation des Nations Unies pour l’éducation, la science et la culture et le Bureau international d’Education, et s’y étant réunie le sept juillet mil neuf cent soixante-six en sa vingt-neuvième session, adopte le quinze juillet mil neuf cent soixante-six la recommandation suivante : Là Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Education, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and the International Bureau of Education, and having met there on July 7, 1966, for its twenty-ninth session, adopts on July 15, 1966, the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant que, dès ses premières sessions, la Conférence internationale de l’instruction publique a insisté dans plusieurs de ses recommandations sur la nécessité de la connaissance méthodique de l’enfant et de l’homme en général comme point de départ de toute action éducative,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that, from its earliest sessions, the International Conference on Public Education has emphasized in several of its recommendations the necessity of the methodical understanding of the child and of the human being in general as the starting point for all educational action,"
+      },
+      {
+        "para_number": 3,
+        "para": "Considérant aussi la Recommandation n° 44 sur le développement des constructions scolaires, et la Recommandation n° 54 sur la planification de l’éducation,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering also Recommendation No. 44 on the development of school buildings, and Recommendation No. 54 on educational planning,"
+      },
+      {
+        "para_number": 4,
+        "para": "Considérant l’importance de la recherche scientifique — dont la recherche pédagogique est considérée comme une partie intégrante — dans tous les domaines qui ont trait au développement des activités humaines et à un meilleur rendement de celles-ci,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the importance of scientific research — of which educational research is regarded as an integral part — in all fields related to the development of human activities and their improved efficiency,"
+      },
+      {
+        "para_number": 5,
+        "para": "Considérant que les sciences de l’éducation doivent avoir pour objet de mieux assurer le plein développement (physique, intellectuel, moral, esthétique et social) de l’homme en vue d’obtenir sa formation et son intégration sociale les meilleures,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the sciences of education must aim to better ensure the full development (physical, intellectual, moral, aesthetic, and social) of the individual in order to achieve their best training and social integration,"
+      },
+      {
+        "para_number": 6,
+        "para": "Considérant que la solution des problèmes éducatifs et la multiplicité des réformes de l’enseignement font appel tôt ou tard à la recherche objective et à l’expérimentation, sans pour autant négliger les principes essentiels des valeurs qui déterminent le sens véritable et la réussite de toute éducation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the solution to educational problems and the multiplicity of teaching reforms sooner or later call for objective research and experimentation, without neglecting the essential principles of the values that determine the true meaning and success of all education."
+      },
+      {
+        "para_number": 7,
+        "para": "Considérant l’importance toujours plus grande que prennent la réflexion sur les problèmes éducatifs et les études relatives à ces problèmes pour le développement du progrès moral, culturel, social et économique de l’humanité,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the ever-increasing importance of reflection on educational issues and studies related to these issues for the development of the moral, cultural, social, and economic progress of humanity,"
+      },
+      {
+        "para_number": 8,
+        "para": "Considérant les exigences croissantes des plans d’études aux divers stades de la scolarité et les conséquences graves que cela entraîne, en cas d’abus, pour la santé physique et mentale des élèves et leurs progrès dans la suite de leurs études,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the increasing demands of curricula at the various stages of schooling and the serious consequences that this entails, in cases of abuse, for the physical and mental health of students and their progress in their subsequent studies,"
+      },
+      {
+        "para_number": 9,
+        "para": "Considérant l’extension du domaine de l’éducation qui prend en considération l’éducation continue, l’éducation des adultes, et qui suppose l’emploi de méthodes et de techniques nouvelles,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the expansion of the field of education to include continuing education and adult education, which involves the use of new methods and techniques,"
+      },
+      {
+        "para_number": 10,
+        "para": "Considérant la demande accrue dans divers pays d’experts en psychologie scolaire, pédagogie expérimentale, planification de l’éducation, orientation scolaire, sociologie de l’éducation et problèmes de développement, etc.,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the increased demand in various countries for experts in school psychology, experimental pedagogy, education planning, school guidance, sociology of education, and developmental issues, etc.,"
+      },
+      {
+        "para_number": 11,
+        "para": "Considérant l’existence et l’activité; en plusieurs pays, d’instituts de recherche pédagogique, de laboratoires universitaires de pédagogie expérimentale, d’organismes nationaux et internationaux non gouvernementaux s’occupant de recherches en pédagogie,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the existence and activity, in several countries, of institutes of educational research, university laboratories of experimental pedagogy, and national and international non-governmental organizations engaged in research in pedagogy,"
+      },
+      {
+        "para_number": 12,
+        "para": "Considérant qu’en dépit d’aspirations semblables, il convient de trouver aux problèmes de la recherche pédagogique des solutions diverses répondant aux conditions, aux possibilités, aux traditions et aux structures propres à chaque pays,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas, despite similar aspirations, it is appropriate to find diverse solutions to the problems of educational research that correspond to the conditions, possibilities, traditions, and structures specific to each country,"
+      },
+      {
+        "para_number": 13,
+        "para": "Soumet aux Ministères de l’instruction publique des différents pays la recommandation suivante:",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits the following recommendation to the Ministries of Public Education of the different countries:"
+      },
+      {
+        "para_number": 14,
+        "para": "I. Buts de la recherche pédagogique Introduction L’éducation doit toujours mieux définir ses objectifs, améliorer sans cesse scs moyens d’action, son contenu et ses méthodes; elle ne peut y parvenir que si la recherche pédagogique est organisée et développée. La recherche pédagogique est essentielle si l’on veut fonder l’éducation sur des critères scientifiques résultant d’études théoriques, historiques et interdisciplinaires, d’observations et d’expériences objectives, de l’expérience des éducateurs.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "I. Goals of pedagogical research Introduction Education must continuously better define its objectives, constantly improve its means of action, its content, and its methods; it can only achieve this if pedagogical research is organized and developed. Pedagogical research is essential in order to base education on scientific criteria derived from theoretical, historical, and interdisciplinary studies, objective observations and experiments, and the experience of educators."
+      },
+      {
+        "para_number": 15,
+        "para": "1. La recherche pédagogique a pour but principal de découvrir les lois . objectives et les principes des processus éducatifs pour activer ainsi révolution et le progrès de la pédagogie.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. The primary purpose of educational research is to discover the objective laws and principles of educational processes in order to thereby stimulate the revolution and progress of pedagogy."
+      },
+      {
+        "para_number": 16,
+        "para": "2. A cet effet, la recherche pédagogique doit, en premier lieu, servir à constituer les bases théoriques et scientifiques d’un plan général d’éducation pour déterminer les buts éducatifs immédiats et à plus longue échéance à l’échelle de chaque pays. Ces buts devraient être fonction d’études objectives relatives — 177 — ressources historiques et aux besoins aussi bien humains que matériels, ainsi qu’aux possibilités de perfectionnement et de développement plus efficace de ces ressources.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. To this end, educational research must, first and foremost, be used to establish the theoretical and scientific foundations of a general education plan in order to determine the immediate and long-term educational goals at the national level. These goals should be based on objective studies related to historical resources and to both human and material needs, as well as to the possibilities for the improvement and more effective development of these resources."
+      },
+      {
+        "para_number": 17,
+        "para": "3. Sur le plan pédagogique, l’objectif de la recherche est d’améliorer la qualité et le rendement de l’instruction par la constante mise au point des programmes, des méthodes, des moyens et des procédures d’évaluation à tous les degrés en tenant compte à chaque étape nouvelle des notions à apprendre, des habitudes à acquérir et des capacités d’amélioration des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. From a pedagogical standpoint, the objective of research is to improve the quality and effectiveness of instruction through the continual refinement of curricula, methods, tools, and assessment procedures at all levels, taking into account at each new stage the concepts to be learned, the habits to be acquired, and the students' capacity for improvement."
+      },
+      {
+        "para_number": 18,
+        "para": "4. La recherche pédagogique a aussi pour but d’étudier les moyens d’améliorer: a) la qualité de l’éducation extrascolaire donnée par la famille, les organisations gouvernementales et non-gouvernementales de jeunesse, les internats de tout genre, etc.; b) le rendement des méthodes d’orientation scolaire et professionnelle; c) la qualité et le niveau de difficulté des manuels. L’ensemble de ces recherches peut être puissamment aidé par les recherches d’éducation comparée.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. Educational research also aims to study ways to improve: a) the quality of extracurricular education provided by the family, governmental and non-governmental youth organizations, boarding schools of all kinds, etc.; b) the effectiveness of school and vocational guidance methods; c) the quality and level of difficulty of textbooks. All of this research can be greatly supported by comparative education studies."
+      },
+      {
+        "para_number": 19,
+        "para": "5. Il est essentiel d’étudier les conséquences des facteurs non éducatifs sur le développement de l’homme, tels que les moyens de masse, les conditions générales de la vie, du travail et des loisirs, ainsi que les conséquences des changements dans le développement physique de la jeunesse.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. It is essential to study the consequences of non-educational factors on human development, such as mass media, general living, working, and leisure conditions, as well as the consequences of changes in the physical development of youth."
+      },
+      {
+        "para_number": 20,
+        "para": "II ORGANISATION DE LA RECHERCHE PÉDAGOGIQUE ET NATURE DES TRAVAUX 6. Des crédits suffisants provenant d’instances gouvernementales aussi bien que de fondations privées doivent être mis à la disposition des institutions de recherche et des-chercheurs indépendants qualifiés et dont les travaux s’inscrivent dans un plan général de recherche, pour assurer dans les conditions les meilleures, l’exécution et la publication de leurs travaux.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "II ORGANIZATION OF EDUCATIONAL RESEARCH AND NATURE OF THE WORKS  \n6. Sufficient funding from both governmental bodies and private foundations must be made available to research institutions and qualified independent researchers whose work aligns with a general research plan, to ensure the proper execution and publication of their work under the best possible conditions."
+      },
+      {
+        "para_number": 21,
+        "para": "7. La valeur des recherches en pédagogie dépend du choix réfléchi des sujets d’études et des méthodes de travail, des conditions d’objectivité et de contrôle dans lesquelles elles s’effectuent, ainsi que de la rigueur scientifique que s’imposent ceux qui les entreprennent.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. The value of research in pedagogy depends on the deliberate selection of study topics and working methods, the conditions of objectivity and control under which they are conducted, as well as the scientific rigor imposed by those who undertake them."
+      },
+      {
+        "para_number": 22,
+        "para": "8. Les principaux champs d’activité de la recherche pédagogique sont circonscrits par ses objectifs en tant que science. Cela implique aussi bien des études de caractère psychologique, sociologique, physiologique et économique que des recherches spécifiques portant sur les méthodes et les moyens d’éducation sous toutes leurs formes, compte tenu des besoins et des aptitudes des enfants, des adolescents ou des adultes ainsi que des besoins et des ressources de la société. Les recherches concernant les lois et l’histoire de l’éducation Appartiennent aussi au domaine de la recherche pédagogique pour autant qu’elles soient faites en conformité avec leur propre méthodologie scientifique.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. The main fields of activity in educational research are defined by its objectives as a science. This includes studies of a psychological, sociological, physiological, and economic nature, as well as specific research focused on educational methods and means in all their forms, taking into account the needs and aptitudes of children, adolescents, or adults, as well as the needs and resources of society. Research concerning the laws and history of education also falls within the domain of educational research, provided it is conducted in accordance with its own scientific methodology."
+      },
+      {
+        "para_number": 23,
+        "para": "9. La recherche pédagogique peut se dérouler en laboratoire, dans les classes ou dans d’autres lieux d’activité. Dans toutes ces enquêtes, il faut tenir compte des mesures d’évaluation exacte et des explications théoriques afin de distinguer la recherche elle-même de simples innovations. — 178 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Educational research can take place in laboratories, classrooms, or other activity settings. In all such investigations, it is essential to apply precise evaluation measures and theoretical explanations in order to distinguish genuine research from mere innovations."
+      },
+      {
+        "para_number": 24,
+        "para": "10. Dans la mesure du possible, la recherche pédagogique concernant les problèmes généraux de l’éducation et de l’enseignement s’intégrera dans une planification d’ensemble et à échéance prévisible, afin de renforcer la solidarité des chercheurs en précisant leur responsabilité.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. As far as possible, pedagogical research concerning the general problems of education and teaching will be integrated into an overall and foreseeable planning framework, in order to strengthen the solidarity of researchers by clarifying their responsibilities."
+      },
+      {
+        "para_number": 25,
+        "para": "11. L’organisation rationnelle des recherches pédagogiques à l’échelle du pays exige de dresser des plans portant sur plusieurs années et des plans annuels pour chaque institution scientifique, ainsi que de coordonner les plans de plusieurs institutions scientifiques collaborant à l’étude d’un même problème.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. The rational organization of educational research at the national level requires the development of multi-year plans and annual plans for each scientific institution, as well as the coordination of plans among several scientific institutions collaborating on the study of the same issue."
+      },
+      {
+        "para_number": 26,
+        "para": "12. Toute recherche, toute expérimentation dans le domaine de la pédagogie doivent être conçues et poursuivies de telle sorte qu’aucun préjudice ne soit causé aux enfants, aux adolescents ou aux adultes qui sont l’objet des études entreprises.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. Any research or experimentation in the field of pedagogy must be designed and conducted in such a way that no harm is caused to the children, adolescents, or adults who are the subjects of the studies undertaken."
+      },
+      {
+        "para_number": 27,
+        "para": "13. Etant donné que l’éducation en général et les recherches qui s’y rapportent font appel de plus en plus à des disciplines autres que la pédagogie, il importe souvent de donner à ces études un caractère interdisciplinaire. De plus, en vertu de la complexité de l’étude scientifique des phénomènes éducatifs, on peut faire appel à l’aide de physiologues, de psychologues, de sociologues, de philosophes et d'experts dans d’autres disciplines. La nature interdisciplinaire de la recherche pédagogique est encore soulignée par l’intérêt accru pour l’éducation dans son ensemble d’hommes de sciences et de savants de différents domaines.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. Given that education in general and related research increasingly draw upon disciplines other than pedagogy, it is often important to give these studies an interdisciplinary character. Moreover, due to the complexity of the scientific study of educational phenomena, the assistance of physiologists, psychologists, sociologists, philosophers, and experts from other disciplines may be called upon. The interdisciplinary nature of pedagogical research is further emphasized by the growing interest in education as a whole among scientists and scholars from various fields."
+      },
+      {
+        "para_number": 28,
+        "para": "14. Il est recommandé que des centres de recherche pédagogique et des laboratoires soient créés dans les pays qui n’en ont pas encore pour assurer une organisation efficace de la recherche. Il est recommandé d’autre part qu’une collaboration soit organisée, perfectionnée et intensifiée entre les pays dans lesquels de tels centres existent.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. It is recommended that pedagogical research centers and laboratories be established in countries that do not yet have them to ensure the effective organization of research. Furthermore, it is recommended that collaboration be organized, improved, and intensified between countries where such centers exist."
+      },
+      {
+        "para_number": 29,
+        "para": "15. L’activité d’un laboratoire de pédagogie expérimentale est fonction d’un certain nombre de conditions sur le plan matériel. Les centres de recherche: pédagogique doivent également recevoir toutes les dotations matérielles indispensables à leur bon fonctionnement: équipement en machines, documentation, etc. 11 faut rappeler cependant qu’il n’est pas besoin de matériel coûteux pour la réalisation d’un très grand nombre de recherches.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The activity of an experimental pedagogy laboratory depends on a number of material conditions. Pedagogical research centers must also receive all the essential material endowments for their proper functioning: equipment such as machinery, documentation, etc. However, it should be recalled that expensive equipment is not necessary to carry out a very large number of research projects."
+      },
+      {
+        "para_number": 30,
+        "para": "16. Sur le plan du travail, la participation active des autorités scolaires et du corps enseignant est une nécessité. Tenant compte de l’expérience de certains pays, il est important de susciter la participation directe et active des, maîtres de tous les degrés et de toutes les institutions pédagogiques scolaires et extrascolaires, notamment en les invitant à poser directement ou indirectement des questions aux centres de recherche.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. In terms of work, the active participation of educational authorities and the teaching staff is essential. Taking into account the experience of certain countries, it is important to encourage the direct and active involvement of teachers at all levels and in all educational institutions, both school-based and extracurricular, notably by inviting them to pose questions to the research centers, either directly or indirectly."
+      },
+      {
+        "para_number": 31,
+        "para": "17. Pour la mise en application de ses résultats, la recherche pédagogique appelle souvent des initiatives plus larges et plus suivies que celles que prend le maître soucieux d’améliorer son enseignement. A cette fin, on créera des écoles expérimentales où des réformes seront étudiées en équipes et soigneusement contrôlées. — 179 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. For the implementation of its results, educational research often requires broader and more sustained initiatives than those taken by the teacher concerned with improving their own teaching. To this end, experimental schools will be established where reforms will be studied collaboratively and carefully monitored."
+      },
+      {
+        "para_number": 32,
+        "para": "18. Les problèmes qui feront l’objet d’une recherche doivent être sélectionnés et évalués avec soin de façon que la nouveauté de cette recherche, son utilité et la possibilité de la réaliser soient assurées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. The problems that will be the subject of research must be carefully selected and evaluated to ensure the novelty of this research, its usefulness, and the feasibility of conducting it."
+      },
+      {
+        "para_number": 33,
+        "para": "III. Diffusion et application des résultats 19. La recherche scientifique peut être considérée comme achevée lorsque des résultats probants sont susceptibles d’être mis en pratique. La planification et l’organisation de la recherche tiendront compte du fait que cette dernière se doit d’aboutir en principe à une mise en pratique de ses résultats.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "III. Dissemination and application of results 19. Scientific research can be considered complete when conclusive results are ready to be put into practice. The planning and organization of research will take into account that it must, in principle, lead to the practical implementation of its findings."
+      },
+      {
+        "para_number": 34,
+        "para": "20. Dans chaque pays on mettra sur pied des dispositifs assurant la diffusion la plus large des résultats des recherches et des expériences pédagogiques au moyen de publications, de conférences, d’expositions, de leçons-modèles, de séances de recyclage des maîtres, etc. D’autres dispositions seront prises pour entrer ensuite sans tarder dans la voie des réalisations.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. In each country, mechanisms will be established to ensure the widest possible dissemination of the results of research and educational experiments through publications, conferences, exhibitions, model lessons, teacher retraining sessions, and so forth. Additional measures will then be taken to promptly proceed towards implementation."
+      },
+      {
+        "para_number": 35,
+        "para": "21. Dès que le volume des travaux le justifie, le service de coordination de la recherche pédagogique fera régulièrement l’inventaire des études en cours, en assurera la publication et en facilitera la diffusion tant sur le plan national que sur le plan international.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "21. As soon as the volume of work justifies it, the pedagogical research coordination service will regularly inventory ongoing studies, ensure their publication, and facilitate their dissemination both nationally and internationally."
+      },
+      {
+        "para_number": 36,
+        "para": "22. La diffusion des résultats obtenus revêt deux formes essentielles: a) celle d’articles, monographies ou livres qui présentent les faits et les conclusions de telle façon que des chercheurs d’autres pays puissent évaluer le travail accompli et déterminer dans quelles conditions les conclusions peuvent s’appliquer dans leur propre pays, et b) celle d’articles et de manuels à l’intention des administrateurs du corps enseignant et d’autres éducateurs, ainsi que des parents, dans lesquels le langage spécialisé du chercheur ne sera pas utilisé.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. The dissemination of the results obtained takes two essential forms: a) articles, monographs, or books that present the facts and conclusions in such a way that researchers from other countries can assess the work accomplished and determine under what conditions the conclusions may be applied in their own country, and b) articles and manuals intended for administrators of the teaching staff and other educators, as well as parents, in which the specialized language of the researcher will not be used."
+      },
+      {
+        "para_number": 37,
+        "para": "23. Il importe que la recherche pédagogique se déroule en liaison étroite avec les écoles elles-mêmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "23. It is essential that educational research be conducted in close connection with the schools themselves."
+      },
+      {
+        "para_number": 38,
+        "para": "24. La recherche pédagogique constitue le moyen d’atteindre un but et non pas un but en lui-même. C’est la raison pour laquelle les résultats qu’elle aura permis d’obtenir devront se traduire sur le plan concret par des programmes, des méthodes et des mesures pratiques susceptibles d’être appliqués.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Educational research constitutes a means to achieve an objective and is not an end in itself. For this reason, the results it produces must be translated concretely into programs, methods, and practical measures that can be implemented."
+      },
+      {
+        "para_number": 39,
+        "para": "25. A défaut d’écoles expérimentales proprement dites, on peut désigner des classes d’essai dans les écoles ordinaires permettant l’introduction progressive des résultats de la recherche dans l’enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. In the absence of specifically designated experimental schools, pilot classes within regular schools may be established to allow the gradual introduction of research findings into teaching."
+      },
+      {
+        "para_number": 40,
+        "para": "26. Des leçons sur les recherches pédagogiques en cours doivent être prévues aux programmes des instituts de formation des enseignants et de tous les organismes ou stages de perfectionnement du personnel.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. Lessons on ongoing educational research must be included in the curricula of teacher training institutes and all organizations or training courses for staff development."
+      },
+      {
+        "para_number": 41,
+        "para": "27. Une liaison étroite entre les centres de recherche pédagogique et les autorités scolaires est indispensable pour la bonne réussite de la diffusion et de l’application des résultats des recherches scientifiques. — 180 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "A close collaboration between educational research centers and school authorities is essential for the successful dissemination and application of the results of scientific research."
+      },
+      {
+        "para_number": 42,
+        "para": "IV. Personnel chargé de la recherche pédagogique 28. a) Il est désirable que dans tous les pays, compte tenu des conditions locales concrètes, des traditions et d’un certain ordre d’urgence, on se préoccupe d’assurer aux chercheurs en pédagogie la formation spécifique dont ils ont besoin; b) Cette formation, d’une durée satisfaisante, se fera soit à l’université, soit dans un institut pédagogique. Elle comportera des études théoriques générales (philosophie, histoire et théorie de l’éducation, psychologie, physiologie du système nerveux, sociologie, etc.) et une initiation aux méthodes de la recherché scientifique (logistique, statistique, cybernétique); c) La formation des chercheurs en pédagogie devra leur permettre d’opérer à tous les niveaux de, l’enseignement, dans tous les domaines de l’éducation et en relation étroite avec l’ensemble des institutions éducatives et des éducateurs.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "IV. Personnel Responsible for Educational Research 28. a) It is desirable that in all countries, taking into account the specific local conditions, traditions, and a certain degree of urgency, efforts be made to ensure that educational researchers receive the specific training they need; b) This training, of a satisfactory duration, should take place either at a university or in a pedagogical institute. It will include general theoretical studies (philosophy, history and theory of education, psychology, physiology of the nervous system, sociology, etc.) and an introduction to scientific research methods (logistics, statistics, cybernetics); c) The training of educational researchers should enable them to operate at all levels of teaching, in all fields of education, and in close relation with all educational institutions and educators."
+      },
+      {
+        "para_number": 43,
+        "para": "29. Les problèmes auxquels la recherche pédagogique est appelée à trouver des solutions ayant les caractères complexes de l’éducation elle-même, la recherche pédagogique doit susciter des travaux d’équipes afin que collaborent dans un esprit de complémentarité les spécialistes dont le concours sera requis: philosophes, biologistes, neurophysiologues, psychologues, psychiatres, sociologues, économistes, architectes, statisticiens, etc.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. The problems that educational research is called upon to solve, having the complex characteristics of education itself, require educational research to promote teamwork so that specialists whose expertise is needed can collaborate in a spirit of complementarity: philosophers, biologists, neurophysiologists, psychologists, psychiatrists, sociologists, economists, architects, statisticians, etc."
+      },
+      {
+        "para_number": 44,
+        "para": "30. a) Les centres de recherche pédagogique — qu’ils soient autonomes ou qu’ils soient rattachés à des instituts pédagogiques ou à des universités i — doivent pouvoir compter sur le personnel spécialisé nécessaire ainsi que sur un nombre suffisant d’assistants et d’auxiliaires, les uns et les autres étant susceptibles de travailler en équipes; b) Là où aucun centre de recherche n’existe encore, il conviendrait que les ministères de l’instruction publique s’emploient à recueillir et à mettre à la disposition des enseignants toutes les informations utiles émanant des centres de recherche d’autres pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. a) Pedagogical research centers—whether autonomous or affiliated with pedagogical institutes or universities—must be able to rely on the necessary specialized staff as well as a sufficient number of assistants and auxiliaries, all of whom should be capable of working in teams; b) Where no research center yet exists, ministries of public education should endeavor to collect and make available to teachers all relevant information originating from research centers in other countries."
+      },
+      {
+        "para_number": 45,
+        "para": "31. Le statut des chercheurs en pédagogie sera analogue à celui des chercheurs des autres sciences, aussi bien en ce qui concerne leurs conditions de travail, leurs obligations et leurs prérogatives que leur formation de base. Des programmes spécifiques à la formation de chercheurs en pédagogie devraient prévoir des cours universitaires dans les domaines appropriés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. The status of educational researchers will be analogous to that of researchers in other sciences, both in terms of their working conditions, their obligations and prerogatives, as well as their basic training. Specific programs for the training of educational researchers should include university courses in the appropriate fields."
+      },
+      {
+        "para_number": 46,
+        "para": "32. Des dispositions devraient être prises afin d’assurer la participation d’enseignants qualifiés, à titre individuel ou entant que groupes, aux recherchés organisées de manière systématique par des institutions spécialisées dans le domaine de la recherche pédagogique. Cette participation à la recherche du personnel en activité de service est d’ailleurs un excellent moyen d'assuré! le perfectionnement professionnel des enseignants et de permettre à la recherche pédagogique d’atteindre toujours mieux son objectif ultime: l’amélioration de l’éducation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "32. Measures should be taken to ensure the participation of qualified teachers, either individually or in groups, in systematically organized research conducted by institutions specializing in the field of educational research. Such participation of actively serving staff in research is, moreover, an excellent means of ensuring the professional development of teachers and of enabling educational research to increasingly achieve its ultimate objective: the improvement of education."
+      },
+      {
+        "para_number": 47,
+        "para": "33. Les maîtres qui assument des responsabilités en rapport avec la recherche pédagogique et l’expérimentation devraient être mis au bénéfice de facilités spéciales, telles qu’une réduction de leur tâche d’enseignement et une rémunération convenable. — 181 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. Teachers who assume responsibilities related to educational research and experimentation should be granted special benefits, such as a reduction in their teaching duties and appropriate remuneration."
+      },
+      {
+        "para_number": 48,
+        "para": "34. Il importe que les essais pédagogiques entrepris par des maîtres dans le cadre de leur classe soient le fait d’éducateurs particulièrement qualifiés qui recevront des conseils techniques concernant aussi bien la méthodologie de l’application des tests que celle de la recherche pédagogique. Les essais de ces maîtres seront inclus dans un plan général de recherche et soumis à des contrôles appropriés susceptibles d’en établir le bien-fondé et la valeur.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "34. It is essential that the pedagogical trials undertaken by teachers within their classrooms be conducted by particularly qualified educators who will receive technical guidance regarding both the methodology of administering the tests and that of educational research. The trials conducted by these teachers will be included in an overall research plan and subjected to appropriate controls capable of establishing their validity and value."
+      },
+      {
+        "para_number": 49,
+        "para": "35. Etant donné l’ampleur que la recherche pédagogique commence à prendre parmi les enseignants, il serait souhaitable que les cadres de l’enseignement, aussi bien administratifs que pédagogiques (inspecteurs), aient l’occasion de recevoir une formation théorique et pratique. Cette formation devrait les rendre capables de tenter, dans leurs circonscriptions respectives et sous leur responsabilité, une expérimentation pédagogique limitée, objectivement contrôlée, et inscrite dans l’ensemble des travaux entrepris par les responsables de la recherche pédagogique.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. Given the extent to which educational research is beginning to take hold among teachers, it would be desirable for both administrative and educational supervisory staff (inspectors) to have the opportunity to receive theoretical and practical training. This training should enable them to undertake, within their respective jurisdictions and under their responsibility, a limited, objectively controlled pedagogical experimentation, integrated into the broader body of work carried out by those responsible for educational research."
+      },
+      {
+        "para_number": 50,
+        "para": "36. Au cours de leurs études (dès la 2° ou la 3e année de celles-ci, en principe) les futurs instituteurs et les maîtres de l’enseignement secondaire devront acquérir à leur niveau une connaissance des principes et des techniques propres à la recherche pédagogique. Cette information concernera aussi les enseignants soumis à des cours de recyclage. On fera en sorte que les intéressés puissent, en participant effectivement à des travaux de recherche, comprendre la valeur de l’investigation scientifique en pédagogie et être capables d’en dégager les applications pratiques.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. During their studies (generally from the second or third year onward), future primary and secondary school teachers should acquire, at their level, knowledge of the principles and techniques specific to educational research. This training will also be relevant for teachers undergoing refresher courses. Efforts will be made to ensure that those involved can, through active participation in research work, understand the value of scientific investigation in pedagogy and be able to derive practical applications from it."
+      },
+      {
+        "para_number": 51,
+        "para": "V. Collaboration internationale 37. Il est souhaitable que dans le cadre international la collaboration se développe entre les institutions aussi bien nationales et régionales qu'internationales, gouvernementales et non gouvernementales vouées à la recherche pédagogique. Cette collaboration aura pour effet: a) d’intensifier les échanges entre les centres de recherche pédagogique par la création notamment d’un service de documentation qui assure la communication systématique des inventaires des recherches et des résultats de ces dernières dans des revues pédagogiques internationales; b) de faciliter les recherches dans le domaine de la pédagogie comparée et de ses méthodes; c) d’aider à poser correctement les problèmes que les chercheurs sont appelés à résoudre; d) de permettre de définir des thèmes communs de recherches propres à deux ou plusieurs pays (actions régionales); e) d’éviter les doubles emplois;/) d’écarter le dogmatisme qui résulte souvent d’une carence de l’information.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "V. International Cooperation 37. It is desirable that, within the international framework, collaboration develops between institutions, whether national, regional, or international, governmental or non-governmental, dedicated to educational research. This collaboration will have the effect of: a) intensifying exchanges between educational research centers through the establishment, notably, of a documentation service that ensures the systematic communication of inventories of research and their results in international educational journals; b) facilitating research in the field of comparative education and its methods; c) assisting in properly framing the problems that researchers are called upon to solve; d) enabling the definition of common research themes relevant to two or more countries (regional actions); e) avoiding duplication of efforts; f) eliminating dogmatism that often results from a lack of information."
+      },
+      {
+        "para_number": 52,
+        "para": "38. L’Unesco et le BIE conjugueront leurs efforts pour faciliter la coordination des travaux entrepris par les centres de recherche pédagogique en organisant notamment des conférences internationales et régionales et en assurant la diffusion des informations relatives à la recherche pédagogique aù moyen de revues, de monographies, de films, la publication d’une monographie concernant la méthodologie de la recherche pédagogique, etc. Les rapports nationaux envoyés chaque année au BIE en vue de la Conférence annuelle de l’instruction publique devraient faire état, dans la mesure du possible, des travaux de recherche les plus importants. — 182 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. UNESCO and the IBE will combine their efforts to facilitate the coordination of work undertaken by pedagogical research centers by organizing, in particular, international and regional conferences and by ensuring the dissemination of information relating to pedagogical research through journals, monographs, films, the publication of a monograph concerning the methodology of pedagogical research, etc. The national reports submitted annually to the IBE for the purposes of the Annual Conference on Public Education should, as far as possible, include the most important research activities."
+      },
+      {
+        "para_number": 53,
+        "para": "39. 11 importe que les pays qui sont à l’avant-garde dans le domaine de la recherche pédagogique prennent des dispositions pour venir en aide aux pays en voie de développement, notamment: a) en leur fournissant des experts qualifiés; b) en les aidant à créer des centres nationaux ou régionaux de recherche (au titre de leur assistance technique, par exemple); c) en offrant des bourses d’études à ceux de leurs ressortissants qui désirent se consacrer à la recherche pédagogique; d) en admettant certains de ceux-ci comme stagiaires dans leurs propres centres de recherche.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. It is important that countries at the forefront of educational research make arrangements to assist developing countries, notably: a) by providing them with qualified experts; b) by helping them establish national or regional research centers (for example, through technical assistance); c) by offering scholarships to those of their nationals who wish to engage in educational research; d) by admitting some of these individuals as trainees in their own research centers."
+      },
+      {
+        "para_number": 54,
+        "para": "VT. Application de la présente recommandation 40. Il importe que le texte de la présente recommandation fasse l’objet d’une large diffusion de la part des ministères de l’instruction publique, des autorités scolaires du degré d’enseignement le plus directement intéressé, des universités et instituts pédagogiques, des centres de recherche et de documentation pédagogiques, des fédérations internationales et nationales d’enseignement, des associations de maîtres ou de parents, etc.; la presse pédagogique, tant officielle que privée, doit jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant, ainsi que du grand public.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "VT. Implementation of this recommendation  \n40. It is essential that the text of this recommendation be widely disseminated by ministries of public education, educational authorities at the level of instruction most directly concerned, universities and pedagogical institutes, centers for educational research and documentation, international and national teaching federations, teachers’ and parents’ associations, etc.; both official and private educational press must play a significant role in disseminating this recommendation to the relevant services, administrative and teaching staff, as well as to the general public."
+      },
+      {
+        "para_number": 55,
+        "para": "41. Les centres régionaux de l’Unesco sont invités à faciliter, de manière prioritaire, avec la collaboration des ministères intéressés, l’examen, à l’échelon régional, de cette recommandation en vue de son adaptation aux besoins et aux caractéristiques de la région.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "41. UNESCO regional centers are encouraged to prioritize facilitating, in collaboration with the relevant ministries, the regional review of this recommendation with a view to adapting it to the needs and characteristics of the region."
+      },
+      {
+        "para_number": 56,
+        "para": "42. Dans les pays où cela s’avérerait nécessaire, les ministères de l’instruction publique sont invités à charger les organes compétents de procéder à divers travaux, par exemple: a) examiner la présente recommandation et comparer son contenu avec l’état de droit et de fait existant dans leur pays; b) considérer les avantages et les inconvénients d’une éventuelle application de chacun des articles qui ne seraient pas encore en vigueur; c) adapter chaque article à la situation du pays, si l’application en est jugée utile; d) enfin, prendre les mesures d’ordre législatif et pratique pour assurer l’application de la recommandation.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "42. In countries where it proves necessary, the ministries of public education are invited to entrust the competent bodies with carrying out various tasks, for example: a) reviewing this recommendation and comparing its content with the existing legal and factual situation in their country; b) considering the advantages and disadvantages of the potential implementation of each article not yet in force; c) adapting each article to the country’s situation, if its application is deemed beneficial; d) finally, taking the legislative and practical measures required to ensure the implementation of the recommendation."
+      },
+      {
+        "para_number": 57,
+        "para": "43. Il est recommandé que non seulement les ministères de l’instruction publique accordent une importance à la recherche pédagogique, mais que l’Unesco lui réserve une place prioritaire dans ses programmes d’assistance aux pays membres. — 183 —",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "43. It is recommended that not only the ministries of public education give importance to educational research, but that UNESCO also allocate a priority place to it in its assistance programs for member countries."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l’instruction publique, Convoquée à Genève par l’Organisation des Nations Unies pour l’éducation, la science et la culture et le Bureau international d’Education, et s’y étant réunie le sept juillet mil neuf cent soixante-six en sa vingt-neuvième session, adopte le quinze juillet mil neuf cent soixante-six la recommandation suivante : Là Conférence, Considérant que, dès ses premières sessions, la Conférence internationale de l’instruction publique a insisté dans plusieurs de ses recommandations sur la nécessité de la connaissance méthodique de l’enfant et de l’homme en général comme point de départ de toute action éducative, Considérant aussi la Recommandation n° 44 sur le développement des constructions scolaires, et la Recommandation n° 54 sur la planification de l’éducation, Considérant l’importance de la recherche scientifique — dont la recherche pédagogique est considérée comme une partie intégrante — dans tous les domaines qui ont trait au développement des activités humaines et à un meilleur rendement de celles-ci, Considérant que les sciences de l’éducation doivent avoir pour objet de mieux assurer le plein développement (physique, intellectuel, moral, esthétique et social) de l’homme en vue d’obtenir sa formation et son intégration sociale les meilleures, Considérant que la solution des problèmes éducatifs et la multiplicité des réformes de l’enseignement font appel tôt ou tard à la recherche objective et à l’expérimentation, sans pour autant négliger les principes essentiels des valeurs qui déterminent le sens véritable et la réussite de toute éducation.  Considérant l’importance toujours plus grande que prennent la réflexion sur les problèmes éducatifs et les études relatives à ces problèmes pour le développement du progrès moral, culturel, social et économique de l’humanité, Considérant les exigences croissantes des plans d’études aux divers stades de la scolarité et les conséquences graves que cela entraîne, en cas d’abus, pour la santé physique et mentale des élèves et leurs progrès dans la suite de leurs études, Considérant l’extension du domaine de l’éducation qui prend en considération l’éducation continue, l’éducation des adultes, et qui suppose l’emploi de méthodes et de techniques nouvelles, Considérant la demande accrue dans divers pays d’experts en psychologie scolaire, pédagogie expérimentale, planification de l’éducation, orientation scolaire, sociologie de l’éducation et problèmes de développement, etc., Considérant l’existence et l’activité; en plusieurs pays, d’instituts de recherche pédagogique, de laboratoires universitaires de pédagogie expérimentale, d’organismes nationaux et internationaux non gouvernementaux s’occupant de recherches en pédagogie, Considérant qu’en dépit d’aspirations semblables, il convient de trouver aux problèmes de la recherche pédagogique des solutions diverses répondant aux conditions, aux possibilités, aux traditions et aux structures propres à chaque pays, Soumet aux Ministères de l’instruction publique des différents pays la recommandation suivante: I. Buts de la recherche pédagogique Introduction L’éducation doit toujours mieux définir ses objectifs, améliorer sans cesse scs moyens d’action, son contenu et ses méthodes; elle ne peut y parvenir que si la recherche pédagogique est organisée et développée. La recherche pédagogique est essentielle si l’on veut fonder l’éducation sur des critères scientifiques résultant d’études théoriques, historiques et interdisciplinaires, d’observations et d’expériences objectives, de l’expérience des éducateurs. 1. La recherche pédagogique a pour but principal de découvrir les lois . objectives et les principes des processus éducatifs pour activer ainsi révolution et le progrès de la pédagogie. 2. A cet effet, la recherche pédagogique doit, en premier lieu, servir à constituer les bases théoriques et scientifiques d’un plan général d’éducation pour déterminer les buts éducatifs immédiats et à plus longue échéance à l’échelle de chaque pays. Ces buts devraient être fonction d’études objectives relatives — 177 — ressources historiques et aux besoins aussi bien humains que matériels, ainsi qu’aux possibilités de perfectionnement et de développement plus efficace de ces ressources. 3. Sur le plan pédagogique, l’objectif de la recherche est d’améliorer la qualité et le rendement de l’instruction par la constante mise au point des programmes, des méthodes, des moyens et des procédures d’évaluation à tous les degrés en tenant compte à chaque étape nouvelle des notions à apprendre, des habitudes à acquérir et des capacités d’amélioration des élèves. 4. La recherche pédagogique a aussi pour but d’étudier les moyens d’améliorer: a) la qualité de l’éducation extrascolaire donnée par la famille, les organisations gouvernementales et non-gouvernementales de jeunesse, les internats de tout genre, etc.; b) le rendement des méthodes d’orientation scolaire et professionnelle; c) la qualité et le niveau de difficulté des manuels. L’ensemble de ces recherches peut être puissamment aidé par les recherches d’éducation comparée. 5. Il est essentiel d’étudier les conséquences des facteurs non éducatifs sur le développement de l’homme, tels que les moyens de masse, les conditions générales de la vie, du travail et des loisirs, ainsi que les conséquences des changements dans le développement physique de la jeunesse. II ORGANISATION DE LA RECHERCHE PÉDAGOGIQUE ET NATURE DES TRAVAUX 6. Des crédits suffisants provenant d’instances gouvernementales aussi bien que de fondations privées doivent être mis à la disposition des institutions de recherche et des-chercheurs indépendants qualifiés et dont les travaux s’inscrivent dans un plan général de recherche, pour assurer dans les conditions les meilleures, l’exécution et la publication de leurs travaux. 7. La valeur des recherches en pédagogie dépend du choix réfléchi des sujets d’études et des méthodes de travail, des conditions d’objectivité et de contrôle dans lesquelles elles s’effectuent, ainsi que de la rigueur scientifique que s’imposent ceux qui les entreprennent. 8. Les principaux champs d’activité de la recherche pédagogique sont circonscrits par ses objectifs en tant que science. Cela implique aussi bien des études de caractère psychologique, sociologique, physiologique et économique que des recherches spécifiques portant sur les méthodes et les moyens d’éducation sous toutes leurs formes, compte tenu des besoins et des aptitudes des enfants, des adolescents ou des adultes ainsi que des besoins et des ressources de la société. Les recherches concernant les lois et l’histoire de l’éducation Appartiennent aussi au domaine de la recherche pédagogique pour autant qu’elles soient faites en conformité avec leur propre méthodologie scientifique. 9. La recherche pédagogique peut se dérouler en laboratoire, dans les classes ou dans d’autres lieux d’activité. Dans toutes ces enquêtes, il faut tenir compte des mesures d’évaluation exacte et des explications théoriques afin de distinguer la recherche elle-même de simples innovations. — 178 — 10. Dans la mesure du possible, la recherche pédagogique concernant les problèmes généraux de l’éducation et de l’enseignement s’intégrera dans une planification d’ensemble et à échéance prévisible, afin de renforcer la solidarité des chercheurs en précisant leur responsabilité. 11. L’organisation rationnelle des recherches pédagogiques à l’échelle du pays exige de dresser des plans portant sur plusieurs années et des plans annuels pour chaque institution scientifique, ainsi que de coordonner les plans de plusieurs institutions scientifiques collaborant à l’étude d’un même problème. 12. Toute recherche, toute expérimentation dans le domaine de la pédagogie doivent être conçues et poursuivies de telle sorte qu’aucun préjudice ne soit causé aux enfants, aux adolescents ou aux adultes qui sont l’objet des études entreprises. 13. Etant donné que l’éducation en général et les recherches qui s’y rapportent font appel de plus en plus à des disciplines autres que la pédagogie, il importe souvent de donner à ces études un caractère interdisciplinaire. De plus, en vertu de la complexité de l’étude scientifique des phénomènes éducatifs, on peut faire appel à l’aide de physiologues, de psychologues, de sociologues, de philosophes et d'experts dans d’autres disciplines. La nature interdisciplinaire de la recherche pédagogique est encore soulignée par l’intérêt accru pour l’éducation dans son ensemble d’hommes de sciences et de savants de différents domaines. 14. Il est recommandé que des centres de recherche pédagogique et des laboratoires soient créés dans les pays qui n’en ont pas encore pour assurer une organisation efficace de la recherche. Il est recommandé d’autre part qu’une collaboration soit organisée, perfectionnée et intensifiée entre les pays dans lesquels de tels centres existent. 15. L’activité d’un laboratoire de pédagogie expérimentale est fonction d’un certain nombre de conditions sur le plan matériel. Les centres de recherche: pédagogique doivent également recevoir toutes les dotations matérielles indispensables à leur bon fonctionnement: équipement en machines, documentation, etc. 11 faut rappeler cependant qu’il n’est pas besoin de matériel coûteux pour la réalisation d’un très grand nombre de recherches. 16. Sur le plan du travail, la participation active des autorités scolaires et du corps enseignant est une nécessité. Tenant compte de l’expérience de certains pays, il est important de susciter la participation directe et active des, maîtres de tous les degrés et de toutes les institutions pédagogiques scolaires et extrascolaires, notamment en les invitant à poser directement ou indirectement des questions aux centres de recherche. 17. Pour la mise en application de ses résultats, la recherche pédagogique appelle souvent des initiatives plus larges et plus suivies que celles que prend le maître soucieux d’améliorer son enseignement. A cette fin, on créera des écoles expérimentales où des réformes seront étudiées en équipes et soigneusement contrôlées. — 179 — 18. Les problèmes qui feront l’objet d’une recherche doivent être sélectionnés et évalués avec soin de façon que la nouveauté de cette recherche, son utilité et la possibilité de la réaliser soient assurées. III. Diffusion et application des résultats 19. La recherche scientifique peut être considérée comme achevée lorsque des résultats probants sont susceptibles d’être mis en pratique. La planification et l’organisation de la recherche tiendront compte du fait que cette dernière se doit d’aboutir en principe à une mise en pratique de ses résultats. 20. Dans chaque pays on mettra sur pied des dispositifs assurant la diffusion la plus large des résultats des recherches et des expériences pédagogiques au moyen de publications, de conférences, d’expositions, de leçons-modèles, de séances de recyclage des maîtres, etc. D’autres dispositions seront prises pour entrer ensuite sans tarder dans la voie des réalisations. 21. Dès que le volume des travaux le justifie, le service de coordination de la recherche pédagogique fera régulièrement l’inventaire des études en cours, en assurera la publication et en facilitera la diffusion tant sur le plan national que sur le plan international. 22. La diffusion des résultats obtenus revêt deux formes essentielles: a) celle d’articles, monographies ou livres qui présentent les faits et les conclusions de telle façon que des chercheurs d’autres pays puissent évaluer le travail accompli et déterminer dans quelles conditions les conclusions peuvent s’appliquer dans leur propre pays, et b) celle d’articles et de manuels à l’intention des administrateurs du corps enseignant et d’autres éducateurs, ainsi que des parents, dans lesquels le langage spécialisé du chercheur ne sera pas utilisé. 23. Il importe que la recherche pédagogique se déroule en liaison étroite avec les écoles elles-mêmes. 24. La recherche pédagogique constitue le moyen d’atteindre un but et non pas un but en lui-même. C’est la raison pour laquelle les résultats qu’elle aura permis d’obtenir devront se traduire sur le plan concret par des programmes, des méthodes et des mesures pratiques susceptibles d’être appliqués. 25. A défaut d’écoles expérimentales proprement dites, on peut désigner des classes d’essai dans les écoles ordinaires permettant l’introduction progressive des résultats de la recherche dans l’enseignement. 26. Des leçons sur les recherches pédagogiques en cours doivent être prévues aux programmes des instituts de formation des enseignants et de tous les organismes ou stages de perfectionnement du personnel. 27. Une liaison étroite entre les centres de recherche pédagogique et les autorités scolaires est indispensable pour la bonne réussite de la diffusion et de l’application des résultats des recherches scientifiques. — 180 — IV. Personnel chargé de la recherche pédagogique 28. a) Il est désirable que dans tous les pays, compte tenu des conditions locales concrètes, des traditions et d’un certain ordre d’urgence, on se préoccupe d’assurer aux chercheurs en pédagogie la formation spécifique dont ils ont besoin; b) Cette formation, d’une durée satisfaisante, se fera soit à l’université, soit dans un institut pédagogique. Elle comportera des études théoriques générales (philosophie, histoire et théorie de l’éducation, psychologie, physiologie du système nerveux, sociologie, etc.) et une initiation aux méthodes de la recherché scientifique (logistique, statistique, cybernétique); c) La formation des chercheurs en pédagogie devra leur permettre d’opérer à tous les niveaux de, l’enseignement, dans tous les domaines de l’éducation et en relation étroite avec l’ensemble des institutions éducatives et des éducateurs. 29. Les problèmes auxquels la recherche pédagogique est appelée à trouver des solutions ayant les caractères complexes de l’éducation elle-même, la recherche pédagogique doit susciter des travaux d’équipes afin que collaborent dans un esprit de complémentarité les spécialistes dont le concours sera requis: philosophes, biologistes, neurophysiologues, psychologues, psychiatres, sociologues, économistes, architectes, statisticiens, etc. 30. a) Les centres de recherche pédagogique — qu’ils soient autonomes ou qu’ils soient rattachés à des instituts pédagogiques ou à des universités i — doivent pouvoir compter sur le personnel spécialisé nécessaire ainsi que sur un nombre suffisant d’assistants et d’auxiliaires, les uns et les autres étant susceptibles de travailler en équipes; b) Là où aucun centre de recherche n’existe encore, il conviendrait que les ministères de l’instruction publique s’emploient à recueillir et à mettre à la disposition des enseignants toutes les informations utiles émanant des centres de recherche d’autres pays. 31. Le statut des chercheurs en pédagogie sera analogue à celui des chercheurs des autres sciences, aussi bien en ce qui concerne leurs conditions de travail, leurs obligations et leurs prérogatives que leur formation de base. Des programmes spécifiques à la formation de chercheurs en pédagogie devraient prévoir des cours universitaires dans les domaines appropriés. 32. Des dispositions devraient être prises afin d’assurer la participation d’enseignants qualifiés, à titre individuel ou entant que groupes, aux recherchés organisées de manière systématique par des institutions spécialisées dans le domaine de la recherche pédagogique. Cette participation à la recherche du personnel en activité de service est d’ailleurs un excellent moyen d'assuré! le perfectionnement professionnel des enseignants et de permettre à la recherche pédagogique d’atteindre toujours mieux son objectif ultime: l’amélioration de l’éducation. 33. Les maîtres qui assument des responsabilités en rapport avec la recherche pédagogique et l’expérimentation devraient être mis au bénéfice de facilités spéciales, telles qu’une réduction de leur tâche d’enseignement et une rémunération convenable. — 181 — 34. Il importe que les essais pédagogiques entrepris par des maîtres dans le cadre de leur classe soient le fait d’éducateurs particulièrement qualifiés qui recevront des conseils techniques concernant aussi bien la méthodologie de l’application des tests que celle de la recherche pédagogique. Les essais de ces maîtres seront inclus dans un plan général de recherche et soumis à des contrôles appropriés susceptibles d’en établir le bien-fondé et la valeur. 35. Etant donné l’ampleur que la recherche pédagogique commence à prendre parmi les enseignants, il serait souhaitable que les cadres de l’enseignement, aussi bien administratifs que pédagogiques (inspecteurs), aient l’occasion de recevoir une formation théorique et pratique. Cette formation devrait les rendre capables de tenter, dans leurs circonscriptions respectives et sous leur responsabilité, une expérimentation pédagogique limitée, objectivement contrôlée, et inscrite dans l’ensemble des travaux entrepris par les responsables de la recherche pédagogique. 36. Au cours de leurs études (dès la 2° ou la 3e année de celles-ci, en principe) les futurs instituteurs et les maîtres de l’enseignement secondaire devront acquérir à leur niveau une connaissance des principes et des techniques propres à la recherche pédagogique. Cette information concernera aussi les enseignants soumis à des cours de recyclage. On fera en sorte que les intéressés puissent, en participant effectivement à des travaux de recherche, comprendre la valeur de l’investigation scientifique en pédagogie et être capables d’en dégager les applications pratiques. V. Collaboration internationale 37. Il est souhaitable que dans le cadre international la collaboration se développe entre les institutions aussi bien nationales et régionales qu'internationales, gouvernementales et non gouvernementales vouées à la recherche pédagogique. Cette collaboration aura pour effet: a) d’intensifier les échanges entre les centres de recherche pédagogique par la création notamment d’un service de documentation qui assure la communication systématique des inventaires des recherches et des résultats de ces dernières dans des revues pédagogiques internationales; b) de faciliter les recherches dans le domaine de la pédagogie comparée et de ses méthodes; c) d’aider à poser correctement les problèmes que les chercheurs sont appelés à résoudre; d) de permettre de définir des thèmes communs de recherches propres à deux ou plusieurs pays (actions régionales); e) d’éviter les doubles emplois;/) d’écarter le dogmatisme qui résulte souvent d’une carence de l’information. 38. L’Unesco et le BIE conjugueront leurs efforts pour faciliter la coordination des travaux entrepris par les centres de recherche pédagogique en organisant notamment des conférences internationales et régionales et en assurant la diffusion des informations relatives à la recherche pédagogique aù moyen de revues, de monographies, de films, la publication d’une monographie concernant la méthodologie de la recherche pédagogique, etc. Les rapports nationaux envoyés chaque année au BIE en vue de la Conférence annuelle de l’instruction publique devraient faire état, dans la mesure du possible, des travaux de recherche les plus importants. — 182 — 39. 11 importe que les pays qui sont à l’avant-garde dans le domaine de la recherche pédagogique prennent des dispositions pour venir en aide aux pays en voie de développement, notamment: a) en leur fournissant des experts qualifiés; b) en les aidant à créer des centres nationaux ou régionaux de recherche (au titre de leur assistance technique, par exemple); c) en offrant des bourses d’études à ceux de leurs ressortissants qui désirent se consacrer à la recherche pédagogique; d) en admettant certains de ceux-ci comme stagiaires dans leurs propres centres de recherche. VT. Application de la présente recommandation 40. Il importe que le texte de la présente recommandation fasse l’objet d’une large diffusion de la part des ministères de l’instruction publique, des autorités scolaires du degré d’enseignement le plus directement intéressé, des universités et instituts pédagogiques, des centres de recherche et de documentation pédagogiques, des fédérations internationales et nationales d’enseignement, des associations de maîtres ou de parents, etc.; la presse pédagogique, tant officielle que privée, doit jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant, ainsi que du grand public. 41. Les centres régionaux de l’Unesco sont invités à faciliter, de manière prioritaire, avec la collaboration des ministères intéressés, l’examen, à l’échelon régional, de cette recommandation en vue de son adaptation aux besoins et aux caractéristiques de la région. 42. Dans les pays où cela s’avérerait nécessaire, les ministères de l’instruction publique sont invités à charger les organes compétents de procéder à divers travaux, par exemple: a) examiner la présente recommandation et comparer son contenu avec l’état de droit et de fait existant dans leur pays; b) considérer les avantages et les inconvénients d’une éventuelle application de chacun des articles qui ne seraient pas encore en vigueur; c) adapter chaque article à la situation du pays, si l’application en est jugée utile; d) enfin, prendre les mesures d’ordre législatif et pratique pour assurer l’application de la recommandation. 43. Il est recommandé que non seulement les ministères de l’instruction publique accordent une importance à la recherche pédagogique, mais que l’Unesco lui réserve une place prioritaire dans ses programmes d’assistance aux pays membres. — 183 —"
+  }
+}

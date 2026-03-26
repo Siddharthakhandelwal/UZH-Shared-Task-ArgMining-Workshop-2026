@@ -1,0 +1,532 @@
+{
+  "TEXT_ID": "ICPE-23-1960_RES1-FR_res_50",
+  "RECOMMENDATION": 50,
+  "TITLE": "L'ÉLABORATION ET LA PROMULGATION DES PROGRAMMES DE L'ENSEIGNEMENT GÉNÉRAL DU SECOND DEGRE",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-23-1960_RES1-FR",
+      "nb_paras": 57,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le six juillet mil neuf cent soixante en sa vingt-troisième session, adopte le quatorze juillet mil neuf cent soixante la recommandation suivante : La Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Instruction, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and by the International Bureau of Education, and having met there on the sixth of July nineteen hundred and sixty in its twenty-third session, adopts on the fourteenth of July nineteen hundred and sixty the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant l'intérêt porté au problème des programmes d'études par des organismes internationaux de caractère éducatif et notamment par le Comité consultatif international des programmes scolaires institué par l'Organisation des Nations Unies pour l'éducation, la science et la culture,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the interest shown in the issue of curricula by international educational organizations and notably by the International Advisory Committee on School Curricula established by the United Nations Educational, Scientific and Cultural Organization,"
+      },
+      {
+        "para_number": 3,
+        "para": "Considérant la Recommandation n° 46 aux Ministères de l'instruction publique concernant l'élaboration et la promulgation des programmes de l'enseignement primaire, adoptée le quinze juillet mil neuf cent cinquante-huit par la Conférence internationale de l'instruction publique réunie en sa vingt et unième session,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering Recommendation No. 46 to the Ministries of Public Instruction concerning the development and promulgation of primary education curricula, adopted on July 15, 1958, by the International Conference on Public Instruction convened in its twenty-first session,"
+      },
+      {
+        "para_number": 4,
+        "para": "Considérant que la crise de croissance que traverse l'enseignement du second degré impose non seulement des modifications de structure, mais aussi l'aménagement des plans d'études et des programmes scolaires en fonction des divers besoins qui se font sentir sur le plan tant national qu'international,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the growth crisis affecting secondary education necessitates not only structural changes but also the adaptation of curricula and school programs in accordance with the various needs felt at both the national and international levels,"
+      },
+      {
+        "para_number": 5,
+        "para": "Considérant qu'il ressort des rapports soumis à la Conférence par les Ministères de l'instruction publique que plus de la moitié des pays sont actuellement engagés dans des travaux d'élaboration ou de revision des programmes de l'enseignement du second degré,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas it appears from the reports submitted to the Conference by the Ministries of Public Instruction that more than half of the countries are currently engaged in the development or revision of secondary education curricula,"
+      },
+      {
+        "para_number": 6,
+        "para": "Considérant que l'enseignement général du second degré, naguère encore réservé à une minorité, tend à accueillir un nombre sans cesse croissant d'enfants dont les aptitudes intellectuelles, l'origine sociale et les activités futures peuvent être les plus diverses,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that general secondary education, which was until recently reserved for a minority, tends to accommodate an ever-increasing number of children whose intellectual abilities, social backgrounds, and future activities may be highly diverse,"
+      },
+      {
+        "para_number": 7,
+        "para": "Considérant que la généralisation de l'enseignement du second degré ne doit pas se traduire par un abaissement du niveau général des études et de la culture,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas the expansion of secondary general education must not result in a lowering of the overall standard of studies and culture,"
+      },
+      {
+        "para_number": 8,
+        "para": "Considérant que, loin de se limiter aux domaines intellectuel, moral, physique et esthétique, l'enseignement général du second degré doit également préparer les adolescents à la vie et au travail socialement utile,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that, far from being limited to intellectual, moral, physical, and aesthetic domains, general secondary education must also prepare adolescents for life and socially useful work,"
+      },
+      {
+        "para_number": 9,
+        "para": "Considérant que les progrès accélérés de la science et de la technique appellent des modes renouvelés de pensée et d'action,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the accelerated advances in science and technology call for renewed modes of thought and action,"
+      },
+      {
+        "para_number": 10,
+        "para": "Considérant que la somme des connaissances s'est accrue et ne cesse de s'accroître à un rythme toujours plus rapide, tant dans le domaine des sciences que dans celui des lettres et des arts,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the body of knowledge has increased and continues to increase at an ever-accelerating pace, both in the fields of science and in those of literature and the arts,"
+      },
+      {
+        "para_number": 11,
+        "para": "Considérant que la notion d'enseignement général du second degré la plus répandue repose sur un juste équilibre entre la formation humaniste et la formation scientifique,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the most widespread concept of general secondary education is based on a proper balance between humanities education and scientific training,"
+      },
+      {
+        "para_number": 12,
+        "para": "Considérant qu'une recommandation de portée universelle ne saurait envisager les multiples aspects de caractère théorique que peut présenter le problème des programmes de l'enseignement général du second degré et que, pour être efficace, une telle recommandation doit se borner à l'énoncé de mesures pratiques et réalisables,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that a recommendation of universal scope cannot take into account the multiple theoretical aspects that the issue of general secondary education curricula may present, and that, in order to be effective, such a recommendation must be limited to the statement of practical and achievable measures,"
+      },
+      {
+        "para_number": 13,
+        "para": "Considérant qu'en dépit d'aspirations semblables, des pays dont la situation est très différente se doivent d'apporter des solutions diverses au problème de l'élaboration et de la promulgation des programmes de l'enseignement général du second degré,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas, despite similar aspirations, countries with very different situations must provide diverse solutions to the problem of developing and promulgating curricula for general secondary education,"
+      },
+      {
+        "para_number": 14,
+        "para": "Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits to the Ministries of Public Instruction of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 15,
+        "para": "1. Lors de l'élaboration des programmes de l'enseignement général du second degré, il faudra tenir compte: a) des divers buts assignés à cet enseignement; b) de sa structure, qu'elle soit uniforme ou divisée en cycles ou en sections; c) de l'importance relative à accorder à chaque discipline ou groupe de disciplines; d) du milieu où se développent les enfants; e) des possibilités d'assimilation de la part des élèves, ainsi que des besoins et des intérêts propres à leur âge et à leur sexe.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. In the development of the general secondary education curricula, consideration must be given to: a) the various objectives assigned to this education; b) its structure, whether uniform or divided into cycles or sections; c) the relative importance to be accorded to each discipline or group of disciplines; d) the environment in which the children develop; e) the capacity for assimilation on the part of the students, as well as the needs and interests specific to their age and gender."
+      },
+      {
+        "para_number": 16,
+        "para": "2. A défaut de principes absolus qui puissent être admis et appliqués avec profit dans tous les pays, il est permis de recommander que, lors de l'élaboration des plans d'études et des programmes, un équilibre convenable soit réalisé entre les divers aspects de l'éducation (formation intellectuelle, morale, sociale, manuelle, physique et esthétique) de manière à assurer à chaque élève un développement intégral et harmonieux.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. In the absence of absolute principles that can be universally accepted and effectively applied in all countries, it is permissible to recommend that, when developing curricula and study programs, an appropriate balance be achieved between the various aspects of education (intellectual, moral, social, manual, physical, and aesthetic training) so as to ensure each student’s comprehensive and harmonious development."
+      },
+      {
+        "para_number": 17,
+        "para": "3. Afin de réaliser cet équilibre, il convient de ne pas perdre de vues lors de l'élaboration des programmes, que chaque discipline peut, à des titres divers, contribuer non seulement à enrichir les connaissances de l'élève, mais aussi à développer sa personnalité et à orienter son comportement vis-à-vis du monde qui l'entoure.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. In order to achieve this balance, it is important to bear in mind during the development of curricula that each subject can, in various ways, contribute not only to enriching the student’s knowledge but also to developing their personality and guiding their behavior in relation to the world around them."
+      },
+      {
+        "para_number": 18,
+        "para": "4. Il importe d'accorder à l'éducation morale la place qu'exigent les circonstances actuelles et de demander à tous les maîtres de mettre en valeur la portée morale et sociale de ce qu'ils enseignent et de tirer parti des cas concrets qui peuvent se présenter à leurs élèves tant à l'école que hors de l'école.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. It is essential to give moral education the prominence demanded by current circumstances and to require all teachers to highlight the moral and social significance of their teaching, as well as to take advantage of concrete situations that may arise for their students both within and outside the school."
+      },
+      {
+        "para_number": 19,
+        "para": "5. Il convient d'encourager la double tendance à accorder une place plus importante à l'initiation au travail et aux connaissances d'ordre pratique et professionnel dans l'enseignement général du second degré, et à intensifier les enseignements de culture générale dans les établissements techniques et professionnels du second degré.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. It is appropriate to encourage the dual trend of giving greater importance to the introduction to work and to practical and professional knowledge in general secondary education, and to intensify general culture instruction in technical and vocational secondary institutions."
+      },
+      {
+        "para_number": 20,
+        "para": "6. Sans ajouter pour autant une nouvelle matière aux plans d'études, Il importe, lors de l'élaboration des programmes, de souligner la contribution que l'enseignement de certaines disciplines peut apporter à la compréhension, à la paix et à la bonne entente entre les peuples et entre les races.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. Without thereby adding a new subject to the curricula, it is important, when developing the programs, to emphasize the contribution that the teaching of certain disciplines can make to the understanding, peace, and good relations between peoples and races."
+      },
+      {
+        "para_number": 21,
+        "para": "7. Les programmes de l'enseignement général du second degré doivent être considérés comme la suite naturelle des programmes de l'enseignement primaire ; en conséquence, il convient qu'ils ménagent au début de l'enseignement général du second degré comme lors de l'accès au deuxième cycle de cet enseignement, là où un tel cycle existe — les transitions indispensables pour éviter aux élèves un effort exagéré d'adaptation, source de découragement et d'échec.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. The curricula of general secondary education should be regarded as the natural continuation of primary education curricula; consequently, provisions should be made both at the beginning of general secondary education and at the entry to the second cycle of this education, where such a cycle exists, to ensure the necessary transitions that will prevent students from facing an excessive adaptation effort, which can lead to discouragement and failure."
+      },
+      {
+        "para_number": 22,
+        "para": "8. Lors de l'élaboration des programmes de l'enseignement général du second degré, il convient, dans toute la mesure du possible et sans porter préjudice à la marche normale des études de la majorité des élèves, de tenir compte des exigences des établissements d'enseignement postsecondaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. When developing the curricula for general secondary education, account should be taken, to the fullest extent possible and without compromising the normal progress of the majority of students, of the requirements of post-secondary educational institutions."
+      },
+      {
+        "para_number": 23,
+        "para": "9. Dans les pays où les études secondaires comptent deux cycles, les programmes devront tenir compte des buts assignés à chacun d'eux, le premier cycle présentant un caractère plus général et constituant la suite logique et l'extension des études primaires, le deuxième cycle offrant la possibilité d'accorder plus d'importance à telle ou telle catégorie de disciplines et pouvant constituer, dans une certaine mesure, une préparation à des études plus avancées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. In countries where secondary education consists of two cycles, the programs must take into account the objectives assigned to each of them, the first cycle having a more general character and constituting the logical continuation and extension of primary studies, while the second cycle offers the opportunity to place greater emphasis on certain categories of subjects and can, to some extent, serve as preparation for more advanced studies."
+      },
+      {
+        "para_number": 24,
+        "para": "10. Dans les pays où le premier cycle de l'enseignement du second degré constitue, en tout ou en partie, un cycle d'orientation et de culture générale commun à tous les élèves — solution qui mériterait d'être plus répandue — le contenu et l'agencement des programmes devraient faciliter le choix aux élèves et le travail de sélection aux maitres ou aux spécialistes à qui incombe cette tâche.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. In countries where the first cycle of secondary general education constitutes, in whole or in part, a common orientation and general culture cycle for all students—a solution that deserves to be more widespread—the content and organization of the programs should facilitate students’ choice and the selection work of teachers or specialists responsible for this task."
+      },
+      {
+        "para_number": 25,
+        "para": "11. Dans les pays où l'enseignement général du second degré est divisé en sections et où les programmes tiennent naturellement compte des buts particuliers assignés à chacune d'elles, il importe de ne pas oublier les buts de caractère plus général assignés à l'ensemble de cet enseignement; de même, dans les pays où les programmes prévoient des matières à option pour tenir compte des besoins, des intérêts et des aptitudes des élèves, il convient de s'assurer que l'enseignement de ces matières ne se fait pas au détriment des disciplines indispensables à la formation générale des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. In countries where general secondary education is divided into sections and where the programmes naturally take into account the specific objectives assigned to each of them, it is important not to forget the more general objectives assigned to the entire education; similarly, in countries where the programmes include elective subjects to address the needs, interests, and aptitudes of the students, it is essential to ensure that the teaching of these subjects does not come at the expense of the disciplines indispensable to the general education of the students."
+      },
+      {
+        "para_number": 26,
+        "para": "12. Dans les pays où l'enseignement général du second degré n'est pas divisé en sections et présente par conséquent un caractère plutôt uniforme, il convient de prévoir toutes facilités pour adapter les programmes aux besoins, aux intérêts et aux aptitudes des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. In countries where general secondary education is not divided into sections and therefore presents a rather uniform character, provisions should be made to accommodate the adaptation of curricula to the needs, interests, and aptitudes of students."
+      },
+      {
+        "para_number": 27,
+        "para": "13. Les programmes d'études doivent être conçus de manière qu'aux différents paliers de la scolarité secondaire les élèves aient la possibilité de passer d'une section à une autre ou de l'enseignement général à un enseignement de type spécialisé, et vice versa.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "13. The curricula must be designed so that at the various levels of secondary education, students have the opportunity to move from one section to another or from general education to a specialized type of education, and vice versa."
+      },
+      {
+        "para_number": 28,
+        "para": "14. Les programmes doivent être établis par année d'études, compte tenu des buts assignés à chaque classe, des aptitudes, des possibilités et des intérêts des élèves aux différents âges, ainsi que du temps effectif qui peut être consacré à l'enseignement correspondant.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. Programs must be established by academic year, taking into account the objectives assigned to each grade, the aptitudes, capacities, and interests of students at different ages, as well as the actual time that can be devoted to the corresponding instruction."
+      },
+      {
+        "para_number": 29,
+        "para": "15. Pour être efficaces, les programmes de l'enseignement général du second degré doivent être accessibles aux élèves des classes auxquelles ils sont destinés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "15. To be effective, the curricula of general secondary education must be accessible to the students of the classes for which they are intended."
+      },
+      {
+        "para_number": 30,
+        "para": "16. Le contenu du programme d'une discipline déterminée doit être conforme aux buts particuliers de l'enseignement de cette discipline et aux buts généraux assignés au cycle ou à la section où elle est enseignée.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. The content of the curriculum for a given subject must be consistent with the specific objectives of the teaching of that subject and with the general objectives assigned to the cycle or section in which it is taught."
+      },
+      {
+        "para_number": 31,
+        "para": "17. Déterminer l'importance relative à chaque discipline est un aspect essentiel de l'élaboration des programmes, et la répartition des matières doit être reconsidérée périodiquement, compte tenu de l'évolution des conditions sociales et des conclusions les plus récentes de la recherche pédagogique.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Determining the relative importance of each subject is an essential aspect of curriculum development, and the allocation of subjects must be periodically reviewed in light of evolving social conditions and the most recent findings of educational research."
+      },
+      {
+        "para_number": 32,
+        "para": "18. Il va de soi que, dans les diverses sections de l'enseignement général du second degré, les disciplines qui constituent la raison d'être de ces sections doivent occuper une place prépondérante; mais ceci ne doit pas empêcher d'accorder aux autres disciplines l'importance qui leur est due, même dans le cas où les études en question sont sanctionnées par un examen de type spécialisé.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "It goes without saying that, within the various sections of general secondary education, the disciplines that constitute the raison d'être of these sections must occupy a predominant place; however, this should not prevent other disciplines from being accorded the importance they deserve, even in cases where the studies in question are validated by a specialized type of examination."
+      },
+      {
+        "para_number": 33,
+        "para": "19. Il convient de s'assurer que des cloisons étanches ne séparent pas les programmes des diverses matières, mais qu'il est tiré parti, au contraire, des relations étroites qui peuvent exister entre des disciplines différentes ainsi que des possibilités qu'elles offrent de se compléter mutuellement, à condition bien entendu d'éviter tout chevauchement et toute répétition inutiles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "19. It is essential to ensure that impermeable barriers do not separate the curricula of the various subjects, but rather that the close relationships which may exist between different disciplines, as well as the possibilities they offer for mutual complementarity, are utilized, provided, of course, that any unnecessary overlap and repetition are avoided."
+      },
+      {
+        "para_number": 34,
+        "para": "20. La tendance assez fréquente à surcharger les plans d'études et les programmes, soit par l'introduction de matières nouvelles, soit par le développement du contenu de chaque discipline en particulier, présente un réel danger; pour parer à ce danger, il importe que l'introduction de notions nouvelles soit compensée par la suppression d'autres notions ayant perdu de leur importance et qu'à l'encyclopédisme des programmes on préfère toujours un choix de notions essentielles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. The fairly common tendency to overload study plans and curricula, either by introducing new subjects or by expanding the content of each particular discipline, presents a real risk; to counter this risk, it is essential that the introduction of new concepts be offset by the removal of other concepts that have lost their relevance, and that a preference always be given to a selection of essential concepts rather than an encyclopedic approach to curricula."
+      },
+      {
+        "para_number": 35,
+        "para": "21. Quelle que soit l'instance responsable de l'enseignement général du second degré, l'élaboration des programmes correspondants doit être du ressort d'organes spécialisés, au sein desquels la représentation du corps enseignant sera toujours assurée.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "21. Regardless of the body responsible for general secondary education, the development of the corresponding curricula must fall within the remit of specialized bodies, within which representation of the teaching staff will always be ensured."
+      },
+      {
+        "para_number": 36,
+        "para": "22. Il est indispensable que l'élaboration et la revision des programmes de chacune des disciplines de l'enseignement du second degré soient confiées, avant tout, à des spécialistes de la discipline en question, compte tenu du fait que, dans le premier cycle de cet enseignement, il peut être préférable de confier plusieurs disciplines connexes à un même maître.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. It is essential that the development and revision of the curricula for each subject in secondary education be entrusted primarily to specialists in the subject concerned, taking into account the fact that, in the first cycle of this education, it may be preferable to assign several related subjects to the same teacher."
+      },
+      {
+        "para_number": 37,
+        "para": "23. Lorsque l'élaboration des programmes est confiée à des groupements de spécialistes, il convient de s'assurer qu'il existe une coordination entre ces différents groupements et que ceux-ci s'inspirent, dans leur tâche, de principes communs; il doit être recommandé à ces groupes de travail différenciés de se considérer comme les parties constitutives d'un même tout.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "23. When the development of curricula is entrusted to groups of specialists, it is essential to ensure coordination between these different groups and that they base their work on common principles; it should be recommended that these distinct working groups consider themselves as constituent parts of a single whole."
+      },
+      {
+        "para_number": 38,
+        "para": "24. La coordination du travail d'élaboration des programmes doit être assurée non seulement en ce qui concerne les différentes disciplines figurant dans les plans d'études de l'enseignement général du second degré, mais aussi en liaison avec l'enseignement qui le précède, celui qui lui fait suite et celui qui occupe une situation parallèle; pour réaliser cette coordination, il importe de faire appel à des maîtres appartenant à d'autres ordres d'enseignement (enseignement primaire, enseignement normal, enseignement technique et professionnel, enseignement supérieur).",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. The coordination of the work involved in the development of curricula must be ensured not only with regard to the various subjects included in the general secondary education study plans, but also in connection with the education that precedes it, follows it, and occupies a parallel position; to achieve this coordination, it is important to involve teachers belonging to other levels of education (primary education, teacher training, technical and vocational education, higher education)."
+      },
+      {
+        "para_number": 39,
+        "para": "25. Il importe que les instances chargées de l'élaboration des programmes puissent bénéficier de l'avis de spécialistes des questions de didactique et de psychologie de l'adolescent.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. It is important that the bodies responsible for the development of curricula have access to the advice of specialists in didactics and adolescent psychology."
+      },
+      {
+        "para_number": 40,
+        "para": "26. Afin de renforcer les liens entre l'école et le milieu culturel, économique et social, il est souhaitable que les parents d'élèves et les représentants des divers organes qui sont, à des titres divers, intéressés aux problèmes d'éducation aient l'occasion de faire connaître leur point de vue sur les programmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. In order to strengthen the links between the school and the cultural, economic, and social environment, it is desirable that parents of students and representatives of the various bodies that are, in different capacities, interested in educational issues have the opportunity to express their views on the curricula."
+      },
+      {
+        "para_number": 41,
+        "para": "27. Etant donné l'importance des recherches psychopédagogiques dans l'élaboration et la revision des programmes de l'enseignement du second degré, il est à souhaiter que l'on encourage la poursuite de telles recherches dans des centres dotés de moyens appropriés, en y associant, dans toute la mesure du possible, des maîtres qui s'intéressent à ce genre de recherches.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. Given the importance of psycho-pedagogical research in the development and revision of secondary education programs, it is desirable to encourage the continuation of such research in centers equipped with appropriate resources, involving, to the greatest extent possible, teachers interested in this type of research."
+      },
+      {
+        "para_number": 42,
+        "para": "28. Les instances chargées de l'élaboration des programmes doivent prévoir une étape préliminaire de documentation, portant entre autres : a) sur les caractéristiques et sur le rythme du développement des enfants, à un âge qui est affecté par la crise de l'adolescence; b) sur les progrès scientifiques les plus marquants qui ont été réalisés dans les différents domaines constituant les matières d'enseignement; c) sur les données — 148 — nouvelles de la didactique, tant générale que spécialisée; d) sur le degré de préparation scientifique et pédagogique des maîtres chargés de l'enseignement; e) sur les tendances qui régissent l'évolution culturelle, sociale et économique du monde moderne; f) sur des études comparées concernant les programmes appliqués dans d'autres pays; g) sur le résultat des expériences réalisées à cet égard dans le pays même ou à l'étranger.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. The bodies responsible for the development of curricula must provide for a preliminary stage of documentation, which includes, among other things: a) the characteristics and developmental pace of children at an age affected by the adolescent crisis; b) the most significant scientific advances achieved in the various fields forming the subjects of instruction; c) the new findings in both general and specialized didactics; d) the level of scientific and pedagogical preparation of the teachers responsible for instruction; e) the trends governing the cultural, social, and economic evolution of the modern world; f) comparative studies concerning curricula implemented in other countries; g) the results of experiments conducted in this regard either within the country itself or abroad."
+      },
+      {
+        "para_number": 43,
+        "para": "29. Avant leur promulgation définitive, les programmes devraient, autant que possible, être soumis à des essais soigneusement contrôlé, soit dans des écoles de type expérimental, soit dans des établissements ordinaires d'enseignement général du second degré choisis à cet effet; en tout cas, il conviendrait de procéder graduellement à leur application, de manière à permettre les aménagements qui pourraient s'avérer nécessaires.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. Before their final promulgation, the programs should, as far as possible, be subjected to carefully controlled trials, either in experimental-type schools or in ordinary secondary general education institutions selected for this purpose; in any case, their implementation should be carried out gradually, so as to allow for adjustments that may prove necessary."
+      },
+      {
+        "para_number": 44,
+        "para": "30. Dans les pays où les programmes sont promulgués par l'autorité centrale, il est souhaitable de laisser une certaine latitude pour adapter ces programmes aux exigences d'ordre régional ou local.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. In countries where curricula are issued by the central authority, it is desirable to allow some flexibility to adapt these curricula to regional or local requirements."
+      },
+      {
+        "para_number": 45,
+        "para": "31. Dans les pays à régime scolaire décentralisé, il y a lieu d'encourager les diverses instances responsables de la promulgation des programmes à se mettre d'accord entre elles pour éliminer les différences injustifiées qui pourraient exister entre les divers programmes appliqués dans un même pays et à réduire ainsi les inconvénients résultant pour les élèves de tout changement de domicile.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. In countries with a decentralized educational system, it is advisable to encourage the various authorities responsible for the promulgation of curricula to reach an agreement among themselves to eliminate unjustified differences that may exist between the various curricula implemented within the same country, thereby reducing the disadvantages for students resulting from any change of residence."
+      },
+      {
+        "para_number": 46,
+        "para": "32. Compte tenu des inconvénients que peuvent présenter des réformes de programmes par trop rapprochées, on ne saurait oublier que les progrès scientifiques réalisés dans certaines disciplines exigent une mise à jour plus fréquente de leurs programmes que cela n'est le cas pour d'autres matières d'enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "32. In view of the drawbacks that excessively frequent curriculum reforms may entail, it should not be forgotten that scientific advances achieved in certain disciplines require a more frequent updating of their curricula than is the case for other subjects taught."
+      },
+      {
+        "para_number": 47,
+        "para": "33. Pour mieux souligner le rapport étroit qui existe entre la manière d'enseigner et le contenu des programmes, il est souhaitable que ceux-ci soient accompagnés d'un bref exposé sur la conception même de l'enseignement de chaque discipline et de suggestions d'ordre méthodologique s'inspirant des travaux réalisés dans le domaine de la psychopédagogie et de la pédagogie expérimentale.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. To better emphasize the close relationship between the method of teaching and the content of curricula, it is desirable that these be accompanied by a brief outline of the very conception of teaching each subject and by methodological suggestions drawn from work conducted in the fields of psychopedagogy and experimental pedagogy."
+      },
+      {
+        "para_number": 48,
+        "para": "34. La promulgation de nouveaux programmes d'études doit être accompagnée de stages pratiques, de réunions pédagogiques, de groupes d'études, articles publiés dans la presse, etc., afin que les maîtres puissent être informés des principes dont s'inspirent les modifications proposées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The introduction of new curricula must be accompanied by practical workshops, pedagogical meetings, study groups, articles published in the press, etc., so that teachers can be informed of the principles underlying the proposed changes."
+      },
+      {
+        "para_number": 49,
+        "para": "35. La formation pédagogique, aussi bien théorique que pratique, des maîtres de l'enseignement du second degré doit inclure l'étude des programmes qu'ils seront appelés à appliquer.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. The pedagogical training, both theoretical and practical, of secondary education teachers must include the study of the curricula they will be required to implement."
+      },
+      {
+        "para_number": 50,
+        "para": "36. Il est souhaitable que les programmes soient considérés comme un guide et une orientation concrète plutôt que comme un code rigide excluant les adaptations jugées opportunes et la liberté bien comprise du maître.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. It is desirable that the curricula be regarded as a guide and a concrete orientation rather than as a rigid code excluding adaptations deemed appropriate and the well-understood discretion of the teacher."
+      },
+      {
+        "para_number": 51,
+        "para": "37. Il convient de prendre toutes dispositions pour assurer, dans toute la mesure du possible et en tenant compte des dépenses que cela doit entraîner, la concordance des manuels avec les nouveaux programmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. All necessary measures should be taken to ensure, as far as possible and taking into account the expenses that this entails, the alignment of textbooks with the new curricula."
+      },
+      {
+        "para_number": 52,
+        "para": "38. Il convient également de prendre les mesures nécessaires pour que, lors de tout changement de programmes, les établissements aient à leur disposition les locaux spécialisés, le matériel et les divers moyens d'enseignement (appareils de laboratoire, auxiliaires audio-visuels, etc.) qu'exige l'application des nouveaux programmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. It is also necessary to take the required measures so that, whenever there is a change in the curricula, schools have at their disposal the specialized premises, equipment, and various teaching resources (laboratory apparatus, audiovisual aids, etc.) needed for the implementation of the new curricula."
+      },
+      {
+        "para_number": 53,
+        "para": "39. En appliquant les programmes de telle ou telle discipline, il importe de ne pas perdre de vue les besoins des élèves dont le rythme d'acquisition est plus lent ou plus rapide que la moyenne; divers moyens peuvent servir à cette fin, notamment l'aide et l'encouragement personnels pendant la classe et l'organisation d'activités extrascolaires.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. In implementing the curricula of a given discipline, it is essential not to lose sight of the needs of students whose pace of learning is slower or faster than average; various means may be employed for this purpose, notably personal assistance and encouragement during class, as well as the organization of extracurricular activities."
+      },
+      {
+        "para_number": 54,
+        "para": "40. Le mouvement de plus en plus intense d'échanges de personnes entre les divers pays pose avec acuité le problème de l'équivalence des études et des diplômes de l'enseignement du second degré; sans prétendre aucunement à une unification des programmes, il faut s'efforcer d'arriver à une uniformité suffisante pour faciliter la reconnaissance des études secondaires accomplies à l'étranger.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "40. The increasingly intense movement of exchanges of people between various countries sharply raises the issue of the equivalence of secondary education studies and diplomas; without in any way claiming to unify curricula, efforts must be made to achieve sufficient uniformity to facilitate the recognition of secondary studies completed abroad."
+      },
+      {
+        "para_number": 55,
+        "para": "41. Des contacts visant à établir une plus grande uniformité dans la terminologie employée pour désigner les matières enseignées ou permettant d'entreprendre des études comparées sur les ressemblances et les différences essentielles qu'il est possible de noter entre les programmes d'études des différents pays devraient contribuer à résoudre le problème des équivalences.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "41. Contacts aimed at establishing greater uniformity in the terminology used to designate the subjects taught, or enabling comparative studies on the essential similarities and differences that can be observed between the curricula of different countries, should help to resolve the issue of equivalencies."
+      },
+      {
+        "para_number": 56,
+        "para": "42. Outre les collections de manuels scolaires, des collections internationales de programmes d'études présenteraient un intérêt primordial non seulement pour les spécialistes de l'élaboration des programmes, mais aussi pour les autorités scolaires et pour les maitres; aussi les centres nationaux de documentation pédagogique devraient-ils être en mesure de tenir à jour des collections de ce genre.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "42. In addition to collections of textbooks, international collections of curricula would be of primary interest not only to specialists in curriculum development but also to educational authorities and teachers; consequently, national centers for educational documentation should be equipped to maintain such collections up to date."
+      },
+      {
+        "para_number": 57,
+        "para": "43. Dans les plans d'assistance technique de type national ou international, il conviendrait de prévoir, à l'intention des pays qui en feraient la demande, la désignation de spécialistes pouvant participer activement à l'élaboration des programmes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "43. In national or international technical assistance plans, provision should be made for the designation of specialists who can actively participate in the development of curricula, intended for countries that request such support."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'éducation, la science et la culture et par le Bureau international d'Education, et s'y étant réunie le six juillet mil neuf cent soixante en sa vingt-troisième session, adopte le quatorze juillet mil neuf cent soixante la recommandation suivante : La Conférence, Considérant l'intérêt porté au problème des programmes d'études par des organismes internationaux de caractère éducatif et notamment par le Comité consultatif international des programmes scolaires institué par l'Organisation des Nations Unies pour l'éducation, la science et la culture, Considérant la Recommandation n° 46 aux Ministères de l'instruction publique concernant l'élaboration et la promulgation des programmes de l'enseignement primaire, adoptée le quinze juillet mil neuf cent cinquante-huit par la Conférence internationale de l'instruction publique réunie en sa vingt et unième session, Considérant que la crise de croissance que traverse l'enseignement du second degré impose non seulement des modifications de structure, mais aussi l'aménagement des plans d'études et des programmes scolaires en fonction des divers besoins qui se font sentir sur le plan tant national qu'international, Considérant qu'il ressort des rapports soumis à la Conférence par les Ministères de l'instruction publique que plus de la moitié des pays sont actuellement engagés dans des travaux d'élaboration ou de revision des programmes de l'enseignement du second degré, Considérant que l'enseignement général du second degré, naguère encore réservé à une minorité, tend à accueillir un nombre sans cesse croissant d'enfants dont les aptitudes intellectuelles, l'origine sociale et les activités futures peuvent être les plus diverses,  144 * Considérant que la généralisation de l'enseignement du second degré ne doit pas se traduire par un abaissement du niveau général des études et de la culture, Considérant que, loin de se limiter aux domaines intellectuel, moral, physique et esthétique, l'enseignement général du second degré doit également préparer les adolescents à la vie et au travail socialement utile, Considérant que les progrès accélérés de la science et de la technique appellent des modes renouvelés de pensée et d'action, Considérant que la somme des connaissances s'est accrue et ne cesse de s'accroître à un rythme toujours plus rapide, tant dans le domaine des sciences que dans celui des lettres et des arts, Considérant que la notion d'enseignement général du second degré la plus répandue repose sur un juste équilibre entre la formation humaniste et la formation scientifique, Considérant qu'une recommandation de portée universelle ne saurait envisager les multiples aspects de caractère théorique que peut présenter le problème des programmes de l'enseignement général du second degré et que, pour être efficace, une telle recommandation doit se borner à l'énoncé de mesures pratiques et réalisables, Considérant qu'en dépit d'aspirations semblables, des pays dont la situation est très différente se doivent d'apporter des solutions diverses au problème de l'élaboration et de la promulgation des programmes de l'enseignement général du second degré, Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante : PRINCIPES GÉNÉRAUX RÉGISSANT L'ÉLABORATION DES PROGRAMMES 1. Lors de l'élaboration des programmes de l'enseignement général du second degré, il faudra tenir compte: a) des divers buts assignés à cet enseignement; b) de sa structure, qu'elle soit uniforme ou divisée en cycles ou en sections; c) de l'importance relative à accorder à chaque discipline ou groupe de disciplines; d) du milieu où se développent les enfants; e) des possibilités d'assimilation de la part des élèves, ainsi que des besoins et des intérêts propres à leur âge et à leur sexe. 2. A défaut de principes absolus qui puissent être admis et appliqués avec profit dans tous les pays, il est permis de recommander que, lors de l'élaboration des plans d'études et des programmes, un équilibre convenable soit réalisé entre les divers aspects de l'éducation (formation intellectuelle, morale, sociale, manuelle, physique et esthétique) de manière à assurer à chaque élève un développement intégral et harmonieux. 3. Afin de réaliser cet équilibre, il convient de ne pas perdre de vues lors de l'élaboration des programmes, que chaque discipline peut, à des titres divers, contribuer non seulement à enrichir les connaissances de l'élève, mais aussi à développer sa personnalité et à orienter son comportement vis-à-vis du monde qui l'entoure.  -— 145 4. Il importe d'accorder à l'éducation morale la place qu'exigent les circonstances actuelles et de demander à tous les maîtres de mettre en valeur la portée morale et sociale de ce qu'ils enseignent et de tirer parti des cas concrets qui peuvent se présenter à leurs élèves tant à l'école que hors de l'école. 5. Il convient d'encourager la double tendance à accorder une place plus importante à l'initiation au travail et aux connaissances d'ordre pratique et professionnel dans l'enseignement général du second degré, et à intensifier les enseignements de culture générale dans les établissements techniques et professionnels du second degré. 6. Sans ajouter pour autant une nouvelle matière aux plans d'études, Il importe, lors de l'élaboration des programmes, de souligner la contribution que l'enseignement de certaines disciplines peut apporter à la compréhension, à la paix et à la bonne entente entre les peuples et entre les races. 7. Les programmes de l'enseignement général du second degré doivent être considérés comme la suite naturelle des programmes de l'enseignement primaire ; en conséquence, il convient qu'ils ménagent au début de l'enseignement général du second degré comme lors de l'accès au deuxième cycle de cet enseignement, là où un tel cycle existe — les transitions indispensables pour éviter aux élèves un effort exagéré d'adaptation, source de découragement et d'échec. 8. Lors de l'élaboration des programmes de l'enseignement général du second degré, il convient, dans toute la mesure du possible et sans porter préjudice à la marche normale des études de la majorité des élèves, de tenir compte des exigences des établissements d'enseignement postsecondaire. PRINCIPES SE RAPPORTANT A LA STRUCTURE DE L'ENSEIGNEMENT 9. Dans les pays où les études secondaires comptent deux cycles, les programmes devront tenir compte des buts assignés à chacun d'eux, le premier cycle présentant un caractère plus général et constituant la suite logique et l'extension des études primaires, le deuxième cycle offrant la possibilité d'accorder plus d'importance à telle ou telle catégorie de disciplines et pouvant constituer, dans une certaine mesure, une préparation à des études plus avancées. 10. Dans les pays où le premier cycle de l'enseignement du second degré constitue, en tout ou en partie, un cycle d'orientation et de culture générale commun à tous les élèves — solution qui mériterait d'être plus répandue — le contenu et l'agencement des programmes devraient faciliter le choix aux élèves et le travail de sélection aux maitres ou aux spécialistes à qui incombe cette tâche. 11. Dans les pays où l'enseignement général du second degré est divisé en sections et où les programmes tiennent naturellement compte des buts particuliers assignés à chacune d'elles, il importe de ne pas oublier les buts de caractère plus général assignés à l'ensemble de cet enseignement; de même, dans les pays où les programmes prévoient des matières à option pour tenir compte des besoins, des intérêts et des aptitudes des élèves, il   convient de s'assurer que l'enseignement de ces matières ne se fait pas au détriment des disciplines indispensables à la formation générale des élèves. 12. Dans les pays où l'enseignement général du second degré n'est pas divisé en sections et présente par conséquent un caractère plutôt uniforme, il convient de prévoir toutes facilités pour adapter les programmes aux besoins, aux intérêts et aux aptitudes des élèves. 13. Les programmes d'études doivent être conçus de manière qu'aux différents paliers de la scolarité secondaire les élèves aient la possibilité de passer d'une section à une autre ou de l'enseignement général à un enseignement de type spécialisé, et vice versa. PRINCIPES SE RAPPORTANT AU CONTENU DES PROGRAMMES 14. Les programmes doivent être établis par année d'études, compte tenu des buts assignés à chaque classe, des aptitudes, des possibilités et des intérêts des élèves aux différents âges, ainsi que du temps effectif qui peut être consacré à l'enseignement correspondant. 15. Pour être efficaces, les programmes de l'enseignement général du second degré doivent être accessibles aux élèves des classes auxquelles ils sont destinés. 16. Le contenu du programme d'une discipline déterminée doit être conforme aux buts particuliers de l'enseignement de cette discipline et aux buts généraux assignés au cycle ou à la section où elle est enseignée. 17. Déterminer l'importance relative à chaque discipline est un aspect essentiel de l'élaboration des programmes, et la répartition des matières doit être reconsidérée périodiquement, compte tenu de l'évolution des conditions sociales et des conclusions les plus récentes de la recherche pédagogique. 18. Il va de soi que, dans les diverses sections de l'enseignement général du second degré, les disciplines qui constituent la raison d'être de ces sections doivent occuper une place prépondérante; mais ceci ne doit pas empêcher d'accorder aux autres disciplines l'importance qui leur est due, même dans le cas où les études en question sont sanctionnées par un examen de type spécialisé. 19. Il convient de s'assurer que des cloisons étanches ne séparent pas les programmes des diverses matières, mais qu'il est tiré parti, au contraire, des relations étroites qui peuvent exister entre des disciplines différentes ainsi que des possibilités qu'elles offrent de se compléter mutuellement, à condition bien entendu d'éviter tout chevauchement et toute répétition inutiles. 20. La tendance assez fréquente à surcharger les plans d'études et les programmes, soit par l'introduction de matières nouvelles, soit par le développement du contenu de chaque discipline en particulier, présente un réel danger; pour parer à ce danger, il importe que l'introduction de notions nouvelles soit compensée par la suppression d'autres notions ayant perdu de leur importance et qu'à l'encyclopédisme des programmes on préfère toujours un choix de notions essentielles.  — 147 — PROCÉDURE POUR L'ÉLABORATION DES PROGRAMMES 21. Quelle que soit l'instance responsable de l'enseignement général du second degré, l'élaboration des programmes correspondants doit être du ressort d'organes spécialisés, au sein desquels la représentation du corps enseignant sera toujours assurée. 22. Il est indispensable que l'élaboration et la revision des programmes de chacune des disciplines de l'enseignement du second degré soient confiées, avant tout, à des spécialistes de la discipline en question, compte tenu du fait que, dans le premier cycle de cet enseignement, il peut être préférable de confier plusieurs disciplines connexes à un même maître. 23. Lorsque l'élaboration des programmes est confiée à des groupements de spécialistes, il convient de s'assurer qu'il existe une coordination entre ces différents groupements et que ceux-ci s'inspirent, dans leur tâche, de principes communs; il doit être recommandé à ces groupes de travail différenciés de se considérer comme les parties constitutives d'un même tout. 24. La coordination du travail d'élaboration des programmes doit être assurée non seulement en ce qui concerne les différentes disciplines figurant dans les plans d'études de l'enseignement général du second degré, mais aussi en liaison avec l'enseignement qui le précède, celui qui lui fait suite et celui qui occupe une situation parallèle; pour réaliser cette coordination, il importe de faire appel à des maîtres appartenant à d'autres ordres d'enseignement (enseignement primaire, enseignement normal, enseignement technique et professionnel, enseignement supérieur). 25. Il importe que les instances chargées de l'élaboration des programmes puissent bénéficier de l'avis de spécialistes des questions de didactique et de psychologie de l'adolescent. 26. Afin de renforcer les liens entre l'école et le milieu culturel, économique et social, il est souhaitable que les parents d'élèves et les représentants des divers organes qui sont, à des titres divers, intéressés aux problèmes d'éducation aient l'occasion de faire connaître leur point de vue sur les programmes. 27. Etant donné l'importance des recherches psychopédagogiques dans l'élaboration et la revision des programmes de l'enseignement du second degré, il est à souhaiter que l'on encourage la poursuite de telles recherches dans des centres dotés de moyens appropriés, en y associant, dans toute la mesure du possible, des maîtres qui s'intéressent à ce genre de recherches. 28. Les instances chargées de l'élaboration des programmes doivent prévoir une étape préliminaire de documentation, portant entre autres : a) sur les caractéristiques et sur le rythme du développement des enfants, à un âge qui est affecté par la crise de l'adolescence; b) sur les progrès scientifiques les plus marquants qui ont été réalisés dans les différents domaines constituant les matières d'enseignement; c) sur les données  — 148 — nouvelles de la didactique, tant générale que spécialisée; d) sur le degré de préparation scientifique et pédagogique des maîtres chargés de l'enseignement; e) sur les tendances qui régissent l'évolution culturelle, sociale et économique du monde moderne; f) sur des études comparées concernant les programmes appliqués dans d'autres pays; g) sur le résultat des expériences réalisées à cet égard dans le pays même ou à l'étranger. 29. Avant leur promulgation définitive, les programmes devraient, autant que possible, être soumis à des essais soigneusement contrôlé, soit dans des écoles de type expérimental, soit dans des établissements ordinaires d'enseignement général du second degré choisis à cet effet; en tout cas, il conviendrait de procéder graduellement à leur application, de manière à permettre les aménagements qui pourraient s'avérer nécessaires. PROCÉDURE POUR LA PROMULGATION DES PROGRAMMES 30. Dans les pays où les programmes sont promulgués par l'autorité centrale, il est souhaitable de laisser une certaine latitude pour adapter ces programmes aux exigences d'ordre régional ou local. 31. Dans les pays à régime scolaire décentralisé, il y a lieu d'encourager les diverses instances responsables de la promulgation des programmes à se mettre d'accord entre elles pour éliminer les différences injustifiées qui pourraient exister entre les divers programmes appliqués dans un même pays et à réduire ainsi les inconvénients résultant pour les élèves de tout changement de domicile. 32. Compte tenu des inconvénients que peuvent présenter des réformes de programmes par trop rapprochées, on ne saurait oublier que les progrès scientifiques réalisés dans certaines disciplines exigent une mise à jour plus fréquente de leurs programmes que cela n'est le cas pour d'autres matières d'enseignement. MISE EN PRATIQUE DES PROGRAMMES 33. Pour mieux souligner le rapport étroit qui existe entre la manière d'enseigner et le contenu des programmes, il est souhaitable que ceux-ci soient accompagnés d'un bref exposé sur la conception même de l'enseignement de chaque discipline et de suggestions d'ordre méthodologique s'inspirant des travaux réalisés dans le domaine de la psychopédagogie et de la pédagogie expérimentale. 34. La promulgation de nouveaux programmes d'études doit être accompagnée de stages pratiques, de réunions pédagogiques, de groupes d'études, articles publiés dans la presse, etc., afin que les maîtres puissent être informés des principes dont s'inspirent les modifications proposées. 35. La formation pédagogique, aussi bien théorique que pratique, des maîtres de l'enseignement du second degré doit inclure l'étude des programmes qu'ils seront appelés à appliquer.  — 149 — 36. Il est souhaitable que les programmes soient considérés comme un guide et une orientation concrète plutôt que comme un code rigide excluant les adaptations jugées opportunes et la liberté bien comprise du maître. 37. Il convient de prendre toutes dispositions pour assurer, dans toute la mesure du possible et en tenant compte des dépenses que cela doit entraîner, la concordance des manuels avec les nouveaux programmes. 38. Il convient également de prendre les mesures nécessaires pour que, lors de tout changement de programmes, les établissements aient à leur disposition les locaux spécialisés, le matériel et les divers moyens d'enseignement (appareils de laboratoire, auxiliaires audio-visuels, etc.) qu'exige l'application des nouveaux programmes. 39. En appliquant les programmes de telle ou telle discipline, il importe de ne pas perdre de vue les besoins des élèves dont le rythme d'acquisition est plus lent ou plus rapide que la moyenne; divers moyens peuvent servir à cette fin, notamment l'aide et l'encouragement personnels pendant la classe et l'organisation d'activités extrascolaires. ASPECTS INTERNATIONAUX DU PROBLÈME 40. Le mouvement de plus en plus intense d'échanges de personnes entre les divers pays pose avec acuité le problème de l'équivalence des études et des diplômes de l'enseignement du second degré; sans prétendre aucunement à une unification des programmes, il faut s'efforcer d'arriver à une uniformité suffisante pour faciliter la reconnaissance des études secondaires accomplies à l'étranger. 41. Des contacts visant à établir une plus grande uniformité dans la terminologie employée pour désigner les matières enseignées ou permettant d'entreprendre des études comparées sur les ressemblances et les différences essentielles qu'il est possible de noter entre les programmes d'études des différents pays devraient contribuer à résoudre le problème des équivalences. 42. Outre les collections de manuels scolaires, des collections internationales de programmes d'études présenteraient un intérêt primordial non seulement pour les spécialistes de l'élaboration des programmes, mais aussi pour les autorités scolaires et pour les maitres; aussi les centres nationaux de documentation pédagogique devraient-ils être en mesure de tenir à jour des collections de ce genre. 43. Dans les plans d'assistance technique de type national ou international, il conviendrait de prévoir, à l'intention des pays qui en feraient la demande, la désignation de spécialistes pouvant participer activement à l'élaboration des programmes."
+  }
+}

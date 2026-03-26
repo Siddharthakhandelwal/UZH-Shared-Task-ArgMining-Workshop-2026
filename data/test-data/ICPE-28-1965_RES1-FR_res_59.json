@@ -1,0 +1,532 @@
+{
+  "TEXT_ID": "ICPE-28-1965_RES1-FR_res_59",
+  "RECOMMENDATION": 59,
+  "TITLE": "L'ENSEIGNEMENT DES LANGUES VIVANTES A L'ÉCOLE SECONDAIRE",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-28-1965_RES1-FR",
+      "nb_paras": 57,
+      "preambular_para": [],
+      "operative_para": [],
+      "think": ""
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'instruction publique, et s'y étant réunie le douze juillet mil neuf cent soixante-cinq en sa vingt-huitième session, adopte le vingt-trois juillet mil neuf cent soixante-cinq la recommandation suivante: La Conférence,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Instruction, having met on July 12, 1965, in its twenty-eighth session, adopts on July 23, 1965, the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant que la connaissance d'une ou plusieurs langues vivantes fait partie de la culture générale et de la formation intellectuelle de l'élève au moins au même titre que d'autres disciplines figurant au programme des écoles secondaires et que, dans bien des pays, une langue étrangère au moins constitue un outil indispensable pour l'étude plus étendue et plus approfondie de certaines matières inscrites au programme des classes supérieures,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the knowledge of one or more modern languages is part of the general culture and intellectual education of the student, at least on an equal footing with other subjects included in the secondary school curriculum, and that, in many countries, at least one foreign language constitutes an essential tool for a broader and deeper study of certain subjects included in the upper-level curricula,"
+      },
+      {
+        "para_number": 3,
+        "para": "Considérant qu'il appartient aux peuples eux-mêmes de faire choix des langues étrangères qui doivent être enseignées,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that it is up to the peoples themselves to choose the foreign languages that should be taught,"
+      },
+      {
+        "para_number": 4,
+        "para": "Considérant cependant que, dans les pays dont la langue autochtone n'a pas été jusqu'à présent la langue d'enseignement, il est nécessaire de contribuer en premier lieu au développement des langues nationales, à leur émancipation et à l'affermissement de leur position dans les relations internationales,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Whereas, however, in countries where the indigenous language has not hitherto been the language of instruction, it is necessary primarily to contribute to the development of the national languages, to their emancipation, and to the strengthening of their position in international relations,"
+      },
+      {
+        "para_number": 5,
+        "para": "Considérant que la connaissance d'une langue étrangère, comme celle de la littérature, de l'histoire, de la civilisation et du mode de vie propres aux pays où elle est parlée, peut avoir une grande influence sur l'amélioration de la compréhension internationale et de l'entente entre les peuples,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the knowledge of a foreign language, as well as that of the literature, history, civilization, and way of life specific to the countries where it is spoken, can have a significant influence on the improvement of international understanding and cooperation among peoples,"
+      },
+      {
+        "para_number": 6,
+        "para": "Considérant que le développement des relations internationales dans tous les domaines et le perfectionnement des moyens de transport et de communication accroissent d'une manière constante la nécessité pratique de connaître au moins une langue étrangère et d'être en mesure de la manier avec aisance,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the development of international relations in all fields and the improvement of means of transport and communication constantly increase the practical necessity of knowing at least one foreign language and being able to use it with ease,"
+      },
+      {
+        "para_number": 7,
+        "para": "Considérant que la connaissance des langues étrangères accélère la diffusion des découvertes de la science et de la technique et, de ce fait, contribue efficacement au développement économique et culturel des pays,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that the knowledge of foreign languages accelerates the dissemination of scientific and technical discoveries and, as a result, effectively contributes to the economic and cultural development of countries,"
+      },
+      {
+        "para_number": 8,
+        "para": "Considérant que les moyens d'information, tels que le cinéma, la radio et la télévision, mettent les pays à la portée les uns des autres et que les jeunes comme les adultes ont accès à ces divers moyens,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that means of information, such as cinema, radio, and television, bring countries within each other's reach and that both young people and adults have access to these various means,"
+      },
+      {
+        "para_number": 9,
+        "para": "Considérant que les possibilités d'études à l'étranger et les échanges d'étudiants et de spécialistes entre pays qui ne parlent pas la même langue se font également de plus en plus nombreux,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that opportunities for studying abroad and exchanges of students and specialists between countries that do not share the same language are also increasing in number,"
+      },
+      {
+        "para_number": 10,
+        "para": "Considérant qu'il est nécessaire de moderniser les méthodes et les moyens d'enseignement des langues vivantes, compte tenu du développement des connaissances et de la technique,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that it is necessary to modernize the methods and means of teaching modern languages, taking into account the development of knowledge and technology,"
+      },
+      {
+        "para_number": 11,
+        "para": "Considérant les nombreuses recommandations formulées sur l'enseignement des langues vivantes par divers organismes et notamment par la Conférence internationale de l'instruction publique dans la recommandation n° 11 qu'elle a adoptée en 1937, lors de sa sixième session,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering the numerous recommendations made on the teaching of modern languages by various organizations, notably by the International Conference on Public Instruction in recommendation No. 11 adopted in 1937 during its sixth session,"
+      },
+      {
+        "para_number": 12,
+        "para": "Considérant que, pour satisfaire des aspirations semblables, des pays différents les uns des autres doivent apporter des solutions différentes au problème de l'enseignement des langues vivantes à l'école secondaire,",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that, to meet similar aspirations, different countries must provide different solutions to the problem of teaching modern languages in secondary schools,"
+      },
+      {
+        "para_number": 13,
+        "para": "Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante :",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits to the Ministries of Public Instruction of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 14,
+        "para": "I. PLACE FAITE A L'ENSEIGNEMENT DES LANGUES VIVANTES",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "I. THE PLACE RESERVED FOR THE TEACHING OF MODERN LANGUAGES"
+      },
+      {
+        "para_number": 15,
+        "para": "1. La place réservée à l'enseignement des langues vivantes dépend de la situation propre à chaque pays; il est recommandé cependant que l'étude d'une langue étrangère au moins figure au programme de toutes les classes de tous les types d'écoles secondaires.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. The place given to the teaching of modern languages depends on the specific situation of each country; it is nevertheless recommended that the study of at least one foreign language is included in the curriculum of all grades in all types of secondary schools."
+      },
+      {
+        "para_number": 16,
+        "para": "2. Le choix de la première langue étrangère peut en général être imposé par des nécessités d'ordre culturel, géographique, ethnique, économique, — 190 etc. ; lorsqu'une deuxième langue étrangère est enseignée, il serait souhaitable, chaque fois que les moyens le permettent, que les élèves aient la faculté de choisir entre plusieurs langues en fonction de leurs intérêts et de leurs besoins propres.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. The choice of the first foreign language can generally be determined by cultural, geographical, ethnic, economic, or other considerations; when a second foreign language is taught, it would be desirable, whenever resources permit, that students have the option to choose among several languages based on their own interests and needs."
+      },
+      {
+        "para_number": 17,
+        "para": "3. Il est recommandé que l'étude d'une deuxième langue étrangère ne commence que lorsque les structures linguistiques fondamentales de la première langue sont acquises.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. It is recommended that the study of a second foreign language should only begin once the fundamental linguistic structures of the first language have been acquired."
+      },
+      {
+        "para_number": 18,
+        "para": "4. L'étude des langues étrangères dans les écoles secondaires ne devant pas se borner à une initiation élémentaire, il est recommandé de lui consacrer suffisamment de temps dans l'horaire hebdomadaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. Since the study of foreign languages in secondary schools should not be limited to an elementary introduction, it is recommended that sufficient time be allocated to it in the weekly schedule."
+      },
+      {
+        "para_number": 19,
+        "para": "5. L'efficacité de l'enseignement d'une langue étrangère étant surtout fonction de l'intérêt qu'y portent les élèves, il conviendrait de stimuler cet intérêt en accordant, entre autres, à l'épreuve de langues vivantes une place convenable aux différents examens de l'enseignement secondaire.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. The effectiveness of teaching a foreign language being primarily dependent on the interest shown by the students, it would be appropriate to stimulate this interest by granting, among other measures, a suitable place to the modern language examination in the various secondary education assessments."
+      },
+      {
+        "para_number": 20,
+        "para": "6. Lors de la différenciation qui s'institue de plus en plus au début du cycle supérieur des écoles secondaires, il est recommandé de créer des sections comprenant l'étude approfondie de plusieurs langues étrangères et délivrant des diplômes équivalents à ceux des autres sections.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. In the context of the increasing specialization occurring at the beginning of the upper cycle of secondary schools, it is recommended to establish sections that include in-depth study of several foreign languages and award diplomas equivalent to those of other sections."
+      },
+      {
+        "para_number": 21,
+        "para": "7. Etant donné la facilité avec laquelle les jeunes enfants assimilent les langues et l'intérêt que cet apprentissage présente pour l'étude des langues étrangères dans les écoles secondaires, il conviendrait de favoriser les expériences qui tendent à permettre l'enseignement d'une langue étrangère avant le début des études secondaires, en prenant toutes les précautions nécessaires pour que l'apprentissage de cette langue ne compromette pas l'acquisition de la langue maternelle.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. Given the ease with which young children acquire languages and the benefits this learning presents for the study of foreign languages in secondary schools, it would be appropriate to encourage initiatives aimed at enabling the teaching of a foreign language before the start of secondary education, while taking all necessary precautions to ensure that the acquisition of this language does not compromise the mastery of the mother tongue."
+      },
+      {
+        "para_number": 22,
+        "para": "II. BUTS, PROGRAMMES ET MÉTHODES",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "II. AIMS, PROGRAMMES, AND METHODS"
+      },
+      {
+        "para_number": 23,
+        "para": "8. Les buts de l'enseignement des langues vivantes sont à la fois de caractères formatif, éducatif et pratique; l'éducation intellectuelle que constitue l'apprentissage d'une langue ne doit pas se faire au détriment de l'utilisation pratique de cette langue; de même, les applications pratiques ne doivent pas empêcher l'étude approfondie de la langue dans ses particularités linguistiques.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. The objectives of teaching modern languages are both formative, educational, and practical; the intellectual education represented by learning a language must not come at the expense of the practical use of that language; similarly, practical applications should not hinder the thorough study of the language in its linguistic particularities."
+      },
+      {
+        "para_number": 24,
+        "para": "9. L'enseignement des langues vivantes ne constitue pas une fin en soi; mais il doit servir, par ses aspects culturels et humains, à la formation de l'esprit et du caractère et contribuer à une meilleure compréhension internationale et à l'établissement d'une coopération pacifique et amicale entre les peuples.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. The teaching of modern languages is not an end in itself; rather, through its cultural and human aspects, it must serve the development of the mind and character and contribute to a better international understanding and the establishment of peaceful and friendly cooperation among peoples."
+      },
+      {
+        "para_number": 25,
+        "para": "10. Il en résulte qu'à côté de l'étude orale et écrite de la langue proprement dite, les programmes doivent faire une place non seulement à la littérature, mais à une information objective sur la civilisation des pays où cette langue est parlée, tout en tenant compte des possibilités intellectuelles et des intérêts des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. It follows that alongside the oral and written study of the language itself, curricula must include not only literature but also objective information about the civilization of the countries where the language is spoken, while taking into account the intellectual capacities and interests of the students."
+      },
+      {
+        "para_number": 26,
+        "para": "11. Les instructions qui peuvent être données officiellement quant au choix des méthodes, des techniques et des manuels devraient, tout en orientant le travail des professeurs, laisser à ces derniers une marge suffisante de liberté et d'initiative, compatible avec les méthodes reconnues valables, qui permette d'améliorer progressivement les méthodes et les manuels pour l'enseignement des langues vivantes.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "11. Official guidelines regarding the choice of methods, techniques, and textbooks should, while directing the work of teachers, allow them sufficient room for freedom and initiative, compatible with recognized valid methods, in order to progressively improve the methods and textbooks used in the teaching of modern languages."
+      },
+      {
+        "para_number": 27,
+        "para": "12. Les diverses méthodes actives, qui ont fait leurs preuves depuis longtemps, semblent convenir le mieux à l'acquisition d'une langue étrangère. Les nouvelles techniques d'enseignement des langues vivantes, de même que l'enseignement programmé, doivent faire l'objet d'études, de recherches et d'expériences afin d'assurer leur utilisation appropriée et efficace.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "12. The various active methods, which have long proven effective, appear to be the most suitable for acquiring a foreign language. New techniques for teaching modern languages, as well as programmed instruction, should be subject to study, research, and experimentation to ensure their appropriate and effective use."
+      },
+      {
+        "para_number": 28,
+        "para": "13. Ce qui importe avant tout, c'est que l'apprentissage de la langue parlée précède celui de la langue écrite et qu'une large part soit faite, dès le début, aux exercices d'audition, de prononciation et de conversation, en ayant recours le moins possible à la langue maternelle ou à la langue d'enseignement.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "What is above all important is that the learning of the spoken language precedes that of the written language and that a significant emphasis be placed, from the outset, on listening, pronunciation, and conversation exercises, making as little use as possible of the mother tongue or the language of instruction."
+      },
+      {
+        "para_number": 29,
+        "para": "14. Il n'en demeure pas moins que la grammaire et la syntaxe, de même que l'orthographe, ne doivent pas être négligées; mais il faut s'efforcer de les enseigner de sorte que, loin de constituer une fin en soi, elles contribuent à développer l'usage correct de la langue étrangère, parlée et écrite.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "14. Nonetheless, grammar and syntax, as well as spelling, must not be neglected; efforts should be made to teach them in such a way that, far from being an end in themselves, they contribute to developing the correct use of the foreign language, both spoken and written."
+      },
+      {
+        "para_number": 30,
+        "para": "15. L'importance de la recherche et des expériences en vue de déterminer les méthodes les plus efficaces et les modalités de l'enseignement des langues étrangères dans un système scolaire donné ne doit pas être sous-estimée; il faut tenir compte des caractéristiques particulières du milieu et de la langue maternelle des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "15. The importance of research and experiments aimed at determining the most effective methods and modalities for teaching foreign languages within a given school system must not be underestimated; the specific characteristics of the environment and the students' mother tongue must be taken into account."
+      },
+      {
+        "para_number": 31,
+        "para": "16. Il est souhaitable, si les conditions le permettent, de diviser les classes de langues vivantes en groupes aussi restreints que possible.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "16. It is desirable, if conditions permit, to divide modern language classes into groups as small as possible."
+      },
+      {
+        "para_number": 32,
+        "para": "17. Les activités de complément qui font appel à la participation active des élèves — jeux, chants, dramatisation, clubs de langues, etc. doivent être suffisamment nombreuses et variées pour contribuer à la consolidation et à l'enrichissement des connaissances acquises.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "17. Supplementary activities that involve the active participation of students—such as games, songs, dramatization, language clubs, etc.—must be sufficiently numerous and varied to contribute to the consolidation and enrichment of the knowledge acquired."
+      },
+      {
+        "para_number": 33,
+        "para": "18. Il importe de mettre en œuvre tous les moyens pour faciliter et multiplier les voyages et les séjours d'élèves dans les pays où se parle la langue étudiée; ces séjours peuvent se faire à titre individuel ou être organisés collectivement sous forme d'échanges dirigés par des professeurs responsables, par des organisations de jeunesse, etc.; lorsque de tels voyages ou séjours s'avèrent impossibles, des camps de vacances devraient être organisés sur place avec la participation de ressortissants des pays où l'on parle la langue en question.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "18. It is essential to implement all means to facilitate and increase student trips and stays in countries where the studied language is spoken; these stays may be undertaken individually or organized collectively in the form of exchanges led by responsible teachers, youth organizations, etc.; when such trips or stays prove impossible, holiday camps should be organized locally with the participation of nationals from the countries where the language in question is spoken."
+      },
+      {
+        "para_number": 34,
+        "para": "19. Les moyens audio-visuels qui se sont montrés particulièrement efficaces pour l'enseignement des langues vivantes devraient être mis à la disposition de tous les établissements du second degré; il serait de même souhaitable que des laboratoires de langues, spécialement conçus pour 192 l'enseignement secondaire, soient installés en nombre suffisant pour répondre aux besoins essentiels de chaque pays.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "19. Audio-visual means, which have proven particularly effective for the teaching of modern languages, should be made available to all secondary education institutions; it would also be desirable for language laboratories, specially designed for secondary education, to be installed in sufficient numbers to meet the essential needs of each country."
+      },
+      {
+        "para_number": 35,
+        "para": "20. L'utilité de la radio, de la télévision et du cinéma comme compléments à l'enseignement systématique des langues vivantes mérite également d'être soulignée; il importe que les programmes et les horaires des émissions de radio et de télévision soient établis en étroite liaison avec ceux des établissements d'enseignement et que ces derniers puissent disposer des postes récepteurs nécessaires et du matériel visuel complémentaire; il convient toutefois de souligner que la radio, la télévision et le cinéma ne sauraient se substituer à l'enseignement du professeur.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "20. The usefulness of radio, television, and cinema as supplements to systematic language teaching also deserves to be emphasized; it is important that the programs and broadcast schedules of radio and television be coordinated closely with those of educational institutions, and that these institutions have access to the necessary receiving equipment and supplementary visual materials; however, it should be stressed that radio, television, and cinema cannot replace the instruction provided by a teacher."
+      },
+      {
+        "para_number": 36,
+        "para": "21. Il importe que les manuels de langues vivantes reflètent la vie et la culture du pays des élèves et des pays dont ils apprennent la langue, qu'ils soient attrayants et illustrés de photos et de gravures, qu'ils se conforment à l'esprit des méthodes actives généralement préconisées, et qu'il soit tenu compte, lors de leur élaboration, des travaux accomplis dans le domaine de la linguistique. Dans certains pays où les élèves apprennent une langue étrangère en l'utilisant comme langue d'enseignement, il importe que les manuels adoptés à cette fin reflètent la culture du pays des élèves.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "It is important that foreign language textbooks reflect the life and culture of the students’ own country as well as of the countries whose language they are learning, that they be attractive and illustrated with photographs and engravings, that they conform to the principles of the active methods generally recommended, and that the work carried out in the field of linguistics be taken into account during their development. In certain countries where students learn a foreign language by using it as the medium of instruction, it is essential that the textbooks adopted for this purpose reflect the culture of the students’ own country."
+      },
+      {
+        "para_number": 37,
+        "para": "22. Il convient, notamment dans le cycle supérieur des écoles secondaires, d'attribuer une haute importance à la lecture des auteurs qui peuvent donner à l'enseignement des langues vivantes une grande valeur de culture générale, ne serait-ce qu'au moyen de commentaires non pas d'ordre grammatical mais de caractère interprétatif, culturel et esthétique.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "22. Particular importance should be given, especially in the upper levels of secondary schools, to the reading of authors who can confer considerable general cultural value to the teaching of modern languages, even if only through commentary not of a grammatical nature but of an interpretative, cultural, and aesthetic character."
+      },
+      {
+        "para_number": 38,
+        "para": "23. Les bibliothèques scolaires devraient être pourvues de livres, revues et journaux en langues étrangères et de toute autre documentation (y compris la documentation audio-visuelle) pouvant contribuer à une meilleure connaissance des différents pays; à cet effet, il y aurait tout avantage à organiser, entre les écoles des divers pays intéressés, des échanges de documentation de tout genre.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "School libraries should be equipped with books, magazines, and newspapers in foreign languages, as well as any other documentation (including audiovisual materials) that can contribute to a better understanding of different countries; to this end, it would be highly beneficial to organize exchanges of all types of documentation between schools in the various interested countries."
+      },
+      {
+        "para_number": 39,
+        "para": "24. Il importe d'accentuer et de développer, dans toute la mesure du possible, la coordination entre l'enseignement des langues vivantes et celui de la langue maternelle, de l'histoire, de la géographie, de l'histoire de l'art et de toute autre discipline pouvant avoir un rapport avec les langues étrangères.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "24. It is important to emphasize and develop, to the fullest extent possible, the coordination between the teaching of modern languages and that of the mother tongue, history, geography, art history, and any other discipline that may be related to foreign languages."
+      },
+      {
+        "para_number": 40,
+        "para": "25. L'expérience tentée dans quelques pays, aux fins d'enseigner un certain nombre de disciplines dans une langue étrangère déterminée, semble avoir donné de bons résultats; cette pratique pourrait éventuellement être étendue à d'autres pays et s'appliquer notamment dans les sections de langues modernes qui se créent dans les écoles secondaires ou dans certaines écoles spécialisées.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "25. The experiment undertaken in some countries to teach a certain number of subjects in a specified foreign language appears to have yielded good results; this practice could potentially be extended to other countries and applied particularly in modern language sections being established in secondary schools or in certain specialized schools."
+      },
+      {
+        "para_number": 41,
+        "para": "26. Il est indispensable que les programmes de langues vivantes fassent l'objet de révisions et d'adaptations périodiques pour tenir compte de l'évolution de la langue enseignée et des pays qui la parlent, ainsi que du développement des méthodes et des techniques modernes dont peuvent disposer les écoles et les professeurs.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "26. It is essential that modern language curricula undergo periodic review and adaptation to take into account the evolution of the language taught and the countries where it is spoken, as well as the development of modern methods and techniques available to schools and teachers."
+      },
+      {
+        "para_number": 42,
+        "para": "III. PERSONNEL ENSEIGNANT",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "III. TEACHING STAFF"
+      },
+      {
+        "para_number": 43,
+        "para": "27. Il est indispensable d'assurer aux futurs professeurs de langues vivantes une formation à la fois générale, linguistique et pédagogique, théorique et pratique, qui soit conforme aux progrès de la linguistique, de la pédagogie et des techniques modernes audio-visuelles.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "27. It is essential to provide future modern language teachers with training that is simultaneously general, linguistic, and pedagogical, both theoretical and practical, and that complies with advancements in linguistics, pedagogy, and modern audiovisual techniques."
+      },
+      {
+        "para_number": 44,
+        "para": "28. Afin de développer la formation de professeurs de langues vivantes et d'augmenter le nombre des professeurs qualifiés, il est souhaitable d'avoir recours aux professeurs étrangers qui peuvent contribuer à la formation de professeurs nationaux qualifiés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "28. In order to expand the training of modern language teachers and increase the number of qualified teachers, it is advisable to employ foreign teachers who can contribute to the training of qualified national teachers."
+      },
+      {
+        "para_number": 45,
+        "para": "29. Il est important de faciliter et d'encourager pour tous les professeurs de langues les voyages, les séjours et les études à l'étranger et de prévoir à cet effet des bourses ainsi qu'un système d'échanges et de congés payés.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "29. It is important to facilitate and encourage, for all language teachers, travel, stays, and studies abroad, and to provide scholarships as well as a system of exchanges and paid leave for this purpose."
+      },
+      {
+        "para_number": 46,
+        "para": "30. Le perfectionnement des professeurs doit porter aussi sur les aspects pédagogiques de leur enseignement; à cet égard, il est recommandé d'organiser des cours et des colloques nationaux et internationaux pour les tenir régulièrement au courant des nouvelles méthodes et techniques, ainsi que de publier des bulletins de liaison permettant de comparer leurs méthodes et de confronter les résultats obtenus.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "30. The professional development of teachers must also focus on the pedagogical aspects of their teaching; in this regard, it is recommended to organize national and international courses and seminars to keep them regularly informed of new methods and techniques, as well as to publish liaison bulletins enabling the comparison of their methods and the sharing of achieved results."
+      },
+      {
+        "para_number": 47,
+        "para": "31. Pour lutter contre la pénurie de professeurs de langues vivantes qui affecte un grand nombre de pays, il importe de mettre en œuvre tous les moyens propres à faciliter et à accélérer leur recrutement et leur formation; loin de s'en tenir aux seuls ressortissants du pays intéressé, il conviendrait à l'occasion d'engager du personnel appartenant aux pays dont il s'agit d'enseigner la langue.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "31. To address the shortage of modern language teachers affecting a large number of countries, it is essential to implement all measures likely to facilitate and accelerate their recruitment and training; rather than limiting oneself to nationals of the country concerned, it would be appropriate, on occasion, to employ personnel from the countries whose language is to be taught."
+      },
+      {
+        "para_number": 48,
+        "para": "IV. COOPERATION INTERNATIONALE",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "IV. INTERNATIONAL COOPERATION"
+      },
+      {
+        "para_number": 49,
+        "para": "32. Dans le cadre de l'action internationale, il est souhaitable d'enreprendre des études et des recherches comparées concernant l'enseignement des langues vivantes ainsi que le matériel didactique. Il conviendrait en particulier de recueillir, de comparer et de publier les résultats des expériences réalisées dans les différents pays par l'introduction de l'enseignement d'une langue étrangère avant le début des études secondaires.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "32. Within the framework of international action, it is desirable to undertake comparative studies and research concerning the teaching of modern languages as well as educational materials. In particular, it would be appropriate to collect, compare, and publish the results of experiments conducted in various countries involving the introduction of foreign language instruction prior to the commencement of secondary education."
+      },
+      {
+        "para_number": 50,
+        "para": "33. Le recours à des assistants étrangers pour la pratique de la langue parlée semble présenter un double avantage; d'une part, il contribue à l'amélioration de la prononciation, de l'intonation et de la connaissance de la langue courante; d'autre part, il offre à ces assistants l'occasion de se familiariser avec le pays d'accueil et d'en pratiquer la langue. Il convient néanmoins que toutes les dispositions nécessaires soient prises pour que ces assistants soient préalablement informés de la tâche qui les attend et préparés à la remplir.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "33. The use of foreign assistants for spoken language practice appears to offer a dual advantage; on the one hand, it contributes to the improvement of pronunciation, intonation, and the knowledge of the everyday language; on the other hand, it provides these assistants with the opportunity to become acquainted with the host country and to practice its language. However, all necessary measures should be taken to ensure that these assistants are adequately informed in advance about the task awaiting them and are prepared to fulfill it."
+      },
+      {
+        "para_number": 51,
+        "para": "34. Il serait souhaitable que les gouvernements, les organisations internationales et d'autres institutions reconnues qui pourraient s'intéresser — 194 à la chose, collaborent pour mettre sur pied un système international d'échange de professeurs, d'assistants et d'étudiants qui viendrait compléter et renforcer l'action déjà entreprise dans ce domaine.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "It would be desirable for governments, international organizations, and other recognized institutions that may be interested in the matter to cooperate in establishing an international system for the exchange of teachers, assistants, and students, which would complement and strengthen the efforts already undertaken in this field."
+      },
+      {
+        "para_number": 52,
+        "para": "35. Les pays qui manquent de moyens financiers et de personnel qualifié pour assurer l'organisation ou le développement de leur enseignement des langues vivantes devraient bénéficier d'une assistance technique qui pourrait revêtir la forme d'octroi de bourses d'étude et de recherche, d'aide matérielle, d'envoi d'experts, de cours donnés sur place, etc.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "35. Countries lacking financial resources and qualified personnel to ensure the organization or development of their modern language teaching should receive technical assistance, which could take the form of scholarships for study and research, material aid, the dispatch of experts, on-site courses, and so forth."
+      },
+      {
+        "para_number": 53,
+        "para": "36. Pour développer diverses formes d'activités extrascolaires contribuant à la fois à perfectionner la connaissance d'une langue étrangère et celle de la vie et de la culture d'autres nations et à élever la jeunesse dans l'esprit de la compréhension internationale et du maintien de la paix, il est souhaitable: a) de développer le système des écoles associées de l'Unesco et des écoles dites jumelées; b) de développer la correspondance interscolaire entre élèves de différents pays; c) d'organiser des colonies, des camps de vacances et des excursions avec la participation de la jeunesse de différentes nations; d) d'assurer la collaboration de professeurs spécialisés et d'éducateurs à des camps dits linguistiques organisés pour les jeunes qui sont déjà avancés dans l'étude d'une langue étrangère.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "36. To develop various forms of extracurricular activities that contribute both to improving the knowledge of a foreign language and to the understanding of the life and culture of other nations, as well as to raising youth in the spirit of international understanding and the maintenance of peace, it is desirable: a) to develop the UNESCO Associated Schools system and the so-called twinned schools; b) to develop interschool correspondence between students from different countries; c) to organize colonies, holiday camps, and excursions with the participation of youth from different nations; d) to ensure the collaboration of specialized teachers and educators in the so-called language camps organized for young people who are already advanced in the study of a foreign language."
+      },
+      {
+        "para_number": 54,
+        "para": "V. APPLICATION DE LA PRÉSENTE RECOMMANDATION",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "V. IMPLEMENTATION OF THIS RECOMMENDATION"
+      },
+      {
+        "para_number": 55,
+        "para": "37. Il importe que le texte de la présente recommandation fasse l'objet d'une large diffusion de la part des ministères de l'instruction publique, des autorités scolaires du degré d'enseignement le plus directement intéressé, des universités et instituts pédagogiques, des centres de documentation pédagogique, des fédérations internationales et nationales d'enseignement des langues vivantes, des associations de maîtres ou de parents, etc.; la presse pédagogique doit jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant, ainsi que du grand public.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "37. It is essential that the text of the present recommendation be widely disseminated by the ministries of public education, the school authorities of the most directly concerned educational level, universities and teacher training institutes, educational documentation centers, international and national federations of modern language teaching, associations of teachers or parents, etc.; the educational press must play a major role in disseminating this recommendation to the relevant services, administrative and teaching staff, as well as to the general public."
+      },
+      {
+        "para_number": 56,
+        "para": "38. Dans les pays où cela s'avèrerait nécessaire, les ministères de l'instruction publique sont invités à charger les organes compétents de procéder à divers travaux, par exemple: a) examiner la présente recommandation et comparer son contenu avec l'état de droit et de fait existant dans leur pays; b) considérer les avantages et les inconvénients d'une éventuelle application de chacun des articles qui ne seraient pas encore en vigueur; c) adapter chaque article à la situation du pays, si l'application en est jugée utile; d) enfin, proposer les dispositions et mesures d'ordre pratique à prendre pour assurer l'application de l'article considéré.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "38. In countries where it proves necessary, the ministries of public education are encouraged to entrust the competent bodies with carrying out various tasks, for example: a) examining this recommendation and comparing its content with the existing legal and factual situation in their country; b) considering the advantages and disadvantages of the possible application of each article that is not yet in force; c) adapting each article to the country’s situation, if its application is deemed useful; d) finally, proposing practical provisions and measures to be taken to ensure the implementation of the article under consideration."
+      },
+      {
+        "para_number": 57,
+        "para": "39. Les centres régionaux de l'Unesco et d'autres organisations régionales ou internationales de caractère éducatif et culturel sont invités à faciliter, avec la collaboration des ministères intéressés, l'examen, à l'échelon régional, de cette recommandation en vue de son adaptation aux caractéristiques de la région.",
+        "tags": [],
+        "type": null,
+        "think": "",
+        "matched_pars": {},
+        "para_en": "39. The regional centers of UNESCO and other regional or international organizations of an educational and cultural nature are invited to facilitate, in collaboration with the relevant ministries, the regional review of this recommendation with a view to its adaptation to the characteristics of the region."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'instruction publique, et s'y étant réunie le douze juillet mil neuf cent soixante-cinq en sa vingt-huitième session, adopte le vingt-trois juillet mil neuf cent soixante-cinq la recommandation suivante: La Conférence, Considérant que la connaissance d'une ou plusieurs langues vivantes fait partie de la culture générale et de la formation intellectuelle de l'élève au moins au même titre que d'autres disciplines figurant au programme des écoles secondaires et que, dans bien des pays, une langue étrangère au moins constitue un outil indispensable pour l'étude plus étendue et plus approfondie de certaines matières inscrites au programme des classes supérieures, Considérant qu'il appartient aux peuples eux-mêmes de faire choix des langues étrangères qui doivent être enseignées,  189 = Considérant cependant que, dans les pays dont la langue autochtone n'a pas été jusqu'à présent la langue d'enseignement, il est nécessaire de contribuer en premier lieu au développement des langues nationales, à leur émancipation et à l'affermissement de leur position dans les relations internationales, Considérant que la connaissance d'une langue étrangère, comme celle de la littérature, de l'histoire, de la civilisation et du mode de vie propres aux pays où elle est parlée, peut avoir une grande influence sur l'amélioration de la compréhension internationale et de l'entente entre les peuples, Considérant que le développement des relations internationales dans tous les domaines et le perfectionnement des moyens de transport et de communication accroissent d'une manière constante la nécessité pratique de connaître au moins une langue étrangère et d'être en mesure de la manier avec aisance, Considérant que la connaissance des langues étrangères accélère la diffusion des découvertes de la science et de la technique et, de ce fait, contribue efficacement au développement économique et culturel des pays, Considérant que les moyens d'information, tels que le cinéma, la radio et la télévision, mettent les pays à la portée les uns des autres et que les jeunes comme les adultes ont accès à ces divers moyens, Considérant que les possibilités d'études à l'étranger et les échanges d'étudiants et de spécialistes entre pays qui ne parlent pas la même langue se font également de plus en plus nombreux, Considérant qu'il est nécessaire de moderniser les méthodes et les moyens d'enseignement des langues vivantes, compte tenu du développement des connaissances et de la technique, Considérant les nombreuses recommandations formulées sur l'enseignement des langues vivantes par divers organismes et notamment par la Conférence internationale de l'instruction publique dans la recommandation n° 11 qu'elle a adoptée en 1937, lors de sa sixième session, Considérant que, pour satisfaire des aspirations semblables, des pays différents les uns des autres doivent apporter des solutions différentes au problème de l'enseignement des langues vivantes à l'école secondaire, Soumet aux Ministères de l'instruction publique des différents pays la recommandation suivante : I. PLACE FAITE A L'ENSEIGNEMENT DES LANGUES VIVANTES 1. La place réservée à l'enseignement des langues vivantes dépend de la situation propre à chaque pays; il est recommandé cependant que l'étude d'une langue étrangère au moins figure au programme de toutes les classes de tous les types d'écoles secondaires. 2. Le choix de la première langue étrangère peut en général être imposé par des nécessités d'ordre culturel, géographique, ethnique, économique,  — 190 etc. ; lorsqu'une deuxième langue étrangère est enseignée, il serait souhaitable, chaque fois que les moyens le permettent, que les élèves aient la faculté de choisir entre plusieurs langues en fonction de leurs intérêts et de leurs besoins propres. 3. Il est recommandé que l'étude d'une deuxième langue étrangère ne commence que lorsque les structures linguistiques fondamentales de la première langue sont acquises. 4. L'étude des langues étrangères dans les écoles secondaires ne devant pas se borner à une initiation élémentaire, il est recommandé de lui consacrer suffisamment de temps dans l'horaire hebdomadaire. 5. L'efficacité de l'enseignement d'une langue étrangère étant surtout fonction de l'intérêt qu'y portent les élèves, il conviendrait de stimuler cet intérêt en accordant, entre autres, à l'épreuve de langues vivantes une place convenable aux différents examens de l'enseignement secondaire. 6. Lors de la différenciation qui s'institue de plus en plus au début du cycle supérieur des écoles secondaires, il est recommandé de créer des sections comprenant l'étude approfondie de plusieurs langues étrangères et délivrant des diplômes équivalents à ceux des autres sections. 7. Etant donné la facilité avec laquelle les jeunes enfants assimilent les langues et l'intérêt que cet apprentissage présente pour l'étude des langues étrangères dans les écoles secondaires, il conviendrait de favoriser les expériences qui tendent à permettre l'enseignement d'une langue étrangère avant le début des études secondaires, en prenant toutes les précautions nécessaires pour que l'apprentissage de cette langue ne compromette pas l'acquisition de la langue maternelle. II. BUTS, PROGRAMMES ET MÉTHODES caractères 8. Les buts de l'enseignement des langues vivantes sont à la fois de caractères formatif, éducatif et pratique; l'éducation intellectuelle que constitue l'apprentissage d'une langue ne doit pas se faire au détriment de l'utilisation pratique de cette langue; de même, les applications pratiques ne doivent pas empêcher l'étude approfondie de la langue dans ses particularités linguistiques. 9. L'enseignement des langues vivantes ne constitue pas une fin en soi; mais il doit servir, par ses aspects culturels et humains, à la formation de l'esprit et du caractère et contribuer à une meilleure compréhension internationale et à l'établissement d'une coopération pacifique et amicale entre les peuples. 10. Il en résulte qu'à côté de l'étude orale et écrite de la langue proprement dite, les programmes doivent faire une place non seulement à la littérature, mais à une information objective sur la civilisation des pays où cette langue est parlée, tout en tenant compte des possibilités intellectuelles et des intérêts des élèves.  — 191 — 11. Les instructions qui peuvent être données officiellement quant au choix des méthodes, des techniques et des manuels devraient, tout en orientant le travail des professeurs, laisser à ces derniers une marge suffisante de liberté et d'initiative, compatible avec les méthodes reconnues valables, qui permette d'améliorer progressivement les méthodes et les manuels pour l'enseignement des langues vivantes. 12. Les diverses méthodes actives, qui ont fait leurs preuves depuis longtemps, semblent convenir le mieux à l'acquisition d'une langue étrangère. Les nouvelles techniques d'enseignement des langues vivantes, de même que l'enseignement programmé, doivent faire l'objet d'études, de recherches et d'expériences afin d'assurer leur utilisation appropriée et efficace. 13. Ce qui importe avant tout, c'est que l'apprentissage de la langue parlée précède celui de la langue écrite et qu'une large part soit faite, dès le début, aux exercices d'audition, de prononciation et de conversation, en ayant recours le moins possible à la langue maternelle ou à la langue d'enseignement. 14. Il n'en demeure pas moins que la grammaire et la syntaxe, de même que l'orthographe, ne doivent pas être négligées; mais il faut s'efforcer de les enseigner de sorte que, loin de constituer une fin en soi, elles contribuent à développer l'usage correct de la langue étrangère, parlée et écrite. 15. L'importance de la recherche et des expériences en vue de déterminer les méthodes les plus efficaces et les modalités de l'enseignement des langues étrangères dans un système scolaire donné ne doit pas être sous-estimée; il faut tenir compte des caractéristiques particulières du milieu et de la langue maternelle des élèves. 16. Il est souhaitable, si les conditions le permettent, de diviser les classes de langues vivantes en groupes aussi restreints que possible. 17. Les activités de complément qui font appel à la participation active des élèves — jeux, chants, dramatisation, clubs de langues, etc. doivent être suffisamment nombreuses et variées pour contribuer à la consolidation et à l'enrichissement des connaissances acquises. 18. Il importe de mettre en œuvre tous les moyens pour faciliter et multiplier les voyages et les séjours d'élèves dans les pays où se parle la langue étudiée; ces séjours peuvent se faire à titre individuel ou être organisés collectivement sous forme d'échanges dirigés par des professeurs responsables, par des organisations de jeunesse, etc.; lorsque de tels voyages ou séjours s'avèrent impossibles, des camps de vacances devraient être organisés sur place avec la participation de ressortissants des pays où l'on parle la langue en question. 19. Les moyens audio-visuels qui se sont montrés particulièrement efficaces pour l'enseignement des langues vivantes devraient être mis à la disposition de tous les établissements du second degré; il serait de même souhaitable que des laboratoires de langues, spécialement conçus pour  192 l'enseignement secondaire, soient installés en nombre suffisant pour répondre aux besoins essentiels de chaque pays. 20. L'utilité de la radio, de la télévision et du cinéma comme compléments à l'enseignement systématique des langues vivantes mérite également d'être soulignée; il importe que les programmes et les horaires des émissions de radio et de télévision soient établis en étroite liaison avec ceux des établissements d'enseignement et que ces derniers puissent disposer des postes récepteurs nécessaires et du matériel visuel complémentaire; il convient toutefois de souligner que la radio, la télévision et le cinéma ne sauraient se substituer à l'enseignement du professeur. 21. Il importe que les manuels de langues vivantes reflètent la vie et la culture du pays des élèves et des pays dont ils apprennent la langue, qu'ils soient attrayants et illustrés de photos et de gravures, qu'ils se conforment à l'esprit des méthodes actives généralement préconisées, et qu'il soit tenu compte, lors de leur élaboration, des travaux accomplis dans le domaine de la linguistique. Dans certains pays où les élèves apprennent une langue étrangère en l'utilisant comme langue d'enseignement, il importe que les manuels adoptés à cette fin reflètent la culture du pays des élèves. 22. Il convient, notamment dans le cycle supérieur des écoles secondaires, d'attribuer une haute importance à la lecture des auteurs qui peuvent donner à l'enseignement des langues vivantes une grande valeur de culture générale, ne serait-ce qu'au moyen de commentaires non pas d'ordre grammatical mais de caractère interprétatif, culturel et esthétique. 23. Les bibliothèques scolaires devraient être pourvues de livres, revues et journaux en langues étrangères et de toute autre documentation (y compris la documentation audio-visuelle) pouvant contribuer à une meilleure connaissance des différents pays; à cet effet, il y aurait tout avantage à organiser, entre les écoles des divers pays intéressés, des échanges de documentation de tout genre. 24. Il importe d'accentuer et de développer, dans toute la mesure du possible, la coordination entre l'enseignement des langues vivantes et celui de la langue maternelle, de l'histoire, de la géographie, de l'histoire de l'art et de toute autre discipline pouvant avoir un rapport avec les langues étrangères. 25. L'expérience tentée dans quelques pays, aux fins d'enseigner un certain nombre de disciplines dans une langue étrangère déterminée, semble avoir donné de bons résultats; cette pratique pourrait éventuellement être étendue à d'autres pays et s'appliquer notamment dans les sections de langues modernes qui se créent dans les écoles secondaires ou dans certaines écoles spécialisées. 26. Il est indispensable que les programmes de langues vivantes fassent l'objet de révisions et d'adaptations périodiques pour tenir compte de l'évolution de la langue enseignée et des pays qui la parlent, ainsi que du développement des méthodes et des techniques modernes dont peuvent disposer les écoles et les professeurs.  — 193 — III. PERSONNEL ENSEIGNANT 27. Il est indispensable d'assurer aux futurs professeurs de langues vivantes une formation à la fois générale, linguistique et pédagogique, théorique et pratique, qui soit conforme aux progrès de la linguistique, de la pédagogie et des techniques modernes audio-visuelles. 28. Afin de développer la formation de professeurs de langues vivantes et d'augmenter le nombre des professeurs qualifiés, il est souhaitable d'avoir recours aux professeurs étrangers qui peuvent contribuer à la formation de professeurs nationaux qualifiés. 29. Il est important de faciliter et d'encourager pour tous les professeurs de langues les voyages, les séjours et les études à l'étranger et de prévoir à cet effet des bourses ainsi qu'un système d'échanges et de congés payés. 30. Le perfectionnement des professeurs doit porter aussi sur les aspects pédagogiques de leur enseignement; à cet égard, il est recommandé d'organiser des cours et des colloques nationaux et internationaux pour les tenir régulièrement au courant des nouvelles méthodes et techniques, ainsi que de publier des bulletins de liaison permettant de comparer leurs méthodes et de confronter les résultats obtenus. 31. Pour lutter contre la pénurie de professeurs de langues vivantes qui affecte un grand nombre de pays, il importe de mettre en œuvre tous les moyens propres à faciliter et à accélérer leur recrutement et leur formation; loin de s'en tenir aux seuls ressortissants du pays intéressé, il conviendrait à l'occasion d'engager du personnel appartenant aux pays dont il s'agit d'enseigner la langue. IV. COOPERATION INTERNATIONALE 32. Dans le cadre de l'action internationale, il est souhaitable d'enreprendre des études et des recherches comparées concernant l'enseignement des langues vivantes ainsi que le matériel didactique. Il conviendrait en particulier de recueillir, de comparer et de publier les résultats des expériences réalisées dans les différents pays par l'introduction de l'enseignement d'une langue étrangère avant le début des études secondaires. 33. Le recours à des assistants étrangers pour la pratique de la langue parlée semble présenter un double avantage; d'une part, il contribue à l'amélioration de la prononciation, de l'intonation et de la connaissance de la langue courante; d'autre part, il offre à ces assistants l'occasion de se familiariser avec le pays d'accueil et d'en pratiquer la langue. Il convient néanmoins que toutes les dispositions nécessaires soient prises pour que ces assistants soient préalablement informés de la tâche qui les attend et préparés à la remplir. 34. Il serait souhaitable que les gouvernements, les organisations internationales et d'autres institutions reconnues qui pourraient s'intéresser  — 194 à la chose, collaborent pour mettre sur pied un système international d'échange de professeurs, d'assistants et d'étudiants qui viendrait compléter et renforcer l'action déjà entreprise dans ce domaine. 35. Les pays qui manquent de moyens financiers et de personnel qualifié pour assurer l'organisation ou le développement de leur enseignement des langues vivantes devraient bénéficier d'une assistance technique qui pourrait revêtir la forme d'octroi de bourses d'étude et de recherche, d'aide matérielle, d'envoi d'experts, de cours donnés sur place, etc. 36. Pour développer diverses formes d'activités extrascolaires contribuant à la fois à perfectionner la connaissance d'une langue étrangère et celle de la vie et de la culture d'autres nations et à élever la jeunesse dans l'esprit de la compréhension internationale et du maintien de la paix, il est souhaitable: a) de développer le système des écoles associées de l'Unesco et des écoles dites jumelées; b) de développer la correspondance interscolaire entre élèves de différents pays; c) d'organiser des colonies, des camps de vacances et des excursions avec la participation de la jeunesse de différentes nations; d) d'assurer la collaboration de professeurs spécialisés et d'éducateurs à des camps dits linguistiques organisés pour les jeunes qui sont déjà avancés dans l'étude d'une langue étrangère. V. APPLICATION DE LA PRÉSENTE RECOMMANDATION 37. Il importe que le texte de la présente recommandation fasse l'objet d'une large diffusion de la part des ministères de l'instruction publique, des autorités scolaires du degré d'enseignement le plus directement intéressé, des universités et instituts pédagogiques, des centres de documentation pédagogique, des fédérations internationales et nationales d'enseignement des langues vivantes, des associations de maîtres ou de parents, etc.; la presse pédagogique doit jouer un grand rôle dans la diffusion de cette recommandation auprès des services intéressés, du personnel administratif et enseignant, ainsi que du grand public. 38. Dans les pays où cela s'avèrerait nécessaire, les ministères de l'instruction publique sont invités à charger les organes compétents de procéder à divers travaux, par exemple: a) examiner la présente recommandation et comparer son contenu avec l'état de droit et de fait existant dans leur pays; b) considérer les avantages et les inconvénients d'une éventuelle application de chacun des articles qui ne seraient pas encore en vigueur; c) adapter chaque article à la situation du pays, si l'application en est jugée utile; d) enfin, proposer les dispositions et mesures d'ordre pratique à prendre pour assurer l'application de l'article considéré. 39. Les centres régionaux de l'Unesco et d'autres organisations régionales ou internationales de caractère éducatif et culturel sont invités à faciliter, avec la collaboration des ministères intéressés, l'examen, à l'échelon régional, de cette recommandation en vue de son adaptation aux caractéristiques de la région."
+  }
+}

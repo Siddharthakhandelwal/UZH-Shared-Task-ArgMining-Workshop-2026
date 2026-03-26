@@ -1,0 +1,413 @@
+[
+    {
+        "type": "paragraph",
+        "text_fr": "1204  (XII).  Previsions  de  depenses  pour  l'entretien  de  la  Force  d'urgence des Nations  Unies  (13  decembre  1957)  [point  65]",
+        "text_en": "1204 (XII). Provision for the maintenance of the United Nations Emergency Force (13 December 1957) [item 65]"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1220  (XII).  Rapport  du  Conseil  economique  et  social  [chap.  X]  (14  decembre 1957)  [point 12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............... .",
+        "text_en": "1220 (XII). Report of the Economic and Social Council [Chapter X] (14 December 1957) [item 12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1221  (XII).  Bareme  des  ajustements  (indemnites  de  poste  ou  deductions): classement  de  l'Office  de  l'Organisation des  Nations  Unies  a  Geneve  ( 14 decembre  1957)  [point  41] ........................................ .",
+        "text_en": "1221 (XII). Scale of adjustments (post or reduction allowances): Classification of the United Nations Office at Geneva (14 December 1957) [item 41] ................................................................"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1222  (XII).  Budget  additionnel  pour  l'exercice  1957 ( 14 decembre  1957) [point  40]  ....................................................... .",
+        "text_en": "1222 (XII). Additional budget for the financial year 1957 (14 December 1957) [item 40] ..............................................................................."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1223  (XII).  Bareme des  quotes-parts pour la  repartition  des depenses  de  !'Organisation  des  Na.tions  Unies  ( 14  decembre  1957)  [point 44] ............. .",
+        "text_en": "1223 (XII). Scale of assessments for the apportionment of the expenses of the United Nations (December 14, 1957) [item 44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1224  (XII). Offre par le  Gouvernement du Chili  d'un terrain a Santiago pour ser› vir  d'emplacement a des  bureaux  de  !'Organisation des  Nations  Unies  et d'autres organisations  internationales  ( 14  decembre  1957)  [point  50] ..",
+        "text_en": "1224 (XII). Offer by the Government of Chile of land in Santiago to serve as a location for offices of the United Nations and other international organizations (December 14, 1957) [item 50] .."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1225  (XII). Regime  des  traitements,  indemnites  et  prestations  en  vigueur a !'Organisation  des  Nations  Unies:  amendements  au  Statut  du  personnel de  l'Organisation  (14  decembre  1957)  [point  51] ..................... .",
+        "text_en": "1225 (XII). Pay, compensation and benefits in force a) United Nations: amendments to the Staff Regulations of the Organization (14 December 1957) [item 51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1226  (XII).  Question de  la repartition geographique du  personnel  du  Secretariat de  !'Organisation des  Nations  Unies  (14 decembre  1957)  [point  51] ..... .",
+        "text_en": "1226 (XII). Question of the geographical distribution of the staff of the Secretariat of the United Nations (14 December 1957) [item 51] ..... ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1227  (XII).  Revision du Statut du personnel ainsi  que des principes et des normes progressivement  appliques  pour  sa  mise  en  reuvre  ( 14  decembre  1957) [point  51] . . . . . . . . . . . . . . . . . . . . . ......... .",
+        "text_en": "1227 (XII). Revision of the Staff Regulations and of the principles and standards progressively applied for its implementation (14 December 1957) [item 51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1228  (XII).  Ecole internationale des  Nations Unies et Jocaux  pour les  delegations (14  decembre  1957)  [point  52] ..................................... .",
+        "text_en": "1228 (XII). United Nations International School and Jocaux pour les delegations (14 December 1957) [item 52] ...................................................."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1230  (XII).  Ouverture  de  credits  pour  l'exercice  1958  (14  decembre  1957) [point  41] .................................................... .",
+        "text_en": "1230 (XII). Initiation of appropriations for the financial year 1958 (14 December 1957) [point 41] ...................................................................."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1231  (XII).  Depenses  imp revues  et  extraordinaires  pour  l'exercice  1958  ( 14 decembre  1957)  [point  41] ......................................... .",
+        "text_en": "1231 (XII). Unrevised and extraordinary expenditure for the financial year 1958 (14 December 1957) [item 41] ................................................."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1232  (XII).  Fonds  de  roulement  pour  l'exercice  1958  (14  decembre  1957) (point  41] .................................................... .",
+        "text_en": "1232 (XII). Working Capital Fund for the financial year 1958 (14 December 1957) (item 41) ...................................................................."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1233  (XII).  Modification  de  la  date d'echeance du  remboursement  du pret relatif au  Siege  (14  decembre  1957)  (point  41]. . ......................... .",
+        "text_en": "1233 (XII). Modification of the repayment date of the Siege loan (14 December 1957) (point 41). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "40",
+        "text_en": "40"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "40",
+        "text_en": "40"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "40",
+        "text_en": "40"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "41",
+        "text_en": "41"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "43",
+        "text_en": "43"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "45",
+        "text_en": "45"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "45",
+        "text_en": "45"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "46",
+        "text_en": "46"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "46",
+        "text_en": "46"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "46",
+        "text_en": "46"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "47",
+        "text_en": "47"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "48",
+        "text_en": "48"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "48",
+        "text_en": "48"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "49",
+        "text_en": "49"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1234  (XII). Emoluments  des  Sous-Secretai.res:  amendements  au  Statut  du  per› sonnel de }'Organisation des Nations Unies ( 14 decembre  1957)  [point 4r} .. ·  49",
+        "text_en": "1234 (XII). Emoluments of the Subsecretai.res: amendments to the Statute of the General Assembly of the United Nations (14 December 1957) [item 4r} .. · 49"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1235  (XII).  Secretariat du  Comite  d'etat-major (14 decembre  1957)  [point 41]",
+        "text_en": "1235 (XII). Secretariat of the Committee of the Staff (14 December 1957) [item 41]"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "50",
+        "text_en": "50"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Autres decisions  prises par  l' Assemblee  gencrale  sur  recommandation  de la Cift› quieme  Commission:",
+        "text_en": "Other decisions taken by the General Assembly on the recommendation of the Cift› Fifth Commission:"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Revision  des  methodes  de  verification  des  comptes  de  l'Organisation des  Nations Unies et des  institutions specialisees  (26 novembre  1957)  [point 47]. . . . . . . . . .",
+        "text_en": "Review of the methods of auditing the accounts of the United Nations and specialized agencies (26 November 1957) [item 47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Regime  des  honoraires  et  indemnites  speciales  verses  aux  membres  des com› missions,  comites  et  autres  organes  subsidiaires  de  l' Assemblee generale OU d'autres  organes  de  }'Organisation des  Nations  Unies  (13  decembre  1957) [point  41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "text_en": "Special fees and compensation payable to members of committees, committees and other subsidiary bodies of the General Assembly OR other organs of the United Nations (13 December 1957) [item 41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "1137  {XII).  Bareme  des  quotee·parte  pour  la repartition  dee  depeneee  de  l'Organiaation dee  Nations  Uniee",
+        "text_en": "1137 {XII). Share scale for the distribution of the Organization of the United Nations"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "L'Assemblee generale,",
+        "text_en": "The General Assembly,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Rappelanl ses  resolutions  14  (I)  du  13  fevrier  1946, 238  (III)  du  18  novembre  1948  et  665  (VII)  du 5  decembre  1952,  concernant  la  repartition,  entre  les Etats  Membres,  des  depenses  de  !'Organisation  des Nations Unies et la fixation  du pourcentage que ne doit depasser  la quote-part  d'aucun Etat  Membre,",
+        "text_en": "Recalling its resolutions 14 (I) of 13 February 1946, 238 (III) of 18 November 1948 and 665 (VII) of 5 December 1952 concerning the distribution among Member States of the expenditure of the United Nations and the determination of the percentage which must not exceed the share of any Member State,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "N otant que,  lorsque ce plafond a ete  fixe a 33,33 pour 100 a compter  du  ler  janvier  1954,  !'Organisation comprenait  soixante  Etats  Membres,",
+        "text_en": "However, when this ceiling was fixed at 33.33 per cent from 1 January 1954, the Organization included sixty Member States,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Notant  en  outre que,  depuis  le  ler  Janvier  1954, vingt-deux Etats ont ete admis a l'Orgamsation,",
+        "text_en": "Noting further that, since 1 January 1954, twenty-two States have been admitted to the Orgamsation,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "-Rappelant sa resolution  1087  (XI)  du  21  decembre 1956,  en  vertu  de  laquelle  les  quotes-parts  des  seize",
+        "text_en": "-Recalling its resolution 1087 (XI) of 21 December 1956, according to which the shares of the"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "50",
+        "text_en": "50"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "so",
+        "text_en": "n/a"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "premiers  Etats  admis a !'Organisation  depuis  le  ler janvier  1954  ont  ete  incluses  dans  le  bareme  regulier des  contributions  pour  1956  et  1957  et  ont  servi a reduire  la  quote-part  de  tous  les  Etats  Membres, a !'exception  de  celui  qui  verse  la  contribution  la  plus elevee et de ceux  qui  versent la contribution minimum,",
+        "text_en": "the first States admitted to the Organization since 1 January 1954 have been included in the regular scale of contributions for 1956 and 1957 and have served to reduce the quota of all Member States, with the exception of the one who pays the highest contribution and those who pay the minimum contribution,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "N otant qu'il  y  a  maintenant  six  nouveaux  Etats Membres la  Federation  de  Malaisie,  le  Ghana,  le J apon,  le  Maroc,  le  Soudan  et la  Tunisie dont  la quote-part  n'a encore  ete  ni  fixee  par  le  Comite  des contributions  ni incluse  dans  les  100  pour  100 du bareme  des  quotes-parts,",
+        "text_en": "With the exception of six new Member States, the Federation of Malaysia, Ghana, Japan, Morocco, Sudan and Tunisia, whose assessments have not yet been fixed by the Committee or included in the 100 per cent of the scale of assessments,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Decide ce  qui  suit:",
+        "text_en": "Decides:"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. En principe,  la contribution maximum d'un Etat Membre aux depenses  ordinaires de l'Organisation des Nations  Unies  ne  doit  pas  depasser  30  pour  100  du total;",
+            "2. Les contributions correspondant aux quotes-parts fixees  par  le  Comite  des  contributions  pour  1956  et 1957  en ce  qui  concerne le  Japon, le Maroc,  le  Soudan et  la Tunisie,  et pour  1957  en  ce  qui  concerne la  Fede› ration  de  Malaisie  et  le Ghana,  seront  considerees comme  recettes  accessoires  de  !'Organisation;",
+            "3. Lorsqu'il preparera  le  bareme  des  quotes-parts pour  1958  et  pour· 1es  exercices  ulterieurs,  le  Comite des  contributions  agira  comme  suit:",
+            "a) Les  quotes-parts  fixees  par le  Comite  des  contri› butions pour  1958 en  ce  qui  concerne la  Federation de Malaisie,  le  Ghana,  le  Japon,  le  Maroc,  le  Soudan  et la  Tunisie  seront  incluses  dans  les  100  pour  100  du bareme  de  1958;  pour  cette  operation,  on  utilisera  la somme  des  quotes-parts  des  six  Etats  Membres  pre› cites  afin  de  reduire  proportionnellement  les  quotes› parts  de  tous  les  E.tats  Membresa !'exception  de ceux  qui  versent  la  quote-part  minimum en  tenant compte  du  principe  du  maximum  par  habitant  et  de toute  reduction  qui  pourrait  devenir  necessaire  une fois  que  le  Comite  des  contributions  aura  examine, a sa  session  commen<;ant  le  15  octobre  1957,  les  recours relatifs a des recommandations  anteriaires dudit . comite;",
+            "b) Au cours de la periode de trois ans correspondant au  prochain  bareme  des  quotes-parts  (1959-1961),  le Comite  des  contributions  recommandera  de  nouvelles mesures  en  vue  de  reduire  la  quote-part  de  l'Etat Membre qui verse la contribution la plus elevee,  lorsque de  nouveaux  Etats  seront  admis a l'Organisation des Nations  Unies;",
+            "c) Par la  suite,  le  Comite  des  contributions  recom› mandera  !'adoption  des  mesures  supplementaires  qui pourront  etre  necessaires  et  appropriees  pour  achever la reduction ;",
+            "d) Les  quotes-parts  des  Etats  Membres  ne  seront en aucun cas majorees du fait  de la presente resolution."
+        ],
+        "items_en": [
+            "1. In principle, the maximum contribution of a Member State to the regular expenses of the United Nations shall not exceed 30 per cent of the total;",
+            "2. Contributions to the assessed contributions fixed by the Committee for 1956 and 1957 in respect of Japan, Morocco, Sudan and Tunisia, and for 1957 in respect of the Fede›ration of Malaysia and Ghana, shall be considered as miscellaneous income of the Organization;",
+            "3. When preparing the scale of assessments for 1958 and for the first subsequent financial years, the Committee on Contributions shall act as follows:",
+            "(a) The contributions fixed by the Committee on Contributions for 1958 in respect of the Federation of Malaysia, Ghana, Japan, Morocco, Sudan and Tunisia will be included in the 100 per cent of the 1958 scale; for this operation, the sum of the assessed contributions of the six Member States mentioned above will be used in order to reduce proportionately the shares of all Member Statesa except those which pay the minimum assessment, taking into account the principle of the maximum per capita share and any reduction which may become necessary once the Committee on Contributions has considered, at its session commencing on 15 October 1957, the appeals relating to prior recommendations of the said Committee;",
+            "(b) During the three-year period corresponding to the next scale of assessments (1959-1961), the Committee on Contributions will recommend further measures to reduce the quota of the Member State paying the highest contribution, when new States are admitted to the United Nations;",
+            "(c) Subsequently, the Committee on Contributions will recommend the adoption of additional measures which may be necessary and appropriate to complete the reduction;",
+            "(d) The assessments of Member States will in no way be increased as a result of the present resolution."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "705eme  seance  pleniere,",
+        "text_en": "705th plenary session,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "14  octobre  1957.",
+        "text_en": "14 October 1957."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1168  (XU).  Rapports de verification des comptes concernant  les  depenses  effectuees  par  les institutions  specialisees, au titre du Compte special de l'assistance technique",
+        "text_en": "1168 (XU). Audit reports on expenditure incurred by specialized institutions under the Special Account for Technical Assistance"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "L' Assemblee generale",
+        "text_en": "The General Assembly"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "Prend acte des  rapports  de  verification  des  comptes 1 concernant  les  depenses  effectuees  par  les  institutions specialisees  au  titre  du  Compte  special  de  }'assistance technique, pour l'exercice termine le  31  decembre  1956, et des  observations  que  le  Comite  consultatif  pour  les questions  administratives  et  budgetaires  a  formulees a ce  sujet  clans  son  quinzieme  rapport 2 a 1' Assemblee generale  ( douzien\\_ie  session) .",
+        "text_en": "Takes note of the audit reports on the expenditure made by the specialized institutions under the Special Technical Assistance Account for the financial year ended 31 December 1956 and of the observations made by the Advisory Committee on Administrative and Budgetary Questions on this subject in its fiftieth report 2 to 1 General Assembly (Douzian\\_ie session) ."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "723 eme  seance  pleniere, 26  navembre 1957.",
+        "text_en": "723th plenary session, 26 November 1957."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1169  (Xll).  Organisation dea Nations Unies: rapports  financiers  et comptes pour l'exer› eice  termine  le  31  decembre  1956  et rapport  du  Comite  des  commissaires  aux comptes",
+        "text_en": "1169 (Xll). United Nations: financial reports and accounts for the year› eice ended 31 December 1956 and report of the Committee of Auditors"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "L' Assemblee generale",
+        "text_en": "The General Assembly"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Accepte les  rapports financiers  et les  comptes  de l'Organisation des  Nations  Unies,  pour  l'exercice ter-"
+        ],
+        "items_en": [
+            "1. Accepts the financial reports and accounts of the United Nations for the financial period from 1 July 1993 to 30 June 1993"
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "mine le  31  decembre  1956,  ainsi que les attestations du Comite  des  commissaires  aux  comptes 8 ;",
+        "text_en": "mined on 31 December 1956, together with the certificates of the Board of Auditors 8;"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "2. S'associe aux  observations  que  le Comite con› sultatif pour les questions administratives et budgetaires a  formulees a ce  sujet  clans  son  douzieme  rapport' a I' Assemblee  generale  ( douzieme  session)."
+        ],
+        "items_en": [
+            "2. Endorses the observations made by the Committee on Administrative and Budgetary Questions on this subject in its twelfth report to the General Assembly (twelfth session)."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "723eme  seance  pleniere,",
+        "text_en": "723rd plenary session,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "26  novembre 1957.",
+        "text_en": "26 November 1957."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1170  (Xll).  Fonds  des Nations  Unies pour l'en· fance:  rapport  financier  et  comptes  paur l'exercice termine le  31  decembre  1956 et rapport  du  Comite  des  commiHaires  aux comptes",
+        "text_en": "1170 (Xll). United Nations Children's Fund: financial report and accounts for the year ended 31 December 1956 and report of the Committee of Auditors"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "L' Assemblee generale",
+        "text_en": "The General Assembly"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Acc.epte le  rapport  financier  et  les  comptes  du· Fonds des  Nations  Unies  pour  l'enfance,  pour  l'exer› cice  termine  le  31  decembre  1956,  ainsi  que  !'attes› tation  du  Comite  des  commissaires  aux comptes 11 ;",
+            "2. Prend  acte des  observations  que  le  Comite  con› sultatif  pour  Jes  questions  administratives  et  budge› taires  a  formulees a ce  sujet  clans  son  quatorzieme rapport 6 a 1' Assemblee  generate  ( douzieme  session)."
+        ],
+        "items_en": [
+            "1. Acc.epts the financial report and accounts of the United Nations Children's Fund, for the financial year ending 31 December 1956, as well as the reports of the Board of Auditors;",
+            "2. Takes note of the observations made by the Committee on Administrative and Budgetary Questions on this subject in its fourth report 6 to 1 of the General Assembly (twelfth session)."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "723eme  seance  pleniere, 26  novembre 1957.",
+        "text_en": "723rd Plenary Session, 26 November 1957."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1171  (XIl).  Agence  des  Nations  Unies  pour  le relevement  de  la  Coree:  rapport  financier et  comptes  pour  l'exercice  termine  le  30 juin  1957  et  rapport  du  Comite  dea  com· mil!l8aires  aux  comptes",
+        "text_en": "1171 (XIl). United Nations Core Survey Agency: financial report and accounts for the year ended 30 June 1957 and report of the Committee of the Regions to the accounts"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "L' Assemblee generate",
+        "text_en": "The General Assembly"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Accepte le  rapport  financier  et  les  comptes  de I' Agence  des  Nations  Unies  pour  le  relevement  de  la Coree,  pour  l'exercice termine  le  30  juin  1957,  ainsi que  l'attestation  du  Comite  des  commissaires  aux comptes 7 ;",
+            "2. Prend  acte des  observations que  le  Comite  con› sultatif  pour  les  questions  administratives  et  budge› taires a formulees a ce  sujet clans  son seizieme rapport 8 a l' Assemblee  generale  ( douzieme  session)."
+        ],
+        "items_en": [
+            "1. Accepts the financial report and accounts of the United Nations Core Survey Agency for the financial year ended 30 June 1957, as well as the attestation of the Board of Auditors 7;",
+            "2. Takes note of the observations made by the Committee on Administrative and Budgetary Questions on this subject in its sixteenth report to the General Assembly (twelfth session)."
+        ]
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "723)me #ance  pleniere,",
+        "text_en": "723)th #ance pleniere,"
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "26 navembre 1957.",
+        "text_en": "26 November 1957."
+    },
+    {
+        "type": "paragraph",
+        "text_fr": "1172  (XII).  Fonds  des  Nations  Unies  pour  les refugies: rapport financier et comptea pour l'exercice  termine le  31  decembre  1956  et rapport  du  Comite  des  commissaire·  aux comptes",
+        "text_en": "1172 (XII). United Nations Refugee Fund: financial report and account for the year ended 31 December 1956 and report of the Committee of Auditors"
+    },
+    {
+        "type": "heading",
+        "level": 2,
+        "text_fr": "L' Assemblee generate",
+        "text_en": "The General Assembly"
+    },
+    {
+        "type": "list",
+        "items_fr": [
+            "1. Accepte le  rapport  financier  et  les  comptes  du Fonds des Nations Unies pour les  refugies, pour l'exer-",
+            "11 Jbid·.,  douzieme  session,  Supplement  No  6 (A/3590).",
+            "4 Ibid.,  dou::ieme  session,,  Anne.i-es, point  49  de  l'ordre  du iour,  document  A/3707.",
+            "~ Ibid.,  douzieme  session,  Supplbne11t  No  6A (A/3591).",
+            "6 Jbid.,  douzieme  session,  Annexes, point 49  de l'ordre du  jour, document  A/3709.",
+            "7 Ibid.,  douzieme  session, Suppliment No 6B (A/3696).",
+            "8 !bicl., dcmeieme session,  Anneres, point 49 de l'ordre du iour, document  A/3715."
+        ],
+        "items_en": [
+            "1. Accepts the financial report and accounts of the United Nations Refugee Fund for the period from 1 July 2008 to 30 June 2013;",
+            "11 Jbid., douzieth session, Supplement No. 6 (A/3590).",
+            "4 Ibid., dou: Same session, Anne.i-es, item 49 of the provisional agenda, document A/3707.",
+            "~ Ibid., twelfth session, Supplbne11t No. 6A (A/3591).",
+            "6 Jbid., twelfth session, Annexes, agenda item 49, document A/3709.",
+            "7 Ibid., twelfth session, Supplement No. 6B (A/3696).",
+            "8 !bicl., dcmeieth session, Anneres, point 49 of the order of the day, document A/3715."
+        ]
+    }
+]
