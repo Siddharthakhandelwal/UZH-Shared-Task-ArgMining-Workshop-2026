@@ -78,9 +78,19 @@ def load_tags(csv_path: Path) -> tuple[list[str], dict[str, str]]:
     tag_list : list[str]          — ordered list of all 141 tag names
     tag_desc : dict[str, str]     — {tag_name: human-readable description}
     """
-    df       = pd.read_csv(csv_path)
-    name_col = df.columns[0]
-    desc_col = df.columns[1] if len(df.columns) > 1 else name_col
+    # Use sep=';' to parse the education_dimensions_updated.csv correctly
+    df       = pd.read_csv(csv_path, sep=';', keep_default_na=False)
+    
+    # Specifically target the CODE -> Categories mapping if they exist
+    if "CODE" in df.columns and "Categories" in df.columns:
+        name_col = "CODE"
+        desc_col = "Categories"
+    else:
+        name_col = df.columns[0]
+        desc_col = df.columns[1] if len(df.columns) > 1 else name_col
+
+    # Drop 'NA' placeholders if any, then convert to string
+    df = df[~df[name_col].isin(['NA', 'NaN'])]
 
     tag_list = df[name_col].astype(str).tolist()
     tag_desc = dict(zip(df[name_col].astype(str), df[desc_col].astype(str)))
