@@ -9,19 +9,15 @@ from pathlib import Path
 import torch
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
-# When running on Kaggle, the dataset is mounted under /kaggle/input/<SLUG>/
-# Change DATASET_SLUG to match whatever slug you used when uploading to Kaggle.
-KAGGLE_INPUT   = Path("/kaggle/input")
-DATASET_SLUG   = "uzh-argmining-2026"         # <── edit if your slug differs
-
-TRAIN_DIR      = KAGGLE_INPUT / DATASET_SLUG / "train"
-TEST_DIR       = KAGGLE_INPUT / DATASET_SLUG / "test"
-TAGS_CSV       = KAGGLE_INPUT / DATASET_SLUG / "evaluation_dimensions_updated.csv"
-
 # Repo-local directories (created at runtime if missing)
 REPO_ROOT      = Path(__file__).parent
 OUTPUT_DIR     = REPO_ROOT / "outputs"
 CACHE_DIR      = REPO_ROOT / ".cache"         # stores FAISS indices + embeddings
+
+# Using the cloned dataset in the data/ directory
+TRAIN_DIR      = REPO_ROOT / "data" / "train-data"
+TEST_DIR       = REPO_ROOT / "data" / "test-data"
+TAGS_CSV       = REPO_ROOT / "data" / "education_dimensions_updated.csv"
 
 # ─── GPU / dtype ──────────────────────────────────────────────────────────────
 # P100 = CUDA compute 6.0  →  supports INT8 but NOT NF4/4-bit or bfloat16
