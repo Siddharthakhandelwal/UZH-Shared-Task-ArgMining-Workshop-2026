@@ -1,0 +1,10 @@
+transformers>=4.45.0
+bitsandbytes>=0.43.1
+accelerate>=0.30.0
+sentence-transformers>=3.0.0
+faiss-cpu
+scikit-learn>=1.4.0
+pandas
+numpy
+tqdm
+huggingface_hub
