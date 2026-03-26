@@ -19,21 +19,42 @@ def load_json_docs(folder: Path) -> list[dict]:
     docs = []
     for fp in sorted(folder.glob("*.json")):
         with open(fp, encoding="utf-8") as f:
-            docs.append(json.load(f))
+            data = json.load(f)
+            # Handle list array format (e.g. training data)
+            if isinstance(data, list):
+                docs.append({
+                    "doc_id": fp.stem,
+                    "paragraphs": data
+                })
+            # Handle dict format (e.g. test data)
+            elif isinstance(data, dict):
+                # Ensure doc_id exists
+                if "doc_id" not in data:
+                    data["doc_id"] = data.get("TEXT_ID", data.get("id", fp.stem))
+                
+                # Check for nested paragraphs
+                if "paragraphs" not in data:
+                    body = data.get("body", {})
+                    data["paragraphs"] = body.get("paragraphs", body.get("paras", []))
+                    
+                docs.append(data)
+                
     print(f"  Loaded {len(docs):,} documents from {folder}")
     return docs
 
 
 def get_doc_id(doc: dict) -> str:
     return (
-        doc.get("doc_id") or doc.get("id") or doc.get("filename") or "unknown"
+        doc.get("doc_id") or doc.get("TEXT_ID") or doc.get("id") or doc.get("filename") or "unknown"
     )
 
 
 def get_para_text(para: dict) -> str:
     """Prefer English translation if available, fall back to French."""
     return (
-        para.get("text_en") or para.get("text_fr") or para.get("text") or ""
+        para.get("text_en") or para.get("para_en") or 
+        para.get("text_fr") or para.get("para") or 
+        para.get("text") or ""
     ).strip()
 
 
@@ -46,10 +67,10 @@ def flatten_paragraphs(docs: list[dict]) -> list[dict]:
     rows = []
     for doc in docs:
         doc_id = get_doc_id(doc)
-        for para in doc.get("paragraphs", []):
+        for idx, para in enumerate(doc.get("paragraphs", [])):
             rows.append({
                 "doc_id"   : doc_id,
-                "para_id"  : para.get("para_id") or para.get("id"),
+                "para_id"  : para.get("para_id") or para.get("para_number") or para.get("id") or str(idx),
                 "text"     : get_para_text(para),
                 "type"     : para.get("type", ""),
                 "tags"     : para.get("tags") or [],
