@@ -1,25 +1,30 @@
 """
-task2_relations.py
-──────────────────
-Subtask 2 — Argumentative Relation Prediction
+task2_relations.py  (resumable + chunk-aware)
+─────────────────────────────────────────────
+Checkpoint granularity: one document at a time (documents are small enough
+that a single doc never hits the timeout).
 
-For every paragraph in the test set, predicts which preceding paragraphs
-it is argumentatively related to, and labels the link with one or more of:
-  supporting  |  contradictive  |  complemental  |  modifying
+MODES
+─────
+1. Resume (default)
+   python task2_relations.py
+   Skips documents already in outputs/task2_checkpoint.json.
 
-Reads Task-1 predictions from outputs/task1_predictions.json (run task1 first).
-Writes the combined Task-1 + Task-2 submission to outputs/submission_final.json.
+2. Chunk mode
+   python task2_relations.py --chunk 0 --total-chunks 3
+   python task2_relations.py --chunk 1 --total-chunks 3
+   python task2_relations.py --chunk 2 --total-chunks 3
+   Then: python merge_outputs.py
 
-Usage
------
-  python task2_relations.py                   # full test set
-  python task2_relations.py --dry-run 5       # first 5 documents only
+3. Dry run
+   python task2_relations.py --dry-run 5
 """
 
 import argparse
+import json
 import sys
 import time
-from collections import defaultdict
+from collections import defaultdict, Counter
 from pathlib import Path
 from typing import Optional
 
@@ -38,7 +43,34 @@ from src.llm_utils  import llm_json
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Prompt template
+# Checkpoint helpers — save after every document
+# ─────────────────────────────────────────────────────────────────────────────
+
+def ckpt_path(chunk):
+    name = "task2_checkpoint.json" if chunk is None else f"task2_checkpoint_chunk{chunk}.json"
+    return CFG.OUTPUT_DIR / name
+
+
+def load_checkpoint(chunk):
+    """Return {doc_id: {para_id: [rel_dicts]}} of completed documents."""
+    cp = ckpt_path(chunk)
+    if cp.exists():
+        with open(cp, encoding="utf-8") as f:
+            data = json.load(f)
+        print(f"  Checkpoint loaded — {len(data):,} documents already done  ({cp.name})")
+        return data
+    return {}
+
+
+def save_checkpoint(done, chunk):
+    cp = ckpt_path(chunk)
+    cp.parent.mkdir(parents=True, exist_ok=True)
+    with open(cp, "w", encoding="utf-8") as f:
+        json.dump(done, f, ensure_ascii=False)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Prompt
 # ─────────────────────────────────────────────────────────────────────────────
 
 SYSTEM_PROMPT = """\
@@ -47,126 +79,79 @@ You are an expert in argument mining for UN/UNESCO resolutions.
 TASK
 ────
 Decide whether PARAGRAPH B has an argumentative relation to PARAGRAPH A,
-and if so, identify the relation type(s).
+and identify the relation type(s).
 
 RELATION DEFINITIONS
 ────────────────────
-"supporting"
-  B reinforces or provides evidence for the claim or decision made in A.
-  B is on the SAME side as A.
-
-"contradictive"
-  B directly opposes, negates, or conflicts with A.
-  B is on the OPPOSITE side of A.
-
-"complemental"
-  B adds NEW information, a new sub-theme, or a new dimension to the SAME
-  topic as A — without changing A's claim.
-
-"modifying"
-  B revises, qualifies, restricts, or adjusts a specific aspect of A,
-  while still operating within the same topic.
+"supporting"    — B reinforces or provides evidence for A's claim/decision.
+"contradictive" — B directly opposes, negates, or conflicts with A.
+"complemental"  — B adds NEW information or a new sub-theme to the SAME topic as A.
+"modifying"     — B revises, qualifies, restricts, or adjusts a specific aspect of A.
 
 RULES
 ─────
 • Multiple relation types are allowed for the same pair.
-• Pure formatting, ordering, or sequential flow does NOT constitute a relation.
-• If no argumentative link exists, set has_relation to false.
+• Pure formatting or sequential flow is NOT a relation.
+• If no argumentative link exists → has_relation: false.
 
-MANDATORY OUTPUT FORMAT
-───────────────────────
-Return a single JSON object and NOTHING ELSE.
-
+MANDATORY OUTPUT FORMAT — single JSON object, NOTHING ELSE:
 {
-  "think": "<multi-step reasoning — REQUIRED:
-            Step 1: summarise A's core claim or action in one sentence.
-            Step 2: summarise B's core claim or action in one sentence.
-            Step 3: compare direction, theme, and intent of A vs B.
-            Step 4: assign relation type(s) with justification, or state no relation.>",
+  "think": "<Step 1: A's core claim. Step 2: B's core claim.
+            Step 3: compare direction/theme/intent. Step 4: relation type(s) or none.>",
   "has_relation"  : true | false,
   "relation_types": ["supporting", "complemental"]
 }"""
 
 
-def build_prompt(para_a: dict, para_b: dict) -> str:
-    type_a = para_a.get("type", "unknown")
-    type_b = para_b.get("type", "unknown")
+def build_prompt(para_a, para_b):
     return (
         f"{SYSTEM_PROMPT}\n\n"
-        f"PARAGRAPH A  (id: {para_a['para_id']}, type: {type_a})\n"
+        f"PARAGRAPH A  (id: {para_a['para_id']}, type: {para_a.get('type','?')})\n"
         f"{para_a['text']}\n\n"
-        f"PARAGRAPH B  (id: {para_b['para_id']}, type: {type_b})\n"
+        f"PARAGRAPH B  (id: {para_b['para_id']}, type: {para_b.get('type','?')})\n"
         f"{para_b['text']}\n\n"
-        "Respond with the JSON object only:"
+        "Respond with JSON only:"
     )
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Pair-level relation predictor
-# ─────────────────────────────────────────────────────────────────────────────
-
-def predict_pair(para_a: dict, para_b: dict) -> Optional[dict]:
-    """
-    Predict the argumentative relation from A to B (directed: B relates to A).
-    Returns a relation dict, or None if no relation.
-    """
-    prompt = build_prompt(para_a, para_b)
-    result = llm_json(prompt, required_keys=["has_relation", "relation_types"])
-
+def predict_pair(para_a, para_b) -> Optional[dict]:
+    result = llm_json(
+        build_prompt(para_a, para_b),
+        required_keys=["has_relation", "relation_types"],
+    )
     if not result or not result.get("has_relation"):
         return None
-
-    rel_types = [
-        r for r in (result.get("relation_types") or [])
-        if r in CFG.RELATION_TYPES
-    ]
+    rel_types = [r for r in (result.get("relation_types") or []) if r in CFG.RELATION_TYPES]
     if not rel_types:
         return None
-
     return {
         "target_para_id" : para_b["para_id"],
         "relation_types" : rel_types,
-        "_think"         : result.get("think", ""),  # kept internally; stripped at output
+        "_think"         : result.get("think", ""),
     }
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Document-level relation predictor
-# ─────────────────────────────────────────────────────────────────────────────
-
-def predict_relations_for_doc(
-    doc_paras : list[dict],
-    t1_lookup : dict[str, dict],
-    para_vecs : dict[str, np.ndarray],
-) -> dict[str, list[dict]]:
+def predict_relations_for_doc(doc_paras, t1_lookup, para_vecs):
     """
-    For each paragraph B (index > 0), compare it against a window of
-    preceding paragraphs A using:
-      1. Cosine-similarity pre-filter  →  skip clearly unrelated pairs (fast)
-      2. LLM call                      →  classify surviving pairs (expensive)
-
-    Returns {para_id_of_A: [relation_dicts_pointing_to_B, …]}
+    Sliding-window relation prediction for one document.
+    Returns {para_id_of_A: [relation_dicts]}
     """
-    # Attach predicted type from Task 1
     for p in doc_paras:
         t1 = t1_lookup.get(p["para_id"])
         if t1:
             p["type"] = t1["type"]
 
-    out: dict[str, list] = {p["para_id"]: [] for p in doc_paras}
+    out = {p["para_id"]: [] for p in doc_paras}
 
     for b_idx, para_b in enumerate(doc_paras):
         if b_idx == 0:
             continue
-
         b_vec = para_vecs.get(para_b["para_id"])
         if b_vec is None:
             continue
 
-        # Backward window
         window = doc_paras[max(0, b_idx - CFG.REL_WINDOW): b_idx]
 
-        # Sort window by cosine similarity (descending) — process best candidates first
         scored = []
         for para_a in window:
             a_vec = para_vecs.get(para_a["para_id"])
@@ -176,7 +161,7 @@ def predict_relations_for_doc(
 
         for sim, para_a in scored:
             if sim < CFG.REL_SIM_THRESH:
-                break   # sorted list → everything remaining is below threshold too
+                break
             rel = predict_pair(para_a, para_b)
             if rel:
                 out[para_a["para_id"]].append(rel)
@@ -185,142 +170,147 @@ def predict_relations_for_doc(
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Build final combined submission
+# Assemble final submission
 # ─────────────────────────────────────────────────────────────────────────────
 
-def build_final_submission(
-    test_docs       : list[dict],
-    task1_preds     : list[dict],
-    task2_by_doc    : dict[str, dict[str, list]],
-) -> list[dict]:
-    """
-    Merge Task-1 paragraph predictions with Task-2 relation predictions.
-    Returns the full submission list (one dict per document).
-    """
-    # Index Task-1 predictions by doc_id → para_id
-    t1_by_doc: dict[str, dict] = defaultdict(dict)
+def build_final_submission(test_docs, task1_preds, task2_by_doc):
+    t1_by_doc = defaultdict(dict)
     for p in task1_preds:
         t1_by_doc[p["doc_id"]][p["para_id"]] = p
 
     submission = []
     for doc in test_docs:
-        doc_id    = doc.get("doc_id") or doc.get("id") or doc.get("filename", "unknown")
-        t1_doc    = t1_by_doc.get(doc_id, {})
-        t2_doc    = task2_by_doc.get(doc_id, {})
+        doc_id = doc.get("doc_id") or doc.get("id") or doc.get("filename", "unknown")
+        t1_doc = t1_by_doc.get(doc_id, {})
+        t2_doc = task2_by_doc.get(doc_id, {})
 
         para_list = []
         for para_id, t1_pred in t1_doc.items():
-            # Clean relation dicts — drop internal _think key
-            rels_raw   = t2_doc.get(para_id, [])
             rels_clean = [
-                {
-                    "target_para_id": r["target_para_id"],
-                    "relation_types": r["relation_types"],
-                }
-                for r in rels_raw
+                {"target_para_id": r["target_para_id"], "relation_types": r["relation_types"]}
+                for r in t2_doc.get(para_id, [])
             ]
             para_list.append({
                 "para_id"  : para_id,
                 "type"     : t1_pred["type"],
                 "tags"     : t1_pred["tags"],
-                "think"    : t1_pred["think"],   # required for LLM-Judge
+                "think"    : t1_pred["think"],
                 "relations": rels_clean,
             })
-
         submission.append({"doc_id": doc_id, "paragraphs": para_list})
 
     return submission
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Entry point
+# Main
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
-    parser = argparse.ArgumentParser(description="Subtask 2 — Relation Prediction")
-    parser.add_argument("--dry-run", type=int, default=0, metavar="N",
-                        help="Only process the first N test documents (0 = all)")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry-run",      type=int, default=0,    metavar="N",
+                        help="Process only first N documents")
+    parser.add_argument("--chunk",        type=int, default=None, metavar="IDX")
+    parser.add_argument("--total-chunks", type=int, default=1,    metavar="N")
     args = parser.parse_args()
 
     print("=" * 60)
-    print(" Subtask 2 — Argumentative Relation Prediction")
+    print(" Subtask 2 — Relation Prediction  (resumable)")
+    if args.chunk is not None:
+        print(f" Chunk {args.chunk} of {args.total_chunks}")
     print("=" * 60)
 
     # ── Require Task-1 output ─────────────────────────────────────────────────
+    # Accept merged or single-run task1 output
     t1_path = CFG.OUTPUT_DIR / "task1_predictions.json"
     if not t1_path.exists():
-        print(f"\n❌  Task-1 predictions not found at {t1_path}")
-        print("    Run  python task1_classify.py  first.")
+        print(f"\n❌  {t1_path} not found.")
+        print("    Run task1_classify.py (and merge_outputs.py if using chunks) first.")
         sys.exit(1)
 
     print("\n[1/5] Loading data …")
-    test_docs  = load_json_docs(CFG.TEST_DIR)
+    test_docs   = load_json_docs(CFG.TEST_DIR)
     task1_preds = load_json(t1_path)
-    print(f"  Task-1 predictions loaded: {len(task1_preds):,} paragraphs")
+    test_paras  = flatten_paragraphs(test_docs)
+    by_doc      = group_by_doc(test_paras)
 
-    test_paras = flatten_paragraphs(test_docs)
-    by_doc     = group_by_doc(test_paras)
+    print(f"  Task-1 predictions : {len(task1_preds):,} paragraphs")
+    print(f"  Test documents     : {len(by_doc):,}")
+
+    # ── Slice by dry-run / chunk ─────────────────────────────────────────────
+    doc_ids = list(by_doc.keys())
 
     if args.dry_run > 0:
-        doc_ids = list(by_doc.keys())[: args.dry_run]
-        by_doc  = {k: by_doc[k] for k in doc_ids}
-        print(f"  [DRY RUN] Processing {args.dry_run} documents")
+        doc_ids = doc_ids[: args.dry_run]
+        print(f"  [DRY RUN] {len(doc_ids)} documents")
+    elif args.chunk is not None:
+        doc_ids = [d for i, d in enumerate(doc_ids) if i % args.total_chunks == args.chunk]
+        print(f"  Chunk {args.chunk}: {len(doc_ids):,} documents assigned")
 
-    # ── Build paragraph vectors (cosine pre-filter) ───────────────────────────
-    print("\n[2/5] Building paragraph vectors …")
-    para_vecs = build_para_vecs(test_paras)
+    # ── Checkpoint ───────────────────────────────────────────────────────────
+    done      = load_checkpoint(args.chunk)       # {doc_id: {para_id: [rels]}}
+    remaining = [d for d in doc_ids if d not in done]
+    print(f"  Remaining: {len(remaining):,}  |  Already done: {len(done):,}")
 
-    # ── Build Task-1 lookup {doc_id → {para_id → pred}} ──────────────────────
-    t1_by_doc: dict[str, dict] = defaultdict(dict)
-    for p in task1_preds:
-        t1_by_doc[p["doc_id"]][p["para_id"]] = p
+    if not remaining:
+        print("  Nothing left — all documents already processed ✅")
+    else:
+        # ── Para vectors ──────────────────────────────────────────────────────
+        print("\n[2/5] Building paragraph vectors …")
+        para_vecs = build_para_vecs(test_paras)
 
-    # ── Load LLM ──────────────────────────────────────────────────────────────
-    print("\n[3/5] Loading LLM …")
-    from src.llm_utils import load_llm
-    load_llm()
+        # ── Task-1 lookup ─────────────────────────────────────────────────────
+        t1_by_doc = defaultdict(dict)
+        for p in task1_preds:
+            t1_by_doc[p["doc_id"]][p["para_id"]] = p
 
-    # ── Predict relations ─────────────────────────────────────────────────────
-    print(f"\n[4/5] Predicting relations for {len(by_doc):,} documents …")
-    task2_by_doc: dict[str, dict] = {}
-    t0 = time.time()
+        # ── LLM ───────────────────────────────────────────────────────────────
+        print("\n[3/5] Loading LLM …")
+        from src.llm_utils import load_llm
+        load_llm()
 
-    for doc_id, doc_paras in tqdm(by_doc.items(), desc="Task 2", unit="doc"):
-        t1_lookup = t1_by_doc.get(doc_id, {})
-        task2_by_doc[doc_id] = predict_relations_for_doc(
-            doc_paras, t1_lookup, para_vecs
-        )
+        # ── Predict — checkpoint after every document ─────────────────────────
+        print(f"\n[4/5] Processing {len(remaining):,} documents …")
+        t0 = time.time()
 
-    elapsed = time.time() - t0
-    total_rels = sum(
-        len(rels)
-        for doc_rels in task2_by_doc.values()
-        for rels in doc_rels.values()
-    )
-    print(f"  Done in {elapsed/60:.1f} min  |  Total relations predicted: {total_rels:,}")
+        for doc_id in tqdm(remaining, desc="Task 2", unit="doc"):
+            doc_paras = by_doc.get(doc_id, [])
+            t1_lookup = t1_by_doc.get(doc_id, {})
+            done[doc_id] = predict_relations_for_doc(doc_paras, t1_lookup, para_vecs)
+            save_checkpoint(done, args.chunk)      # ← flush after every document
 
-    # ── Assemble & save final submission ──────────────────────────────────────
-    print("\n[5/5] Assembling final submission …")
-    submission = build_final_submission(test_docs, task1_preds, task2_by_doc)
+        print(f"  Finished in {(time.time()-t0)/60:.1f} min")
 
-    save_json(task2_by_doc, CFG.OUTPUT_DIR / "task2_predictions.json")
-    save_json(submission,   CFG.OUTPUT_DIR / "submission_final.json")
+    # ── Write outputs ─────────────────────────────────────────────────────────
+    print("\n[5/5] Saving outputs …")
+    CFG.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    print(f"\n✅ Task 2 complete.")
-    print(f"   → outputs/task2_predictions.json   (Task-2 raw results)")
-    print(f"   → outputs/submission_final.json    (FINAL combined submission)")
+    suffix = f"_chunk{args.chunk}" if args.chunk is not None else ""
+    save_json(done, CFG.OUTPUT_DIR / f"task2_predictions{suffix}.json")
 
-    # Relation type breakdown
-    from collections import Counter
+    if args.chunk is None:
+        # Non-chunked run → build final combined submission
+        submission = build_final_submission(test_docs, task1_preds, done)
+        save_json(submission, CFG.OUTPUT_DIR / "submission_final.json")
+
+    total_rels = sum(len(rels) for doc in done.values() for rels in doc.values())
+    print(f"\n  Documents processed : {len(done):,}")
+    print(f"  Total relations     : {total_rels:,}")
+
     rel_counter: Counter = Counter()
-    for doc_rels in task2_by_doc.values():
+    for doc_rels in done.values():
         for rels in doc_rels.values():
             for r in rels:
-                for rt in r["relation_types"]:
+                for rt in r.get("relation_types", []):
                     rel_counter[rt] += 1
-    print("\n  Relation type breakdown:")
     for rt in CFG.RELATION_TYPES:
         print(f"    {rt:<16} : {rel_counter.get(rt, 0):,}")
+
+    if args.chunk is not None:
+        print(f"\n  ⚡ Chunk {args.chunk} done.")
+        print("  When ALL chunks finish → python merge_outputs.py")
+    else:
+        print("\n✅ Task 2 complete → run python validate_submission.py")
 
 
 if __name__ == "__main__":
