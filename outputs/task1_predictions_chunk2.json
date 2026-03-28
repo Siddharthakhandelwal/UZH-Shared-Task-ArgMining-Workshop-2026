@@ -1,5 +1,5 @@
-{
-    "3": {
+[
+    {
         "para_id": 3,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
@@ -8,7 +8,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Affirming', which falls under the preambular category. Step 2: This paragraph sets context by emphasizing the importance of quality inclusive education. Step 3: Evaluating each candidate tag, we see that 'POL_INCL' (Inclusion and diversity) directly relates to the content of the paragraph. No other tags clearly apply."
     },
-    "6": {
+    {
         "para_id": 6,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
@@ -17,14 +17,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Reaffirming'. Step 2: This is a preambular type because it sets context and provides justification. Step 3: Evaluating each candidate tag, 'CCUT_INCL' directly relates to the content of the paragraph about inclusive education."
     },
-    "9": {
+    {
         "para_id": 9,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening phrase is 'To this end,' which does not clearly indicate whether it sets context or takes concrete actions. However, the content discusses concepts and aims related to education for inclusion, sustainable development, and lifelong learning. Step 2: Based on the content, this paragraph is more about setting context and providing justification rather than taking specific actions. Step 3: Evaluating each candidate tag, none directly apply since they are not addressing specific themes but rather broad concepts. Therefore, no tags are applicable."
     },
-    "12": {
+    {
         "para_id": 12,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
@@ -34,35 +34,35 @@
         ],
         "think": "Step 1: The opening keyword is 'Treat', which does not match any preambular or operative keywords. However, the paragraph discusses addressing social inequality and poverty in the context of education policy. It sets the context for prioritizing certain issues. Step 2: This paragraph is more about setting the context rather than taking specific actions, so it fits better under the preambular category. Step 3: Evaluating the candidates, the themes addressed include access and equity ('POL_EQUIT') and low-income and disadvantaged groups ('POP_POOR')."
     },
-    "1": {
+    {
         "para_id": 1,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Organized', which falls under taking concrete action. Step 2: This paragraph describes an event and does not set context or cite previous decisions. Step 3: Evaluating each candidate tag, none directly apply since the paragraph does not address any specific themes related to education policies, laws, or actions."
     },
-    "4": {
+    {
         "para_id": 4,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening does not contain any preambular or operative keywords. Step 2: This paragraph provides context about the adoption of certain conclusions but does not take any concrete actions. Step 3: Evaluating each candidate tag, none directly apply since there is no specific focus on any particular aspect of education mentioned."
     },
-    "2": {
+    {
         "para_id": 2,
         "doc_id": "ICPE-45-1996_RES1-FR_res_85",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'In', which does not clearly indicate either preambular or operative content. However, the sentence suggests potential future actions without explicitly stating them. Step 2: Given the lack of clear action verbs, it leans more towards providing context rather than taking direct action. Step 3: Evaluating each candidate tag, none directly apply as there's no explicit mention of any specific themes like human rights, international cooperation, etc. Therefore, this paragraph should be classified as preambular."
     },
-    "5": {
+    {
         "para_id": 5,
         "doc_id": "ICPE-45-1996_RES1-FR_res_85",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: Identify opening keyword - 'The'. Step 2: Decide type + justify - This paragraph does not start with any preambular or operative keywords, so it is neither preambular nor operative. However, based on content, it suggests encouragement of cooperation and activities which can be seen as taking some action. Step 3: Evaluate each candidate tag - There is no clear match among the given tags. Step 4: List final tags + why - No tags fit clearly."
     },
-    "8": {
+    {
         "para_id": 8,
         "doc_id": "ICPE-45-1996_RES1-FR_res_82",
         "type": "preambular",
@@ -72,7 +72,7 @@
         ],
         "think": "Step 1: The opening keyword is 'aim to', which does not directly match any preambular or operative keywords. However, it suggests taking action towards a goal. Step 2: This paragraph is more about setting a direction rather than making a specific decision or request, so it leans towards being preambular. Step 3: Evaluating each candidate tag, the most relevant ones are related to teacher qualifications and inclusivity. Step 4: Final tags include 'ACT_EDUC' for teachers and educators, and 'CCUT_INCL' for inclusive education."
     },
-    "11": {
+    {
         "para_id": 11,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
@@ -82,14 +82,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Noting', which falls under preambular types. Step 2: This paragraph sets context by citing current situations and challenges related to education. Step 3: Evaluating each candidate tag, the paragraph directly addresses issues related to primary education and literacy. Therefore, the appropriate tags are F_LITE and ACT_STUD."
     },
-    "14": {
+    {
         "para_id": 14,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Further recognizing', which falls under the preambular category. Step 2: This paragraph sets context by emphasizing the importance of collective and concerted action. Step 3: Evaluating the candidate tags, none directly apply as they require more specific content about actions or policies. Step 4: No tags are applicable."
     },
-    "17": {
+    {
         "para_id": 17,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
@@ -98,7 +98,7 @@
         ],
         "think": "Step 1: The opening phrase 'In order to' suggests this paragraph is setting out reasons and justifications rather than taking direct action. Step 2: Based on the definitions, this paragraph should be classified as preambular. Step 3: Evaluating the candidate tags, the paragraph directly addresses literacy programs for adolescents and adults, which aligns with the 'F_LITE' tag. There's no clear mention of specific educational levels or types of education beyond literacy, so other tags like 'POP_ADUL', 'ISC_1', etc., do not apply clearly. Therefore, the most appropriate tag is 'F_LITE'."
     },
-    "20": {
+    {
         "para_id": 20,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
@@ -107,14 +107,14 @@
         ],
         "think": "Step 1: Identify opening keyword - None explicitly stated but 'The' implies context setting. Step 2: Decide type + justify - This paragraph sets context for the importance of lifelong education. Step 3: Evaluate each candidate tag - It aligns closely with the idea of lifelong learning. Step 4: List final tags + why - POL_LL is most appropriate."
     },
-    "7": {
+    {
         "para_id": 7,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'The call', which does not fit either preambular or operative definitions directly. Step 2: This paragraph sets context and provides justification but does not take any concrete actions. Therefore, it fits under preambular. Step 3: Evaluating each candidate tag, none clearly apply as there is no specific focus on any particular educational aspect or action."
     },
-    "10": {
+    {
         "para_id": 10,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
@@ -124,7 +124,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Within the context of each country', indicating a focus on context and policy. Step 2: This paragraph sets context and provides justification for focusing on improving the quality of education. Step 3: Evaluating each candidate tag, it clearly aligns with themes of quality education and technology integration. Step 4: Final tags include POL_QUAL and PEDAG_TECH."
     },
-    "13": {
+    {
         "para_id": 13,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
@@ -133,35 +133,35 @@
         ],
         "think": "Step 1: Identify opening keyword - None specific. Step 2: Decide type - This paragraph sets context and provides justification for the importance of viewing educational reforms as processes rather than products. It does not take any concrete actions. Step 3: Evaluate each candidate tag - The paragraph discusses the nature of educational reforms and their implementation, which aligns closely with the theme of governance and planning. Step 4: List final tags - POL_GOV."
     },
-    "16": {
+    {
         "para_id": 16,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'The', which does not match any preambular or operative types directly. However, the content discusses the need for better dissemination and utilization of certain practices, indicating an intent to take some form of action. Step 2: Based on the content, this can be classified as 'operative' since it suggests actions to be taken. Step 3: Evaluating the candidate tags, none of them fit directly as there isn't specific mention of health, lifelong learning, teaching methods, etc., but the focus is on pedagogical practices."
     },
-    "19": {
+    {
         "para_id": 19,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Partnerships'. Step 2: This paragraph sets out the importance of partnerships and outlines who should be involved. It does not take any concrete actions. Step 3: Evaluating each candidate tag, none directly apply since there's no specific focus on any particular aspect of education mentioned in the candidates. Therefore, it fits under preambular."
     },
-    "15": {
+    {
         "para_id": 15,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Consider', which does not clearly indicate preambular or operative actions. However, the paragraph sets context by mentioning the ratification of international conventions related to inclusion, particularly the Convention on the Rights of Persons with Disabilities. Step 2: This paragraph is more aligned with providing context rather than taking any concrete action. Step 3: Evaluating each candidate tag, none directly apply since there's no specific action taken but rather a recommendation."
     },
-    "18": {
+    {
         "para_id": 18,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Consider', which falls under the preambular category. Step 2: This paragraph sets context by emphasizing the value of linguistic and cultural diversity in the classroom. It does not take any concrete actions but rather provides guidance on how to approach this issue. Step 3: Evaluating each candidate tag, none directly apply since there are no specific actions taken. Therefore, no tags are applicable."
     },
-    "23": {
+    {
         "para_id": 23,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -174,7 +174,7 @@
         ],
         "think": "Step 1: The opening keyword is 'In order to', which suggests taking concrete actions rather than setting context. Step 2: This paragraph takes multiple concrete actions related to literacy and basic education. Step 3: Evaluating each candidate tag, the paragraph directly addresses literacy and basic education, inclusive education, lifelong learning, curriculum evaluation, and partnerships. Step 4: Final tags are [F_LITE, POL_LL, CCUT_INCL, CUR_EVAL, POL_CUR] because they are the most relevant."
     },
-    "26": {
+    {
         "para_id": 26,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -185,7 +185,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Decisions', indicating this is an operative paragraph taking concrete action. Step 2: This paragraph decides to make similar decisions for various specific groups. Step 3: Evaluating the candidate tags, it clearly addresses human rights and equality, inclusion and diversity, and learners with disabilities."
     },
-    "29": {
+    {
         "para_id": 29,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -196,21 +196,21 @@
         ],
         "think": "Step 1: The opening keyword is 'It is', which does not clearly indicate a preambular or operative nature. However, the sentence focuses on involving and engaging participants in identifying their educational needs, which suggests taking some form of action. Step 2: Based on the content, this can be classified as 'operative' since it involves making a decision about how to approach literacy programs. Step 3: Evaluating the tags, 'POP_ADUL' and 'ACT_STUD' directly address the themes of adults and learners respectively, while 'CCUT_21ST' relates to the focus on making learning more meaningful and motivating."
     },
-    "21": {
+    {
         "para_id": 21,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Strengthen', which does not clearly indicate either preambular or operative actions. However, the focus on enabling participation suggests a call for action rather than stating reasons alone. Step 2: Based on the context, this paragraph is more about requesting or urging certain actions. Step 3: Evaluating each candidate tag, none directly apply since the paragraph focuses on societal engagement rather than specific themes like education levels or teacher support."
     },
-    "22": {
+    {
         "para_id": 22,
         "doc_id": "ICPE-46-2001_RES1-FR_res_90",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'The', which does not match any preambular or operative keywords. However, the paragraph discusses submitting conclusions for future consideration and strengthening action programs, indicating a forward-looking approach. Step 2: This paragraph is more about setting a direction rather than taking immediate action, so it leans towards being preambular. Step 3: Evaluating each candidate tag, none directly apply as they are too specific while the paragraph is general in nature."
     },
-    "25": {
+    {
         "para_id": 25,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "preambular",
@@ -220,7 +220,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Taking into account', which falls under the preambular category. Step 2: This paragraph sets context and provides justification for the importance of incorporating cultural dimensions in curricula. Step 3: Evaluating each candidate tag, it clearly aligns with the themes of curriculum implementation and content and learning areas."
     },
-    "28": {
+    {
         "para_id": 28,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "preambular",
@@ -230,7 +230,7 @@
         ],
         "think": "Step 1: Identify opening keyword - no clear opening keyword. Step 2: Decide type + justify - this paragraph sets context and provides justification for the importance of certain aspects of history and cultural education. It does not take any concrete actions. Step 3: Evaluate each candidate tag - it discusses cultural and historical education, which aligns with social sciences and humanities, and emphasizes the importance of avoiding conflict and promoting tolerance, which aligns with human rights and equality. Step 4: List final tags + why."
     },
-    "32": {
+    {
         "para_id": 32,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
@@ -240,7 +240,7 @@
         ],
         "think": "Step 1: Identify opening keyword - no specific opening keyword is present, but the paragraph discusses methods and tools for teaching and learning. Step 2: Decide type - this paragraph does not take any concrete actions; it sets out what should be done. Step 3: Evaluate each candidate tag - the paragraph focuses on teaching methods and tools for both adults and children. Step 4: List final tags - PEDAG_METHO and ACT_STUD."
     },
-    "35": {
+    {
         "para_id": 35,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -250,7 +250,7 @@
         ],
         "think": "Step 1: Identify opening keywords - 'A robust infrastructure should be established'. This indicates taking concrete actions. Step 2: Decide type - Operative. Step 3: Evaluate each candidate tag - The paragraph clearly focuses on establishing infrastructure for non-formal education and literacy programs. Step 4: List final tags - M_NFORM, POP_ADUL."
     },
-    "38": {
+    {
         "para_id": 38,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -261,7 +261,7 @@
         ],
         "think": "Step 1: The opening keyword is 'A monitoring plan', indicating an action to be taken. Step 2: This paragraph is classified as 'operative' because it takes concrete action by establishing a monitoring plan. Step 3: Evaluating the candidate tags, the paragraph directly relates to the implementation and optimization of a literacy campaign, which aligns with themes related to governance and planning, quality and learning outcomes, and government and policy makers."
     },
-    "41": {
+    {
         "para_id": 41,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -271,7 +271,7 @@
         ],
         "think": "Step 1: Identify opening keyword - no clear opening keyword. Step 2: Decide type + justify - this paragraph focuses on the need for specialized training for literacy workers and those in related roles, which involves taking action. Step 3: Evaluate each candidate tag - the paragraph directly relates to professional development and teaching methods. Step 4: List final tags + why - 'T_PDEV' for professional development and 'PEDAG_METHO' for teaching methods and approaches."
     },
-    "44": {
+    {
         "para_id": 44,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
@@ -281,7 +281,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Awareness campaigns', which suggests action but does not clearly indicate it falls under 'operative'. Step 2: The paragraph sets out plans and actions to expand awareness campaigns, conduct studies, and define educational needs, indicating it is primarily preambular. Step 3: Evaluating each candidate tag, the paragraph directly addresses expanding awareness campaigns, studying educational needs, and defining the nature of those needs. Therefore, the relevant tags are 'POL_LL' and 'SYST_STAT'."
     },
-    "47": {
+    {
         "para_id": 47,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -291,14 +291,14 @@
         ],
         "think": "Step 1: The opening keyword is 'should', which indicates a request or recommendation. Step 2: This paragraph takes concrete action by making a decision on how industrialized and developing countries should engage in exchanges of experiences. Therefore, it is classified as 'operative'. Step 3: Evaluating the candidate tags, the most relevant ones are 'POL_INTCOOP' for international cooperation and 'F_LITE' for literacy and language."
     },
-    "50": {
+    {
         "para_id": 50,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: Identify opening keyword - no specific opening keyword is present. Step 2: Decide type + justify - This paragraph does not contain any clear action but rather emphasizes the importance of ongoing efforts. Step 3: Evaluate each candidate tag - None of the tags directly apply since there's no concrete action taken. Step 4: List final tags + why - No tags are applicable."
     },
-    "53": {
+    {
         "para_id": 53,
         "doc_id": "ICPE-42-1990_RES1-FR_res_77",
         "type": "operative",
@@ -309,7 +309,7 @@
         ],
         "think": "Step 1: The opening keyword is 'As', indicating a statement rather than a decision. Step 2: This paragraph sets out actions UNESCO should undertake, making it operative. Step 3: Evaluating each candidate tag, the paragraph clearly addresses international cooperation, literacy, and lifelong learning. Step 4: Final tags include POL_INTCOOP, F_LITE, and POL_LL."
     },
-    "56": {
+    {
         "para_id": 56,
         "doc_id": "ICPE-31-1968_RES1-FR_res_64",
         "type": "operative",
@@ -319,7 +319,7 @@
         ],
         "think": "Step 1: The opening keywords are 'Encouraged' and 'Promote', which indicate actions to be taken. Step 2: This paragraph is classified as 'operative'. Step 3: Evaluating the tags, 'POL_INTCOOP' directly relates to encouraging and supporting experimental programs for international understanding, while 'PEDAG_METHO' aligns with promoting the concepts, methods, and materials developed through these initiatives."
     },
-    "59": {
+    {
         "para_id": 59,
         "doc_id": "ICPE-31-1968_RES1-FR_res_64",
         "type": "operative",
@@ -328,7 +328,7 @@
         ],
         "think": "Step 1: The opening keyword is not explicitly listed but the content suggests encouragement and support for participation in programs. Step 2: This paragraph is taking action by encouraging participation, which aligns with 'operative' type. Step 3: Evaluating each candidate tag, 'POL_INTCOOP' directly relates to the encouragement of international cooperation and participation in programs."
     },
-    "62": {
+    {
         "para_id": 62,
         "doc_id": "ICPE-31-1968_RES1-FR_res_64",
         "type": "operative",
@@ -337,14 +337,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Deserve', which does not clearly indicate either preambular or operative actions. However, the sentence suggests encouragement and support, which aligns more closely with taking action. Step 2: Based on the context, this can be classified as an operative paragraph since it calls for action. Step 3: Evaluating each candidate tag, 'POL_INTCOOP' fits best as it relates to international cooperation and partnerships, which is central to the paragraph's message."
     },
-    "65": {
+    {
         "para_id": 65,
         "doc_id": "ICPE-31-1968_RES1-FR_res_64",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Invites'. Step 2: This is an operative type because it takes concrete action by inviting organizations to facilitate the review and implementation of a recommendation. Step 3: Evaluating each candidate tag, none directly address the specific content of the paragraph."
     },
-    "69": {
+    {
         "para_id": 69,
         "doc_id": "ICPE-22-1959_RES1-FR_res_49",
         "type": "operative",
@@ -353,7 +353,7 @@
         ],
         "think": "Step 1: The opening phrase is 'Among the measures', indicating it's not setting context but rather suggesting actions. Step 2: This paragraph is operative as it suggests specific actions to be taken. Step 3: Evaluating the tags, it directly relates to working conditions and salaries (T_COND) and possibly teacher supply and shortages (T_SUPP), but since the focus is on students and trainees, T_COND is more appropriate."
     },
-    "72": {
+    {
         "para_id": 72,
         "doc_id": "ICPE-22-1959_RES1-FR_res_49",
         "type": "operative",
@@ -362,7 +362,7 @@
         ],
         "think": "Step 1: The opening keyword is 'In', which does not clearly indicate either preambular or operative type. However, the paragraph discusses a system for allocating young graduates, indicating concrete actions. Step 2: This paragraph is classified as 'operative'. Step 3: Evaluating tags, it directly addresses recruitment and hiring processes."
     },
-    "75": {
+    {
         "para_id": 75,
         "doc_id": "ICPE-22-1959_RES1-FR_res_49",
         "type": "preambular",
@@ -371,7 +371,7 @@
         ],
         "think": "Step 1: The opening phrase is not explicitly listed in the preambular or operative types but suggests a rationale for potential actions. Step 2: This paragraph does not take any concrete action; it provides reasoning for future actions. Step 3: Evaluating the tags, 'POL_INTCOOP' fits best as it relates to international cooperation, which aligns with the idea of pooling resources regionally."
     },
-    "24": {
+    {
         "para_id": 24,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "operative",
@@ -380,7 +380,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Provide', which suggests taking concrete action. Step 2: This paragraph is classified as 'operative' because it makes a decision about providing opportunities for acquiring non-formal education. Step 3: Evaluating each candidate tag, 'M_NFORM' directly relates to the content of the paragraph."
     },
-    "27": {
+    {
         "para_id": 27,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "operative",
@@ -390,7 +390,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Train', which falls under the operative category. Step 2: The paragraph takes concrete action by providing specific actions for training teachers. Step 3: Evaluating each candidate tag, it clearly addresses teacher training and professional development."
     },
-    "30": {
+    {
         "para_id": 30,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "operative",
@@ -400,7 +400,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Equip', which suggests an action-oriented approach. Step 2: This paragraph takes concrete action by providing a mandate for training school administrators. Step 3: Evaluating the candidate tags, it clearly relates to teacher and educator development and supports inclusivity."
     },
-    "33": {
+    {
         "para_id": 33,
         "doc_id": "ICPE-48-2008_RES1-FR_res_92",
         "type": "operative",
@@ -409,14 +409,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Call upon', which indicates an operative type. Step 2: This paragraph takes concrete action by requesting support from other international organizations. Step 3: Evaluating the candidate tags, none directly address the content of the paragraph except for 'ACT_IO' which relates to international organizations and donors."
     },
-    "36": {
+    {
         "para_id": 36,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'It is important', which does not clearly indicate taking concrete actions but rather setting a context. Step 2: Based on the content, it sets out reasoning for how postsecondary educational institutions should operate. Step 3: Evaluating each candidate tag, none directly apply since there's no mention of specific actions or decisions being made. Therefore, the type is preambular."
     },
-    "39": {
+    {
         "para_id": 39,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "preambular",
@@ -426,7 +426,7 @@
         ],
         "think": "Step 1: Identify opening keyword - 'In general'. This does not clearly indicate a preambular or operative type. However, the main content discusses considerations for policy development and training of staff, which aligns more closely with providing context and justification rather than taking concrete actions. Step 2: Decide type - Based on the discussion of context and justification, it fits better as a preambular type. Step 3: Evaluate each candidate tag - The paragraph focuses on the training and professional development of teachers and staff, which aligns with 'T_PDEV' and 'POL_TEACH'. No other tags fit directly. Step 4: List final tags - T_PDEV, POL_TEACH."
     },
-    "42": {
+    {
         "para_id": 42,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "preambular",
@@ -436,7 +436,7 @@
         ],
         "think": "Step 1: Identify opening keyword - 'For'. This does not match preambular or operative types directly but sets up the context for what follows. Step 2: Decide type - Since the paragraph outlines essential elements for postsecondary education, it leans towards being preambular as it provides justification and context rather than taking direct action. Step 3: Evaluate each candidate tag - The paragraph focuses on academic freedoms within higher education, which aligns closely with academic contexts and international covenants."
     },
-    "45": {
+    {
         "para_id": 45,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "operative",
@@ -445,7 +445,7 @@
         ],
         "think": "Step 1: The opening keyword is 'To', which does not match any preambular or operative types directly. However, it suggests taking action. Step 2: This paragraph takes concrete actions by calling for coordinated measures to address unemployment and underemployment. Therefore, it fits the 'operative' type. Step 3: Evaluating each candidate tag, 'T_RECR' (Recruitment and hiring) seems most relevant as the paragraph focuses on measures to combat unemployment and underemployment among graduates."
     },
-    "48": {
+    {
         "para_id": 48,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "preambular",
@@ -454,7 +454,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Rapid', which does not directly indicate either preambular or operative actions. However, the paragraph sets context for the need for continuing education and retraining. Step 2: This paragraph is classified as preambular because it provides justification for the necessity of certain educational practices. Step 3: Evaluating the candidate tags, the paragraph clearly addresses the themes of lifelong learning and adult education."
     },
-    "51": {
+    {
         "para_id": 51,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "operative",
@@ -464,7 +464,7 @@
         ],
         "think": "Step 1: The opening keyword is 'In terms of', which does not clearly indicate either preambular or operative actions. However, the paragraph discusses the role of post-secondary educational institutions and calls upon them to contribute to research training, indicating an intent for action. Step 2: Based on this analysis, it can be classified as 'operative'. Step 3: Evaluating the tags, 'POL_INTCOOP' and 'ACT_EDUC' are directly addressed."
     },
-    "54": {
+    {
         "para_id": 54,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "preambular",
@@ -473,7 +473,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Postsecondary', indicating this paragraph is setting context and providing justification for awareness and action regarding various global issues. Step 2: This paragraph is classified as preambular. Step 3: Evaluating the tags, it directly addresses human rights, environmental concerns, and social issues, making 'CCUT_CITIZ' and 'CCUT__RIGH' applicable."
     },
-    "57": {
+    {
         "para_id": 57,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "operative",
@@ -483,7 +483,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Member States', which does not directly indicate a preambular or operative nature. However, the paragraph contains phrases like 'should continue to strengthen' and mentions specific actions such as supporting higher education centers and interuniversity cooperation networks. Step 2: Based on the presence of concrete actions, this paragraph is classified as 'operative'. Step 3: Evaluating each candidate tag, the most relevant ones are related to international cooperation and higher education."
     },
-    "60": {
+    {
         "para_id": 60,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "operative",
@@ -495,7 +495,7 @@
         ],
         "think": "Step 1: Identify opening keyword - 'UNESCO, as an international organization...'. Step 2: Decide type + justify - This paragraph takes concrete actions such as providing technical support, paying attention to difficulties, promoting exchanges, fostering scholarship grants, and taking necessary measures. Therefore, it is classified as 'operative'. Step 3: Evaluate each candidate tag - Tags directly related to the content include international cooperation, curriculum and pedagogy policies, lifelong learning, and access to science and technology. Step 4: List final tags + why - Tags selected based on clear relevance to the paragraph's content."
     },
-    "63": {
+    {
         "para_id": 63,
         "doc_id": "ICPE-41-1989_RES1-FR_res_76",
         "type": "operative",
@@ -505,7 +505,7 @@
         ],
         "think": "Step 1: Identify opening keyword - 'When establishing' does not clearly indicate preambular or operative actions. However, the paragraph transitions to 'called upon,' indicating an operative action. Step 2: Decide type - The paragraph primarily takes concrete actions like calling upon UNESCO and member states to take specific steps, making it operative. Step 3: Evaluate each candidate tag - Tags related to postsecondary education, international cooperation, and educational quality fit well."
     },
-    "66": {
+    {
         "para_id": 66,
         "doc_id": "ICPE-22-1959_RES1-FR_res_49",
         "type": "preambular",
@@ -514,7 +514,7 @@
         ],
         "think": "Step 1: The opening keyword is 'granting', which does not directly match any preambular or operative keywords. However, it implies an action related to scholarships. Step 2: This paragraph describes a method to achieve a goal rather than taking direct action, so it leans towards being preambular. Step 3: Evaluating each candidate tag, 'F_SCI' (Science and technology) seems most relevant as the paragraph specifically mentions technical and scientific studies."
     },
-    "31": {
+    {
         "para_id": 31,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "preambular",
@@ -523,7 +523,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Aesthetic and artistic education', which does not indicate any specific action. Step 2: Based on the content, it sets context and provides justification for the importance of aesthetic and artistic education. Step 3: Evaluating each candidate tag, 'F_ARTS' directly relates to arts and culture, while others do not clearly apply. Step 4: Final tags include 'F_ARTS' because the paragraph focuses on the importance and benefits of aesthetic and artistic education."
     },
-    "34": {
+    {
         "para_id": 34,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "operative",
@@ -534,7 +534,7 @@
         ],
         "think": "Step 1: Identify opening keyword - no specific opening keyword is present. Step 2: Decide type + justify - this paragraph focuses on actions related to raising awareness and fostering behaviors through educational processes, which aligns more closely with operative actions rather than setting context or providing reasons. Step 3: Evaluate each candidate tag - the paragraph clearly addresses formal and non-formal education, environmental protection, and behavior change. Step 4: List final tags + why - 'M_FORM' for formal education, 'M_NFORM' for non-formal education, and 'F_ENV' for environmental education and sustainable development."
     },
-    "37": {
+    {
         "para_id": 37,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "preambular",
@@ -545,14 +545,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Role', which does not directly indicate preambular or operative actions. However, the paragraph sets context and provides justification for the importance of equal opportunities in education. Step 2: Based on the content, it can be classified as preambular. Step 3: Evaluating each candidate tag, the paragraph clearly addresses themes related to education and its impact on women and girls."
     },
-    "40": {
+    {
         "para_id": 40,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: Identify opening keyword - no specific opening keyword found. Step 2: Decide type + justify - This paragraph does not take any concrete actions but sets context and provides justification for supporting initiatives within the UNESCO Associated Schools Network. Step 3: Evaluate each candidate tag - None of the tags directly apply since there's no mention of specific pedagogical theories, methods, technologies, or other themes listed. Step 4: List final tags + why - No tags are applicable."
     },
-    "43": {
+    {
         "para_id": 43,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "operative",
@@ -561,7 +561,7 @@
         ],
         "think": "Step 1: The opening keyword is 'Action', which suggests operative actions. Step 2: This paragraph takes concrete actions by focusing on specific cooperative efforts. Step 3: Evaluating the tags, it clearly addresses teacher training and pedagogical research, which fall under pedagogical foundations and theories. No other tags fit directly. Step 4: Final tags include PEDAG_FOUND."
     },
-    "46": {
+    {
         "para_id": 46,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "operative",
@@ -572,14 +572,14 @@
         ],
         "think": "Step 1: The opening keyword is 'Recommends', which falls under the operative category. Step 2: This paragraph clearly takes concrete actions such as strengthening projects, encouraging information collection, stimulating quality criteria definitions, supporting national education systems, and drawing attention to certain committees. Step 3: Evaluating each candidate tag, it directly addresses education, cultural and intercultural aspects, and international cooperation. Step 4: Final tags include ACT_EDUC, POL_INTCOOP, and PEDAG_METHO."
     },
-    "49": {
+    {
         "para_id": 49,
         "doc_id": "ICPE-43-1992_RES1-FR_res_78",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Adopts', which falls under the operative type. Step 2: This paragraph clearly takes a concrete action by adopting a recommendation and submitting it for consideration. Step 3: Evaluating the candidate tags, none directly apply as the paragraph does not address specific themes like curriculum, laws, or statistics."
     },
-    "52": {
+    {
         "para_id": 52,
         "doc_id": "ICPE-40-1986_RES1-FR_res_75",
         "type": "operative",
@@ -589,14 +589,14 @@
         ],
         "think": "Step 1: Identify opening keyword - 'In cooperation'. Step 2: Decide type - This is an operative paragraph as it takes concrete actions like encouraging joint activities and contributing to the exchange of ideas. Step 3: Evaluate each candidate tag - Tags related to secondary education and international cooperation fit best here. Step 4: List final tags - ACT_IO, M_FORM."
     },
-    "55": {
+    {
         "para_id": 55,
         "doc_id": "ICPE-40-1986_RES1-FR_res_75",
         "type": "preambular",
         "tags": [],
         "think": "Step 1: The opening keyword is 'Noting', which falls under the preambular category. Step 2: This paragraph sets context by citing the realization of the severity of the AIDS pandemic after sending a draft recommendation related to secondary education. Step 3: There are no clear actions taken, decisions made, or requests issued. Therefore, it does not fit the operative category. Step 4: The paragraph does not directly address any specific themes from the given candidates."
     },
-    "58": {
+    {
         "para_id": 58,
         "doc_id": "ICPE-40-1986_RES1-FR_res_75",
         "type": "preambular",
@@ -605,7 +605,7 @@
         ],
         "think": "Step 1: Identify opening keyword - 'Considering'. This indicates a preambular type. Step 2: Decide type - Preambular because it sets context and provides justification. Step 3: Evaluate tags - It mentions cooperation with WHO and other UN institutions which relates to international cooperation and partnerships. No other clear themes emerge directly."
     },
-    "61": {
+    {
         "para_id": 61,
         "doc_id": "ICPE-21-1958_RES1-FR_res_47",
         "type": "operative",
@@ -614,18 +614,18 @@
         ],
         "think": "Step 1: Identify opening keyword - 'The attention of'. This is not a preambular or operative term. However, the paragraph focuses on drawing attention to the importance of including assistance in projects for underdeveloped countries. Therefore, it can be classified as operative since it takes action by requesting attention."
     },
-    "78": {
+    {
         "para_id": 78,
         "doc_id": "ICPE-22-1959_RES1-FR_res_49",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'must', indicating this paragraph takes concrete actions. Step 2: This is classified as 'operative'. Step 3: Evaluating each candidate tag, none directly apply to the content of the paragraph."
     },
-    "68": {
+    {
         "para_id": 68,
         "doc_id": "ICPE-31-1968_RES1-FR_res_64",
         "type": "operative",
         "tags": [],
         "think": "Step 1: The opening keyword is 'In view of', which does not clearly indicate preambular or operative actions. However, the sentence directly invites UNESCO and the International Bureau of Education to take specific actions. Step 2: This paragraph is classified as 'operative' because it takes concrete action by inviting certain entities to perform tasks. Step 3: Evaluating each candidate tag, none directly apply since the paragraph does not focus on any specific educational level or aspect but rather on the action itself."
     }
-}
+]
