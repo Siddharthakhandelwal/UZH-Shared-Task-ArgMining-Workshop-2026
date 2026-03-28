@@ -39,9 +39,11 @@ def load_chunk(path: Path) -> object:
 def merge_task1(total_chunks: int) -> list[dict]:
     """
     Merge task1_predictions_chunk*.json into a flat list.
-    Each chunk file is a list of prediction dicts.
+    Deduplication uses composite key (doc_id, para_id) because para_id
+    is a local integer that resets to 1 for each document — it is NOT
+    globally unique on its own.
     """
-    merged: dict[str, dict] = {}   # para_id → pred (dedup by para_id)
+    merged: dict[tuple, dict] = {}   # (doc_id, para_id) → pred
 
     for c in range(total_chunks):
         path = CFG.OUTPUT_DIR / f"task1_predictions_chunk{c}.json"
@@ -50,11 +52,13 @@ def merge_task1(total_chunks: int) -> list[dict]:
             print(f"  ⚠  {path.name} not found — skipping chunk {c}")
             continue
         for pred in data:
-            merged[pred["para_id"]] = pred
+            key = (pred["doc_id"], pred["para_id"])
+            merged[key] = pred
         print(f"  chunk {c}: {len(data):,} paragraphs loaded")
 
     result = list(merged.values())
-    print(f"  → {len(result):,} paragraphs total after merge")
+    docs_covered = len(set(p["doc_id"] for p in result))
+    print(f"  → {len(result):,} paragraphs across {docs_covered} documents after merge")
     return result
 
 
@@ -79,7 +83,7 @@ def merge_task2(total_chunks: int) -> dict:
 
 
 def build_final_submission(test_docs, task1_preds, task2_by_doc) -> list[dict]:
-    t1_by_doc = defaultdict(dict)
+    t1_by_doc: dict[str, dict] = defaultdict(dict)
     for p in task1_preds:
         t1_by_doc[p["doc_id"]][p["para_id"]] = p
 
@@ -107,6 +111,26 @@ def build_final_submission(test_docs, task1_preds, task2_by_doc) -> list[dict]:
     return submission
 
 
+def print_coverage(test_docs, task1_preds):
+    """Show which test documents are done vs still missing."""
+    done_docs = set(p["doc_id"] for p in task1_preds)
+    all_doc_ids = []
+    for doc in test_docs:
+        doc_id = doc.get("doc_id") or doc.get("id") or doc.get("filename", "unknown")
+        all_doc_ids.append(doc_id)
+
+    missing = [d for d in all_doc_ids if d not in done_docs]
+
+    print(f"\n  Coverage: {len(done_docs)} / {len(all_doc_ids)} documents done")
+    if missing:
+        print(f"  ⚠  {len(missing)} documents still need predictions:")
+        for d in missing:
+            print(f"      - {d}")
+    else:
+        print("  ✅ All documents covered!")
+    return missing
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--total-chunks", type=int, required=True,
@@ -127,6 +151,16 @@ def main():
         sys.exit(1)
     save_json(t1_preds, CFG.OUTPUT_DIR / "task1_predictions.json")
 
+    # ── Coverage report ───────────────────────────────────────────────────────
+    print("\n[2] Checking test-set coverage …")
+    test_docs = load_json_docs(CFG.TEST_DIR)
+    missing   = print_coverage(test_docs, t1_preds)
+
+    if missing:
+        print(f"\n  ⚠  Re-run task1_classify.py to finish the {len(missing)} missing documents.")
+        print("  The checkpoint will automatically skip already-done paragraphs.")
+        print("  Then run merge_outputs.py again.\n")
+
     # ── Task 2 merge (optional) ───────────────────────────────────────────────
     t2_chunks_exist = any(
         (CFG.OUTPUT_DIR / f"task2_predictions_chunk{c}.json").exists()
@@ -135,37 +169,38 @@ def main():
 
     task2_by_doc = {}
     if t2_chunks_exist:
-        print(f"\n[2] Merging Task-2 predictions ({args.total_chunks} chunks) …")
+        print(f"\n[3] Merging Task-2 predictions ({args.total_chunks} chunks) …")
         task2_by_doc = merge_task2(args.total_chunks)
         save_json(task2_by_doc, CFG.OUTPUT_DIR / "task2_predictions.json")
     else:
-        print("\n[2] No Task-2 chunk files found — skipping Task-2 merge.")
-        print("    Run task2_relations.py (possibly in chunks) then re-run merge_outputs.py.")
+        print("\n[3] No Task-2 chunk files found — skipping Task-2 merge.")
 
     # ── Final submission ──────────────────────────────────────────────────────
-    print("\n[3] Building submission_final.json …")
-    test_docs  = load_json_docs(CFG.TEST_DIR)
+    print("\n[4] Building submission_final.json …")
     submission = build_final_submission(test_docs, t1_preds, task2_by_doc)
     save_json(submission, CFG.OUTPUT_DIR / "submission_final.json")
 
     n_paras = sum(len(d["paragraphs"]) for d in submission)
-    n_rels  = sum(len(p["relations"]) for d in submission for p in d["paragraphs"])
+    n_rels  = sum(len(p["relations"])  for d in submission for p in d["paragraphs"])
     print(f"\n  Documents  : {len(submission):,}")
     print(f"  Paragraphs : {n_paras:,}")
     print(f"  Relations  : {n_rels:,}")
 
-    # ── Auto-validate ─────────────────────────────────────────────────────────
-    print("\n[4] Running schema validation …")
-    import subprocess
-    result = subprocess.run(
-        [sys.executable, "validate_submission.py",
-         "--file", str(CFG.OUTPUT_DIR / "submission_final.json")],
-        capture_output=False,
-    )
-    if result.returncode != 0:
-        print("\n⚠  Validation reported errors. Check output above.")
+    # ── Auto-validate only when fully done ────────────────────────────────────
+    if not missing:
+        print("\n[5] Running schema validation …")
+        import subprocess
+        result = subprocess.run(
+            [sys.executable, "validate_submission.py",
+             "--file", str(CFG.OUTPUT_DIR / "submission_final.json")],
+            capture_output=False,
+        )
+        if result.returncode != 0:
+            print("\n⚠  Validation reported errors. Check output above.")
+        else:
+            print("\n🎉 Done! Upload outputs/submission_final.json to the organiser portal.")
     else:
-        print("\n🎉 Done! Upload outputs/submission_final.json to the organiser portal.")
+        print("\n⏭  Skipping validation — finish the missing documents first.")
 
 
 if __name__ == "__main__":

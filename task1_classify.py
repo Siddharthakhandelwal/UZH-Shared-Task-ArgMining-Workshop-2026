@@ -1,20 +1,23 @@
 """
 task1_classify.py  (resumable + chunk-aware)
 ────────────────────────────────────────────
-Saves progress after EVERY paragraph → safe to kill/resume at any time.
+BUG FIX: checkpoint now uses "doc_id||para_id" as key instead of just
+para_id. Since para_id resets to 1 for every document, using it alone
+caused entries to silently overwrite each other — only the last doc's
+paragraphs survived. Composite key fixes this completely.
 
 MODES
 ─────
-1. Resume (default) — just run again after a timeout, it picks up where it stopped
+1. Resume (default) — just re-run after a timeout, picks up where it stopped
    python task1_classify.py
 
-2. Chunk mode — run 3 Kaggle notebooks in parallel, each gets 1/3 of paragraphs
+2. Chunk mode — 3 notebooks in parallel, each handles 1/3 of paragraphs
    python task1_classify.py --chunk 0 --total-chunks 3   # notebook A
    python task1_classify.py --chunk 1 --total-chunks 3   # notebook B
    python task1_classify.py --chunk 2 --total-chunks 3   # notebook C
-   Then: python merge_outputs.py
+   Then: python merge_outputs.py --total-chunks 3
 
-3. Dry run — smoke test on N paragraphs
+3. Dry run — smoke test on first N paragraphs
    python task1_classify.py --dry-run 10
 """
 
@@ -39,31 +42,46 @@ from src.llm_utils import llm_json
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Checkpoint helpers — save after EVERY paragraph
+# Checkpoint helpers
+# KEY = "doc_id||para_id"  ← composite, globally unique across all documents
 # ─────────────────────────────────────────────────────────────────────────────
 
+def make_key(para: dict) -> str:
+    """Globally unique string key for a paragraph."""
+    return f"{para['doc_id']}||{para['para_id']}"
+
+
 def ckpt_path(chunk):
-    name = "task1_checkpoint.json" if chunk is None else f"task1_checkpoint_chunk{chunk}.json"
+    name = (
+        "task1_checkpoint.json"
+        if chunk is None
+        else f"task1_checkpoint_chunk{chunk}.json"
+    )
     return CFG.OUTPUT_DIR / name
 
 
-def load_checkpoint(chunk):
-    """Return {para_id: pred_dict} of already-finished paragraphs."""
+def load_checkpoint(chunk) -> dict:
+    """Return {composite_key: pred_dict} of already-finished paragraphs."""
     cp = ckpt_path(chunk)
     if cp.exists():
         with open(cp, encoding="utf-8") as f:
             data = json.load(f)
-        print(f"  Checkpoint loaded — {len(data):,} paragraphs already done  ({cp.name})")
+        n_docs = len(set(v["doc_id"] for v in data.values()))
+        print(f"  Checkpoint loaded — {len(data):,} paragraphs "
+              f"across {n_docs} documents already done  ({cp.name})")
         return data
     return {}
 
 
-def save_checkpoint(done, chunk):
-    """Write the full done-dict to disk (compact JSON for speed)."""
+def save_checkpoint(done: dict, chunk) -> None:
+    """Atomically overwrite checkpoint file with current done-dict."""
     cp = ckpt_path(chunk)
     cp.parent.mkdir(parents=True, exist_ok=True)
-    with open(cp, "w", encoding="utf-8") as f:
-        json.dump(done, f, ensure_ascii=False)   # no indent — faster I/O
+    # Write to a temp file first, then rename — prevents corruption on crash
+    tmp = cp.with_suffix(".tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(done, f, ensure_ascii=False)
+    tmp.replace(cp)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -83,19 +101,19 @@ TYPE DEFINITIONS
   Sets context, cites previous decisions, states reasons and justifications.
   Opening words: Recalling, Noting, Recognizing, Bearing in mind, Considering,
   Convinced, Aware, Reaffirming, Acknowledging, Emphasizing, Having regard to,
-  Conscious, Mindful ...
+  Conscious, Mindful, Welcoming (preamble sense) ...
 
 "operative"
   Takes concrete action: makes decisions, issues requests, gives mandates.
   Opening words: Decides, Requests, Urges, Recommends, Encourages, Calls upon,
-  Invites, Stresses, Affirms, Declares, Authorizes, Welcomes, Endorses,
-  Commends, Supports, Expresses ...
+  Invites, Stresses, Affirms, Declares, Authorizes, Welcomes (action sense),
+  Endorses, Commends, Supports, Expresses ...
 
 TAG RULES
 ─────────
-• Choose ONLY from the candidate list provided.
+• Choose ONLY from the candidate list provided below.
 • Include a tag only if the paragraph CLEARLY and DIRECTLY addresses that theme.
-• A paragraph may have 0, 1, or several tags.
+• A paragraph may have 0, 1, or several tags — do not over-tag.
 
 MANDATORY OUTPUT FORMAT — single JSON object, NOTHING ELSE:
 {
@@ -106,7 +124,8 @@ MANDATORY OUTPUT FORMAT — single JSON object, NOTHING ELSE:
 }"""
 
 
-def build_prompt(para_text, tag_candidates, few_shots, tag_desc):
+def build_prompt(para_text: str, tag_candidates: list,
+                 few_shots: list, tag_desc: dict) -> str:
     shots = ""
     for i, ex in enumerate(few_shots, 1):
         shots += (
@@ -129,17 +148,22 @@ def build_prompt(para_text, tag_candidates, few_shots, tag_desc):
 
 
 OPERATIVE_WORDS = {
-    "decides","requests","urges","recommends","encourages","calls",
-    "invites","stresses","affirms","declares","authorizes","endorses",
-    "commends","supports","expresses","notes",
+    "decides", "requests", "urges", "recommends", "encourages", "calls",
+    "invites", "stresses", "affirms", "declares", "authorizes", "endorses",
+    "commends", "supports", "expresses", "notes",
 }
 
-def heuristic_type(text):
+def heuristic_type(text: str) -> str:
     first = text.strip().lower().split()[0].rstrip(",.")
     return "operative" if first in OPERATIVE_WORDS else "preambular"
 
 
-def classify_paragraph(para, rag_index, train_paras, tag_index, all_tags, tag_desc):
+# ─────────────────────────────────────────────────────────────────────────────
+# Single-paragraph classifier
+# ─────────────────────────────────────────────────────────────────────────────
+
+def classify_paragraph(para: dict, rag_index, train_paras: list,
+                        tag_index, all_tags: list, tag_desc: dict) -> dict:
     text      = para["text"]
     tag_cands = retrieve_tag_candidates(text, tag_index, all_tags)
     few_shots = retrieve_few_shots(text, rag_index, train_paras)
@@ -169,7 +193,11 @@ def classify_paragraph(para, rag_index, train_paras, tag_index, all_tags, tag_de
     }
 
 
-def build_submission(test_docs, predictions):
+# ─────────────────────────────────────────────────────────────────────────────
+# Build submission structure
+# ─────────────────────────────────────────────────────────────────────────────
+
+def build_submission(test_docs: list, predictions: list) -> list:
     pred_by_doc = defaultdict(list)
     for p in predictions:
         pred_by_doc[p["doc_id"]].append(p)
@@ -197,17 +225,18 @@ def build_submission(test_docs, predictions):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dry-run",      type=int, default=0,    metavar="N")
+    parser.add_argument("--dry-run",      type=int, default=0,    metavar="N",
+                        help="Only classify first N paragraphs then exit")
     parser.add_argument("--chunk",        type=int, default=None, metavar="IDX",
                         help="0-based chunk index for parallel runs")
-    parser.add_argument("--total-chunks", type=int, default=1,    metavar="N")
+    parser.add_argument("--total-chunks", type=int, default=1,    metavar="N",
+                        help="Total number of parallel chunks")
     args = parser.parse_args()
 
     print("=" * 60)
     print(" Subtask 1 — Paragraph Classification  (resumable)")
     if args.chunk is not None:
-        print(f" Chunk {args.chunk} of {args.total_chunks}  "
-              f"(notebooks run in parallel, merge_outputs.py combines them)")
+        print(f" Chunk {args.chunk} of {args.total_chunks}")
     print("=" * 60)
 
     # ── Load ──────────────────────────────────────────────────────────────────
@@ -217,22 +246,26 @@ def main():
     all_tags, tag_desc = load_tags(CFG.TAGS_CSV)
     train_paras        = flatten_paragraphs(train_docs)
     test_paras         = flatten_paragraphs(test_docs)
-    print(f"  Total test paragraphs: {len(test_paras):,}")
 
-    # ── Slice ─────────────────────────────────────────────────────────────────
+    total = len(test_paras)
+    print(f"  Total test paragraphs : {total:,}")
+
+    # ── Slice by dry-run / chunk ──────────────────────────────────────────────
     if args.dry_run > 0:
         test_paras = test_paras[: args.dry_run]
         print(f"  [DRY RUN] capped at {len(test_paras)} paragraphs")
     elif args.chunk is not None:
-        # Round-robin split — paragraph i goes to chunk (i % total_chunks)
-        test_paras = [p for i, p in enumerate(test_paras)
-                      if i % args.total_chunks == args.chunk]
+        test_paras = [
+            p for i, p in enumerate(test_paras)
+            if i % args.total_chunks == args.chunk
+        ]
         print(f"  Chunk {args.chunk}: {len(test_paras):,} paragraphs assigned")
 
-    # ── Checkpoint — resume from last save ───────────────────────────────────
-    done      = load_checkpoint(args.chunk)
-    remaining = [p for p in test_paras if p["para_id"] not in done]
-    print(f"  Remaining: {len(remaining):,}  |  Already done: {len(done):,}")
+    # ── Resume from checkpoint ────────────────────────────────────────────────
+    done      = load_checkpoint(args.chunk)   # {composite_key: pred}
+    remaining = [p for p in test_paras if make_key(p) not in done]
+
+    print(f"  Remaining : {len(remaining):,}  |  Already done : {len(done):,}")
 
     if not remaining:
         print("  Nothing left — all paragraphs already classified ✅")
@@ -247,7 +280,7 @@ def main():
         from src.llm_utils import load_llm
         load_llm()
 
-        # ── Classify — checkpoint after every para ────────────────────────────
+        # ── Classify — checkpoint after EVERY paragraph ───────────────────────
         print(f"\n[4/5] Classifying {len(remaining):,} paragraphs …")
         t0 = time.time()
 
@@ -255,32 +288,37 @@ def main():
             pred = classify_paragraph(
                 para, rag_index, train_paras, tag_index, all_tags, tag_desc
             )
-            done[para["para_id"]] = pred
-            save_checkpoint(done, args.chunk)      # ← flush to disk every step
+            done[make_key(para)] = pred       # composite key — no overwrites
+            save_checkpoint(done, args.chunk) # atomic write after every para
 
-        print(f"  Finished in {(time.time()-t0)/60:.1f} min")
+        elapsed = time.time() - t0
+        print(f"  Finished in {elapsed / 60:.1f} min  "
+              f"({elapsed / max(len(remaining), 1):.1f} s/para)")
 
     # ── Write outputs ─────────────────────────────────────────────────────────
     print("\n[5/5] Saving outputs …")
     CFG.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
     predictions = list(done.values())
 
     suffix = f"_chunk{args.chunk}" if args.chunk is not None else ""
     save_json(predictions, CFG.OUTPUT_DIR / f"task1_predictions{suffix}.json")
 
     if args.chunk is None:
-        # Full (non-chunked) run → also write the task2-ready submission
         submission = build_submission(test_docs, predictions)
         save_json(submission, CFG.OUTPUT_DIR / "submission_task1.json")
 
-    types = [p["type"] for p in predictions]
-    print(f"\n  preambular : {types.count('preambular'):,}")
+    # ── Stats ─────────────────────────────────────────────────────────────────
+    types     = [p["type"] for p in predictions]
+    n_docs    = len(set(p["doc_id"] for p in predictions))
+    print(f"\n  Paragraphs : {len(predictions):,}  across  {n_docs} documents")
+    print(f"  preambular : {types.count('preambular'):,}")
     print(f"  operative  : {types.count('operative'):,}")
-    print(f"  with tags  : {sum(1 for p in predictions if p['tags']):,} / {len(predictions):,}")
+    print(f"  with tags  : {sum(1 for p in predictions if p['tags']):,}")
 
     if args.chunk is not None:
         print(f"\n  ⚡ Chunk {args.chunk} done.")
-        print("  When ALL chunks are done → python merge_outputs.py")
+        print("  When ALL chunks finish → python merge_outputs.py --total-chunks 3")
     else:
         print("\n✅ Task 1 complete → run python task2_relations.py")
 
