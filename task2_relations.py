@@ -1,8 +1,7 @@
 """
 task2_relations.py  (resumable + chunk-aware)
 ─────────────────────────────────────────────
-Checkpoint granularity: one document at a time (documents are small enough
-that a single doc never hits the timeout).
+Checkpoint granularity: one document at a time.
 
 MODES
 ─────
@@ -14,7 +13,7 @@ MODES
    python task2_relations.py --chunk 0 --total-chunks 3
    python task2_relations.py --chunk 1 --total-chunks 3
    python task2_relations.py --chunk 2 --total-chunks 3
-   Then: python merge_outputs.py
+   Then: python merge_outputs.py --total-chunks 3
 
 3. Dry run
    python task2_relations.py --dry-run 5
@@ -35,7 +34,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import config as CFG
 from src.data_utils import (
-    load_json_docs, load_tags, flatten_paragraphs,
+    load_json_docs, flatten_paragraphs,
     save_json, load_json, group_by_doc,
 )
 from src.embeddings import build_para_vecs
@@ -43,15 +42,19 @@ from src.llm_utils  import llm_json
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Checkpoint helpers — save after every document
+# Checkpoint helpers — atomic write, saves after every document
 # ─────────────────────────────────────────────────────────────────────────────
 
-def ckpt_path(chunk):
-    name = "task2_checkpoint.json" if chunk is None else f"task2_checkpoint_chunk{chunk}.json"
+def ckpt_path(chunk) -> Path:
+    name = (
+        "task2_checkpoint.json"
+        if chunk is None
+        else f"task2_checkpoint_chunk{chunk}.json"
+    )
     return CFG.OUTPUT_DIR / name
 
 
-def load_checkpoint(chunk):
+def load_checkpoint(chunk) -> dict:
     """Return {doc_id: {para_id: [rel_dicts]}} of completed documents."""
     cp = ckpt_path(chunk)
     if cp.exists():
@@ -62,11 +65,17 @@ def load_checkpoint(chunk):
     return {}
 
 
-def save_checkpoint(done, chunk):
-    cp = ckpt_path(chunk)
+def save_checkpoint(done: dict, chunk) -> None:
+    """
+    Atomic checkpoint save — writes to .tmp first, then renames.
+    If Kaggle kills the process mid-write, the checkpoint is never corrupted.
+    """
+    cp  = ckpt_path(chunk)
+    tmp = cp.with_suffix(".tmp")
     cp.parent.mkdir(parents=True, exist_ok=True)
-    with open(cp, "w", encoding="utf-8") as f:
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(done, f, ensure_ascii=False)
+    tmp.replace(cp)   # atomic on all platforms
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -103,25 +112,28 @@ MANDATORY OUTPUT FORMAT — single JSON object, NOTHING ELSE:
 }"""
 
 
-def build_prompt(para_a, para_b):
+def build_prompt(para_a: dict, para_b: dict) -> str:
     return (
         f"{SYSTEM_PROMPT}\n\n"
-        f"PARAGRAPH A  (id: {para_a['para_id']}, type: {para_a.get('type','?')})\n"
+        f"PARAGRAPH A  (id: {para_a['para_id']}, type: {para_a.get('type', '?')})\n"
         f"{para_a['text']}\n\n"
-        f"PARAGRAPH B  (id: {para_b['para_id']}, type: {para_b.get('type','?')})\n"
+        f"PARAGRAPH B  (id: {para_b['para_id']}, type: {para_b.get('type', '?')})\n"
         f"{para_b['text']}\n\n"
         "Respond with JSON only:"
     )
 
 
-def predict_pair(para_a, para_b) -> Optional[dict]:
+def predict_pair(para_a: dict, para_b: dict) -> Optional[dict]:
     result = llm_json(
         build_prompt(para_a, para_b),
         required_keys=["has_relation", "relation_types"],
     )
     if not result or not result.get("has_relation"):
         return None
-    rel_types = [r for r in (result.get("relation_types") or []) if r in CFG.RELATION_TYPES]
+    rel_types = [
+        r for r in (result.get("relation_types") or [])
+        if r in CFG.RELATION_TYPES
+    ]
     if not rel_types:
         return None
     return {
@@ -131,27 +143,35 @@ def predict_pair(para_a, para_b) -> Optional[dict]:
     }
 
 
-def predict_relations_for_doc(doc_paras, t1_lookup, para_vecs):
+def predict_relations_for_doc(
+    doc_paras : list[dict],
+    t1_lookup : dict,          # {para_id(int): pred_dict}
+    para_vecs : dict,          # {para_id(int): np.ndarray}
+) -> dict:
     """
-    Sliding-window relation prediction for one document.
-    Returns {para_id_of_A: [relation_dicts]}
+    Sliding-window cosine-pre-filtered relation prediction for one document.
+    Returns {para_id(int): [relation_dicts]}
     """
+    # Attach predicted type from Task 1 into each para dict
     for p in doc_paras:
         t1 = t1_lookup.get(p["para_id"])
         if t1:
             p["type"] = t1["type"]
 
-    out = {p["para_id"]: [] for p in doc_paras}
+    out = {p["para_id"]: [] for p in doc_paras}   # int keys
 
     for b_idx, para_b in enumerate(doc_paras):
         if b_idx == 0:
             continue
+
         b_vec = para_vecs.get(para_b["para_id"])
         if b_vec is None:
             continue
 
+        # Backward window of preceding paragraphs
         window = doc_paras[max(0, b_idx - CFG.REL_WINDOW): b_idx]
 
+        # Rank by cosine similarity — process highest-sim pairs first
         scored = []
         for para_a in window:
             a_vec = para_vecs.get(para_a["para_id"])
@@ -161,7 +181,7 @@ def predict_relations_for_doc(doc_paras, t1_lookup, para_vecs):
 
         for sim, para_a in scored:
             if sim < CFG.REL_SIM_THRESH:
-                break
+                break   # sorted → everything below threshold too
             rel = predict_pair(para_a, para_b)
             if rel:
                 out[para_a["para_id"]].append(rel)
@@ -170,25 +190,39 @@ def predict_relations_for_doc(doc_paras, t1_lookup, para_vecs):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Assemble final submission
+# Build final combined submission
 # ─────────────────────────────────────────────────────────────────────────────
 
-def build_final_submission(test_docs, task1_preds, task2_by_doc):
-    t1_by_doc = defaultdict(dict)
+def build_final_submission(
+    test_docs    : list[dict],
+    task1_preds  : list[dict],
+    task2_by_doc : dict,
+) -> list[dict]:
+    # Index Task-1 by doc_id → {para_id(int): pred}
+    t1_by_doc: dict[str, dict] = defaultdict(dict)
     for p in task1_preds:
-        t1_by_doc[p["doc_id"]][p["para_id"]] = p
+        t1_by_doc[p["doc_id"]][p["para_id"]] = p   # para_id is int
 
     submission = []
     for doc in test_docs:
         doc_id = doc.get("doc_id") or doc.get("id") or doc.get("filename", "unknown")
         t1_doc = t1_by_doc.get(doc_id, {})
-        t2_doc = task2_by_doc.get(doc_id, {})
+        t2_doc = task2_by_doc.get(doc_id, {})   # {para_id(int): [rels]}
 
         para_list = []
         for para_id, t1_pred in t1_doc.items():
+            # para_id is int; t2_doc keys are also int — direct lookup works.
+            # String fallback added for safety against future format changes.
+            rels_raw = t2_doc.get(
+                para_id,
+                t2_doc.get(str(para_id), [])
+            )
             rels_clean = [
-                {"target_para_id": r["target_para_id"], "relation_types": r["relation_types"]}
-                for r in t2_doc.get(para_id, [])
+                {
+                    "target_para_id": r["target_para_id"],
+                    "relation_types": r["relation_types"],
+                }
+                for r in rels_raw
             ]
             para_list.append({
                 "para_id"  : para_id,
@@ -197,6 +231,7 @@ def build_final_submission(test_docs, task1_preds, task2_by_doc):
                 "think"    : t1_pred["think"],
                 "relations": rels_clean,
             })
+
         submission.append({"doc_id": doc_id, "paragraphs": para_list})
 
     return submission
@@ -209,9 +244,11 @@ def build_final_submission(test_docs, task1_preds, task2_by_doc):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run",      type=int, default=0,    metavar="N",
-                        help="Process only first N documents")
-    parser.add_argument("--chunk",        type=int, default=None, metavar="IDX")
-    parser.add_argument("--total-chunks", type=int, default=1,    metavar="N")
+                        help="Process only first N documents then exit")
+    parser.add_argument("--chunk",        type=int, default=None, metavar="IDX",
+                        help="0-based chunk index for parallel runs")
+    parser.add_argument("--total-chunks", type=int, default=1,    metavar="N",
+                        help="Total number of parallel chunks")
     args = parser.parse_args()
 
     print("=" * 60)
@@ -221,7 +258,6 @@ def main():
     print("=" * 60)
 
     # ── Require Task-1 output ─────────────────────────────────────────────────
-    # Accept merged or single-run task1 output
     t1_path = CFG.OUTPUT_DIR / "task1_predictions.json"
     if not t1_path.exists():
         print(f"\n❌  {t1_path} not found.")
@@ -237,18 +273,21 @@ def main():
     print(f"  Task-1 predictions : {len(task1_preds):,} paragraphs")
     print(f"  Test documents     : {len(by_doc):,}")
 
-    # ── Slice by dry-run / chunk ─────────────────────────────────────────────
+    # ── Slice by dry-run / chunk ──────────────────────────────────────────────
     doc_ids = list(by_doc.keys())
 
     if args.dry_run > 0:
         doc_ids = doc_ids[: args.dry_run]
         print(f"  [DRY RUN] {len(doc_ids)} documents")
     elif args.chunk is not None:
-        doc_ids = [d for i, d in enumerate(doc_ids) if i % args.total_chunks == args.chunk]
+        doc_ids = [
+            d for i, d in enumerate(doc_ids)
+            if i % args.total_chunks == args.chunk
+        ]
         print(f"  Chunk {args.chunk}: {len(doc_ids):,} documents assigned")
 
-    # ── Checkpoint ───────────────────────────────────────────────────────────
-    done      = load_checkpoint(args.chunk)       # {doc_id: {para_id: [rels]}}
+    # ── Checkpoint ────────────────────────────────────────────────────────────
+    done      = load_checkpoint(args.chunk)
     remaining = [d for d in doc_ids if d not in done]
     print(f"  Remaining: {len(remaining):,}  |  Already done: {len(done):,}")
 
@@ -259,8 +298,8 @@ def main():
         print("\n[2/5] Building paragraph vectors …")
         para_vecs = build_para_vecs(test_paras)
 
-        # ── Task-1 lookup ─────────────────────────────────────────────────────
-        t1_by_doc = defaultdict(dict)
+        # ── Task-1 lookup: {doc_id → {para_id(int) → pred}} ──────────────────
+        t1_by_doc: dict[str, dict] = defaultdict(dict)
         for p in task1_preds:
             t1_by_doc[p["doc_id"]][p["para_id"]] = p
 
@@ -269,7 +308,7 @@ def main():
         from src.llm_utils import load_llm
         load_llm()
 
-        # ── Predict — checkpoint after every document ─────────────────────────
+        # ── Predict — atomic checkpoint after every document ──────────────────
         print(f"\n[4/5] Processing {len(remaining):,} documents …")
         t0 = time.time()
 
@@ -277,9 +316,9 @@ def main():
             doc_paras = by_doc.get(doc_id, [])
             t1_lookup = t1_by_doc.get(doc_id, {})
             done[doc_id] = predict_relations_for_doc(doc_paras, t1_lookup, para_vecs)
-            save_checkpoint(done, args.chunk)      # ← flush after every document
+            save_checkpoint(done, args.chunk)   # ← atomic write after every doc
 
-        print(f"  Finished in {(time.time()-t0)/60:.1f} min")
+        print(f"  Finished in {(time.time() - t0) / 60:.1f} min")
 
     # ── Write outputs ─────────────────────────────────────────────────────────
     print("\n[5/5] Saving outputs …")
@@ -289,10 +328,10 @@ def main():
     save_json(done, CFG.OUTPUT_DIR / f"task2_predictions{suffix}.json")
 
     if args.chunk is None:
-        # Non-chunked run → build final combined submission
         submission = build_final_submission(test_docs, task1_preds, done)
         save_json(submission, CFG.OUTPUT_DIR / "submission_final.json")
 
+    # ── Stats ─────────────────────────────────────────────────────────────────
     total_rels = sum(len(rels) for doc in done.values() for rels in doc.values())
     print(f"\n  Documents processed : {len(done):,}")
     print(f"  Total relations     : {total_rels:,}")
@@ -308,7 +347,7 @@ def main():
 
     if args.chunk is not None:
         print(f"\n  ⚡ Chunk {args.chunk} done.")
-        print("  When ALL chunks finish → python merge_outputs.py")
+        print("  When ALL chunks finish → python merge_outputs.py --total-chunks 3")
     else:
         print("\n✅ Task 2 complete → run python validate_submission.py")
 
