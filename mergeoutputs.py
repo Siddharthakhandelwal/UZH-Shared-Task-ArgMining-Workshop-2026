@@ -96,11 +96,11 @@ def build_final_submission(test_docs, task1_preds, task2_by_doc) -> list[dict]:
         para_list = []
         for para_id, t1_pred in t1_doc.items():
             rels_clean = [
-                {"target_para_id": r["target_para_id"], "relation_types": r["relation_types"]}
-                for r in t2_doc.get(para_id, [])
+                {"target_para_id": str(r["target_para_id"]), "relation_types": r["relation_types"]}
+                for r in t2_doc.get(str(para_id), [])
             ]
             para_list.append({
-                "para_id"  : para_id,
+                "para_id"  : str(para_id),
                 "type"     : t1_pred["type"],
                 "tags"     : t1_pred["tags"],
                 "think"    : t1_pred["think"],

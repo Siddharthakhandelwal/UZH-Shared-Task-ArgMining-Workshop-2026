@@ -156,8 +156,8 @@ def main():
 
     # Load tag list for validation
     import pandas as pd
-    df       = pd.read_csv(CFG.TAGS_CSV)
-    all_tags = df[df.columns[0]].astype(str).tolist()
+    df       = pd.read_csv(CFG.TAGS_CSV, sep=';')
+    all_tags = df[df.columns[-1]].astype(str).tolist()
 
     ok, errors = validate(sub, all_tags)
     print_summary(sub)
